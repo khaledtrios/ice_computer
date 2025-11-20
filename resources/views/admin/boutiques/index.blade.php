@@ -1,7 +1,7 @@
 @extends('admin.layouts.app')
 
 @section('title', 'Liste des Boutiques | model-itech')
-
+ 
 @section('css')
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/fontawesome.css') }}">
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/vendors/feather-icon.css') }}">
