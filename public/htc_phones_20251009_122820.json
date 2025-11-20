@@ -1,0 +1,1777 @@
+{
+  "scrape_date": "2025-10-09T12:28:42.417559",
+  "total_phones": 295,
+  "source": "https://www.gsmarena.com/htc-phones-45.php",
+  "phones": [
+    {
+      "name": "Wildfire E6",
+      "title": "HTC Wildfire E6 Android smartphone. Announced Jun 2025. Features 6.0″  display, 3000 mAh battery, 32 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-wildfire-e6.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Wildfire E6 Star",
+      "title": "HTC Wildfire E6 Star Android smartphone. Announced Jun 2025. Features 6.56″  display, 3000 mAh battery, 32 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-wildfire-e6-star-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Wildfire E4 Plus",
+      "title": "HTC Wildfire E4 Plus Android smartphone. Announced Jun 2025. Features 6.75″  display, Unisoc T606 chipset, 5000 mAh battery, 128 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-wildfire-e4-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Wildfire E5",
+      "title": "HTC Wildfire E5 Android smartphone. Announced Jun 2025. Features 6.75″  display, Unisoc SC9863A chipset, 5000 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-wildfire-e5.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Wildfire E5 Plus",
+      "title": "HTC Wildfire E5 Plus Android smartphone. Announced Feb 2025. Features 6.75″  display, Unisoc T606 chipset, 5000 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-wildfire-e5-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "U24 Pro",
+      "title": "HTC U24 Pro Android smartphone. Announced Jun 2024. Features 6.8″  display, Snapdragon 7 Gen 3 chipset, 4600 mAh battery, 512 GB storage, 12 GB RAM, Corning Gorilla Glass (unspecified version).",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-u24-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A101 Plus",
+      "title": "HTC A101 Plus Android tablet. Announced May 2024. Features 10.95″  display, Unisoc T606 chipset, 7000 mAh battery, 128 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-a101-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A104",
+      "title": "HTC A104 Android tablet. Announced Jul 2023. Features 10.36″  display, Unisoc T606 chipset, 7000 mAh battery, 128 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-a104.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Wildfire E star",
+      "title": "HTC Wildfire E star Android smartphone. Announced Aug 2023. Features 6.52″  display, Unisoc SC9832E chipset, 3000 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-wildfire-e-star.jpg",
+      "specs": ""
+    },
+    {
+      "name": "U23",
+      "title": "HTC U23 Android smartphone. Announced Jul 2023. Features 6.7″  display, Snapdragon 7 Gen 1 chipset, 4600 mAh battery, 128 GB storage, 8 GB RAM, Corning Gorilla Glass Victus.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-u23.jpg",
+      "specs": ""
+    },
+    {
+      "name": "U23 Pro",
+      "title": "HTC U23 Pro Android smartphone. Announced May 2023. Features 6.7″  display, Snapdragon 7 Gen 1 chipset, 4600 mAh battery, 256 GB storage, 12 GB RAM, Corning Gorilla Glass Victus.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-u23-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A103 Plus",
+      "title": "HTC A103 Plus Android tablet. Announced Jul 2023. Features 10.1″  display, MT8768A chipset, 6000 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-a103-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A103",
+      "title": "HTC A103 Android tablet. Announced Jul 2023. Features 10.1″  display, MT6761B Helio A22 chipset, 6000 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-a103.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A102",
+      "title": "HTC A102 Android tablet. Announced Jul 2023. Features 11.0″  display, MT6769 Helio G85 chipset, 8000 mAh battery, 128 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-a102.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A101",
+      "title": "HTC A101 Android tablet. Announced Jul 2022. Features 10.1″  display, Unisoc Tiger T618 chipset, 7000 mAh battery, 128 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-a101.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Wildfire E2 Play",
+      "title": "HTC Wildfire E2 Play Android smartphone. Announced Apr 2023. Features 6.82″  display, Unisoc T606 chipset, 4600 mAh battery, 128 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-wildfire-e2-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Wildfire E3 lite",
+      "title": "HTC Wildfire E3 lite Android smartphone. Announced Apr 2023. Features 6.52″  display, Unisoc SC9863A chipset, 5000 mAh battery, 32 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-wildfire-e3-lite.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Wildfire E plus",
+      "title": "HTC Wildfire E plus Android smartphone. Announced Oct 2022. Features 6.52″  display, MT6739 chipset, 5150 mAh battery, 32 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-wildfire-e-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Desire 22 Pro",
+      "title": "HTC Desire 22 Pro Android smartphone. Announced Jun 2022. Features 6.6″  display, Snapdragon 695 5G chipset, 4520 mAh battery, 128 GB storage, 8 GB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-desire-22-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Wildfire E2 Plus",
+      "title": "HTC Wildfire E2 Plus Android smartphone. Announced Dec 2021. Features 6.82″  display, Unisoc T610 chipset, 4600 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-wildfire-e2-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Wildfire E3",
+      "title": "HTC Wildfire E3 Android smartphone. Announced Mar 2021. Features 6.52″  display, MT6762 Helio P22 chipset, 4000 mAh battery, 128 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-wildfire-e3.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Desire 21 Pro 5G",
+      "title": "HTC Desire 21 Pro 5G Android smartphone. Announced Jan 2021. Features 6.7″  display, Snapdragon 690 5G chipset, 5000 mAh battery, 128 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-desire-21-pro-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Desire 20+",
+      "title": "HTC Desire 20+ Android smartphone. Announced Oct 2020. Features 6.5″  display, Snapdragon 720G chipset, 5000 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-desire-20-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Wildfire E1 lite",
+      "title": "HTC Wildfire E1 lite Android smartphone. Announced Sep 2020. Features 5.45″  display, MT6761D Helio A20 chipset, 3000 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-wildfire-e1-lite-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Wildfire E2",
+      "title": "HTC Wildfire E2 Android smartphone. Announced Aug 2020. Features 6.22″  display, MT6762D Helio P22 chipset, 4000 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-wildfire-e2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Wildfire E1 plus",
+      "title": "HTC Wildfire E1 plus Android smartphone. Announced Dec 2019. Features 6.09″  display, MT6763 Helio P23 chipset, 3000 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-wildfire-e1-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Wildfire E1",
+      "title": "HTC Wildfire E1 Android smartphone. Announced Dec 2019. Features 6.09″  display, MT6763 Helio P23 chipset, 3000 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-wildfire-e1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Wildfire E",
+      "title": "HTC Wildfire E Android smartphone. Announced Aug 2019. Features 5.45″  display, Unisoc SC9863A chipset, 3000 mAh battery, 32 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-wildfire-e.jpg",
+      "specs": ""
+    },
+    {
+      "name": "U20 5G",
+      "title": "HTC U20 5G Android smartphone. Announced Jun 2020. Features 6.8″  display, Snapdragon 765G 5G chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-u20-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Desire 20 Pro",
+      "title": "HTC Desire 20 Pro Android smartphone. Announced Jun 2020. Features 6.5″  display, Snapdragon 665 chipset, 5000 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-desire20-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Desire 19s",
+      "title": "HTC Desire 19s Android smartphone. Announced Nov 2019. Features 6.2″  display, MT6762 Helio P22 chipset, 3850 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-desire-19s.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Exodus 1s",
+      "title": "HTC Exodus 1s Android smartphone. Announced Oct 2019. Features 5.7″  display, Snapdragon 435 chipset, 3075 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-exodus-1s-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Wildfire X",
+      "title": "HTC Wildfire X Android smartphone. Announced Aug 2019. Features 6.2″  display, MT6762 Helio P22 chipset, 3300 mAh battery, 128 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-wildfire-x-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "U19e",
+      "title": "HTC U19e Android smartphone. Announced Jun 2019. Features 6.0″  display, Snapdragon 710 chipset, 3930 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass (unspecified).",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-u19e.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Desire 19+",
+      "title": "HTC Desire 19+ Android smartphone. Announced Jun 2019. Features 6.2″  display, MT6765 Helio P35 chipset, 3850 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-desire-19-plus-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Desire 12s",
+      "title": "HTC Desire 12s Android smartphone. Announced Dec 2018. Features 5.7″  display, Snapdragon 435 chipset, 3075 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-desire-12s-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Exodus 1",
+      "title": "HTC Exodus 1 Android smartphone. Announced Oct 2018. Features 6.0″  display, Snapdragon 845 chipset, 3500 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-exodus-1-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "U12 life",
+      "title": "HTC U12 life Android smartphone. Announced Aug 2018. Features 6.0″  display, Snapdragon 636 chipset, Dual: 16 MP (f/2.0, PDAF) + 5 MP primary camera, 13 MP front camera, 3600 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-u12-life.jpg",
+      "specs": ""
+    },
+    {
+      "name": "U12+",
+      "title": "HTC U12+ Android smartphone. Announced May 2018. Features 6.0″  display, Snapdragon 845 chipset, 3500 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-u12-plus-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Desire 12+",
+      "title": "HTC Desire 12+ Android smartphone. Announced Mar 2018. Features 6.0″  display, Snapdragon 450 chipset, Dual: 13 MP (f/2.2, PDAF) + 2 MP primary camera, 8 MP front camera, 2965 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-desire-12-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Desire 12",
+      "title": "HTC Desire 12 Android smartphone. Announced Mar 2018. Features 5.5″  display, MT6739 chipset, 13 MP primary camera, 5 MP front camera, 2730 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-desire-12.jpg",
+      "specs": ""
+    },
+    {
+      "name": "U11 Eyes",
+      "title": "HTC U11 Eyes Android smartphone. Announced Jan 2018. Features 6.0″  display, Snapdragon 652 chipset, 12 MP primary camera, Dual: 5 MP front camera, 3930 mAh battery, 64 GB storage, 4 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-u11-eyes-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "U11+",
+      "title": "HTC U11+ Android smartphone. Announced Nov 2017. Features 6.0″  display, Snapdragon 835 chipset, 12 MP primary camera, 8 MP front camera, 3930 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-u11-plus-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "U11 Life",
+      "title": "HTC U11 Life Android smartphone. Announced Nov 2017. Features 5.2″  display, Snapdragon 630 chipset, 16 MP primary camera, 16 MP front camera, 2600 mAh battery, 64 GB storage, 4 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-u11-life-r1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "U11",
+      "title": "HTC U11 Android smartphone. Announced May 2017. Features 5.5″  display, Snapdragon 835 chipset, 12 MP primary camera, 16 MP front camera, 3000 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-u11.jpg",
+      "specs": ""
+    },
+    {
+      "name": "One X10",
+      "title": "HTC One X10 Android smartphone. Announced Apr 2017. Features 5.5″  display, MT6755 Helio P10 chipset, 16 MP primary camera, 8 MP front camera, 4000 mAh battery, 32 GB storage, 3 GB RAM, Corning Gorilla Glass (unspecified version).",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-one-x10.jpg",
+      "specs": ""
+    },
+    {
+      "name": "U Ultra",
+      "title": "HTC U Ultra Android smartphone. Announced Jan 2017. Features 5.7″  display, Snapdragon 821 chipset, 12 MP primary camera, 16 MP front camera, 3000 mAh battery, 128 GB storage, 4 GB RAM, Corning Gorilla Glass 5 (64 GB version).",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-u-ultra.jpg",
+      "specs": ""
+    },
+    {
+      "name": "U Play",
+      "title": "HTC U Play Android smartphone. Announced Jan 2017. Features 5.2″  display, MT6755 Helio P10 chipset, 16 MP primary camera, 16 MP front camera, 2500 mAh battery, 64 GB storage, 4 GB RAM, Corning Gorilla Glass (unspecified version).",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-u-play.jpg",
+      "specs": ""
+    },
+    {
+      "name": "10 evo",
+      "title": "HTC 10 evo Android smartphone. Announced Nov 2016. Features 5.5″  display, Snapdragon 810 chipset, 16 MP primary camera, 8 MP front camera, 3200 mAh battery, 64 GB storage, 3 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-10-evo.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Desire 650",
+      "title": "HTC Desire 650 Android smartphone. Announced Nov 2016. Features 5.0″  display, Snapdragon 400 chipset, 13 MP primary camera, 5 MP front camera, 2200 mAh battery, 16 GB storage, 2 GB RAM, Corning Gorilla Glass (unspecified version).",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-desire-650.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Dream",
+      "title": "HTC Dream Android smartphone. Announced Feb 2009. Features 3.2″  display, MSM7201A chipset, 3.15 MP primary camera, 1150 mAh battery, 192 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-dream.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Touch Cruise 09",
+      "title": "HTC Touch Cruise 09 Windows Mobile smartphone. Announced Jan 2009. Features 2.8″  display, Snapdragon S1 chipset, 3.15 MP primary camera, 1100 mAh battery, 256 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-touch-cruise-09.jpg",
+      "specs": ""
+    },
+    {
+      "name": "MAX 4G",
+      "title": "HTC MAX 4G Windows Mobile smartphone. Announced Nov 2008. Features 3.8″  display, ESM7206A chipset, 3.15 MP primary camera, 1500 mAh battery, 8 GB storage, 288 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-max-4g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Touch HD T8285",
+      "title": "HTC Touch HD T8285 Windows Mobile smartphone. Announced Oct 2008. Features 3.8″  display, MSM7201A chipset, 5 MP primary camera, 1350 mAh battery, 288 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/HTC-Touch-HD-T8285-Blackstone.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Touch HD",
+      "title": "HTC Touch HD Windows Mobile smartphone. Announced Sep 2008. Features 3.8″  display, MSM7201A chipset, 5 MP primary camera, 1350 mAh battery, 288 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-touch--hd.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Touch 3G",
+      "title": "HTC Touch 3G Windows Mobile smartphone. Announced Sep 2008. Features 2.8″  display, Snapdragon S1 chipset, 3.15 MP primary camera, 1100 mAh battery, 192 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-touch--3g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Touch Viva",
+      "title": "HTC Touch Viva Windows Mobile smartphone. Announced Sep 2008. Features 2.8″  display, TI OMAP 850 chipset, 2 MP primary camera, 1100 mAh battery, 128 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-touch--viva.jpg",
+      "specs": ""
+    },
+    {
+      "name": "S740",
+      "title": "HTC S740 Windows Mobile smartphone. Announced Aug 2008. Features 2.4″  display, Snapdragon S1 chipset, 3.2 MP primary camera, 1050 mAh battery, 256 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-s740.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Touch Pro CDMA",
+      "title": "HTC Touch Pro CDMA Windows Mobile smartphone. Announced Jun 2008. Features 2.8″  display, MSM7501A chipset, 3.15 MP primary camera, 1340 mAh battery, 288 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/touch-pro-cdma.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Touch Pro",
+      "title": "HTC Touch Pro Windows Mobile smartphone. Announced Jun 2008. Features 2.8″  display, MSM7201A chipset, 3.15 MP primary camera, 1340 mAh battery, 288 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-touch-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Touch Diamond CDMA",
+      "title": "HTC Touch Diamond CDMA Windows Mobile smartphone. Announced Apr 2008. Features 2.8″  display, MSM7501A chipset, 3.15 MP primary camera, 1340 mAh battery, 4 GB storage, 288 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-touch-diamond-CDMA.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Touch Diamond",
+      "title": "HTC Touch Diamond Windows Mobile smartphone. Announced May 2008. Features 2.8″  display, MSM7201A chipset, 3.15 MP primary camera, 900 mAh battery, 4 GB storage, 192 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-touch-diamond.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Advantage X7510",
+      "title": "HTC Advantage X7510 Windows Mobile smartphone. Announced Feb 2008. Features 5.0″  display, 3.15 MP primary camera, 2100 mAh battery, 16 GB storage, 128 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-x7510.jpg",
+      "specs": ""
+    },
+    {
+      "name": "P3470",
+      "title": "HTC P3470 Windows Mobile smartphone. Announced Feb 2008. Features 2.8″  display, TI OMAP 850 chipset, 2 MP primary camera, 1100 mAh battery, 128 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-p3470.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Touch Cruise",
+      "title": "HTC Touch Cruise Windows Mobile smartphone. Announced Nov 2007. Features 2.8″  display, MSM7200 chipset, 3.15 MP primary camera, 1350 mAh battery, 128 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-touch-cruise.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Touch Dual",
+      "title": "HTC Touch Dual Windows Mobile smartphone. Announced Oct 2007. Features 2.6″  display, MSM7200 chipset, 2 MP primary camera, 1120 mAh battery, 128 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-touch-dual.gif",
+      "specs": ""
+    },
+    {
+      "name": "P6500",
+      "title": "HTC P6500 Windows Mobile smartphone. Announced Oct 2007. Features 3.5″  display, MSM7200 chipset, 3 MP primary camera, 1500 mAh battery, 1000 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-p6500.gif",
+      "specs": ""
+    },
+    {
+      "name": "S730",
+      "title": "HTC S730 Windows Mobile smartphone. Announced Oct 2007. Features 2.4″  display, MSM7200 chipset, 2 MP primary camera, 1050 mAh battery, 64 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-s730.jpg",
+      "specs": ""
+    },
+    {
+      "name": "TyTN II",
+      "title": "HTC TyTN II Windows Mobile smartphone. Announced Jul 2007. Features 2.8″  display, MSM7200 chipset, 3.15 MP primary camera, 1350 mAh battery, 128 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-tytn2.gif",
+      "specs": ""
+    },
+    {
+      "name": "S630",
+      "title": "HTC S630 Windows Mobile smartphone. Announced Sep 2006. Features 2.4″  display, 2 MP primary camera, 1050 mAh battery, 64 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-s630.gif",
+      "specs": ""
+    },
+    {
+      "name": "Touch",
+      "title": "HTC Touch Windows Mobile smartphone. Announced Jun 2007. Features 2.8″  display, TI OMAP 850 chipset, 2 MP primary camera, 1100 mAh battery, 128 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-touch.gif",
+      "specs": ""
+    },
+    {
+      "name": "P6300",
+      "title": "HTC P6300 Windows Mobile smartphone. Announced May 2007. Features 3.5″  display, 2 MP primary camera, 1300 mAh battery, 128 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-p6300.gif",
+      "specs": ""
+    },
+    {
+      "name": "Shift",
+      "title": "HTC Shift Windows Mobile smartphone. Announced Mar 2007. Features 7.0″  display, 2700 mAh battery, 80 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-shift.gif",
+      "specs": ""
+    },
+    {
+      "name": "Advantage X7500",
+      "title": "HTC Advantage X7500 Windows Mobile smartphone. Announced Feb 2007. Features 5.0″  display, ATI Graphic Chip W2284 chipset, 3.15 MP primary camera, 2200 mAh battery, 8 GB storage, 128 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-advantage.gif",
+      "specs": ""
+    },
+    {
+      "name": "S710",
+      "title": "HTC S710 Windows Mobile smartphone. Announced Feb 2007. Features 2.4″  display, TI OMAP 850 chipset, 2 MP primary camera, 1050 mAh battery, 64 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-s710.gif",
+      "specs": ""
+    },
+    {
+      "name": "P3350",
+      "title": "HTC P3350 Windows Mobile smartphone. Announced Feb 2007. Features 2.8″  display, TI OMAP 850 chipset, 2 MP primary camera, 1200 mAh battery, 64 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-p3350.gif",
+      "specs": ""
+    },
+    {
+      "name": "P3400",
+      "title": "HTC P3400 Windows Mobile smartphone. Announced Feb 2007. Features 2.8″  display, TI OMAP 850 chipset, 2 MP primary camera, 1250 mAh battery, 64 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-p3400.gif",
+      "specs": ""
+    },
+    {
+      "name": "P4350",
+      "title": "HTC P4350 Windows Mobile smartphone. Announced Nov 2006. Features 2.8″  display, TI OMAP 850 chipset, 2 MP primary camera, 1130 mAh battery, 64 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-p4350.gif",
+      "specs": ""
+    },
+    {
+      "name": "P3600i",
+      "title": "HTC P3600i Windows Mobile smartphone. Announced Aug 2007. Features 2.8″  display, 2 MP primary camera, 64 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-p3600i.gif",
+      "specs": ""
+    },
+    {
+      "name": "P3600",
+      "title": "HTC P3600 Windows Mobile smartphone. Announced Sep 2006. Features 2.8″  display, 2 MP primary camera, 1500 mAh battery, 64 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-p3600.gif",
+      "specs": ""
+    },
+    {
+      "name": "P3300",
+      "title": "HTC P3300 Windows Mobile smartphone. Announced Sep 2006. Features 2.8″  display, TI OMAP 850 chipset, 2 MP primary camera, 1250 mAh battery, 64 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-p3300.gif",
+      "specs": ""
+    },
+    {
+      "name": "S620",
+      "title": "HTC S620 Windows Mobile smartphone. Announced Sep 2006. Features 2.4″  display, TI OMAP 850 chipset, 1.3 MP primary camera, 960 mAh battery, 64 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-s620.gif",
+      "specs": ""
+    },
+    {
+      "name": "S310",
+      "title": "HTC S310 Windows Mobile smartphone. Announced Sep 2006. Features 2.0″  display, TI OMAP 850 chipset, 1.3 MP primary camera, 1150 mAh battery, 64 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-s310.gif",
+      "specs": ""
+    },
+    {
+      "name": "TyTN",
+      "title": "HTC TyTN Windows Mobile smartphone. Announced Jun 2006. Features 2.8″  display, 2 MP primary camera, 1350 mAh battery, 64 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-tytn.gif",
+      "specs": ""
+    },
+    {
+      "name": "MTeoR",
+      "title": "HTC MTeoR Windows Mobile smartphone. Announced Jun 2006. Features 2.2″  display, 1.3 MP primary camera, 1190 mAh battery, 64 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-mteor.gif",
+      "specs": ""
+    },
+    {
+      "name": "Wildfire R70",
+      "title": "HTC Wildfire R70 Android smartphone. Announced Feb 2020. Features 6.53″  display, MT6763 Helio P23 chipset, 4000 mAh battery, 32 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-wildfire-r70-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "One (M8i)",
+      "title": "HTC One (M8i) Android smartphone. Not announced yet. Features 5.0″  display, Snapdragon 615 chipset, Dual: 13 MP (AF) + 2 MP primary camera, 5 MP front camera, 32 GB storage, 2 GB RAM, Corning Gorilla Glass 4.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-one-m8.jpg",
+      "specs": ""
+    },
+    {
+      "name": "One M8 Prime",
+      "title": "HTC One M8 Prime Android smartphone. Announced Q3 2014. Features 5.5″  display, Dual: 4 MP primary camera, 5 MP front camera, 32 GB storage, 3 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-one-prime-m8.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Tiara",
+      "title": "HTC Tiara Windows Mobile smartphone. Announced Q3 2013. Features 4.3″  display, 8 MP primary camera, 1.6 MP front camera, 1800 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-tiara.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Primo",
+      "title": "HTC Primo Android smartphone. Announced Feb 2012. Features 3.7″  display, 5 MP primary camera, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-primo.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Zeta",
+      "title": "HTC Zeta Android smartphone. Not officially announced yet. Features 4.5″  display, 8 MP primary camera, 1.3 MP front camera, 1830 mAh battery, 32 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-zeta.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Ville",
+      "title": "HTC Ville Android smartphone. Not officially announced yet. Features 4.3″  display, 8 MP primary camera, 1650 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/HTC-Ville.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Ignite",
+      "title": "HTC Ignite Windows Mobile smartphone. Not officially announced yet. Features 3.7″  display, 5 MP primary camera, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-ignite.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Desire HD2",
+      "title": "HTC Desire HD2 Android smartphone. Not officially announced yet. Features 4.3″  display, 8 MP primary camera, 512 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-sensation-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A12",
+      "title": "HTC A12 Android smartphone. Features 4.7″  display, Snapdragon 410 chipset, 8 MP primary camera, 1.3 MP front camera, 2100 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Desire 10 Pro",
+      "title": "HTC Desire 10 Pro Android smartphone. Announced Sep 2016. Features 5.5″  display, MT6755 Helio P10 chipset, 20 MP primary camera, 13 MP front camera, 3000 mAh battery, 64 GB storage, 4 GB RAM, Corning Gorilla Glass (unspecified version).",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-desire-10-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Desire 10 Compact",
+      "title": "HTC Desire 10 Compact Android smartphone. Announced Q1 2017. Features 5.0″  display, MT6737T chipset, 13 MP primary camera, 5 MP front camera, 3300 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-desire-10-compact.jpg",
+      "specs": ""
+    },
+    {
+      "name": "One A9s",
+      "title": "HTC One A9s Android smartphone. Announced Sep 2016. Features 5.0″  display, MT6755 Helio P10 chipset, 13 MP primary camera, 5 MP front camera, 2300 mAh battery, 32 GB storage, 3 GB RAM, Corning Gorilla Glass (unspecified version).",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-a9sr.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Desire 10 Lifestyle",
+      "title": "HTC Desire 10 Lifestyle Android smartphone. Announced Sep 2016. Features 5.5″  display, Snapdragon 400 chipset, 13 MP primary camera, 5 MP front camera, 2700 mAh battery, 32 GB storage, 3 GB RAM, Corning Gorilla Glass (unspecified version).",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-desire-10-lifestyle-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Desire 728 Ultra",
+      "title": "HTC Desire 728 Ultra Android smartphone. Announced Aug 2016. Features 5.5″  display, MT6753 chipset, 13 MP primary camera, 5 MP front camera, 2800 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-desire-728-ultra-edition.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Desire 628",
+      "title": "HTC Desire 628 Android smartphone. Announced May 2016. Features 5.0″  display, MT6753 chipset, 13 MP primary camera, 5 MP front camera, 2200 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-desire-628.jpg",
+      "specs": ""
+    },
+    {
+      "name": "One M9 Prime Camera",
+      "title": "HTC One M9 Prime Camera Android smartphone. Announced May 2016. Features 5.0″  display, MT6795T Helio X10 chipset, 13 MP primary camera, 4 MP front camera, 2840 mAh battery, 16 GB storage, 2 GB RAM, Corning Gorilla Glass (unspecified version).",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-one-m9s-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Desire 830",
+      "title": "HTC Desire 830 Android smartphone. Announced May 2016. Features 5.5″  display, MT6795 Helio X10 chipset, 13 MP primary camera, 4 MP front camera, 2800 mAh battery, 32 GB storage, 3 GB RAM, Corning Gorilla Glass (unspecified version).",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-desire-830.jpg",
+      "specs": ""
+    },
+    {
+      "name": "One S9",
+      "title": "HTC One S9 Android smartphone. Announced Apr 2016. Features 5.0″  display, MT6795 Helio X10 chipset, 13 MP primary camera, 4 MP front camera, 2840 mAh battery, 16 GB storage, 2 GB RAM, Corning Gorilla Glass (unspecified version).",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-s9.jpg",
+      "specs": ""
+    },
+    {
+      "name": "10 Lifestyle",
+      "title": "HTC 10 Lifestyle Android smartphone. Announced Apr 2016. Features 5.2″  display, Snapdragon 652 chipset, 12 MP primary camera, 5 MP front camera, 3000 mAh battery, 64 GB storage, 3 GB RAM, Corning Gorilla Glass 4.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-10-lifestyle.jpg",
+      "specs": ""
+    },
+    {
+      "name": "10",
+      "title": "HTC 10 Android smartphone. Announced Apr 2016. Features 5.2″  display, Snapdragon 820 chipset, 12 MP primary camera, 5 MP front camera, 3000 mAh battery, 64 GB storage, 4 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-10-r.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Desire 825",
+      "title": "HTC Desire 825 Android smartphone. Announced Feb 2016. Features 5.5″  display, Snapdragon 400 chipset, 13 MP primary camera, 5 MP front camera, 2700 mAh battery, 16 GB storage, 2 GB RAM, Corning Gorilla Glass (unspecified version).",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-a56-desire-825.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Desire 630",
+      "title": "HTC Desire 630 Android smartphone. Announced Feb 2016. Features 5.0″  display, Snapdragon 400 chipset, 13 MP primary camera, 5 MP front camera, 2200 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-a16-desire-530.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Desire 530",
+      "title": "HTC Desire 530 Android smartphone. Announced Feb 2016. Features 5.0″  display, Snapdragon 210 chipset, 8 MP primary camera, 5 MP front camera, 2200 mAh battery, 16 GB storage, 1.5 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-a16-desire-530.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Desire 625",
+      "title": "HTC Desire 625 Android smartphone. Announced Aug 2016. Features 5.0″  display, Snapdragon 210 chipset, 5 MP primary camera, 1.3 MP front camera, 2000 mAh battery, 8 GB storage, 1.5 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-desire-625.jpg",
+      "specs": ""
+    },
+    {
+      "name": "One X9",
+      "title": "HTC One X9 Android smartphone. Announced Dec 2015. Features 5.5″  display, MT6795 Helio X10 chipset, 13 MP primary camera, 5 MP front camera, 3000 mAh battery, 32 GB storage, 3 GB RAM, Corning Gorilla Glass (unspecified version).",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-one-x9.jpg",
+      "specs": ""
+    },
+    {
+      "name": "One M9s",
+      "title": "HTC One M9s Android smartphone. Announced Nov 2015. Features 5.0″  display, MT6795 Helio X10 chipset, 13 MP primary camera, 4 MP front camera, 2840 mAh battery, 16 GB storage, 2 GB RAM, Corning Gorilla Glass 4.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-one-m9s-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Desire 828 dual sim",
+      "title": "HTC Desire 828 dual sim Android smartphone. Announced Nov 2015. Features 5.5″  display, MT6753 chipset, 13 MP primary camera, 4 MP front camera, 2800 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-desire-828w.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Desire 728 dual sim",
+      "title": "HTC Desire 728 dual sim Android smartphone. Announced Sep 2015. Features 5.5″  display, MT6753 chipset, 13 MP primary camera, 5 MP front camera, 2800 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-desire-728.jpg",
+      "specs": ""
+    },
+    {
+      "name": "One E9s dual sim",
+      "title": "HTC One E9s dual sim Android smartphone. Announced Oct 2015. Features 5.5″  display, MT6752M chipset, 13 MP primary camera, 4 MP front camera, 2600 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-one-e9s-dual-sim.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Butterfly 3",
+      "title": "HTC Butterfly 3 Android smartphone. Announced Sep 2015. Features 5.2″  display, Snapdragon 810 chipset, 20.2 MP primary camera, 13 MP front camera, 2700 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-butterfly-3.jpg",
+      "specs": ""
+    },
+    {
+      "name": "One M9+ Supreme Camera",
+      "title": "HTC One M9+ Supreme Camera Android smartphone. Announced Sep 2015. Features 5.2″  display, MT6795T Helio X10 chipset, 21 MP primary camera, 4 MP front camera, 2840 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-one-m9-plus-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "One A9",
+      "title": "HTC One A9 Android smartphone. Announced Sep 2015. Features 5.0″  display, Snapdragon 617 chipset, 13 MP primary camera, 4 MP front camera, 2150 mAh battery, 32 GB storage, 3 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-one-a9-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Desire 626 (USA)",
+      "title": "HTC Desire 626 (USA) Android smartphone. Announced Jul 2015. Features 5.0″  display, Snapdragon 210 chipset, 8 MP primary camera, 5 MP front camera, 2000 mAh battery, 16 GB storage, 1.5 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-desire-626s.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Desire 626s",
+      "title": "HTC Desire 626s Android smartphone. Announced Jul 2015. Features 5.0″  display, Snapdragon 210 chipset, 8 MP primary camera, 2 MP front camera, 2000 mAh battery, 8 GB storage, 1.5 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-desire-626s.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Desire 526",
+      "title": "HTC Desire 526 Android smartphone. Announced Jul 2015. Features 4.7″  display, Snapdragon 210 chipset, 8 MP primary camera, 2 MP front camera, 2000 mAh battery, 8 GB storage, 1.5 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-desire-526.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Desire 520",
+      "title": "HTC Desire 520 Android smartphone. Announced Aug 2015. Features 4.5″  display, Snapdragon 210 chipset, 8 MP primary camera, 2 MP front camera, 2000 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-desire-520.jpg",
+      "specs": ""
+    },
+    {
+      "name": "One ME",
+      "title": "HTC One ME Android smartphone. Announced Jun 2015. Features 5.2″  display, MT6795 Helio X10 chipset, 20 MP primary camera, 4 MP front camera, 2840 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-one-me.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Desire 820G+ dual sim",
+      "title": "HTC Desire 820G+ dual sim Android smartphone. Announced May 2015. Features 5.5″  display, MT6592 chipset, 13 MP primary camera, 8 MP front camera, 2600 mAh battery, 16 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-desire-820g-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Desire 326G dual sim",
+      "title": "HTC Desire 326G dual sim Android smartphone. Announced Apr 2015. Features 4.5″  display, Spreadtrum SC7731G chipset, 8 MP primary camera, 2 MP front camera, 2000 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-desire-326g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "One M9+",
+      "title": "HTC One M9+ Android smartphone. Announced Apr 2015. Features 5.2″  display, MT6795T Helio X10 chipset, Dual: 20 MP (f/2.2, 28mm, 1/2.4″, 1.2µm) + 2.1 MP primary camera, 4 MP front camera, 2840 mAh battery, 32 GB storage, 3 GB RAM, To be confirmed.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-one-m9-plus-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "One M8s",
+      "title": "HTC One M8s Android smartphone. Announced Apr 2015. Features 5.0″  display, Snapdragon 615 chipset, Dual: 13 MP (f/2.0, 28mm, AF) + 2 MP primary camera, 5 MP front camera, 2840 mAh battery, 32 GB storage, 2 GB RAM, To be confirmed.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-one-m8s.jpg",
+      "specs": ""
+    },
+    {
+      "name": "One E9+",
+      "title": "HTC One E9+ Android smartphone. Announced Mar 2015. Features 5.5″  display, MT6795M Helio X10 chipset, 20 MP primary camera, 13 MP front camera, 2800 mAh battery, 32 GB storage, 3 GB RAM, Corning Gorilla Glass 4.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-one-e9plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "One E9",
+      "title": "HTC One E9 Android smartphone. Announced May 2015. Features 5.5″  display, MT6795M Helio X10 chipset, 13 MP primary camera, 4 MP front camera, 2800 mAh battery, 16 GB storage, 2 GB RAM, To be disclosed.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-one-e9.jpg",
+      "specs": ""
+    },
+    {
+      "name": "One M9",
+      "title": "HTC One M9 Android smartphone. Announced Mar 2015. Features 5.0″  display, Snapdragon 810 chipset, 20 MP primary camera, 4 MP front camera, 2840 mAh battery, 32 GB storage, 3 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-one-m9-1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Desire 820s dual sim",
+      "title": "HTC Desire 820s dual sim Android smartphone. Announced Mar 2015. Features 5.5″  display, MT6752 chipset, 13 MP primary camera, 8 MP front camera, 2600 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-desire-820q.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Desire 626G+",
+      "title": "HTC Desire 626G+ Android smartphone. Announced Apr 2015. Features 5.0″  display, MT6592 chipset, 13 MP primary camera, 5 MP front camera, 2000 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-desire-626g-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Desire 626",
+      "title": "HTC Desire 626 Android smartphone. Announced Feb 2014. Features 5.0″  display, MT6752 chipset, 13 MP primary camera, 5 MP front camera, 2000 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-desire-626.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Desire 526G+ dual sim",
+      "title": "HTC Desire 526G+ dual sim  Android smartphone. Announced Jan 2015. Features 4.7″  display, 8 MP primary camera, 2 MP front camera, 2000 mAh battery, 16 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-desire-526Gplus-dual-sim.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Desire 826 dual sim",
+      "title": "HTC Desire 826 dual sim Android smartphone. Announced Jan 2015. Features 5.5″  display, Snapdragon 615 chipset, 13 MP primary camera, 4 MP front camera, 2600 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-desire-826r.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Desire 320",
+      "title": "HTC Desire 320 Android smartphone. Announced Jan 2015. Features 4.5″  display, 5 MP or 8 MP primary camera, 2100 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-desire-320.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Desire 620G dual sim",
+      "title": "HTC Desire 620G dual sim Android smartphone. Announced Dec 2014. Features 5.0″  display, MT6592 chipset, 8 MP primary camera, 5 MP front camera, 2100 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-desire-620g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Desire 620",
+      "title": "HTC Desire 620 Android smartphone. Announced Dec 2014. Features 5.0″  display, Snapdragon 410 chipset, 8 MP primary camera, 5 MP front camera, 2100 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-desire-620.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Nexus 9",
+      "title": "HTC Nexus 9 Android tablet. Announced Oct 2014. Features 8.9″  display, Nvidia Tegra K1 chipset, 8 MP primary camera, 1.6 MP front camera, 6700 mAh battery, 32 GB storage, 2 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-nexus-9.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Desire 816G dual sim",
+      "title": "HTC Desire 816G dual sim Android smartphone. Announced Sep 2014. Features 5.5″  display, MT6582 chipset, 13 MP primary camera, 5 MP front camera, 2600 mAh battery, 16 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-desire-816-dual-sim1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "One (M8 Eye)",
+      "title": "HTC One (M8 Eye) Android smartphone. Announced Oct 2014. Features 5.0″  display, Snapdragon 801 chipset, Dual: 13 MP primary camera, 5 MP front camera, 2600 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-one-m8.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Desire Eye",
+      "title": "HTC Desire Eye Android smartphone. Announced Oct 2014. Features 5.2″  display, Snapdragon 801 chipset, 13 MP primary camera, 13 MP front camera, 2400 mAh battery, 16 GB storage, 2 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-desire-eye-ofic1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Desire 612",
+      "title": "HTC Desire 612 Android smartphone. Announced Oct 2014. Features 4.7″  display, Snapdragon 400 chipset, 8 MP primary camera, 1.3 MP front camera, 2040 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-desire-612.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Desire 820q dual sim",
+      "title": "HTC Desire 820q dual sim Android smartphone. Announced Oct 2014. Features 5.5″  display, Snapdragon 410 chipset, 13 MP primary camera, 8 MP front camera, 2600 mAh battery, 16 GB storage, 1000 MB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-desire-820q.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Desire 820 dual sim",
+      "title": "HTC Desire 820 dual sim Android smartphone. Announced Sep 2014. Features 5.5″  display, Snapdragon 615 chipset, 13 MP primary camera, 8 MP front camera, 2600 mAh battery, 16 GB storage, 2 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-desire-820.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Desire 820",
+      "title": "HTC Desire 820 Android smartphone. Announced Sep 2014. Features 5.5″  display, Snapdragon 615 chipset, 13 MP primary camera, 8 MP front camera, 2600 mAh battery, 16 GB storage, 2 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-desire-820.jpg",
+      "specs": ""
+    },
+    {
+      "name": "One (E8) CDMA",
+      "title": "HTC One (E8) CDMA Android smartphone. Announced Aug 2014. Features 5.0″  display, Snapdragon 801 chipset, 13 MP primary camera, 5 MP front camera, 2600 mAh battery, 16 GB storage, 2 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-one-e8-cdma.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Desire 510",
+      "title": "HTC Desire 510 Android smartphone. Announced Aug 2014. Features 4.7″  display, Snapdragon 410 chipset, 5 MP primary camera, VGA/ 1.3 MP front camera, 2100 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-desire-510-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "One (M8) for Windows",
+      "title": "HTC One (M8) for Windows Windows Mobile smartphone. Announced Aug 2014. Features 5.0″  display, Snapdragon 801 chipset, Dual: 4 MP primary camera, 5 MP front camera, 2600 mAh battery, 32 GB storage, 2 GB RAM, To be confirmed.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-one-m8-windows-gsm.jpg",
+      "specs": ""
+    },
+    {
+      "name": "One (M8) for Windows (CDMA)",
+      "title": "HTC One (M8) for Windows (CDMA) Windows Mobile smartphone. Announced Aug 2014. Features 5.0″  display, Snapdragon 801 chipset, Dual: 4 MP primary camera, 5 MP front camera, 2600 mAh battery, 32 GB storage, 2 GB RAM, To be confirmed.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-one-m8-win.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Butterfly 2",
+      "title": "HTC Butterfly 2 Android smartphone. Announced Aug 2014. Features 5.0″  display, Snapdragon 801 chipset, Dual: 13 MP primary camera, 5 MP front camera, 2700 mAh battery, 32 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-butterfly-2-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "One Remix",
+      "title": "HTC One Remix Android smartphone. Announced Jul 2014. Features 4.5″  display, Snapdragon 400 chipset, 13 MP primary camera, 5 MP front camera, 2100 mAh battery, 16 GB storage, 1.5 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-one-remix.jpg",
+      "specs": ""
+    },
+    {
+      "name": "One (M8) dual sim",
+      "title": "HTC One (M8) dual sim Android smartphone. Announced Jun 2014. Features 5.0″  display, Snapdragon 801 chipset, Dual: 4 MP primary camera, 5 MP front camera, 2600 mAh battery, 16 GB storage, 2 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-one-m8.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Desire 516 dual sim",
+      "title": "HTC Desire 516 dual sim Android smartphone. Announced Jun 2014. Features 5.0″  display, Snapdragon 200 chipset, 5 MP primary camera, 2 MP front camera, 1950 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-desire-516.jpg",
+      "specs": ""
+    },
+    {
+      "name": "One (E8)",
+      "title": "HTC One (E8) Android smartphone. Announced Jun 2014. Features 5.0″  display, Snapdragon 801 chipset, 13 MP primary camera, 5 MP front camera, 2600 mAh battery, 16 GB storage, 2 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-one-e8-ace.jpg",
+      "specs": ""
+    },
+    {
+      "name": "One mini 2",
+      "title": "HTC One mini 2 Android smartphone. Announced May 2014. Features 4.5″  display, Snapdragon 400 chipset, 13 MP primary camera, 5 MP front camera, 2100 mAh battery, 16 GB storage, 1000 MB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-one-mini-2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Desire 616 dual sim",
+      "title": "HTC Desire 616 dual sim Android smartphone. Announced May 2014. Features 5.0″  display, MT6592 chipset, 8 MP primary camera, 2 MP front camera, 2000 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-desire-616--dual-sim.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Desire 210 dual sim",
+      "title": "HTC Desire 210 dual sim Android smartphone. Announced Apr 2014. Features 4.0″  display, MT6572M chipset, 5 MP primary camera, 1300 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-desire-210-dual-sim.jpg",
+      "specs": ""
+    },
+    {
+      "name": "One (M8) CDMA",
+      "title": "HTC One (M8) CDMA Android smartphone. Announced Mar 2014. Features 5.0″  display, Snapdragon 801 chipset, Dual: 4 MP primary camera, 5 MP front camera, 2600 mAh battery, 32 GB storage, 2 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-one-m8.jpg",
+      "specs": ""
+    },
+    {
+      "name": "One (M8)",
+      "title": "HTC One (M8) Android smartphone. Announced Mar 2014. Features 5.0″  display, Snapdragon 801 chipset, Dual: 4 MP primary camera, 5 MP front camera, 2600 mAh battery, 32 GB storage, 2 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-one-m8.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Desire 310 dual sim",
+      "title": "HTC Desire 310 dual sim Android smartphone. Announced Apr 2014. Features 4.5″  display, MT6582M chipset, 5 MP primary camera, 2000 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-desire-310-dual-sim.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Desire 310",
+      "title": "HTC Desire 310 Android smartphone. Announced Jan 2014. Features 4.5″  display, MT6582M chipset, 5 MP primary camera, 2000 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-desire-310-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Desire 816 dual sim",
+      "title": "HTC Desire 816 dual sim Android smartphone. Announced May 2014. Features 5.5″  display, Snapdragon 400 chipset, 13 MP primary camera, 5 MP front camera, 2600 mAh battery, 8 GB storage, 1.5 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-desire-816-dual-sim1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Desire 816",
+      "title": "HTC Desire 816 Android smartphone. Announced Feb 2014. Features 5.5″  display, Snapdragon 400 chipset, 13 MP primary camera, 5 MP front camera, 2600 mAh battery, 8 GB storage, 1.5 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-desire-8.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Desire 610",
+      "title": "HTC Desire 610 Android smartphone. Announced Feb 2014. Features 4.7″  display, Snapdragon 400 chipset, 8 MP primary camera, 1.3 MP front camera, 2040 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-desire-610-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Desire 501 dual sim",
+      "title": "HTC Desire 501 dual sim Android smartphone. Announced Dec 2013. Features 4.3″  display, NovaThor U8500 chipset, 8 MP primary camera, 2.1 MP front camera, 2100 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-desire-501-dualsim.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Desire 700",
+      "title": "HTC Desire 700 Android smartphone. Announced Jan 2014. Features 5.0″  display, Spreadtrum Shark chipset, 8 MP primary camera, 2.1 MP front camera, 2100 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-desire-700.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Desire 700 dual sim",
+      "title": "HTC Desire 700 dual sim Android smartphone. Announced Nov 2013. Features 5.0″  display, Spreadtrum Shark chipset, 8 MP primary camera, 2.1 MP front camera, 2100 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-desire-700-dual-sim.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Desire 601 dual sim",
+      "title": "HTC Desire 601 dual sim Android smartphone. Announced Nov 2013. Features 4.5″  display, 5 MP primary camera, 2100 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-desire-601-dual-sim.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Desire 501",
+      "title": "HTC Desire 501 Android smartphone. Announced Nov 2013. Features 4.3″  display, 8 MP primary camera, 2.1 MP front camera, 2100 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-desire-501.jpg",
+      "specs": ""
+    },
+    {
+      "name": "One Max",
+      "title": "HTC One Max Android smartphone. Announced Oct 2013. Features 5.9″  display, Snapdragon 600 chipset, 4 MP primary camera, 2.1 MP front camera, 3300 mAh battery, 32 GB storage, 2 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-one-max.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Desire 300",
+      "title": "HTC Desire 300 Android smartphone. Announced Sep 2013. Features 4.3″  display, Snapdragon S4 Play chipset, 5 MP primary camera, 1650 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-desire-300.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Desire 601",
+      "title": "HTC Desire 601 Android smartphone. Announced Sep 2013. Features 4.5″  display, Snapdragon 400 chipset, 5 MP primary camera, 2100 mAh battery, 8 GB storage, 1000 MB RAM, Corning Gorilla Glass 2.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-desire-601.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Desire 500",
+      "title": "HTC Desire 500 Android smartphone. Announced Aug 2013. Features 4.3″  display, Snapdragon S4 Play chipset, 8 MP primary camera, 1.6 MP front camera, 1800 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-desire-500.jpg",
+      "specs": ""
+    },
+    {
+      "name": "One mini",
+      "title": "HTC One mini Android smartphone. Announced Jul 2013. Features 4.3″  display, Snapdragon 400 chipset, 4 MP primary camera, 1.6 MP front camera, 1800 mAh battery, 16 GB storage, 1000 MB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-one-mini-ofic.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Desire L",
+      "title": "HTC Desire L Android smartphone. Announced Apr 2013. Features 4.3″  display, Snapdragon S4 Play chipset, 5 MP primary camera, 1800 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-desire-l.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Desire P",
+      "title": "HTC Desire P Android smartphone. Announced Apr 2013. Features 4.3″  display, 8 MP primary camera, 1620 mAh battery, 4 GB storage, 768 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-desire-p.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Desire Q",
+      "title": "HTC Desire Q Android smartphone. Announced Apr 2013. Features 4.0″  display, Snapdragon S1 chipset, 5 MP primary camera, 1650 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-desire-q.jpg",
+      "specs": ""
+    },
+    {
+      "name": "8XT",
+      "title": "HTC 8XT Windows Mobile smartphone. Announced Jun 2013. Features 4.3″  display, Snapdragon 400 chipset, 8 MP primary camera, 1.6 MP front camera, 1800 mAh battery, 8 GB storage, 1000 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-8xt.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Butterfly S",
+      "title": "HTC Butterfly S Android smartphone. Announced Jun 2013. Features 5.0″  display, Snapdragon 600 chipset, 4 MP primary camera, 2.1 MP front camera, 3200 mAh battery, 16 GB storage, 2 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-butterfly-s.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Desire 200",
+      "title": "HTC Desire 200 Android smartphone. Announced Jun 2013. Features 3.5″  display, 5 MP primary camera, 1230 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-desire-200.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Desire 600 dual sim",
+      "title": "HTC Desire 600 dual sim Android smartphone. Announced May 2013. Features 4.5″  display, Snapdragon 200 chipset, 8 MP primary camera, 1.6 MP front camera, 1860 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-desire-600.jpg",
+      "specs": ""
+    },
+    {
+      "name": "First",
+      "title": "HTC First Android smartphone. Announced Apr 2013. Features 4.3″  display, Snapdragon 400 chipset, 5 MP primary camera, 1.6 MP front camera, 2000 mAh battery, 16 GB storage, 1000 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-first.jpg",
+      "specs": ""
+    },
+    {
+      "name": "One Dual Sim",
+      "title": "HTC One Dual Sim Android smartphone. Announced Jun 2013. Features 4.68″  display, Snapdragon 600 chipset, 4 MP primary camera, 2.1 MP front camera, 2300 mAh battery, 32 GB storage, 2 GB RAM, Corning Gorilla Glass 2.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-one-m7-new1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "One",
+      "title": "HTC One Android smartphone. Announced Feb 2013. Features 4.7″  display, Snapdragon 600 chipset, 4 MP primary camera, 2.1 MP front camera, 2300 mAh battery, 64 GB storage, 2 GB RAM, Corning Gorilla Glass 2.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-one-m7-new1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Desire U",
+      "title": "HTC Desire U Android smartphone. Announced Jan 2013. Features 4.0″  display, 5 MP primary camera, 1650 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-desire-u-t327w.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Desire 400 dual sim",
+      "title": "HTC Desire 400 dual sim Android smartphone. Announced Dec 2012. Features 4.3″  display, 5 MP primary camera, 1800 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-one-su.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Butterfly",
+      "title": "HTC Butterfly Android smartphone. Announced Dec 2012. Features 5.0″  display, Snapdragon 600 chipset, 8 MP primary camera, 2.1 MP front camera, 2020 mAh battery, 16 GB storage, 2 GB RAM, Corning Gorilla Glass 2.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-bitterfly.jpg",
+      "specs": ""
+    },
+    {
+      "name": "DROID DNA",
+      "title": "HTC DROID DNA Android smartphone. Announced Nov 2012. Features 5.0″  display, Snapdragon S4 Pro chipset, 8 MP primary camera, 2.1 MP front camera, 2020 mAh battery, 16 GB storage, 2 GB RAM, Corning Gorilla Glass 2.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-droid-dna-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "One SV CDMA",
+      "title": "HTC One SV CDMA Android smartphone. Announced Nov 2012. Features 4.3″  display, 5 MP primary camera, 1.6 MP front camera, 1800 mAh battery, 8 GB storage, 1000 MB RAM, Corning Gorilla Glass 2.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-one-sv.jpg",
+      "specs": ""
+    },
+    {
+      "name": "One SV",
+      "title": "HTC One SV Android smartphone. Announced Nov 2012. Features 4.3″  display, Snapdragon S4 Plus chipset, 5 MP primary camera, 1.6 MP front camera, 1800 mAh battery, 8 GB storage, 1000 MB RAM, Corning Gorilla Glass 2.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-one-sv.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Desire SV",
+      "title": "HTC Desire SV Android smartphone. Announced Nov 2012. Features 4.3″  display, Snapdragon S4 Play chipset, 8 MP primary camera, 1620 mAh battery, 4 GB storage, 768 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-desire-sv.jpg",
+      "specs": ""
+    },
+    {
+      "name": "One VX",
+      "title": "HTC One VX Android smartphone. Announced Oct 2012. Features 4.5″  display, Snapdragon 400 chipset, 5 MP primary camera, 1800 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-one-vx.jpg",
+      "specs": ""
+    },
+    {
+      "name": "One X+",
+      "title": "HTC One X+ Android smartphone. Announced Oct 2012. Features 4.7″  display, NVIDIA Tegra 3 AP37 chipset, 8 MP primary camera, 1.6 MP front camera, 2100 mAh battery, 64 GB storage, 1000 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-one-x-plus-ofic.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Windows Phone 8X CDMA",
+      "title": "HTC Windows Phone 8X CDMA Windows Mobile smartphone. Announced Nov 2012. Features 4.3″  display, 8 MP primary camera, 2.1 MP front camera, 1800 mAh battery, 16 GB storage, 1000 MB RAM, Corning Gorilla Glass 2.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-8x-cdma.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Incredible S",
+      "title": "HTC Incredible S Android smartphone. Announced Feb 2011. Features 4.0″  display, Snapdragon S2 chipset, 8 MP primary camera, 1.3 MP front camera, 1450 mAh battery, 1.1 GB storage, 768 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-incredible-s1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Desire S",
+      "title": "HTC Desire S Android smartphone. Announced Feb 2011. Features 3.7″  display, Snapdragon S2 chipset, 5 MP primary camera, 1450 mAh battery, 768 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-wildfire-s1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Wildfire S",
+      "title": "HTC Wildfire S Android smartphone. Announced Feb 2011. Features 3.2″  display, Snapdragon S1 chipset, 5 MP primary camera, 1230 mAh battery, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-wildfire-s-ofic1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Salsa",
+      "title": "HTC Salsa Android smartphone. Announced Feb 2011. Features 3.4″  display, Snapdragon S1 chipset, 5 MP primary camera, 1520 mAh battery, 512 MB storage, 512 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-salsa1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "ChaCha",
+      "title": "HTC ChaCha Android smartphone. Announced Feb 2011. Features 2.6″  display, 5 MP primary camera, 1250 mAh battery, 512 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-chacha.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Flyer",
+      "title": "HTC Flyer Android tablet. Announced Feb 2011. Features 7.0″  display, Snapdragon S2 chipset, 5 MP primary camera, 1.3 MP front camera, 4000 mAh battery, 32 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-flyer.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Flyer Wi-Fi",
+      "title": "HTC Flyer Wi-Fi Android tablet. Announced Feb 2011. Features 7.0″  display, Snapdragon S2 chipset, 5 MP primary camera, 1.3 MP front camera, 4000 mAh battery, 32 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-flyer.jpg",
+      "specs": ""
+    },
+    {
+      "name": "EVO View 4G",
+      "title": "HTC EVO View 4G Android tablet. Announced Mar 2011. Features 7.0″  display, 5 MP primary camera, 1.3 MP front camera, 4000 mAh battery, 32 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/HTC-EVO-View-4G.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Inspire 4G",
+      "title": "HTC Inspire 4G Android smartphone. Announced Jan 2011. Features 4.3″  display, Snapdragon S2 chipset, 8 MP primary camera, 1230 mAh battery, 4 GB storage, 768 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-inspire-4g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Freestyle",
+      "title": "HTC Freestyle phone. Announced Jan 2011. Features 3.2″  display, Snapdragon S1 chipset, 3.15 MP primary camera, 1300 mAh battery, 150 MB storage, 256 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-freestyle.jpg",
+      "specs": ""
+    },
+    {
+      "name": "ThunderBolt 4G",
+      "title": "HTC ThunderBolt 4G Android smartphone. Announced Jan 2011. Features 4.3″  display, Snapdragon S2 chipset, 8 MP primary camera, 1.3 MP front camera, 1400 mAh battery, 4 GB storage, 768 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-thunderbolt-verizon.jpg",
+      "specs": ""
+    },
+    {
+      "name": "EVO Shift 4G",
+      "title": "HTC EVO Shift 4G Android smartphone. Announced Jan 2011. Features 3.6″  display, Snapdragon S2 chipset, 5 MP primary camera, 1500 mAh battery, 512 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-shift-evo4-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Gratia",
+      "title": "HTC Gratia Android smartphone. Announced Oct 2010. Features 3.2″  display, Snapdragon S1 chipset, 5 MP primary camera, 1200 mAh battery, 384 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-gratia-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "HD7",
+      "title": "HTC HD7 Windows Mobile smartphone. Announced Oct 2010. Features 4.3″  display, Snapdragon S1 chipset, 5 MP primary camera, 1230 mAh battery, 16 GB storage, 576 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-hd7-ofic.jpg",
+      "specs": ""
+    },
+    {
+      "name": "7 Pro",
+      "title": "HTC 7 Pro Windows Mobile smartphone. Announced Oct 2010. Features 3.6″  display, Snapdragon S1 chipset, 5 MP primary camera, 1230 mAh battery, 8 GB storage, 576 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-7-pro-gsm.jpg",
+      "specs": ""
+    },
+    {
+      "name": "7 Surround",
+      "title": "HTC 7 Surround Windows Mobile smartphone. Announced Oct 2010. Features 3.8″  display, Snapdragon S1 chipset, 5 MP primary camera, 1230 mAh battery, 16 GB storage, 448 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-7-surround.jpg",
+      "specs": ""
+    },
+    {
+      "name": "7 Mozart",
+      "title": "HTC 7 Mozart Windows Mobile smartphone. Announced Oct 2010. Features 3.7″  display, Snapdragon S1 chipset, 8 MP primary camera, 1300 mAh battery, 8 GB storage, 576 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-mozart-ofic.jpg",
+      "specs": ""
+    },
+    {
+      "name": "7 Trophy",
+      "title": "HTC 7 Trophy Windows Mobile smartphone. Announced Oct 2010. Features 3.8″  display, Snapdragon S1 chipset, 5 MP primary camera, 1300 mAh battery, 8 GB storage, 576 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-trophy-ofic.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Arrive",
+      "title": "HTC Arrive Windows Mobile smartphone. Announced Oct 2010. Features 3.6″  display, Snapdragon S1 chipset, 5 MP primary camera, 1500 mAh battery, 16 GB storage, 576 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-7-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Desire HD",
+      "title": "HTC Desire HD Android smartphone. Announced Sep 2010. Features 4.3″  display, Snapdragon S2 chipset, 8 MP primary camera, 1230 mAh battery, 1.5 GB storage, 768 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-desire-hd-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Desire Z",
+      "title": "HTC Desire Z Android smartphone. Announced Sep 2010. Features 3.7″  display, MSM7230 chipset, 5 MP primary camera, 1300 mAh battery, 1.5 GB storage, 512 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-desire-z.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Paradise",
+      "title": "HTC Paradise Android smartphone. Not officially announced yet. Features 3.2″  display, 3.15 MP primary camera, 1200 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-paradise.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Evo 4G+",
+      "title": "HTC Evo 4G+ Android smartphone. Announced  2011. Features 4.3″  display, Snapdragon S3 chipset, 8 MP primary camera, 1.3 MP front camera, 1730 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-evo-4g-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Aria",
+      "title": "HTC Aria Android smartphone. Announced Jun 2010. Features 3.2″  display, Snapdragon S1 chipset, 5 MP primary camera, 1200 mAh battery, 384 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-aria-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Wildfire CDMA",
+      "title": "HTC Wildfire CDMA Android smartphone. Announced Oct 2010. Features 3.2″  display, 5 MP primary camera, 1300 mAh battery, 384 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-wildlife-cdma.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Wildfire",
+      "title": "HTC Wildfire Android smartphone. Announced May 2010. Features 3.2″  display, Snapdragon S1 chipset, 5 MP primary camera, 1300 mAh battery, 384 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-wildfire-ofic.jpg",
+      "specs": ""
+    },
+    {
+      "name": "HD mini",
+      "title": "HTC HD mini Windows Mobile smartphone. Announced Feb 2010. Features 3.2″  display, Snapdragon S1 chipset, 5 MP primary camera, 1200 mAh battery, 384 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-hd-mini.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Desire",
+      "title": "HTC Desire Android smartphone. Announced Feb 2010. Features 3.7″  display, Snapdragon S1 chipset, 5 MP primary camera, 1400 mAh battery, 576 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-bravo.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Legend",
+      "title": "HTC Legend Android smartphone. Announced Feb 2010. Features 3.2″  display, Snapdragon S1 chipset, 5 MP primary camera, 1300 mAh battery, 384 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-legend.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Rider",
+      "title": "HTC Rider Android smartphone. Not officially announced yet. Features 4.3″  display, Snapdragon S3 chipset, 8 MP primary camera, 1.3 MP front camera, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-rider-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Google Nexus One",
+      "title": "HTC Google Nexus One Android smartphone. Announced Jan 2010. Features 3.7″  display, Snapdragon S1 chipset, 5 MP primary camera, 1400 mAh battery, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-google-nexus-one-final.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Smart",
+      "title": "HTC Smart phone. Announced Jan 2010. Features 2.8″  display, 3.15 MP primary camera, 1100 mAh battery, 256 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-smart.jpg",
+      "specs": ""
+    },
+    {
+      "name": "HD2",
+      "title": "HTC HD2 Windows Mobile smartphone. Announced Oct 2009. Features 4.3″  display, Snapdragon S1 chipset, 5 MP primary camera, 1230 mAh battery, 448 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-hd2-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Evo 4G",
+      "title": "HTC Evo 4G Android smartphone. Announced Mar 2010. Features 4.3″  display, Snapdragon S1 chipset, 8 MP primary camera, 1.3 MP front camera, 1500 mAh battery, 512 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-evo-sprint.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Droid Incredible",
+      "title": "HTC Droid Incredible Android smartphone. Announced Apr 2010. Features 3.7″  display, Snapdragon S1 chipset, 8 MP primary camera, 1300 mAh battery, 8 GB storage, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-droid-incredible.jpg",
+      "specs": ""
+    },
+    {
+      "name": "DROID ERIS",
+      "title": "HTC DROID ERIS Android smartphone. Announced Oct 2009. Features 3.2″  display, MSM7600 chipset, 5 MP primary camera, 1300 mAh battery, 288 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-droid-eris.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pure",
+      "title": "HTC Pure Windows Mobile smartphone. Announced Oct 2009. Features 3.2″  display, MSM7201A chipset, 5 MP primary camera, 1100 mAh battery, 288 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-pure.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Tattoo",
+      "title": "HTC Tattoo Android smartphone. Announced Sep 2009. Features 2.8″  display, Snapdragon S1 chipset, 3.15 MP primary camera, 1100 mAh battery, 256 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-tatoo.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Touch2",
+      "title": "HTC Touch2 Windows Mobile smartphone. Announced Sep 2009. Features 2.8″  display, Snapdragon S1 chipset, 3.15 MP primary camera, 1000 mAh battery, 256 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-touch2-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Hero CDMA",
+      "title": "HTC Hero CDMA Android smartphone. Announced Aug 2009. Features 3.2″  display, MSM7200A chipset, 5 MP primary camera, 1500 mAh battery, 288 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-hero-cdma.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Hero",
+      "title": "HTC Hero Android smartphone. Announced Jun 2009. Features 3.2″  display, MSM7200A chipset, 5 MP primary camera, 1350 mAh battery, 288 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-hero.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Ozone",
+      "title": "HTC Ozone Windows Mobile smartphone. Announced Mar 2009. Features 2.4″  display, 2 MP primary camera, 1500 mAh battery, 192 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-ozone.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Schubert",
+      "title": "HTC Schubert Windows Mobile smartphone. Not officially announced yet. Features TFT display, Snapdragon S1 chipset.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-schubert.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Snap",
+      "title": "HTC Snap Windows Mobile smartphone. Announced Mar 2009. Features 2.4″  display, 2 MP primary camera, 1500 mAh battery, 192 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-snap.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Magic",
+      "title": "HTC Magic Android smartphone. Announced Feb 2009. Features 3.2″  display, MSM7200A chipset, 3.15 MP primary camera, 1340 mAh battery, 288 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-magic.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Touch Pro2 CDMA",
+      "title": "HTC Touch Pro2 CDMA Windows Mobile smartphone. Announced May 2009. Features 3.6″  display, MSM7200A chipset, 3.15 MP primary camera, 1500 mAh battery, 288 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-touch-pro2-cdma.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Tilt2",
+      "title": "HTC Tilt2 Windows Mobile smartphone. Announced Feb 2009. Features 3.6″  display, MSM7200A chipset, 3.15 MP primary camera, 1500 mAh battery, 288 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-tilt2-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Touch Pro2",
+      "title": "HTC Touch Pro2 Windows Mobile smartphone. Announced Feb 2009. Features 3.6″  display, MSM7200A chipset, 3.15 MP primary camera, 1500 mAh battery, 288 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-touch-pro2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Touch Diamond2 CDMA",
+      "title": "HTC Touch Diamond2 CDMA Windows Mobile smartphone. Announced Dec 2009. Features 3.6″  display, MSM7200A chipset, 5 MP primary camera, 1500 mAh battery, 288 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-imagio-verizon.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Touch Diamond2",
+      "title": "HTC Touch Diamond2 Windows Mobile smartphone. Announced Feb 2009. Features 3.2″  display, MSM7200A chipset, 5 MP primary camera, 1100 mAh battery, 288 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-diamond2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Windows Phone 8X",
+      "title": "HTC Windows Phone 8X Windows Mobile smartphone. Announced Sep 2012. Features 4.3″  display, Snapdragon S4 Plus chipset, 8 MP primary camera, 2.1 MP front camera, 1800 mAh battery, 16 GB storage, 1000 MB RAM, Corning Gorilla Glass 2.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-8x.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Windows Phone 8S",
+      "title": "HTC Windows Phone 8S Windows Mobile smartphone. Announced Sep 2012. Features 4.0″  display, Snapdragon S4 chipset, 5 MP primary camera, 1700 mAh battery, 4 GB storage, 512 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-8s.jpg",
+      "specs": ""
+    },
+    {
+      "name": "One ST",
+      "title": "HTC One ST Android smartphone. Announced Aug 2012. Features 4.3″  display, 5 MP primary camera, 1800 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-one-st.jpg",
+      "specs": ""
+    },
+    {
+      "name": "One SC",
+      "title": "HTC One SC Android smartphone. Announced Aug 2012. Features 4.3″  display, 5 MP primary camera, 1800 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-one-sc.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Desire X",
+      "title": "HTC Desire X Android smartphone. Announced Aug 2012. Features 4.0″  display, Snapdragon S4 Play chipset, 5 MP primary camera, 1650 mAh battery, 4 GB storage, 768 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-desire-x-ofic.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Desire VT",
+      "title": "HTC Desire VT Android smartphone. Announced Jun 2012. Features 4.0″  display, Snapdragon S1 chipset, 5 MP primary camera, 1650 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-desire-vt.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Desire XC",
+      "title": "HTC Desire XC Android smartphone. Announced Jul 2013. Features 4.0″  display, 5 MP primary camera, 1650 mAh battery, 4 GB storage, 768 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-desire-xc.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Desire VC",
+      "title": "HTC Desire VC Android smartphone. Announced Jun 2012. Features 4.0″  display, Snapdragon S1 chipset, 5 MP primary camera, 1650 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-desire-vc.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Desire V",
+      "title": "HTC Desire V Android smartphone. Announced Jun 2012. Features 4.0″  display, Snapdragon S1 chipset, 5 MP primary camera, 1650 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-desire-v.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Desire C",
+      "title": "HTC Desire C Android smartphone. Announced May 2012. Features 3.5″  display, Snapdragon S1 chipset, 5 MP primary camera, 1230 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-desire-c1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "J",
+      "title": "HTC J Android smartphone. Announced Apr 2012. Features 4.3″  display, 8 MP primary camera, 1.3 MP front camera, 1810 mAh battery, 16 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-j.jpg",
+      "specs": ""
+    },
+    {
+      "name": "DROID Incredible 4G LTE",
+      "title": "HTC DROID Incredible 4G LTE Android smartphone. Announced May 2012. Features 4.0″  display, Snapdragon S4 Plus chipset, 8 MP primary camera, 1.3 MP front camera, 1700 mAh battery, 8 GB storage, 1000 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-droid-incredible-4g-lte.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Evo 4G LTE",
+      "title": "HTC Evo 4G LTE Android smartphone. Announced Apr 2012. Features 4.7″  display, Snapdragon S4 Plus chipset, 8 MP primary camera, 1.3 MP front camera, 2000 mAh battery, 16 GB storage, 1000 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-evo-4g-lte-sprint.jpg",
+      "specs": ""
+    },
+    {
+      "name": "One XC",
+      "title": "HTC One XC Android smartphone. Announced Jun 2012. Features 4.7″  display, 8 MP primary camera, 1.3 MP front camera, 2000 mAh battery, 16 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-one-xc.jpg",
+      "specs": ""
+    },
+    {
+      "name": "One X",
+      "title": "HTC One X Android smartphone. Announced Feb 2012. Features 4.7″  display, Nvidia Tegra 3 chipset, 8 MP primary camera, 1.3 MP front camera, 1800 mAh battery, 32 GB storage, 1000 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-one-x-global.jpg",
+      "specs": ""
+    },
+    {
+      "name": "One X AT&T",
+      "title": "HTC One X AT&T Android smartphone. Announced Feb 2012. Features 4.7″  display, Snapdragon S4 Plus chipset, 8 MP primary camera, 1.3 MP front camera, 1800 mAh battery, 16 GB storage, 1000 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-one-x-ofic.jpg",
+      "specs": ""
+    },
+    {
+      "name": "One XL",
+      "title": "HTC One XL Android smartphone. Announced Feb 2012. Features 4.7″  display, Snapdragon S4 Plus chipset, 8 MP primary camera, 1.3 MP front camera, 1800 mAh battery, 32 GB storage, 1000 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-one-xl-global.jpg",
+      "specs": ""
+    },
+    {
+      "name": "One S C2",
+      "title": "HTC One S C2 Android smartphone. Announced May 2012. Features 4.3″  display, Snapdragon S3 chipset, 8 MP primary camera, 1650 mAh battery, 16 GB storage, 1000 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-one-s-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "One S",
+      "title": "HTC One S Android smartphone. Announced Feb 2012. Features 4.3″  display, MSM8290 chipset, 8 MP primary camera, 1650 mAh battery, 16 GB storage, 1000 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-one-s-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "One V",
+      "title": "HTC One V Android smartphone. Announced Feb 2012. Features 3.7″  display, Snapdragon S2 chipset, 5 MP primary camera, 1500 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-one-v.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Velocity 4G Vodafone",
+      "title": "HTC Velocity 4G Vodafone Android smartphone. Announced Feb 2012. Features 4.5″  display, Snapdragon S3 chipset, 8 MP primary camera, 1.3 MP front camera, 1620 mAh battery, 16 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-velocity-4g-vodafone.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Velocity 4G",
+      "title": "HTC Velocity 4G Android smartphone. Announced Jan 2012. Features 4.5″  display, Snapdragon S3 chipset, 8 MP primary camera, 1.3 MP front camera, 1620 mAh battery, 16 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-velocity-4g-ofic.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Titan II",
+      "title": "HTC Titan II Windows Mobile smartphone. Announced Jan 2012. Features 4.7″  display, Snapdragon S2 chipset, 16 MP primary camera, 1.3 MP front camera, 1730 mAh battery, 16 GB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-titan-ii-real.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Rezound",
+      "title": "HTC Rezound Android smartphone. Announced Nov 2011. Features 4.3″  display, Snapdragon S3 chipset, 8 MP primary camera, 2 MP front camera, 1620 mAh battery, 16 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-rezound-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Vivid",
+      "title": "HTC Vivid Android smartphone. Announced Oct 2011. Features 4.5″  display, Snapdragon S3 chipset, 8 MP primary camera, 1.3 MP front camera, 1620 mAh battery, 16 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-vivid.jpg",
+      "specs": ""
+    },
+    {
+      "name": "EVO Design 4G",
+      "title": "HTC EVO Design 4G Android smartphone. Announced Oct 2011. Features 4.0″  display, Snapdragon S2 chipset, 5 MP primary camera, 1.3 MP front camera, 1520 mAh battery, 768 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-evo-design-4g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Sensation XL",
+      "title": "HTC Sensation XL Android smartphone. Announced Oct 2011. Features 4.7″  display, Snapdragon S2 chipset, 8 MP primary camera, 1.3 MP front camera, 1600 mAh battery, 16 GB storage, 768 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-runnymede.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Explorer",
+      "title": "HTC Explorer Android smartphone. Announced Sep 2011. Features 3.2″  display, Snapdragon S1 chipset, 3.15 MP primary camera, 1230 mAh battery, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-explorer-ofic.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Amaze 4G",
+      "title": "HTC Amaze 4G Android smartphone. Announced Sep 2011. Features 4.3″  display, 8 MP primary camera, 2 MP front camera, 1730 mAh battery, 16 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-amaze-4g-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Raider 4G",
+      "title": "HTC Raider 4G Android smartphone. Announced Sep 2011. Features 4.5″  display, 8 MP primary camera, 1.3 MP front camera, 1620 mAh battery, 16 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-raider-4g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Rhyme",
+      "title": "HTC Rhyme Android smartphone. Announced Sep 2011. Features 3.7″  display, Snapdragon S2 chipset, 5 MP primary camera, 1600 mAh battery, 4 GB storage, 768 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-rhyme.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Hero S",
+      "title": "HTC Hero S Android smartphone. Announced Sep 2011. Features 4.0″  display, Snapdragon S2 chipset, 5 MP primary camera, 1.3 MP front camera, 1520 mAh battery, 4 GB storage, 768 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-hero-s.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Rhyme CDMA",
+      "title": "HTC Rhyme CDMA Android smartphone. Announced Sep 2011. Features 3.7″  display, Snapdragon S2 chipset, 5 MP primary camera, 1600 mAh battery, 4 GB storage, 768 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-rhyme-cdma.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Sensation XE",
+      "title": "HTC Sensation XE Android smartphone. Announced Sep 2011. Features 4.3″  display, Snapdragon S3 chipset, 8 MP primary camera, 1730 mAh battery, 4 GB storage, 768 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-sensation-xe.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Jetstream",
+      "title": "HTC Jetstream Android tablet. Announced Sep 2011. Features 10.1″  display, Snapdragon S3 chipset, 8 MP primary camera, 1.3 MP front camera, 7300 mAh battery, 32 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-jetstream.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Lead",
+      "title": "HTC Lead Android smartphone. Not officially announced yet. Features 4.3″  display, Broadcom BCM4329 chipset, 5 MP primary camera, 768 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-lead.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Titan",
+      "title": "HTC Titan Windows Mobile smartphone. Announced Aug 2011. Features 4.7″  display, Snapdragon S2 chipset, 8 MP primary camera, 1.3 MP front camera, 1600 mAh battery, 16 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-titan.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Radar",
+      "title": "HTC Radar Windows Mobile smartphone. Announced Sep 2011. Features 3.8″  display, Snapdragon S2 chipset, 5 MP primary camera, 1520 mAh battery, 8 GB storage, 512 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-radar.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Panache",
+      "title": "HTC Panache Android smartphone. Announced Jun 2011. Features 3.8″  display, Snapdragon S2 chipset, 5 MP primary camera, 1400 mAh battery, 8 GB storage, 768 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-panache.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Status",
+      "title": "HTC Status Android smartphone. Announced Jun 2011. Features 2.6″  display, Snapdragon S1 chipset, 5 MP primary camera, 1250 mAh battery, 512 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-status.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Glacier",
+      "title": "HTC Glacier Android smartphone. Not officially announced yet. Features 3.8″  display, Snapdragon S2 chipset, 5 MP primary camera, 4 GB storage, 768 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-glacier.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Trophy",
+      "title": "HTC Trophy Windows Mobile smartphone. Announced May 2011. Features 3.8″  display, Snapdragon S1 chipset, 5 MP primary camera, 1300 mAh battery, 16 GB storage, 576 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-trophy.jpg",
+      "specs": ""
+    },
+    {
+      "name": "DROID Incredible 2",
+      "title": "HTC DROID Incredible 2 Android smartphone. Announced Apr 2011. Features 4.0″  display, Snapdragon S2 chipset, 8 MP primary camera, 1.3 MP front camera, 1450 mAh battery, 768 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-droid-incredible-2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Sensation 4G",
+      "title": "HTC Sensation 4G Android smartphone. Announced Apr 2011. Features 4.3″  display, Snapdragon S3 chipset, 8 MP primary camera, 1520 mAh battery, 1000 MB storage, 768 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-sensation-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "EVO 3D",
+      "title": "HTC EVO 3D Android smartphone. Announced Q1 2011. Features 4.3″  display, Snapdragon S3 chipset, 5 MP primary camera, 1.3 MP front camera, 1730 mAh battery, 1000 MB storage, 1000 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-evo-3d-gsm.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Sensation",
+      "title": "HTC Sensation Android smartphone. Announced Apr 2011. Features 4.3″  display, Snapdragon S3 chipset, 8 MP primary camera, 1520 mAh battery, 1000 MB storage, 768 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-sensation-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "EVO 3D CDMA",
+      "title": "HTC EVO 3D CDMA Android smartphone. Announced Mar 2011. Features 4.3″  display, Snapdragon S3 chipset, 5 MP primary camera, 1.3 MP front camera, 1730 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-evo-3d.jpg",
+      "specs": ""
+    },
+    {
+      "name": "HD7S",
+      "title": "HTC HD7S Windows Mobile smartphone. Announced Mar 2011. Features 4.3″  display, Snapdragon S1 chipset, 5 MP primary camera, 1230 mAh battery, 16 GB storage, 576 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-hd7s.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Prime",
+      "title": "HTC Prime Windows Mobile smartphone. Not officially announced yet. Features 3.7″  display, 5 MP primary camera, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-prime.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Merge",
+      "title": "HTC Merge Android smartphone. Announced Feb 2011. Features 3.8″  display, MSM7630 chipset, 5 MP primary camera, 1400 mAh battery, 2 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-merge-uscellular.jpg",
+      "specs": ""
+    }
+  ]
+}

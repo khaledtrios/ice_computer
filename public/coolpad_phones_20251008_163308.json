@@ -1,0 +1,325 @@
+{
+  "scrape_date": "2025-10-08T16:33:16.282705",
+  "total_phones": 53,
+  "source": "https://www.gsmarena.com/coolpad-phones-105.php",
+  "phones": [
+    {
+      "name": "CP12 Neo",
+      "title": "Coolpad CP12 Neo Android smartphone. Announced Mar 2025. Features 6.56″  display, Unisoc SC9863A1 chipset, 5000 mAh battery, 256 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-cp12-neo1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X100",
+      "title": "Coolpad X100 Android smartphone. Announced Feb 2025. Features 6.78″  display, Helio G99 chipset, 5000 mAh battery, 512 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-x100.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Cool 40i",
+      "title": "Coolpad Cool 40i Android smartphone. Announced Dec 2024. Features 6.56″  display, MT6765 Helio G37 chipset, 4500 mAh battery, 256 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-cool-40i.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C16s",
+      "title": "Coolpad C16s Android smartphone. Announced Nov 2024. Features 6.75″  display, Helio G36 chipset, 5000 mAh battery, 256 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-c16s-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C16",
+      "title": "Coolpad C16 Android smartphone. Announced Sep 2024. Features 6.75″  display, Unisoc T606 chipset, 5000 mAh battery, 256 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-c16.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Cool 30 Play",
+      "title": "Coolpad Cool 30 Play Android smartphone. Announced Jul 2024. Features 6.79″  display, Helio G99 chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-cool-30-play.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C15",
+      "title": "Coolpad C15 Android smartphone. Announced May 2024. Features 6.56″  display, Helio G36 chipset, 5000 mAh battery, 256 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-c15.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Cool 30i",
+      "title": "Coolpad Cool 30i Android smartphone. Announced Dec 2023. Features 6.56″  display, MT6765 Helio G37 chipset, 4500 mAh battery, 256 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-cool-30i.jpg",
+      "specs": ""
+    },
+    {
+      "name": "CP12s",
+      "title": "Coolpad CP12s Android smartphone. Announced Nov 2023. Features 6.79″  display, Unisoc Tiger T616 chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-cp12s.jpg",
+      "specs": ""
+    },
+    {
+      "name": "CP12",
+      "title": "Coolpad CP12 Android smartphone. Announced Jun 2023. Features 6.52″  display, Unisoc SC9863A chipset, 4500 mAh battery, 128 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-cp12.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Cool 20+",
+      "title": "Coolpad Cool 20+ Android smartphone. Announced Apr 2023. Features 6.52″  display, MT6769 Helio G85 chipset, 4500 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-cool20-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "CP12p",
+      "title": "Coolpad CP12p Android smartphone. Announced Apr 2023. Features 6.52″  display, MT6762 Helio P22 chipset, 4500 mAh battery, 128 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-cp12p.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Cool 20s",
+      "title": "Coolpad Cool 20s Android smartphone. Announced Jun 2022. Features 6.58″  display, Dimensity 700 chipset, 4500 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-cool-20s-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Cool 20",
+      "title": "Coolpad Cool 20 Android smartphone. Announced May 2021. Features 6.52″  display, MT6769V chipset, 4500 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-cool-20.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Cool 20 Pro",
+      "title": "Coolpad Cool 20 Pro Android smartphone. Announced Dec 2021. Features 6.58″  display, Dimensity 900 chipset, 4500 mAh battery, 128 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-cool-20-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Cool 10A",
+      "title": "Coolpad Cool 10A Android smartphone. Announced Mar 2021. Features 6.52″  display, Unisoc SC9863A chipset, 4000 mAh battery, 64 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-cool-10a.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Cool S",
+      "title": "Coolpad Cool S Android smartphone. Announced Jan 2021. Features 6.53″  display, MT6771 Helio P60 chipset, 5000 mAh battery, 128 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-cool-s.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Cool 6",
+      "title": "Coolpad Cool 6 Android smartphone. Announced Oct 2020. Features 6.53″  display, MT6771T Helio P70 chipset, 4000 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-cool6.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Cool 12A",
+      "title": "Coolpad Cool 12A Android smartphone. Announced Oct 2020. Features 6.3″  display, Spreadtrum chipset, 4000 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-cool12a.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Cool 10",
+      "title": "Coolpad Cool 10 Android smartphone. Announced Jun 2020. Features 6.52″  display, MT6758 Helio P30 chipset, 5000 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-cool10.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Legacy 5G",
+      "title": "Coolpad Legacy 5G Android smartphone. Announced Jan 2020. Features 6.53″  display, Snapdragon 765G 5G chipset, 4000 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-legacy-5g-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Legacy",
+      "title": "Coolpad Legacy Android smartphone. Announced May 2019. Features 6.36″  display, Snapdragon 450 chipset, 4000 mAh battery, 32 GB storage, 3 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-legacy.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Cool 5",
+      "title": "Coolpad Cool 5 Android smartphone. Announced Oct 2019. Features 6.22″  display, MT6762 Helio P22 chipset, 4000 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-cool-5.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Cool 3 Plus",
+      "title": "Coolpad Cool 3 Plus Android smartphone. Announced Jun 2019. Features 5.71″  display, MT6761 Helio A22 chipset, 3000 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-cool-3-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Cool Play 8",
+      "title": "Coolpad Cool Play 8 Android smartphone. Announced Dec 2018. Features 6.2″  display, MT6750 chipset, 4000 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-8.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mega 5A",
+      "title": "Coolpad Mega 5A Android smartphone. Announced Aug 2018. Features 5.45″  display, Spreadtrum SC9850K chipset, Dual: 8 MP primary camera, 5 MP front camera, 2500 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-mega-5a-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Note 6",
+      "title": "Coolpad Note 6 Android smartphone. Announced May 2018. Features 5.5″  display, Snapdragon 435 chipset, 13 MP primary camera, Dual: 8 MP + 5 MP front camera, 4070 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-note-6-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Cool 2",
+      "title": "Coolpad Cool 2 Android smartphone. Announced Apr 2018. Features 5.7″  display, MT6750 chipset, Dual: 13 MP primary camera, 8 MP front camera, 3200 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-cool-2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Cool Play 6",
+      "title": "Coolpad Cool Play 6 Android smartphone. Announced Aug 2017. Features 5.5″  display, Snapdragon 653 chipset, Dual: 13 MP primary camera, 8 MP front camera, 4060 mAh battery, 64 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-cool-play-6-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Cool M7",
+      "title": "Coolpad Cool M7 Android smartphone. Announced Aug 2017. Features 5.5″  display, Snapdragon 625 chipset, 12 MP primary camera, 13 MP front camera, 3200 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-cool-m7.jpg",
+      "specs": ""
+    },
+    {
+      "name": "NX1",
+      "title": "Coolpad NX1 Android smartphone. Announced Aug 2017. Features 5.0″  display, MT6735P chipset, 8 MP primary camera, 2 MP front camera, 2000 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-nx1-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Defiant",
+      "title": "Coolpad Defiant Android smartphone. Announced Jun 2017. Features 5.0″  display, Snapdragon 425 chipset, 5 MP primary camera, 2 MP front camera, 2500 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-defiant.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Note 5 Lite",
+      "title": "Coolpad Note 5 Lite Android smartphone. Announced Mar 2017. Features 5.0″  display, MT6735CP chipset, 13 MP primary camera, 8 MP front camera, 2500 mAh battery, 16 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-note-5-lite.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Cool1 dual",
+      "title": "Coolpad Cool1 dual Android smartphone. Announced Aug 2016. Features 5.5″  display, Snapdragon 652 chipset, Dual: 13 MP primary camera, 8 MP front camera, 4060 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/leeco-cool1-dual.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Conjr",
+      "title": "Coolpad Conjr Android smartphone. Announced Jan 2017. Features 5.0″  display, MT6735CP chipset, 13 MP primary camera, 8 MP front camera, 2500 mAh battery, 16 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-conjr.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Cool S1",
+      "title": "Coolpad Cool S1 Android smartphone. Announced Dec 2016. Features 5.5″  display, Snapdragon 821 chipset, 16 MP primary camera, 8 MP front camera, 4070 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-cool-s1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Note 3s",
+      "title": "Coolpad Note 3s Android smartphone. Announced Nov 2016. Features 5.5″  display, Snapdragon 415 chipset, 13 MP primary camera, 5 MP front camera, 2500 mAh battery, 32 GB storage, 3 GB RAM, Scratch-resistant glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-note-3s.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mega 3",
+      "title": "Coolpad Mega 3 Android smartphone. Announced Dec 2016. Features 5.5″  display, MT6737 chipset, 8 MP primary camera, 8 MP front camera, 3050 mAh battery, 16 GB storage, 2 GB RAM, Scratch-resistant glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-mega3.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Note 5",
+      "title": "Coolpad Note 5 Android smartphone. Announced Sep 2016. Features 5.5″  display, Snapdragon 617 chipset, 13 MP primary camera, 8 MP front camera, 4010 mAh battery, 64 GB storage, 4 GB RAM, Scratch-resistant glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-note-5.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Modena 2",
+      "title": "Coolpad Modena 2 Android smartphone. Announced Sep 2016. Features 5.5″  display, MT6735P chipset, 8 MP primary camera, 8 MP front camera, 2500 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-modena2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mega",
+      "title": "Coolpad Mega Android smartphone. Announced Aug 2016. Features 5.5″  display, MT6735P chipset, 8 MP primary camera, 8 MP front camera, 2500 mAh battery, 16 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-mega.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Torino",
+      "title": "Coolpad Torino Android smartphone. Announced Jul 2016. Features 5.5″  display, Snapdragon 617 chipset, 13 MP primary camera, 5 MP front camera, 2500 mAh battery, 16 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-torino.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Note 3 Plus",
+      "title": "Coolpad Note 3 Plus Android smartphone. Announced May 2016. Features 5.5″  display, MT6753 chipset, 13 MP primary camera, 5 MP front camera, 3000 mAh battery, 16 GB storage, 3 GB RAM, Scratch-resistant glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-note-3-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Max",
+      "title": "Coolpad Max Android smartphone. Announced Jun 2016. Features 5.5″  display, Snapdragon 617 chipset, 13 MP primary camera, 5 MP front camera, 2800 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-max.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Porto S",
+      "title": "Coolpad Porto S Android smartphone. Announced Jan 2016. Features 5.0″  display, MT6735P chipset, 8 MP primary camera, 2 MP front camera, 2000 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-porto-s.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Torino S",
+      "title": "Coolpad Torino S Android smartphone. Announced Jan 2016. Features 4.7″  display, Snapdragon 410 chipset, 8 MP primary camera, 5 MP front camera, 1800 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-torino-s.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Note 3 Lite",
+      "title": "Coolpad Note 3 Lite Android smartphone. Announced Jan 2016. Features 5.0″  display, MT6735 chipset, 13 MP primary camera, 5 MP front camera, 2500 mAh battery, 16 GB storage, 3 GB RAM, Scratch-resistant glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-note3-lite.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Roar",
+      "title": "Coolpad Roar Android smartphone. Announced Nov 2015. Features 4.5″  display, MT6580 chipset, 5 MP primary camera, 2 MP front camera, 1800 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-roar.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Note 3",
+      "title": "Coolpad Note 3 Android smartphone. Announced Oct 2015. Features 5.5″  display, MT6753 chipset, 13 MP primary camera, 5 MP front camera, 3000 mAh battery, 16 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-note-3.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Shine",
+      "title": "Coolpad Shine Android smartphone. Announced Oct 2015. Features 5.5″  display, Snapdragon 615 chipset, 13 MP primary camera, 5 MP front camera, 2500 mAh battery, 8 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-shine.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Modena",
+      "title": "Coolpad Modena Android smartphone. Announced Aug 2015. Features 5.5″  display, Snapdragon 410 chipset, 8 MP primary camera, 2 MP front camera, 2500 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-modena.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Porto",
+      "title": "Coolpad Porto Android smartphone. Announced Aug 2015. Features 4.7″  display, Snapdragon 410 chipset, 8 MP primary camera, 5 MP front camera, 1800 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-porto.jpg",
+      "specs": ""
+    },
+    {
+      "name": "3632",
+      "title": "Coolpad 3632 Android smartphone. Not announced yet. Features 6.1″  display, Snapdragon 425 chipset, 5 MP primary camera, 2 MP front camera, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-mega.jpg",
+      "specs": ""
+    }
+  ]
+}

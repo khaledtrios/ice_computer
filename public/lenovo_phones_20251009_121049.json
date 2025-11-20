@@ -1,0 +1,1555 @@
+{
+  "scrape_date": "2025-10-09T12:11:08.203316",
+  "total_phones": 258,
+  "source": "https://www.gsmarena.com/lenovo-phones-73.php",
+  "phones": [
+    {
+      "name": "Idea Tab Plus",
+      "title": "Lenovo Idea Tab Plus 5G Android tablet. Announced Sep 2025. Features 12.1″  display, Dimensity 6400 chipset, 10200 mAh battery, 256 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-idea-tab-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Idea Tab",
+      "title": "Lenovo Idea Tab 5G Android tablet. Announced Sep 2025. Features 11.0″  display, Dimensity 6300 chipset, 7040 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-idea-tab.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Yoga Tab",
+      "title": "Lenovo Yoga Tab Android tablet. Announced Sep 2025. Features 11.1″  display, Snapdragon 8 Gen 3 chipset, 8860 mAh battery, 256 GB storage, 12 GB RAM, Corning Gorilla Glass 7i.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-yoga-tab.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Tab",
+      "title": "Lenovo Tab Android tablet. Announced Aug 2025. Features 10.1″  display, Helio G85 chipset, 5100 mAh battery, 128 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-tab.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Tab K9",
+      "title": "Lenovo Tab K9 Android tablet. Announced Mar 2025. Features 8.7″  display, Helio G85 chipset, 5100 mAh battery, 128 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-tab-k9.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Legion Y700 (Gen 4)",
+      "title": "Lenovo Legion Y700 (Gen 4) Android tablet. Announced May 2025. Features 8.8″  display, Snapdragon 8 Elite chipset, 7600 mAh battery, 1024 GB storage, 16 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-legion-y700-gen4.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Idea Tab Pro",
+      "title": "Lenovo Idea Tab Pro Android tablet. Announced Mar 2025. Features 12.7″  display, Dimensity 8300 chipset, 10200 mAh battery, 256 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-idea-tab-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Yoga Tab Plus",
+      "title": "Lenovo Yoga Tab Plus Android tablet. Announced Jan 2025. Features 12.7″  display, Snapdragon 8 Gen 3 chipset, 10200 mAh battery, 512 GB storage, 16 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-yoga-tab-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Legion Y700 (2025)",
+      "title": "Lenovo Legion Y700 (2025) Android tablet. Announced Oct 2024. Features 8.8″  display, Snapdragon 8 Gen 3 chipset, 6550 mAh battery, 512 GB storage, 16 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-legion-tab-gen3.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Legion Tab",
+      "title": "Lenovo Legion Tab Android tablet. Announced Aug 2024. Features 8.8″  display, Snapdragon 8+ Gen 1 chipset, 6550 mAh battery, 256 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-legion-y700-2023.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Tab K11 Plus",
+      "title": "Lenovo Tab K11 Plus Android tablet. Announced Jul 2024. Features 11.45″  display, Snapdragon 680 4G chipset, 8600 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-tab-k-11-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Tab Plus",
+      "title": "Lenovo Tab Plus Android tablet. Announced Jun 2024. Features 11.5″  display, Helio G99 chipset, 8600 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-tab-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Tab M11",
+      "title": "Lenovo Tab M11 Android tablet. Announced Jan 2024. Features 11.0″  display, MT6769H Helio G88 chipset, 7040 mAh battery, 128 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-tab-m11.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Legion Y700 (2023)",
+      "title": "Lenovo Legion Y700 (2023) Android tablet. Announced Jul 2023. Features 8.8″  display, Snapdragon 8+ Gen 1 chipset, 6550 mAh battery, 512 GB storage, 16 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-legion-y700-2023.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Tab P12",
+      "title": "Lenovo Tab P12 Android tablet. Announced Jul 2023. Features 12.7″  display, Dimensity 7050 chipset, 10200 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-tab-p12-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Tab M10",
+      "title": "Lenovo Tab M10 Android tablet. Announced Jul 2023. Features 10.6″  display, Snapdragon 695 5G chipset, 7700 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-tab-m10-5g-10.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Tab Extreme",
+      "title": "Lenovo Tab Extreme Android tablet. Announced Jan 2023. Features 14.5″  display, Dimensity 9000 chipset, 12300 mAh battery, 256 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-tab-extreme.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Tab M9",
+      "title": "Lenovo Tab M9 Android tablet. Announced Dec 2022. Features 9.0″  display, MT6769V chipset, 5100 mAh battery, 128 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-tab-m9.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Tab M8 (4th Gen)",
+      "title": "Lenovo Tab M8 (4th Gen) Android tablet. Announced Apr 2023. Features 8.0″  display, MT8768 Helio A22 chipset, 5100 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-tab-m8-4th-gen.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Tab P11 Gen 2",
+      "title": "Lenovo Tab P11 Gen 2 Android tablet. Announced Sep 2022. Features 11.5″  display, Helio G99 chipset, 7700 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-tab-p11-pro-gen2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Tab P11 Pro Gen 2",
+      "title": "Lenovo Tab P11 Pro Gen 2 Android tablet. Announced Sep 2022. Features 11.2″  display, MT8797 Kompanio 1300T chipset, 8200 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-tab-p11-pro-gen2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Tab M10 Gen 3",
+      "title": "Lenovo Tab M10 Gen 3 Android tablet. Announced Sep 2022. Features 10.1″  display, Unisoc T610 chipset, 5100 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-tab-m10-gen3.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pad Pro 2022",
+      "title": "Lenovo Pad Pro 2022 Android tablet. Announced Aug 2022. Features 11.2″  display, MT8797 Kompanio 1300T chipset, 8200 mAh battery, 128 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-pad-pro-2022.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Legion Y70",
+      "title": "Lenovo Legion Y70 Android smartphone. Announced Aug 2022. Features 6.67″  display, Snapdragon 8+ Gen 1 chipset, 5100 mAh battery, 512 GB storage, 16 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-legion-y70.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Tab M10 Plus (3rd Gen)",
+      "title": "Lenovo Tab M10 Plus (3rd Gen) Android tablet. Announced May 2022. Features 10.61″  display, Snapdragon 680 4G chipset, 7700 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-tabm10plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Legion Y700",
+      "title": "Lenovo Legion Y700 Android tablet. Announced Mar 2022. Features 8.8″  display, Snapdragon 870 5G chipset, 6550 mAh battery, 256 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-legion-y700.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Legion Y90",
+      "title": "Lenovo Legion Y90 Android smartphone. Announced Mar 2022. Features 6.92″  display, Snapdragon 8 Gen 1 chipset, 5600 mAh battery, 640 GB storage, 18 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-legion-y90.jpg",
+      "specs": ""
+    },
+    {
+      "name": "K14 Plus",
+      "title": "Lenovo K14 Plus Android smartphone. Announced Feb 2022. Features 6.5″  display, Unisoc T700 chipset, 5000 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-k14-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Tab K10",
+      "title": "Lenovo Tab K10 Android tablet. Announced May 2021. Features 10.3″  display, MT6762 Helio P22T chipset, 7700 mAh battery, 128 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-tab-k10.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Tab P12 Pro",
+      "title": "Lenovo Tab P12 Pro Android tablet. Announced Sep 2021. Features 12.6″  display, Snapdragon 870 5G chipset, 10200 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-tab-p12-pro-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Tab P11 5G",
+      "title": "Lenovo Tab P11 5G Android tablet. Announced Sep 2021. Features 11.0″  display, Snapdragon 750G 5G chipset, 7700 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-tab-p11-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "K13 Pro",
+      "title": "Lenovo K13 Pro Android smartphone. Announced Sep 2021. Features 6.51″  display, Snapdragon 662 chipset, 5000 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-k13-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "K13",
+      "title": "Lenovo K13 Android smartphone. Announced Aug 2021. Features 6.52″  display, Unisoc SC9863A chipset, 5000 mAh battery, 32 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-k13.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Yoga Tab 11",
+      "title": "Lenovo Yoga Tab 11 Android tablet. Announced Jun 2021. Features 11.0″  display, MT6785 Helio G90T chipset, 7700 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-yoga-tab-11.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Tab P11 Plus",
+      "title": "Lenovo Tab P11 Plus Android tablet. Announced Jun 2021. Features 11.0″  display, MT6785 Helio G90T chipset, 7700 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-tab-p11.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Tab M8 (3rd Gen)",
+      "title": "Lenovo Tab M8 (3rd Gen) Android tablet. Announced Jun 2021. Features 8.0″  display, MT8768T Helio P22T chipset, 5100 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-tab-m8-3.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Tab M7 (3rd Gen)",
+      "title": "Lenovo Tab M7 (3rd Gen) Android tablet. Announced Jun 2021. Features 7.0″  display, MT8166 chipset, 3750 mAh battery, 32 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-tab-m7-3.jpg",
+      "specs": ""
+    },
+    {
+      "name": "K13 Note",
+      "title": "Lenovo K13 Note Android smartphone. Announced Jun 2021. Features 6.5″  display, Snapdragon 460 chipset, 5000 mAh battery, 128 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-k13-note.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Yoga Tab 13",
+      "title": "Lenovo Yoga Tab 13 Android tablet. Announced May 2021. Features 13.0″  display, Snapdragon 870 5G chipset, 10200 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-yoga-pad-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pad Pro",
+      "title": "Lenovo Pad Pro Android tablet. Announced May 2021. Features 11.5″  display, Snapdragon 870 5G chipset, 8600 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-pad-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pad Plus",
+      "title": "Lenovo Pad Plus Android tablet. Announced May 2021. Features 11.0″  display, Snapdragon 750G 5G chipset, 7700 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-pad-plus-2021.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pad",
+      "title": "Lenovo Pad Android tablet. Announced May 2021. Features 11.0″  display, Snapdragon 662 chipset, 7700 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-pad-2021.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Legion 2 Pro",
+      "title": "Lenovo Legion 2 Pro Android smartphone. Announced Apr 2021. Features 6.92″  display, Snapdragon 888 5G chipset, 5500 mAh battery, 512 GB storage, 18 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-legion-2-pro-phone-duel2-1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Legion Duel 2",
+      "title": "Lenovo Legion Duel 2 Android smartphone. Announced Apr 2021. Features 6.92″  display, Snapdragon 888 5G chipset, 5500 mAh battery, 512 GB storage, 16 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-legion-2-pro-phone-duel2-1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "K12 Pro",
+      "title": "Lenovo K12 Pro Android smartphone. Announced Dec 2020. Features 6.8″  display, Snapdragon 662 chipset, 6000 mAh battery, 128 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-k12-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "K12 (China)",
+      "title": "Lenovo K12 (China) Android smartphone. Announced Dec 2020. Features 6.5″  display, Snapdragon 460 chipset, 5000 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-k12.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A8 2020",
+      "title": "Lenovo A8 2020 Android smartphone. Announced Oct 2020. Features 6.53″  display, MT6762 Helio P22 chipset, 5000 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-a8-2020.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Tab P11 Pro",
+      "title": "Lenovo Tab P11 Pro Android tablet. Announced Aug 2020. Features 11.5″  display, Snapdragon 730G chipset, 8600 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-tab-p11-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Tab P11",
+      "title": "Lenovo Tab P11 Android tablet. Announced Jan 2021. Features 11.0″  display, Snapdragon 662 chipset, 7700 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-tab-p11.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Tab M10 HD Gen 2",
+      "title": "Lenovo Tab M10 HD Gen 2 Android tablet. Announced Aug 2020. Features 10.1″  display, MT6762 Helio P22T chipset, 5000 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-tab-m10-hd-gen2--.jpg",
+      "specs": ""
+    },
+    {
+      "name": "K6 Power",
+      "title": "Lenovo K6 Power Android smartphone. Announced Sep 2016. Features 5.0″  display, Snapdragon 430 chipset, 13 MP primary camera, 8 MP front camera, 4000 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-k6-power.jpg",
+      "specs": ""
+    },
+    {
+      "name": "K6",
+      "title": "Lenovo K6 Android smartphone. Announced Sep 2016. Features 5.0″  display, Snapdragon 430 chipset, 13 MP primary camera, 8 MP front camera, 3000 mAh battery, 32 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-k6.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Yoga Tab 3 10",
+      "title": "Lenovo Yoga Tab 3 10 Android tablet. Announced  2016. Features 10.1″  display, Snapdragon 210 chipset, 8400 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-yoga-tablet-3-10.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Yoga Tab 3 Plus",
+      "title": "Lenovo Yoga Tab 3 Plus Android tablet. Announced Sep 2016. Features 10.1″  display, Snapdragon 625 chipset, 13 MP primary camera, 5 MP front camera, 9600 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-yoga-tab3-plusr.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Vibe A",
+      "title": "Lenovo Vibe A Android smartphone. Announced Jul 2016. Features 4.0″  display, Spreadtrum SC7731G chipset, 5 MP primary camera, 1700 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-vibe-a.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C2 Power",
+      "title": "Lenovo C2 Power Android smartphone. Announced Sep 2016. Features 5.0″  display, MT6735P chipset, 8 MP primary camera, 5 MP front camera, 3500 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-vibe-c2-power.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C2",
+      "title": "Lenovo C2 Android smartphone. Announced Jul 2016. Features 5.0″  display, MT6735P chipset, 8 MP primary camera, 5 MP front camera, 2750 mAh battery, 16 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/Lenovo-Vibe-C2r.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Phab2 Plus",
+      "title": "Lenovo Phab2 Plus Android smartphone. Announced Jun 2016. Features 6.4″  display, MT8783 chipset, Dual: 13 MP (f/2.0, PDAF & laser AF) + 2 MP primary camera, 8 MP front camera, 4050 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-phab2-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Phab2",
+      "title": "Lenovo Phab2 Android smartphone. Announced Jun 2016. Features 6.4″  display, MT8735 chipset, 13 MP primary camera, 5 MP front camera, 4050 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-phab2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Phab2 Pro",
+      "title": "Lenovo Phab2 Pro Android smartphone. Announced Jun 2016. Features 6.4″  display, Snapdragon 652 chipset, 16 MP primary camera, 8 MP front camera, 4050 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-phab2-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "ZUK Z2",
+      "title": "Lenovo ZUK Z2 Android smartphone. Announced May 2016. Features 5.0″  display, Snapdragon 820 chipset, 13 MP primary camera, 8 MP front camera, 3500 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zuk-z2-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Vibe C",
+      "title": "Lenovo Vibe C Android smartphone. Announced May 2016. Features 5.0″  display, Snapdragon 210 chipset, 5 MP primary camera, 2 MP front camera, 2300 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-vibe-c.jpg",
+      "specs": ""
+    },
+    {
+      "name": "ZUK Z2 Pro",
+      "title": "Lenovo ZUK Z2 Pro Android smartphone. Announced Apr 2016. Features 5.2″  display, Snapdragon 820 chipset, 13 MP primary camera, 8 MP front camera, 3100 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass (unspecified version).",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zuk-z2-pro-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Tab3 10",
+      "title": "Lenovo Tab3 10 Android tablet. Announced Feb 2016. Features 10.1″  display, MT8161 chipset, 8 MP primary camera, 5 MP front camera, 7000 mAh battery, 64 GB storage, 3 GB RAM, Corning Gorilla Glass (unspecified version).",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-tab3-10.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Tab3 8",
+      "title": "Lenovo Tab3 8 Android tablet. Announced Feb 2016. Features 8.0″  display, MT8161 chipset, 5 MP primary camera, 2 MP front camera, 4290 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-tab3-8.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Tab3 7",
+      "title": "Lenovo Tab3 7 Android tablet. Announced Feb 2016. Features 7.0″  display, MT8161 chipset, 2 MP or 5 MP primary camera, VGA or 2 MP front camera, 3450 mAh battery, 16 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-tab3-711.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Vibe K5 Plus",
+      "title": "Lenovo Vibe K5 Plus Android smartphone. Announced Feb 2016. Features 5.0″  display, Snapdragon 616 chipset, 13 MP primary camera, 5 MP front camera, 2750 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-k5-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Vibe K5",
+      "title": "Lenovo Vibe K5 Android smartphone. Announced Feb 2016. Features 5.0″  display, Snapdragon 415 chipset, 13 MP primary camera, 5 MP front camera, 2750 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-k5.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A7000 Turbo",
+      "title": "Lenovo A7000 Turbo Android smartphone. Announced Jan 2016. Features 5.5″  display, MT6752 chipset, 13 MP primary camera, 5 MP front camera, 2900 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-a7000-turbo.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Vibe P1 Turbo",
+      "title": "Lenovo Vibe P1 Turbo Android smartphone. Announced Feb 2016. Features 5.5″  display, Snapdragon 616 chipset, 13 MP primary camera, 5 MP front camera, 4900 mAh battery, 32 GB storage, 3 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-vibe-p1-turbo.jpg",
+      "specs": ""
+    },
+    {
+      "name": "K5 Note",
+      "title": "Lenovo K5 Note Android smartphone. Announced Jan 2016. Features 5.5″  display, MT6755 Helio P10 chipset, 13 MP primary camera, 8 MP front camera, 3500 mAh battery, 32 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-k5-note.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Lemon 3",
+      "title": "Lenovo Lemon 3 Android smartphone. Announced Jan 2016. Features 5.0″  display, Snapdragon 616 chipset, 13 MP primary camera, 5 MP front camera, 2750 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-lemon-3-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Vibe S1 Lite",
+      "title": "Lenovo Vibe S1 Lite Android smartphone. Announced Jan 2016. Features 5.0″  display, MT6753 chipset, 13 MP primary camera, 8 MP front camera, 2700 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-vibe-s1-lite1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Vibe K4 Note",
+      "title": "Lenovo Vibe K4 Note Android smartphone. Announced Jan 2016. Features 5.5″  display, MT6753 chipset, 13 MP primary camera, 5 MP front camera, 3300 mAh battery, 32 GB storage, 3 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-a7010.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Vibe X3 c78",
+      "title": "Lenovo Vibe X3 c78 Android smartphone. Announced Nov 2015. Features 5.5″  display, MT6753 chipset, 13 MP primary camera, 5 MP front camera, 3300 mAh battery, 16 GB storage, 2 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-vibe-x3-k51c78-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Vibe X3",
+      "title": "Lenovo Vibe X3 Android smartphone. Announced Nov 2015. Features 5.5″  display, Snapdragon 808 chipset, 21 MP primary camera, 8 MP front camera, 3500 mAh battery, 64 GB storage, 3 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-vibe-x3-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A3690",
+      "title": "Lenovo A3690 Android smartphone. Announced Oct 2015. Features 5.0″  display, MT6735P chipset, 8 MP primary camera, 2 MP front camera, 2300 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-a3690.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Yoga Tab 3 Pro",
+      "title": "Lenovo Yoga Tab 3 Pro Android tablet. Announced Dec 2015. Features 10.1″  display, Intel® Atom x5-Z8500 chipset, 13 MP primary camera, 5 MP front camera, 10200 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-yoga-tab-3-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Yoga Tab 3 8.0",
+      "title": "Lenovo Yoga Tab 3 8.0 Android tablet. Announced Oct 2015. Features 8.0″  display, Snapdragon 210 chipset, 8 MP primary camera, 6200 mAh battery, 16 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-yoga-tablet-3-8.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A1000",
+      "title": "Lenovo A1000 Android smartphone. Announced Sep 2015. Features 4.0″  display, Spreadtrum SC7731 chipset, 5 MP primary camera, 2000 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-a1000.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Phab",
+      "title": "Lenovo Phab Android smartphone. Announced Sep 2015. Features 6.98″  display, Snapdragon 410 chipset, 13 MP primary camera, 5 MP front camera, 4250 mAh battery, 16 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-phab.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Phab Plus",
+      "title": "Lenovo Phab Plus Android smartphone. Announced Sep 2015. Features 6.8″  display, Snapdragon 615 chipset, 13 MP primary camera, 5 MP front camera, 3500 mAh battery, 32 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-phab-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Vibe P1",
+      "title": "Lenovo Vibe P1 Android smartphone. Announced Sep 2015. Features 5.5″  display, Snapdragon 615 chipset, 13 MP primary camera, 5 MP front camera, 5000 mAh battery, 32 GB storage, 2 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-vibe-p1-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A6010 Plus",
+      "title": "Lenovo A6010 Plus Android smartphone. Announced Sep 2015. Features 5.0″  display, Snapdragon 410 chipset, 13 MP primary camera, 5 MP front camera, 2300 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-a6010.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A6010",
+      "title": "Lenovo A6010 Android smartphone. Announced Sep 2015. Features 5.0″  display, Snapdragon 410 chipset, 8 MP primary camera, 2 MP front camera, 2300 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-a6010.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Vibe P1m",
+      "title": "Lenovo Vibe P1m Android smartphone. Announced Sep 2015. Features 5.0″  display, MT6735P chipset, 8 MP primary camera, 5 MP front camera, 4000 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-vibe-p1m.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Vibe S1",
+      "title": "Lenovo Vibe S1 Android smartphone. Announced Sep 2015. Features 5.0″  display, MT6752 chipset, 13 MP primary camera, Dual: 8 MP + 2 MP front camera, 2420 mAh battery, 32 GB storage, 3 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-vibe-s1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "ZUK Z1",
+      "title": "Lenovo ZUK Z1 Android smartphone. Announced Aug 2015. Features 5.5″  display, Snapdragon 801 chipset, 13 MP primary camera, 8 MP front camera, 4100 mAh battery, 64 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-zuk-z1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A2010",
+      "title": "Lenovo A2010 Android smartphone. Announced Aug 2015. Features 4.5″  display, MT6735M chipset, 5 MP primary camera, 2 MP front camera, 2000 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-a2010.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A616",
+      "title": "Lenovo A616 Android smartphone. Announced  2015. Features 5.5″  display, MT6732M chipset, 5 MP primary camera, 2250 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-a616.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A3900",
+      "title": "Lenovo A3900 Android smartphone. Announced May 2015. Features 5.0″  display, MT6752 chipset, 5 MP primary camera, 2 MP front camera, 2300 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-a3900r.jpg",
+      "specs": ""
+    },
+    {
+      "name": "K80",
+      "title": "Lenovo K80 Android smartphone. Announced Apr 2015. Features 5.5″  display, Intel Atom Z3560 chipset, 13 MP primary camera, 5 MP front camera, 4000 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-k80-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "S60",
+      "title": "Lenovo S60 Android smartphone. Announced Jan 2015. Features 5.0″  display, Snapdragon 410 chipset, 13 MP primary camera, 5 MP front camera, 2150 mAh battery, 8 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-s60.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A6000 Plus",
+      "title": "Lenovo A6000 Plus Android smartphone. Announced Apr 2015. Features 5.0″  display, Snapdragon 410 chipset, 8 MP primary camera, 2 MP front camera, 2300 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-a6000.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A1900",
+      "title": "Lenovo A1900 Android smartphone. Announced Apr 2015. Features 4.0″  display, Spreadtrum SC7730 chipset, 2 MP primary camera, 1500 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-a1900.jpg",
+      "specs": ""
+    },
+    {
+      "name": "K3 Note",
+      "title": "Lenovo K3 Note Android smartphone. Announced Mar 2015. Features 5.5″  display, MT6752 chipset, 13 MP primary camera, 5 MP front camera, 3000 mAh battery, 16 GB storage, 2 GB RAM, Asahi Dragontrail Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-k3-note.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Vibe Shot",
+      "title": "Lenovo Vibe Shot Android smartphone. Announced Mar 2015. Features 5.0″  display, Snapdragon 615 chipset, 16 MP primary camera, 8 MP front camera, 3000 mAh battery, 32 GB storage, 3 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-vibe-shot.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A7000 Plus",
+      "title": "Lenovo A7000 Plus Android smartphone. Announced Sep 2015. Features 5.5″  display, MT6752 chipset, 13 MP primary camera, 5 MP front camera, 2900 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-a7000-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A7000",
+      "title": "Lenovo A7000 Android smartphone. Announced Mar 2015. Features 5.5″  display, MT6752m chipset, 8 MP primary camera, 5 MP front camera, 2900 mAh battery, 8 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-a7000.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A5000",
+      "title": "Lenovo A5000 Android smartphone. Announced Feb 2015. Features 5.0″  display, MT6582 chipset, 8 MP primary camera, 2 MP front camera, 4000 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-a5000.jpg",
+      "specs": ""
+    },
+    {
+      "name": "IdeaPad K1",
+      "title": "Lenovo IdeaPad K1 Android tablet. Announced Jun 2011. Features 10.1″  display, Nvidia Tegra 2 T20 chipset, 5 MP primary camera, 2 MP front camera, 7400 mAh battery, 32 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/Lenovo-IdeaPad-Tablet-K1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "ThinkPad",
+      "title": "Lenovo ThinkPad Android tablet. Announced Jun 2011. Features 10.1″  display, Nvidia Tegra 2 chipset, 5 MP primary camera, 2 MP front camera, 3250 mAh battery, 64 GB storage, 1000 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/Lenovo-ThinkPad-Tablet.jpg",
+      "specs": ""
+    },
+    {
+      "name": "K12",
+      "title": "Lenovo K12 Android smartphone. Not announced yet. Features 6.5″  display, MT6762G Helio G25 chipset, 4000 mAh battery, 32 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/smartphone.jpg",
+      "specs": ""
+    },
+    {
+      "name": "K7",
+      "title": "Lenovo K7 Android smartphone. Announced Apr 2020. Features 6.09″  display, Unisoc SC9863A chipset, 4000 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/smartphone.jpg",
+      "specs": ""
+    },
+    {
+      "name": "ZUK Z1 mini",
+      "title": "Lenovo ZUK Z1 mini Android smartphone. Announced Q1 2016. Features 4.7″  display, MT6755 Helio P10 chipset, 8 MP primary camera, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/smartphone.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A5860",
+      "title": "Lenovo A5860 Android smartphone. Not announced yet. Features 5.5″  display, 8 MP primary camera, 2 MP front camera, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-a5860.jpg",
+      "specs": ""
+    },
+    {
+      "name": "ideapad",
+      "title": "Lenovo ideapad Windows Mobile smartphone. Features 8.0″  display, Intel Atom chipset, 5 MP primary camera, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/smartphone.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Vibe Z3 Pro",
+      "title": "Lenovo Vibe Z3 Pro Android smartphone. Announced Q3 2015. Features 5.5″  display, Snapdragon 810 chipset, 16 MP primary camera, 8 MP front camera, 3400 mAh battery, 64 GB storage, 4 GB RAM, Corning Gorilla Glass 4.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/smartphone.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A630",
+      "title": "Lenovo A630 Android smartphone. Announced Sep 2013. Features 4.5″  display, MT6577 chipset, 3.15 MP primary camera, 2500 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-a630.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A516",
+      "title": "Lenovo A516 Android smartphone. Announced Q3 2013. Features 4.5″  display, MT6572 chipset, 5 MP primary camera, 2000 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-a516.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Vibe X S960",
+      "title": "Lenovo Vibe X S960 Android smartphone. Announced Sep 2013. Features 5.0″  display, MT6589T chipset, 13 MP primary camera, 5 MP front camera, 2000 mAh battery, 32 GB storage, 2 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-vibe-x.jpg",
+      "specs": ""
+    },
+    {
+      "name": "S5000",
+      "title": "Lenovo S5000 Android tablet. Announced Sep 2013. Features 7.0″  display, MT8125 or MT8389 chipset, 5 MP primary camera, 1.6 MP front camera, 3450 mAh battery, 16 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-s5000-n.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A850",
+      "title": "Lenovo A850 Android smartphone. Announced Aug 2013. Features 5.5″  display, MT6582M chipset, 5 MP primary camera, 2250 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-a850.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A706",
+      "title": "Lenovo A706 Android smartphone. Announced  2013. Features 4.5″  display, Snapdragon S4 Play chipset, 5 MP primary camera, 2000 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-a706.jpg",
+      "specs": ""
+    },
+    {
+      "name": "P780",
+      "title": "Lenovo P780 Android smartphone. Announced Jun 2013. Features 5.0″  display, MT6589 chipset, 8 MP primary camera, 4000 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-p780.jpg",
+      "specs": ""
+    },
+    {
+      "name": "S820",
+      "title": "Lenovo S820 Android smartphone. Announced May 2013. Features 4.7″  display, MT6589 chipset, 12 MP primary camera, 2 MP front camera, 2000 mAh battery, 8 GB storage, 1000 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-s820.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A390",
+      "title": "Lenovo A390 Android smartphone. Announced Apr 2013. Features 4.0″  display, MT6577 chipset, 5 MP primary camera, 1500 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-a390.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A369i",
+      "title": "Lenovo A369i Android smartphone. Announced Q3 2013. Features 4.0″  display, MT6572 chipset, 2 MP primary camera, 1500 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-a369i.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A269i",
+      "title": "Lenovo A269i Android smartphone. Announced Sep 2013. Features 3.5″  display, MT6572 chipset, 2 MP primary camera, 1300 mAh battery, 512 MB storage, 256 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-a269i.jpg",
+      "specs": ""
+    },
+    {
+      "name": "S920",
+      "title": "Lenovo S920 Android smartphone. Announced Mar 2013. Features 5.3″  display, MT6589 chipset, 8 MP primary camera, 2 MP front camera, 2250 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-s920.jpg",
+      "specs": ""
+    },
+    {
+      "name": "IdeaTab S6000H",
+      "title": "Lenovo IdeaTab S6000H Android tablet. Announced Q1 2013. Features 10.1″  display, MT8389 chipset, 5 MP primary camera, 6350 mAh battery, 32 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-ideatab-s6000.jpg",
+      "specs": ""
+    },
+    {
+      "name": "IdeaTab S6000F",
+      "title": "Lenovo IdeaTab S6000F Android tablet. Announced Q1 2013. Features 10.1″  display, MT8125 chipset, 5 MP primary camera, 6350 mAh battery, 16 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-ideatab-s6000.jpg",
+      "specs": ""
+    },
+    {
+      "name": "IdeaTab S6000L",
+      "title": "Lenovo IdeaTab S6000L Android tablet. Announced Q1 2013. Features 10.1″  display, MT8125 chipset, 6350 mAh battery, 16 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-ideatab-s6000.jpg",
+      "specs": ""
+    },
+    {
+      "name": "IdeaTab S6000",
+      "title": "Lenovo IdeaTab S6000 Android tablet. Announced Q1 2013. Features 10.1″  display, MT8125 chipset, 5 MP primary camera, 6350 mAh battery, 32 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-ideatab-s6000.jpg",
+      "specs": ""
+    },
+    {
+      "name": "IdeaTab A3000",
+      "title": "Lenovo IdeaTab A3000 Android tablet. Announced Jan 2013. Features 7.0″  display, MT8125 chipset, 5 MP primary camera, 3500 mAh battery, 16 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-ideatab-a3000.jpg",
+      "specs": ""
+    },
+    {
+      "name": "IdeaTab A1000",
+      "title": "Lenovo IdeaTab A1000 Android tablet. Announced Jan 2013. Features 7.0″  display, MT8317 chipset, 3500 mAh battery, 16 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-ideatab-a1000.jpg",
+      "specs": ""
+    },
+    {
+      "name": "K900",
+      "title": "Lenovo K900 Android smartphone. Announced Jan 2013. Features 5.5″  display, Intel Atom Z2580 chipset, 13 MP primary camera, 2 MP front camera, 2500 mAh battery, 32 GB storage, 2 GB RAM, Corning Gorilla Glass 2.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-k900-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "S890",
+      "title": "Lenovo S890 Android smartphone. Announced Jan 2013. Features 5.0″  display, MT6577 chipset, 8 MP primary camera, 2250 mAh battery, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-s890.jpg",
+      "specs": ""
+    },
+    {
+      "name": "IdeaTab A2107",
+      "title": "Lenovo IdeaTab A2107 Android tablet. Announced Jan 2013. Features 7.0″  display, MT6575 chipset, 3.15 MP primary camera, 3550 mAh battery, 16 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-ideatab-a2107.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A830",
+      "title": "Lenovo A830 Android smartphone. Announced  2013. Features 5.0″  display, MT6589 chipset, 8 MP primary camera, 2250 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-a830.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A820",
+      "title": "Lenovo A820 Android smartphone. Announced  2013. Features 4.5″  display, MT6589 chipset, 8 MP primary camera, 2000 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-a820.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A800",
+      "title": "Lenovo A800 Android smartphone. Announced Jan 2013. Features 4.5″  display, MT6577T chipset, 5 MP primary camera, 2000 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-a800.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A789",
+      "title": "Lenovo A789 Android smartphone. Announced Jun 2012. Features 4.0″  display, MT6577 chipset, 5 MP primary camera, 2000 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-a789.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A690",
+      "title": "Lenovo A690 Android smartphone. Announced Jan 2013. Features 4.0″  display, MT6575 chipset, 3.15 MP primary camera, 1500 mAh battery, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-a690.jpg",
+      "specs": ""
+    },
+    {
+      "name": "S720",
+      "title": "Lenovo S720 Android smartphone. Announced Jan 2013. Features 4.5″  display, MT6577 chipset, 8 MP primary camera, 1 MP front camera, 2000 mAh battery, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-s720.jpg",
+      "specs": ""
+    },
+    {
+      "name": "P770",
+      "title": "Lenovo P770 Android smartphone. Announced Nov 2012. Features 4.5″  display, MT6577 chipset, 5 MP primary camera, 3500 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-p770.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A60+",
+      "title": "Lenovo A60+ Android smartphone. Announced  2012. Features 3.5″  display, MT6575 chipset, 2 MP primary camera, 1500 mAh battery, 256 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-a60-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "S560",
+      "title": "Lenovo S560 Android smartphone. Announced  2012. Features 4.0″  display, MT6577 chipset, 5 MP primary camera, 2000 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-lephone-s560.jpg",
+      "specs": ""
+    },
+    {
+      "name": "S880",
+      "title": "Lenovo S880 Android smartphone. Announced Aug 2012. Features 5.0″  display, MT6575 chipset, 5 MP primary camera, 2250 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-lephone-s880.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A660",
+      "title": "Lenovo A660 Android smartphone. Announced Sep 2012. Features 4.0″  display, MT6577 chipset, 5 MP primary camera, 1500 mAh battery, 4 GB storage, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-a660.jpg",
+      "specs": ""
+    },
+    {
+      "name": "K860",
+      "title": "Lenovo K860 Android smartphone. Announced Aug 2012. Features 5.0″  display, Exynos 4412 Quad chipset, 8 MP primary camera, 2 MP front camera, 2250 mAh battery, 8 GB storage, 1000 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-ideaphone-k860.jpg",
+      "specs": ""
+    },
+    {
+      "name": "P700i",
+      "title": "Lenovo P700i Android smartphone. Announced  2012. Features 4.0″  display, MT6577 chipset, 5 MP primary camera, 2500 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-p700i.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A65",
+      "title": "Lenovo A65 Android smartphone. Announced Jul 2012. Features 3.5″  display, MT6573 chipset, 3.15 MP primary camera, 1500 mAh battery, 220 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-a65.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A335",
+      "title": "Lenovo A335 phone. Announced Jan 2012. Features 2.6″  display, MT6253 chipset, 1700 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-a335.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A185",
+      "title": "Lenovo A185 phone. Announced Dec 2011. Features 2.4″  display, MT6252 chipset, 1800 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-a185.jpg",
+      "specs": ""
+    },
+    {
+      "name": "S800",
+      "title": "Lenovo S800 phone. Announced Oct 2011. Features 2.4″  display, MT6253 chipset, 2 MP primary camera, 650 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-s800.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Q350",
+      "title": "Lenovo Q350 phone. Announced Oct 2011. Features 2.3″  display, MT6235 chipset, 3.15 MP primary camera, 1100 mAh battery, 63 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-q350.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Q330",
+      "title": "Lenovo Q330 phone. Announced Oct 2011. Features 2.3″  display, MT6253 chipset, 2 MP primary camera, 1000 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-q330.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A336",
+      "title": "Lenovo A336 phone. Announced Oct 2011. Features 2.4″  display, MT6253DV chipset, 1400 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-a336.jpg",
+      "specs": ""
+    },
+    {
+      "name": "E156",
+      "title": "Lenovo E156 phone. Announced Oct 2011. Features 1.5″  display, MT6223D chipset, 650 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-e156.jpg",
+      "specs": ""
+    },
+    {
+      "name": "LePhone S2",
+      "title": "Lenovo LePhone S2 Android smartphone. Announced Jan 2012. Features 3.8″  display, 8 MP primary camera, 1500 mAh battery, 16 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/Lenovo-LePhone-S2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A60",
+      "title": "Lenovo A60 Android smartphone. Announced  2011. Features 3.5″  display, MT6573 chipset, 3.15 MP primary camera, 1500 mAh battery, 220 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-a60.jpg",
+      "specs": ""
+    },
+    {
+      "name": "K800",
+      "title": "Lenovo K800 Android smartphone. Announced Jan 2012. Features 4.5″  display, Intel Atom Z2460 chipset, 8 MP primary camera, 1900 mAh battery, 16 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-k800.jpg",
+      "specs": ""
+    },
+    {
+      "name": "IdeaPad S2",
+      "title": "Lenovo IdeaPad S2 Android tablet. Announced Jan 2012. Features 10.0″  display, Snapdragon S4 Plus chipset, 5 MP primary camera, 1350 mAh battery, 64 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-IdeaPad-S2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "LePad S2010",
+      "title": "Lenovo LePad S2010 Android tablet. Announced Nov 2011. Features 10.1″  display, Snapdragon chipset, 8 MP primary camera, 1.3 MP front camera, 7560 mAh battery, 16 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/Lenovo-LePad-S2010.jpg",
+      "specs": ""
+    },
+    {
+      "name": "LePad S2007",
+      "title": "Lenovo LePad S2007 Android tablet. Announced Nov 2011. Features 7.0″  display, Snapdragon chipset, 8 MP primary camera, 1.3 MP front camera, 3780 mAh battery, 16 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/Lenovo-LePad-S2007.jpg",
+      "specs": ""
+    },
+    {
+      "name": "LePad S2005",
+      "title": "Lenovo LePad S2005 Android smartphone. Announced Nov 2011. Features 5.0″  display, Snapdragon S3 chipset, 5 MP primary camera, 1680 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/Lenovo-LePad-S2005.jpg",
+      "specs": ""
+    },
+    {
+      "name": "IdeaPad A1",
+      "title": "Lenovo IdeaPad A1 Android tablet. Announced Nov 2011. Features 7.0″  display, 3.15 MP primary camera, 16 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/Lenovo-IdeaPad-A1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Legion Duel",
+      "title": "Lenovo Legion Duel Android smartphone. Announced Jul 2020. Features 6.65″  display, Snapdragon 865 5G+ chipset, 5000 mAh battery, 512 GB storage, 16 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-legion-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Legion Pro",
+      "title": "Lenovo Legion Pro Android smartphone. Announced Jul 2020. Features 6.65″  display, Snapdragon 865 5G+ chipset, 5000 mAh battery, 512 GB storage, 16 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-legion-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A7",
+      "title": "Lenovo A7 Android smartphone. Announced Apr 2019. Features 6.09″  display, Unisoc SC9863A chipset, 4000 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-a7.jpg",
+      "specs": ""
+    },
+    {
+      "name": "M10 Plus",
+      "title": "Lenovo M10 Plus Android tablet. Announced Mar 2020. Features 10.3″  display, MT6762 Helio P22T chipset, 5000 mAh battery, 128 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-m10-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "M10 FHD REL",
+      "title": "Lenovo M10 FHD REL Android tablet. Announced Jan 2020. Features 10.1″  display, Snapdragon 450 chipset, 7000 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-m10-fhd-rel.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Yoga Smart Tab",
+      "title": "Lenovo Yoga Smart Tab Android tablet. Announced Oct 2019. Features 10.1″  display, Snapdragon 439 chipset, 7000 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-yoga-smart-tab.jpg",
+      "specs": ""
+    },
+    {
+      "name": "K10 Plus",
+      "title": "Lenovo K10 Plus Android smartphone. Announced Sep 2019. Features 6.22″  display, Snapdragon 632 chipset, 4050 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-k10-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "K10 Note",
+      "title": "Lenovo K10 Note Android smartphone. Announced Sep 2019. Features 6.3″  display, Snapdragon 710 chipset, 4050 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-z6-youth.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A6 Note",
+      "title": "Lenovo A6 Note Android smartphone. Announced Sep 2019. Features 6.09″  display, MT6762 Helio P22 chipset, 4000 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-a6-note-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Tab M8 (FHD)",
+      "title": "Lenovo Tab M8 (FHD) Android tablet. Announced Sep 2019. Features 8.0″  display, MT6762 Helio P22T chipset, 5100 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-tab-m8-HD.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Tab M8 (HD)",
+      "title": "Lenovo Tab M8 (HD) Android tablet. Announced Sep 2019. Features 8.0″  display, MT6761 Helio A22 chipset, 5000 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-tab-m8-HD.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Tab M7",
+      "title": "Lenovo Tab M7 Android tablet. Announced Sep 2019. Features 7.0″  display, MT8321 chipset, 3590 mAh battery, 32 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-tab-m7.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Z6",
+      "title": "Lenovo Z6 Android smartphone. Announced Jul 2019. Features 6.39″  display, Snapdragon 730 chipset, 4000 mAh battery, 128 GB storage, 8 GB RAM, Corning Gorilla Glass (unspecified).",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-z6.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Z6 Pro 5G",
+      "title": "Lenovo Z6 Pro 5G Android smartphone. Announced Jun 2019. Features 6.39″  display, Snapdragon 855 chipset, 4000 mAh battery, 512 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-z6-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Z6 Youth",
+      "title": "Lenovo Z6 Youth Android smartphone. Announced May 2019. Features 6.3″  display, Snapdragon 710 chipset, 4050 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-z6-youth.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Z6 Pro",
+      "title": "Lenovo Z6 Pro Android smartphone. Announced Apr 2019. Features 6.39″  display, Snapdragon 855 chipset, 4000 mAh battery, 512 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-z6-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "K6 Enjoy",
+      "title": "Lenovo K6 Enjoy Android smartphone. Announced Apr 2019. Features 6.22″  display, MT6762 Helio P22 chipset, 3300 mAh battery, 128 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-k6-enjoy.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Tab V7",
+      "title": "Lenovo Tab V7 Android tablet. Announced Feb 2019. Features 6.95″  display, Snapdragon 450 chipset, 5180 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-tab-v7.jpg",
+      "specs": ""
+    },
+    {
+      "name": "S5 Pro GT",
+      "title": "Lenovo S5 Pro GT Android smartphone. Announced Dec 2018. Features 6.2″  display, Snapdragon 660 chipset, 3500 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-s5-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Z5s",
+      "title": "Lenovo Z5s Android smartphone. Announced Dec 2018. Features 6.3″  display, Snapdragon 710 chipset, 3300 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass (unspecified version).",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-z5s.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Z5 Pro GT",
+      "title": "Lenovo Z5 Pro GT Android smartphone. Announced Dec 2018. Features 6.39″  display, Snapdragon 855 chipset, 3350 mAh battery, 512 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-z5-pro-gt-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Z5 Pro",
+      "title": "Lenovo Z5 Pro Android smartphone. Announced Nov 2018. Features 6.39″  display, Snapdragon 710 chipset, 3350 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-z5-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "S5 Pro",
+      "title": "Lenovo S5 Pro Android smartphone. Announced Oct 2018. Features 6.2″  display, Snapdragon 636 chipset, 3500 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-s5-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "K5 Pro",
+      "title": "Lenovo K5 Pro Android smartphone. Announced Oct 2018. Features 5.99″  display, Snapdragon 636 chipset, 4050 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-k5-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "K9",
+      "title": "Lenovo K9 Android smartphone. Announced Oct 2018. Features 5.7″  display, MT6762 Helio P22 chipset, 3000 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-k9.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Z5",
+      "title": "Lenovo Z5 Android smartphone. Announced Jun 2018. Features 6.2″  display, Snapdragon 636 chipset, Dual: 16 MP (f/2.0, PDAF) + 8 MP primary camera, 8 MP front camera, 3300 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-z5.jpg",
+      "specs": ""
+    },
+    {
+      "name": "K5 Note (2018)",
+      "title": "Lenovo K5 Note (2018) Android smartphone. Announced Jun 2018. Features 6.0″  display, Snapdragon 450 chipset, 3760 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-k5-note-2018-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A5",
+      "title": "Lenovo A5 Android smartphone. Announced Jun 2018. Features 5.45″  display, MT6739 chipset, 13 MP primary camera, 8 MP front camera, 4000 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-a5-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "K5 play",
+      "title": "Lenovo K5 play Android smartphone. Announced Mar 2018. Features 5.7″  display, Snapdragon 430 chipset, Dual: 13 MP (f/2.2, AF) + 2 MP primary camera, 8 MP front camera, 3000 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-k5-play.jpg",
+      "specs": ""
+    },
+    {
+      "name": "K5",
+      "title": "Lenovo K5 Android smartphone. Announced Mar 2018. Features 5.7″  display, MT6750V chipset, Dual: 13 MP (f/2.0, AF) + 5 MP primary camera, 8 MP front camera, 3000 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-k5-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "S5",
+      "title": "Lenovo S5 Android smartphone. Announced Mar 2018. Features 5.7″  display, Snapdragon 625 chipset, Dual: 13 MP (f/2.2, PDAF) + 13 MP primary camera, 16 MP front camera, 3000 mAh battery, 128 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-s5-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "K320t",
+      "title": "Lenovo K320t Android smartphone. Announced Dec 2017. Features 5.7″  display, Spreadtrum chipset, Dual: 8 MP (f/2.0, AF) + 2 MP primary camera, 8 MP front camera, 3000 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-k320t.jpg",
+      "specs": ""
+    },
+    {
+      "name": "moto tab",
+      "title": "Lenovo moto tab Android tablet. Announced Nov 2017. Features 10.1″  display, Snapdragon 625 chipset, 8 MP primary camera, 5 MP front camera, 7000 mAh battery, 32 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-moto-tab.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Tab 7 Essential",
+      "title": "Lenovo Tab 7 Essential Android tablet. Announced Nov 2017. Features 7.0″  display, MT8167D, MT8735D chipset, 2 MP primary camera, 2 MP front camera, 3450 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-tab-7-essential.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Tab 7",
+      "title": "Lenovo Tab 7 Android tablet. Announced Nov 2017. Features 7.0″  display, MT8161 chipset, 5 MP primary camera, 2 MP front camera, 3500 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-tab-7-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "K8 Plus",
+      "title": "Lenovo K8 Plus Android smartphone. Announced Sep 2017. Features 5.2″  display, MT6757 Helio P25 chipset, Dual: 13 MP (f/2.0, PDAF) + 5 MP primary camera, 8 MP front camera, 4000 mAh battery, 32 GB storage, 4 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-k8-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "K8",
+      "title": "Lenovo K8 Android smartphone. Announced Sep 2017. Features 5.2″  display, MT6757 Helio P20 chipset, 13 MP primary camera, 8 MP front camera, 4000 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-k8.jpg",
+      "specs": ""
+    },
+    {
+      "name": "K8 Note",
+      "title": "Lenovo K8 Note Android smartphone. Announced Aug 2017. Features 5.5″  display, MT6797D Helio X23 chipset, Dual: 13 MP (f/1.7, PDAF) + 5 MP primary camera, 13 MP front camera, 4000 mAh battery, 64 GB storage, 4 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-k8-note-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Tab 4 10 Plus",
+      "title": "Lenovo Tab 4 10 Plus Android tablet. Announced Feb 2017. Features 10.1″  display, Snapdragon 625 chipset, 8 MP primary camera, 5 MP front camera, 7000 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-tab-4-10.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Tab 4 10",
+      "title": "Lenovo Tab 4 10 Android tablet. Announced Feb 2017. Features 10.1″  display, Snapdragon 425 (Wi-Fi chipset, 5 MP primary camera, 2 MP front camera, 7000 mAh battery, 32 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-tab-4-10.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Tab 4 8 Plus",
+      "title": "Lenovo Tab 4 8 Plus Android tablet. Announced Feb 2017. Features 8.0″  display, Snapdragon 625 chipset, 8 MP primary camera, 5 MP front camera, 4850 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-tab-4-8-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Tab 4 8",
+      "title": "Lenovo Tab 4 8 Android tablet. Announced Feb 2017. Features 8.0″  display, Snapdragon 425 (Wi-Fi chipset, 5 MP primary camera, 2 MP front camera, 4850 mAh battery, 32 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-tab-4-8-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Tab3 8 Plus",
+      "title": "Lenovo Tab3 8 Plus Android tablet. Announced Mar 2017. Features 8.0″  display, Snapdragon 625 chipset, 8 MP primary camera, 5 MP front camera, 4250 mAh battery, 16 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-tab3-8.jpg",
+      "specs": ""
+    },
+    {
+      "name": "ZUK Edge",
+      "title": "Lenovo ZUK Edge Android smartphone. Announced Dec 2016. Features 5.5″  display, Snapdragon 821 chipset, 13 MP primary camera, 8 MP front camera, 3100 mAh battery, 64 GB storage, 6 GB RAM, Corning Gorilla Glass (unspecified version).",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-zuk-edge-1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A6600 Plus",
+      "title": "Lenovo A6600 Plus Android smartphone. Announced Sep 2016. Features 5.0″  display, MT6735P chipset, 8 MP primary camera, 2 MP front camera, 2300 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-a6600.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A6600",
+      "title": "Lenovo A6600 Android smartphone. Announced Sep 2016. Features 5.0″  display, MT6735P chipset, 8 MP primary camera, 2 MP front camera, 2300 mAh battery, 16 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-a6600.jpg",
+      "specs": ""
+    },
+    {
+      "name": "B",
+      "title": "Lenovo B Android smartphone. Announced Oct 2016. Features 4.5″  display, MT6735 chipset, 5 MP primary camera, 2 MP front camera, 2000 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-b.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A Plus",
+      "title": "Lenovo A Plus Android smartphone. Announced Sep 2016. Features 4.5″  display, MT6580 chipset, 5 MP primary camera, 2 MP front camera, 2000 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-a-plus-A1010.jpg",
+      "specs": ""
+    },
+    {
+      "name": "P2",
+      "title": "Lenovo P2 Android smartphone. Announced Sep 2016. Features 5.5″  display, Snapdragon 625 chipset, 13 MP primary camera, 5 MP front camera, 5100 mAh battery, 64 GB storage, 4 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-p2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "K6 Note",
+      "title": "Lenovo K6 Note Android smartphone. Announced Sep 2016. Features 5.5″  display, Snapdragon 430 chipset, 16 MP primary camera, 8 MP front camera, 4000 mAh battery, 32 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-k6-note.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Tab 2 A10-70",
+      "title": "Lenovo Tab 2 A10-70 Android tablet. Announced Mar 2015. Features 10.1″  display, MT8732 chipset, 8 MP primary camera, 5 MP front camera, 7000 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-tab-2-a10.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Tab 2 A8-50",
+      "title": "Lenovo Tab 2 A8-50 Android tablet. Announced Mar 2015. Features 8.0″  display, MT8735 chipset, 5 MP primary camera, 2 MP front camera, 4290 mAh battery, 16 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-tab-2-a8.jpg",
+      "specs": ""
+    },
+    {
+      "name": "P70",
+      "title": "Lenovo P70 Android smartphone. Announced Jan 2015. Features 5.0″  display, MT6752 chipset, 13 MP primary camera, 5 MP front camera, 4000 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-p70.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Tab 2 A7-30",
+      "title": "Lenovo Tab 2 A7-30 Android tablet. Announced Jan 2015. Features 7.0″  display, MT8382M chipset, 2 MP primary camera, 3450 mAh battery, 16 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-tab-2-a7-30.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Tab 2 A7-20",
+      "title": "Lenovo Tab 2 A7-20 Android tablet. Announced Jan 2015. Features 7.0″  display, MT8127 chipset, 2MP primary camera, 3450 mAh battery, 16 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-tab2-a7-20.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Tab 2 A7-10",
+      "title": "Lenovo Tab 2 A7-10 Android tablet. Announced Jan 2015. Features 7.0″  display, MT8127 chipset, 3450 mAh battery, 16 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-tab-2-a7-10.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A6000",
+      "title": "Lenovo A6000 Android smartphone. Announced Jan 2015. Features 5.0″  display, Snapdragon 410 chipset, 8 MP primary camera, 2 MP front camera, 2300 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-a6000.jpg",
+      "specs": ""
+    },
+    {
+      "name": "P90",
+      "title": "Lenovo P90 Android smartphone. Announced Jan 2015. Features 5.5″  display, Intel Atom Z3560 chipset, 13 MP primary camera, 5 MP front camera, 4000 mAh battery, 32 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-p90.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Vibe X2 Pro",
+      "title": "Lenovo Vibe X2 Pro Android smartphone. Announced Jan 2015. Features 5.3″  display, Snapdragon 615 chipset, 13 MP primary camera, 13 MP front camera, 2410 mAh battery, 32 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-vibe-x2-pror.jpg",
+      "specs": ""
+    },
+    {
+      "name": "K3",
+      "title": "Lenovo K3 Android smartphone. Announced Dec 2014. Features 5.0″  display, Snapdragon 410 chipset, 8 MP primary camera, 2 MP front camera, 2300 mAh battery, 16 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-lemon-k31.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Golden Warrior Note 8",
+      "title": "Lenovo Golden Warrior Note 8 Android smartphone. Announced Dec 2014. Features 6.0″  display, MT6752 chipset, 13 MP primary camera, 5 MP front camera, 3300 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-golden-warrior-note-8.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A916",
+      "title": "Lenovo A916 Android smartphone. Announced Nov 2014. Features 5.5″  display, MT6592 chipset, 13 MP primary camera, 2 MP front camera, 2500 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-a916.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A319",
+      "title": "Lenovo A319 Android smartphone. Announced Oct 2014. Features 4.0″  display, MT6572 chipset, 5 MP primary camera, 2 MP front camera, 1500 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-a319.jpg",
+      "specs": ""
+    },
+    {
+      "name": "S856",
+      "title": "Lenovo S856 Android smartphone. Announced Oct 2014. Features 5.5″  display, Snapdragon 400 chipset, 8 MP primary camera, 1.6 MP front camera, 2500 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-s856.jpg",
+      "specs": ""
+    },
+    {
+      "name": "S580",
+      "title": "Lenovo S580 Android smartphone. Announced Sep 2014. Features 5.0″  display, Snapdragon 200 chipset, 8 MP primary camera, 2 MP front camera, 2150 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-s580.jpg",
+      "specs": ""
+    },
+    {
+      "name": "S90 Sisley",
+      "title": "Lenovo S90 Sisley Android smartphone. Announced Nov 2014. Features 5.0″  display, Snapdragon 410 chipset, 13 MP primary camera, 8 MP front camera, 2300 mAh battery, 32 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-sisley-s90.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A606",
+      "title": "Lenovo A606 Android smartphone. Announced Sep 2014. Features 5.0″  display, MT6582M chipset, 8 MP primary camera, 2 MP front camera, 2000 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-a606.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Yoga Tablet 2 Pro",
+      "title": "Lenovo Yoga Tablet 2 Pro Android tablet. Announced Oct 2014. Features 13.3″  display, Intel Atom Z3745 chipset, 8 MP primary camera, 1.6 MP front camera, 9600 mAh battery, 32 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-tablet-yoga-tablet-2-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Yoga Tablet 2 10.1",
+      "title": "Lenovo Yoga Tablet 2 10.1 Android tablet. Announced Oct 2014. Features 10.1″  display, Intel Atom Z3745 chipset, 8 MP primary camera, 1.6 MP front camera, 9600 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-yoga-tablet-2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Yoga Tablet 2 8.0",
+      "title": "Lenovo Yoga Tablet 2 8.0  Android tablet. Announced Oct 2014. Features 8.0″  display, Intel Atom Z3745 chipset, 8 MP primary camera, 1.6 MP front camera, 6400 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-yoga-tablet-2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Tab S8",
+      "title": "Lenovo Tab S8 Android tablet. Announced Sep 2014. Features 8.0″  display, Intel Atom Z3745 chipset, 8 MP primary camera, 1.6 MP front camera, 4290 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-tablet-s8.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Vibe X2",
+      "title": "Lenovo Vibe X2 Android smartphone. Announced Sep 2014. Features 5.0″  display, MT6595M chipset, 13 MP primary camera, 5 MP front camera, 2300 mAh battery, 32 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-vibe-x2new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Vibe Z2",
+      "title": "Lenovo Vibe Z2 Android smartphone. Announced Sep 2014. Features 5.5″  display, Snapdragon 410 chipset, 13 MP primary camera, 8MP front camera, 3000 mAh battery, 32 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-vibe-z2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A850+",
+      "title": "Lenovo A850+ Android smartphone. Announced Mar 2014. Features 5.5″  display, MT6592M chipset, 5 MP primary camera, 2500 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-a850-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Vibe Z2 Pro",
+      "title": "Lenovo Vibe Z2 Pro Android smartphone. Announced Aug 2014. Features 6.0″  display, Snapdragon 801 chipset, 16 MP primary camera, 5 MP front camera, 4000 mAh battery, 32 GB storage, 3 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-vibe-z2-pro-r1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Golden Warrior A8",
+      "title": "Lenovo Golden Warrior A8 Android smartphone. Announced Jul 2014. Features 5.0″  display, MT6592 chipset, 13 MP primary camera, 5 MP front camera, 2500 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-golden-warrior-a8-a806.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Golden Warrior S8",
+      "title": "Lenovo Golden Warrior S8 Android smartphone. Announced May 2014. Features 5.3″  display, MT6592M chipset, 13 MP primary camera, 5 MP front camera, 2000 mAh battery, 16 GB storage, 2 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-golden-warrior-s8-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "S939",
+      "title": "Lenovo S939 Android smartphone. Announced May 2014. Features 6.0″  display, MT6592 chipset, 8 MP primary camera, 1.6 MP front camera, 3000 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-s939.jpg",
+      "specs": ""
+    },
+    {
+      "name": "S750",
+      "title": "Lenovo S750 Android smartphone. Announced Q3 2014. Features 4.5″  display, MT6589 chipset, 8 MP primary camera, 2000 mAh battery, 4 GB storage, 1000 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-s750.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A889",
+      "title": "Lenovo A889 Android smartphone. Announced May 2014. Features 6.0″  display, MT6582 chipset, 8 MP primary camera, 2500 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-a889.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A680",
+      "title": "Lenovo A680 Android smartphone. Announced May 2014. Features 5.0″  display, MT6582 chipset, 5 MP primary camera, 2000 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-a680.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A316i",
+      "title": "Lenovo A316i Android smartphone. Announced Apr 2014. Features 4.0″  display, MT6572 chipset, 2 MP primary camera, 1300 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-a316i.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A328",
+      "title": "Lenovo A328 Android smartphone. Announced Q3 2014. Features 4.5″  display, MT6582M chipset, 5 MP primary camera, 2 MP front camera, 2000 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-a328.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A536",
+      "title": "Lenovo A536 Android smartphone. Announced Q3 2014. Features 5.0″  display, MT6582M chipset, 5 MP primary camera, 2 MP front camera, 2000 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-a536.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A526",
+      "title": "Lenovo A526 Android smartphone. Announced Apr 2014. Features 4.5″  display, MT6582M chipset, 5 MP primary camera, 2000 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-a526-1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A10-70 A7600",
+      "title": "Lenovo A10-70 A7600 Android tablet. Announced Apr 2014. Features 10.1″  display, MT8382 chipset, 5 MP primary camera, 2 MP front camera, 6340 mAh battery, 32 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-a10-70-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A8-50 A5500",
+      "title": "Lenovo A8-50 A5500 Android tablet. Announced Apr 2014. Features 8.0″  display, MT8382 chipset, 5 MP primary camera, 2 MP front camera, 4200 mAh battery, 16 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-a8-50-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A7-50 A3500",
+      "title": "Lenovo A7-50 A3500 Android tablet. Announced Apr 2014. Features 7.0″  display, MT8382 chipset, 5 MP primary camera, 2 MP front camera, 3450 mAh battery, 16 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-a3500.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A7-30 A3300",
+      "title": "Lenovo A7-30 A3300 Android tablet. Announced Apr 2014. Features 7.0″  display, MT8382M chipset, 2 MP primary camera, 3500 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-a7-30-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Yoga Tablet 10 HD+",
+      "title": "Lenovo Yoga Tablet 10 HD+ Android tablet. Announced Feb 2014. Features 10.1″  display, Snapdragon 400 chipset, 8 MP primary camera, 1.6 MP front camera, 9000 mAh battery, 32 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-yoga-tablet-10-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "S860",
+      "title": "Lenovo S860 Android smartphone. Announced Feb 2014. Features 5.3″  display, MT6582 chipset, 8 MP primary camera, 1.6 MP front camera, 4000 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-s860-1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "S850",
+      "title": "Lenovo S850 Android smartphone. Announced Feb 2014. Features 5.0″  display, MT6582 chipset, 13 MP primary camera, 5 MP front camera, 2000 mAh battery, 16 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-s850-1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "S660",
+      "title": "Lenovo S660 Android smartphone. Announced Feb 2014. Features 4.7″  display, MT6582M chipset, 8 MP primary camera, 3000 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-s660-1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A880",
+      "title": "Lenovo A880 Android smartphone. Announced Jan 2014. Features 6.0″  display, MT6582M chipset, 5 MP primary camera, 2500 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-a880.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A859",
+      "title": "Lenovo A859 Android smartphone. Announced Jan 2014. Features 5.0″  display, MT6582 chipset, 8 MP primary camera, 1.6 MP front camera, 2250 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-a859.jpg",
+      "specs": ""
+    },
+    {
+      "name": "S930",
+      "title": "Lenovo S930 Android smartphone. Announced Dec 2013. Features 6.0″  display, MT6582 chipset, 8 MP primary camera, 1.6 MP front camera, 3000 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-s930.jpg",
+      "specs": ""
+    },
+    {
+      "name": "S650",
+      "title": "Lenovo S650 Android smartphone. Announced Dec 2013. Features 4.7″  display, MT6582 chipset, 8 MP primary camera, 2000 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-s650.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Vibe Z K910",
+      "title": "Lenovo Vibe Z K910 Android smartphone. Announced Nov 2013. Features 5.5″  display, Snapdragon 800 chipset, 13 MP primary camera, 5 MP front camera, 3000 mAh battery, 16 GB storage, 2 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-vibe-z-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Yoga Tablet 10",
+      "title": "Lenovo Yoga Tablet 10 Android tablet. Announced Oct 2013. Features 10.1″  display, MT8125 chipset, 5 MP primary camera, 1.6 MP front camera, 9000 mAh battery, 32 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-yoga-tablet-10.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Yoga Tablet 8",
+      "title": "Lenovo Yoga Tablet 8 Android tablet. Announced Oct 2013. Features 8.0″  display, MT8125 chipset, 5 MP primary camera, 1.6 MP front camera, 6000 mAh battery, 32 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-yoga-tablet-8.jpg",
+      "specs": ""
+    }
+  ]
+}

@@ -1,0 +1,799 @@
+{
+  "scrape_date": "2025-10-08T13:12:54.005035",
+  "total_phones": 132,
+  "source": "https://www.gsmarena.com/ulefone-phones-124.php",
+  "phones": [
+    {
+      "name": "Tab A9 Pro",
+      "title": "Ulefone Tab A9 Pro Android tablet. Announced Sep 2025. Features 8.68″  display, Helio G91 chipset, 5040 mAh battery, 128 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-tab-a9-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Armor 29 Pro Thermal",
+      "title": "Ulefone Armor 29 Pro Thermal 5G Android smartphone. Announced Aug 2025. Features 6.67″  display, Dimensity 7400 chipset, 21200 mAh battery, 512 GB storage, 16 GB RAM, MIL-STD-810H compliant, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-29-pro-thermal.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Armor 29 Pro",
+      "title": "Ulefone Armor 29 Pro 5G Android smartphone. Announced Aug 2025. Features 6.67″  display, Dimensity 7400 chipset, 21200 mAh battery, 512 GB storage, 16 GB RAM, MIL-STD-810H compliant, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-29-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "RugKing",
+      "title": "Ulefone RugKing Android smartphone. Announced Aug 2025. Features 5.99″  display, Unisoc T7255 chipset, 9600 mAh battery, 256 GB storage, 8 GB RAM, MIL-STD-810H compliant, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-rugking.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Armor 29 Ultra",
+      "title": "Ulefone Armor 29 Ultra 5G Android smartphone. Announced Aug 2025. Features 6.67″  display, Dimensity 9300+ chipset, 21200 mAh battery, 1024 GB storage, 16 GB RAM, MIL-STD-810H compliant, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-29-ultra.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Armor 34",
+      "title": "Ulefone Armor 34 5G Android smartphone. Announced Aug 2025. Features 6.95″  display, Dimensity 7300 chipset, 25500 mAh battery, 512 GB storage, 16 GB RAM, MIL-STD-810H compliant, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-34.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Armor 33 Pro",
+      "title": "Ulefone Armor 33 Pro 5G Android smartphone. Announced Mar 2025. Features 6.95″  display, Dimensity 7300X chipset, 25500 mAh battery, 512 GB storage, 16 GB RAM, MIL-STD-810H compliant, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-33-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Armor 33",
+      "title": "Ulefone Armor 33 Android smartphone. Announced Jul 2025. Features 6.95″  display, Helio G100 chipset, 25500 mAh battery, 512 GB storage, 12 GB RAM, MIL-STD-810H compliant, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-33.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Armor 30",
+      "title": "Ulefone Armor 30 Android smartphone. Announced Jun 2025. Features 6.95″  display, Helio G100 chipset, 12800 mAh battery, 512 GB storage, 12 GB RAM, MIL-STD-810H compliant, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-30.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Armor X16 Pro",
+      "title": "Ulefone Armor X16 Pro 5G Android smartphone. Announced Jul 2025. Features 6.56″  display, Dimensity 6300 chipset, 10360 mAh battery, 256 GB storage, 8 GB RAM, MIL-STD-810H compliant, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-x16-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Armor X16",
+      "title": "Ulefone Armor X16 Android smartphone. Announced Jul 2025. Features 6.56″  display, Helio G91 chipset, 10360 mAh battery, 128 GB storage, 6 GB RAM, MIL-STD-810H compliant, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-x16.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Armor 34 Pro",
+      "title": "Ulefone Armor 34 Pro Android smartphone. Announced Mar 2025. Features 6.95″  display, Dimensity 7300 chipset, 25500 mAh battery, 512 GB storage, 16 GB RAM, MIL-STD-810H compliant, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor34-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Armor 28 Pro",
+      "title": "Ulefone Armor 28 Pro 5G Android smartphone. Announced May 2025. Features 6.67″  display, Dimensity 7300 chipset, 10600 mAh battery, 512 GB storage, 16 GB RAM, MIL-STD-810H compliant, Corning Gorilla Glass Victus.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor28-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Armor X32 Pro",
+      "title": "Ulefone Armor X32 Pro 5G Android smartphone. Announced Apr 2025. Features 5.65″  display, Dimensity 6300 chipset, 5500 mAh battery, 256 GB storage, 8 GB RAM, MIL-STD-810H compliant, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-x32-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Armor X32",
+      "title": "Ulefone Armor X32 5G Android smartphone. Announced Apr 2025. Features 5.65″  display, Helio G91 chipset, 5500 mAh battery, 128 GB storage, 6 GB RAM, MIL-STD-810H compliant, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-x32.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Tab A10",
+      "title": "Ulefone Tab A10 Android tablet. Announced Mar 2025. Features 10.1″  display, Unisoc T615 chipset, 6600 mAh battery, 128 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-tab-a10.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Armor 30 Pro",
+      "title": "Ulefone Armor 30 Pro 5G Android smartphone. Announced Apr 2025. Features 6.95″  display, Dimensity 7300X chipset, 12800 mAh battery, 512 GB storage, 16 GB RAM, MIL-STD-810H compliant, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-30-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Armor 28 Ultra Thermal",
+      "title": "Ulefone Armor 28 Ultra Thermal Android smartphone. Announced Sep 2024. Features 6.67″  display, Dimensity 9300+ chipset, 10600 mAh battery, 1024 GB storage, 16 GB RAM, MIL-STD-810H compliant, Corning Gorilla Glass Victus.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-28-ultra.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Armor Mini 4",
+      "title": "Ulefone Armor Mini 4 phone. Announced Mar 2025. Features 2.8″  display, Unisoc T117 chipset, 2100 mAh battery, 128 MB storage, 64 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-mini4-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Armor 28 Ultra",
+      "title": "Ulefone Armor 28 Ultra Android smartphone. Announced Feb 2025. Features 6.67″  display, Dimensity 9300+ chipset, 10600 mAh battery, 1024 GB storage, 16 GB RAM, MIL-STD-810H compliant, Corning Gorilla Glass Victus.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor28-ultra.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Armor X31",
+      "title": "Ulefone Armor X31 Android smartphone. Announced Apr 2025. Features 6.56″  display, Helio G91 chipset, 6050 mAh battery, 128 GB storage, 6 GB RAM, MIL-STD-810H compliant, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-x31.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Armor X31 Pro",
+      "title": "Ulefone Armor X31 Pro Android smartphone. Announced Dec 2024. Features 6.56″  display, Dimensity 6300 chipset, 6050 mAh battery, 256 GB storage, 8 GB RAM, MIL-STD-810H compliant, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-x31-pro-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Armor 27T",
+      "title": "Ulefone Armor 27T Android smartphone. Announced Nov 2024. Features 6.78″  display, Helio G99 chipset, 10600 mAh battery, 256 GB storage, 12 GB RAM, MIL-STD-810H compliant, Corning Gorilla Glass Victus.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor27t.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Armor 27",
+      "title": "Ulefone Armor 27 Android smartphone. Announced Nov 2024. Features 6.78″  display, Helio G99 chipset, 10600 mAh battery, 256 GB storage, 12 GB RAM, MIL-STD-810H compliant, Corning Gorilla Glass Victus.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor27.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Note 18 Pro",
+      "title": "Ulefone Note 18 Pro Android smartphone. Announced Nov 2024. Features 6.78″  display, Helio G91 chipset, 5450 mAh battery, 256 GB storage, 6 GB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-note-18-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Tab A10 Pro",
+      "title": "Ulefone Tab A10 Pro Android tablet. Announced Nov 2024. Features 10.1″  display, MT8786 chipset, 6600 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-tab-a10-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Note 20 Pro",
+      "title": "Ulefone Note 20 Pro Android smartphone. Announced Sep 2024. Features 6.75″  display, Unisoc T606 chipset, 6000 mAh battery, 256 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-note-20-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Note 19",
+      "title": "Ulefone Note 19 Android smartphone. Announced Sep 2024. Features 6.56″  display, Unisoc T603 chipset, 5000 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-note-19.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Armor Pad 4 Ultra Thermal",
+      "title": "Ulefone Armor Pad 4 Ultra Thermal Android tablet. Announced Sep 2024. Features 10.36″  display, Dimensity 6300 chipset, 11800 mAh battery, 256 GB storage, 8 GB RAM, MIL-STD-810H compliant, Corning Gorilla Glass Victus.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-pad-4-ultra-thermal.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Armor Pad 4 Ultra",
+      "title": "Ulefone Armor Pad 4 Ultra Android tablet. Announced Sep 2024. Features 10.36″  display, Dimensity 6300 chipset, 11800 mAh battery, 256 GB storage, 8 GB RAM, MIL-STD-810H compliant, Corning Gorilla Glass Victus.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-pad-4-ultra.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Armor Mini 20",
+      "title": "Ulefone Armor Mini 20 Android smartphone. Announced Sep 2024. Features 4.7″  display, Helio G99 chipset, 6200 mAh battery, 256 GB storage, 8 GB RAM, MIL-STD-810H compliant, Corning Gorilla Glass Victus.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-mini20.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Armor Mini 20 Pro",
+      "title": "Ulefone Armor Mini 20 Pro Android smartphone. Announced Sep 2024. Features 4.7″  display, Dimensity 6300 chipset, 6200 mAh battery, 256 GB storage, 8 GB RAM, MIL-STD-810H compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-mini-20-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Armor Mini 20T Pro",
+      "title": "Ulefone Armor Mini 20T Pro Android smartphone. Announced Sep 2024. Features 4.7″  display, Dimensity 6300 chipset, 6200 mAh battery, 256 GB storage, 8 GB RAM, MIL-STD-810H compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-mini-20t-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Armor 27 Pro",
+      "title": "Ulefone Armor 27 Pro Android smartphone. Announced Aug 2024. Features 6.78″  display, Dimensity 6300 chipset, 10600 mAh battery, 256 GB storage, 12 GB RAM, MIL-STD-810H compliant, Corning Gorilla Glass Victus.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-27-pro--.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Armor 27T Pro",
+      "title": "Ulefone Armor 27T Pro Android smartphone. Announced Aug 2024. Features 6.78″  display, Dimensity 6300 chipset, 10600 mAh battery, 256 GB storage, 12 GB RAM, MIL-STD-810H compliant, Corning Gorilla Glass Victus.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-27t-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Armor 25T",
+      "title": "Ulefone Armor 25T Android smartphone. Announced Jul 2024. Features 6.78″  display, Helio G99 chipset, 6500 mAh battery, 256 GB storage, 6 GB RAM, MIL-STD-810H compliant, Corning Gorilla Glass Victus.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-25t.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Tab W10",
+      "title": "Ulefone Tab W10 Android tablet. Announced Jun 2024. Features 10.1″  display, Unisoc T606 chipset, 8800 mAh battery, 128 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-tab-w10.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Tab A11 Pro",
+      "title": "Ulefone Tab A11 Pro Android tablet. Announced Jun 2024. Features 11.0″  display, Helio G99 chipset, 8800 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-tab-a11-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Tab A11",
+      "title": "Ulefone Tab A11 Android tablet. Announced Jun 2024. Features 11.0″  display, Unisoc T620 chipset, 8800 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-tab-a11.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Armor 25T Pro",
+      "title": "Ulefone Armor 25T Pro Android smartphone. Announced May 2024. Features 6.78″  display, Dimensity 6300 chipset, 6500 mAh battery, 256 GB storage, 6 GB RAM, MIL-STD-810H compliant, Corning Gorilla Glass Victus.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-25t-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Note 18 Ultra",
+      "title": "Ulefone Note 18 Ultra Android smartphone. Announced May 2024. Features 6.78″  display, Dimensity 720 chipset, 5450 mAh battery, 256 GB storage, 6 GB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-note-18-ultra.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Armor 26 Ultra",
+      "title": "Ulefone Armor 26 Ultra Android smartphone. Announced Apr 2024. Features 6.78″  display, Dimensity 8020 chipset, 15600 mAh battery, 512 GB storage, 12 GB RAM, MIL-STD-810H compliant, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-26-ultra.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Armor 26 Ultra Walkie-talkie",
+      "title": "Ulefone Armor 26 Ultra Walkie-talkie Android smartphone. Announced Apr 2024. Features 6.78″  display, Dimensity 8020 chipset, 15600 mAh battery, 512 GB storage, 12 GB RAM, MIL-STD-810H compliant, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-26-ultra-wt.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Armor Pad 3 Pro",
+      "title": "Ulefone Armor Pad 3 Pro Android tablet. Announced Apr 2024. Features 10.36″  display, MT8788 chipset, 33280 mAh battery, 256 GB storage, 8 GB RAM, MIL-STD-810H compliant, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-pad-3-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Armor Pad Pro",
+      "title": "Ulefone Armor Pad Pro Android tablet. Announced Apr 2024. Features 8.0″  display, MT8788 chipset, 7650 mAh battery, 128 GB storage, 8 GB RAM, MIL-STD-810H compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-pad-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Power Armor 16S",
+      "title": "Ulefone Power Armor 16S Android smartphone. Announced Mar 2024. Features 5.93″  display, Unisoc Tiger T616 chipset, 9600 mAh battery, 128 GB storage, 8 GB RAM, MIL-STD-810H compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-power-armor-16s.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Note 17 Pro",
+      "title": "Ulefone Note 17 Pro Android smartphone. Announced Jan 2024. Features 6.78″  display, Helio G99 chipset, 5050 mAh battery, 256 GB storage, 12 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-note-17-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Armor 23 Ultra",
+      "title": "Ulefone Armor 23 Ultra Android smartphone. Announced Dec 2023. Features 6.78″  display, Dimensity 8020 chipset, 5280 mAh battery, 512 GB storage, 12 GB RAM, MIL-STD-810H compliant, Corning Gorilla Glass Victus.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-23-ultra.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Power Armor 18T Ultra",
+      "title": "Ulefone Power Armor 18T Ultra Android smartphone. Announced Oct 2023. Features 6.58″  display, Dimensity 7050 chipset, 9600 mAh battery, 512 GB storage, 12 GB RAM, MIL-STD-810H compliant, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-power-armor-18t-ultra.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Power Armor 18 Ultra",
+      "title": "Ulefone Power Armor 18 Ultra Android smartphone. Announced Nov 2023. Features 6.58″  display, Dimensity 7050 chipset, 9600 mAh battery, 512 GB storage, 12 GB RAM, MIL-STD-810H compliant, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-power-armor-18-ultra.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Watch GPS",
+      "title": "Ulefone Watch GPS watch. Announced Oct 2020. Features 1.3″  display, 210 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-watch-gps.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Watch",
+      "title": "Ulefone Watch watch. Announced Oct 2020. Features 1.3″  display, 210 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-watch.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Armor X8",
+      "title": "Ulefone Armor X8 Android smartphone. Announced Oct 2020. Features 5.7″  display, MT6762D Helio A25 chipset, 5080 mAh battery, 64 GB storage, 4 GB RAM, MIL-STD-810G compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-x8.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Armor 9E",
+      "title": "Ulefone Armor 9E Android smartphone. Announced Sep 2020. Features 6.3″  display, MT6779 Helio P90 chipset, 6600 mAh battery, 128 GB storage, 8 GB RAM, MIL-STD-810G compliant, Scratch-resistant glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-9e.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Armor X5 Pro",
+      "title": "Ulefone Armor X5 Pro Android smartphone. Announced Sep 2020. Features 5.5″  display, MT6762V chipset, 5000 mAh battery, 64 GB storage, 4 GB RAM, MIL-STD-810G compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-x5-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Note 8",
+      "title": "Ulefone Note 8 Android smartphone. Announced Aug 2020. Features 5.5″  display, MT6580 chipset, 2700 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-note-8.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Armor 8",
+      "title": "Ulefone Armor 8 Android smartphone. Announced Aug 2020. Features 6.1″  display, MT6771 Helio P60 chipset, 5580 mAh battery, 64 GB storage, 4 GB RAM, MIL-STD-810G compliant, Scratch-resistant glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-8.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Note 9P",
+      "title": "Ulefone Note 9P Android smartphone. Announced Jul 2020. Features 6.52″  display, MT6762 Helio P22 chipset, 4500 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-note-9p.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Armor 9",
+      "title": "Ulefone Armor 9 Android smartphone. Announced Jun 2020. Features 6.3″  display, MT6779 Helio P90 chipset, 6600 mAh battery, 128 GB storage, 8 GB RAM, MIL-STD-810G compliant, Scratch-resistant glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-9.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Note 8P",
+      "title": "Ulefone Note 8P Android smartphone. Announced Jun 2020. Features 5.5″  display, MT6737 chipset, 2700 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-note-8p.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Armor X7 Pro",
+      "title": "Ulefone Armor X7 Pro Android smartphone. Announced Jun 2020. Features 5.0″  display, MT6761 Helio A20 chipset, 4000 mAh battery, 32 GB storage, 4 GB RAM, MIL-STD-810G compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-x7-pro1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Armor 7E",
+      "title": "Ulefone Armor 7E Android smartphone. Announced Mar 2020. Features 6.3″  display, MT6779 Helio P90 chipset, 5500 mAh battery, 128 GB storage, 4 GB RAM, MIL-STD-810G compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-7e.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Armor X7",
+      "title": "Ulefone Armor X7 Android smartphone. Announced Mar 2020. Features 5.0″  display, MT6761 Helio A20 chipset, 4000 mAh battery, 16 GB storage, 2 GB RAM, MIL-STD-810G compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-x7.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Armor 7",
+      "title": "Ulefone Armor 7 Android smartphone. Announced Oct 2019. Features 6.3″  display, MT6779 Helio P90 chipset, 5500 mAh battery, 128 GB storage, 8 GB RAM, MIL-STD-810G compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor7.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Armor X6",
+      "title": "Ulefone Armor X6 Android smartphone. Announced Dec 2019. Features 5.0″  display, MT6580 chipset, 4000 mAh battery, 16 GB storage, 2 GB RAM, MIL-STD-810G compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armorx6.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Armor 6S",
+      "title": "Ulefone Armor 6S Android smartphone. Announced Sep 2019. Features 6.2″  display, MT6771 Helio P70 chipset, 5000 mAh battery, 128 GB storage, 6 GB RAM, MIL-STD-810G compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor6s.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Armor 3W",
+      "title": "Ulefone Armor 3W Android smartphone. Announced Sep 2019. Features 5.7″  display, MT6771 Helio P70 chipset, 10300 mAh battery, 64 GB storage, 6 GB RAM, MIL-STD-810G compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor3w.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Armor 3WT",
+      "title": "Ulefone Armor 3WT Android smartphone. Announced Sep 2019. Features 5.7″  display, MT6771 Helio P70 chipset, 10300 mAh battery, 64 GB storage, 6 GB RAM, MIL-STD-810G compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor3wt.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Armor X5",
+      "title": "Ulefone Armor X5 Android smartphone. Announced Dec 2019. Features 5.5″  display, MT6763 Helio P23 chipset, 5000 mAh battery, 32 GB storage, 3 GB RAM, MIL-STD-810G compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armorx5.jpg",
+      "specs": ""
+    },
+    {
+      "name": "T2",
+      "title": "Ulefone T2 Android smartphone. Announced Aug 2019. Features 6.7″  display, MT6771 Helio P70 chipset, 4200 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-t2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Armor X3",
+      "title": "Ulefone Armor X3 Android smartphone. Announced Jul 2019. Features 5.5″  display, MT6580 chipset, 5000 mAh battery, 32 GB storage, 2 GB RAM, MIL-STD-810G compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armorx3.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Armor 5S",
+      "title": "Ulefone Armor 5S Android smartphone. Announced Jul 2019. Features 5.85″  display, MT6763 Helio P23 chipset, 5000 mAh battery, 64 GB storage, 4 GB RAM, MIL-STD-810G compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor5s.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Armor 6E",
+      "title": "Ulefone Armor 6E Android smartphone. Announced May 2019. Features 6.2″  display, MT6771 Helio P70 chipset, 5000 mAh battery, 64 GB storage, 4 GB RAM, MIL-STD-810G compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor6e.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Note 7P",
+      "title": "Ulefone Note 7P Android smartphone. Announced May 2019. Features 6.1″  display, MT6761 Helio A22 chipset, 3500 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-note7p.jpg",
+      "specs": ""
+    },
+    {
+      "name": "S11",
+      "title": "Ulefone S11 Android smartphone. Announced Apr 2019. Features 6.1″  display, MT6580 chipset, 3500 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-s11-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Note 7",
+      "title": "Ulefone Note 7 Android smartphone. Announced Apr 2019. Features 6.1″  display, MT6580 chipset, 3500 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-note7-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Armor X2",
+      "title": "Ulefone Armor X2 Android smartphone. Announced Dec 2018. Features 5.5″  display, MT6580 chipset, 5500 mAh battery, 16 GB storage, 2 GB RAM, MIL-STD-810G compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armorx2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "S1",
+      "title": "Ulefone S1 Android smartphone. Announced Aug 2018. Features 5.5″  display, MT6580 chipset, 3000 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-s1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Armor X",
+      "title": "Ulefone Armor X Android smartphone. Announced Apr 2018. Features 5.5″  display, MT6739 chipset, 5500 mAh battery, 16 GB storage, 2 GB RAM, MIL-STD-810G compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armorx.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Armor 2",
+      "title": "Ulefone Armor 2 Android smartphone. Announced Aug 2017. Features 5.0″  display, MT6757 Helio P25 chipset, 4700 mAh battery, 64 GB storage, 6 GB RAM, MIL-STD-810G compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Armor 8 5G",
+      "title": "Ulefone Armor 8 5G Android smartphone. Announced Sep 2020. Features 6.1″  display, Dimensity 800 chipset, 5080 mAh battery, 256 GB storage, 8 GB RAM, MIL-STD-810G compliant, Scratch-resistant glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-8-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "T2 Pro",
+      "title": "Ulefone T2 Pro Android smartphone. Announced Feb 2018. Features 6.7″  display, MT6771 Helio P70 chipset, Dual: 21 MP + 13 MP primary camera, 16 MP front camera, 5000 mAh battery, 128 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-t2-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Armor Pad 2",
+      "title": "Ulefone Armor Pad 2 Android tablet. Announced Oct 2023. Features 11.0″  display, Helio G99 chipset, 18600 mAh battery, 256 GB storage, 8 GB RAM, MIL-STD-810H compliant, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-pad2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Armor 24",
+      "title": "Ulefone Armor 24 smartphone. Announced Sep 2023. Features 6.78″  display, MT6781 Helio G96 chipset, 22000 mAh battery, 256 GB storage, 12 GB RAM, MIL-STD-810H compliant, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-24.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Armor X12",
+      "title": "Ulefone Armor X12 smartphone. Announced Sep 2023. Features 5.45″  display, MT6761V chipset, 4860 mAh battery, 32 GB storage, 3 GB RAM, MIL-STD-810H compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-x12.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Armor Pad Lite",
+      "title": "Ulefone Armor Pad Lite tablet. Announced Sep 2023. Features 8.0″  display, MT8766 chipset, 7650 mAh battery, 32 GB storage, 3 GB RAM, MIL-STD-810H compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-pad-lite.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Armor 22",
+      "title": "Ulefone Armor 22 Android smartphone. Announced Aug 2023. Features 6.58″  display, MT6781 Helio G96 chipset, 6600 mAh battery, 256 GB storage, 8 GB RAM, MIL-STD-810H compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor22-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Armor X13",
+      "title": "Ulefone Armor X13 Android smartphone. Announced Aug 2023. Features 6.52″  display, Helio G36 chipset, 6320 mAh battery, 64 GB storage, 6 GB RAM, MIL-STD-810H compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-x13.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Armor X12 Pro",
+      "title": "Ulefone Armor X12 Pro Android smartphone. Announced Aug 2023. Features 5.45″  display, Helio G36 chipset, 4860 mAh battery, 64 GB storage, 4 GB RAM, MIL-STD-810H compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-x12-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Power Armor X11",
+      "title": "Ulefone Power Armor X11 Android smartphone. Announced Jun 2023. Features 5.45″  display, MT6761 Helio A22 chipset, 8150 mAh battery, 32 GB storage, 4 GB RAM, MIL-STD-810H compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-power-armor-x11.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Note 15",
+      "title": "Ulefone Note 15 Android smartphone. Announced Jun 2023. Features 6.22″  display, MT6580A chipset, 4000 mAh battery, 32 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-note-15.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Note 16 Pro",
+      "title": "Ulefone Note 16 Pro Android smartphone. Announced May 2023. Features 6.52″  display, Unisoc T606 chipset, 4400 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-note16-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Armor 21",
+      "title": "Ulefone Armor 21 Android smartphone. Announced May 2023. Features 6.58″  display, Helio G99 chipset, 9600 mAh battery, 256 GB storage, 8 GB RAM, MIL-STD-810H compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor21.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Armor Pad",
+      "title": "Ulefone Armor Pad Android tablet. Announced Mar 2023. Features 8.0″  display, MT6762 Helio G25 chipset, 7650 mAh battery, 64 GB storage, 4 GB RAM, MIL-STD-810H compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-pad.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Power Armor 20WT",
+      "title": "Ulefone Power Armor 20WT Android smartphone. Announced Mar 2023. Features 5.65″  display, Helio G99 chipset, 10850 mAh battery, 256 GB storage, 12 GB RAM, MIL-STD-810H compliant, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-power-armor-20wt.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Power Armor 19T",
+      "title": "Ulefone Power Armor 19T Android smartphone. Announced Mar 2023. Features 6.58″  display, Helio G99 chipset, 9600 mAh battery, 256 GB storage, 12 GB RAM, MIL-STD-810H compliant, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-power-armor-19t-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Power Armor 18",
+      "title": "Ulefone Power Armor 18 Android smartphone. Announced Dec 2022. Features 6.58″  display, Dimensity 900 chipset, 9600 mAh battery, 256 GB storage, 12 GB RAM, MIL-STD-810H compliant, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-18.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Note 14",
+      "title": "Ulefone Note 14 Android smartphone. Announced Sep 2022. Features 6.52″  display, MT6761 Helio A22 chipset, 4500 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-note-14.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Power Armor 19",
+      "title": "Ulefone Power Armor 19 Android smartphone. Announced Dec 2022. Features 6.58″  display, Helio G99 chipset, 9600 mAh battery, 256 GB storage, 12 GB RAM, MIL-STD-810H compliant, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-power-armor-19.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Tab A8",
+      "title": "Ulefone Tab A8 Android tablet. Announced Jan 2023. Features 10.1″  display, MT6762V chipset, 6580 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-tab-a8-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Power Armor 18T",
+      "title": "Ulefone Power Armor 18T Android smartphone. Announced Oct 2022. Features 6.58″  display, Dimensity 900 chipset, 9600 mAh battery, 256 GB storage, 12 GB RAM, MIL-STD-810G compliant, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-18t.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Armor 17 Pro",
+      "title": "Ulefone Armor 17 Pro Android smartphone. Announced Oct 2022. Features 6.58″  display, Helio G99 chipset, 5380 mAh battery, 256 GB storage, 8 GB RAM, MIL-STD-810G compliant, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-17-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Power Armor 16 Pro",
+      "title": "Ulefone Power Armor 16 Pro Android smartphone. Announced Sep 2022. Features 5.93″  display, MT6762G Helio G25 chipset, 9600 mAh battery, 64 GB storage, 4 GB RAM, MIL-STD-810G compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-power-armor-16-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Power Armor X11 Pro",
+      "title": "Ulefone Power Armor X11 Pro Android smartphone. Announced Sep 2022. Features 5.45″  display, MT6762G Helio G25 chipset, 8150 mAh battery, 64 GB storage, 4 GB RAM, MIL-STD-810G compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-power-armor-x11-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Armor 15",
+      "title": "Ulefone Armor 15 Android smartphone. Announced Jul 2022. Features 5.45″  display, MT6765G Helio G35 chipset, 6600 mAh battery, 128 GB storage, 6 GB RAM, MIL-STD-810G compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor15.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Armor X6 Pro",
+      "title": "Ulefone Armor X6 Pro Android smartphone. Announced Jul 2022. Features 5.0″  display, MT6761 Helio A22 chipset, 4000 mAh battery, 32 GB storage, 4 GB RAM, MIL-STD-810G compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-x6-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Note 12",
+      "title": "Ulefone Note 12 Android smartphone. Announced Jul 2022. Features 6.82″  display, Unisoc Tiger T310 chipset, 7700 mAh battery, 128 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-note12.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Note 6T",
+      "title": "Ulefone Note 6T Android smartphone. Announced May 2022. Features 6.1″  display, MT6761 Helio A22 chipset, 3300 mAh battery, 64 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-note6t.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Power Armor 14 Pro",
+      "title": "Ulefone Power Armor 14 Pro Android smartphone. Announced Mar 2022. Features 6.52″  display, MT6769Z Helio G85 chipset, 10000 mAh battery, 128 GB storage, 8 GB RAM, MIL-STD-810G compliant, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-power-armor-14-pro-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Armor X10 Pro",
+      "title": "Ulefone Armor X10 Pro Android smartphone. Announced Mar 2022. Features 5.45″  display, MT6762 Helio P22 chipset, 5180 mAh battery, 64 GB storage, 4 GB RAM, MIL-STD-810G compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-x10-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Note 10P",
+      "title": "Ulefone Note 10P Android smartphone. Announced Mar 2022. Features 6.52″  display, Unisoc Tiger T310 chipset, 5500 mAh battery, 128 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-note-10p.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Armor X10",
+      "title": "Ulefone Armor X10 Android smartphone. Announced Dec 2021. Features 5.45″  display, MT6761 Helio A22 chipset, 5180 mAh battery, 32 GB storage, 4 GB RAM, MIL-STD-810G compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-x10.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Note 13P",
+      "title": "Ulefone Note 13P Android smartphone. Announced Nov 2021. Features 6.5″  display, MT6765G Helio G35 chipset, 5180 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-note-13p.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Note 12P",
+      "title": "Ulefone Note 12P Android smartphone. Announced Oct 2021. Features 6.82″  display, Unisoc SC9863A chipset, 7700 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-note-12p.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Note 6P",
+      "title": "Ulefone Note 6P Android smartphone. Announced Oct 2021. Features 6.1″  display, Unisoc SC9863A chipset, 3300 mAh battery, 32 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-note-6p.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Power Armor 14",
+      "title": "Ulefone Power Armor 14 Android smartphone. Announced Oct 2021. Features 6.52″  display, MT6765G Helio G35 chipset, 10000 mAh battery, 64 GB storage, 4 GB RAM, MIL-STD-810G compliant, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-power-armor-14.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Armor X9 Pro",
+      "title": "Ulefone Armor X9 Pro Android smartphone. Announced Sep 2021. Features 5.5″  display, MT6762D Helio A25 chipset, 5000 mAh battery, 64 GB storage, 4 GB RAM, MIL-STD-810G compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-x9-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Armor X9",
+      "title": "Ulefone Armor X9 Android smartphone. Announced Sep 2021. Features 5.5″  display, MT6762D Helio A25 chipset, 5000 mAh battery, 32 GB storage, 3 GB RAM, MIL-STD-810G compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-x9.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Armor X8i",
+      "title": "Ulefone Armor X8i Android smartphone. Announced Sep 2021. Features 5.7″  display, MT6762D Helio A25 chipset, 5080 mAh battery, 32 GB storage, 3 GB RAM, MIL-STD-810G compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-x81.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Armor 12 5G",
+      "title": "Ulefone Armor 12 5G Android smartphone. Announced Aug 2021. Features 6.52″  display, Dimensity 700 chipset, 5180 mAh battery, 128 GB storage, 8 GB RAM, MIL-STD-810G compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-12.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Power Armor 13",
+      "title": "Ulefone Power Armor 13 Android smartphone. Announced Jul 2021. Features 6.81″  display, MT6785V chipset, 13200 mAh battery, 256 GB storage, 8 GB RAM, MIL-STD-810G compliant, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-power-armor-13-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Note 6",
+      "title": "Ulefone Note 6 Android smartphone. Announced Jul 2021. Features 6.1″  display, Unisoc SC7731e chipset, 3300 mAh battery, 32 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-note6.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Tab A7",
+      "title": "Ulefone Tab A7 Android tablet. Announced May 2021. Features 10.1″  display, Unisoc SC9863A chipset, 7680 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-tab-a7.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Armor 11T 5G",
+      "title": "Ulefone Armor 11T 5G Android smartphone. Announced May 2021. Features 6.1″  display, Dimensity 800 chipset, 5200 mAh battery, 256 GB storage, 8 GB RAM, MIL-STD-810G compliant, Oleophobic coating.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-11t-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Armor 8 Pro",
+      "title": "Ulefone Armor 8 Pro Android smartphone. Announced Apr 2021. Features 6.1″  display, MT6771 Helio P60 chipset, 5580 mAh battery, 128 GB storage, 8 GB RAM, MIL-STD-810G compliant, Scratch-resistant glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-8-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Armor 11 5G",
+      "title": "Ulefone Armor 11 5G Android smartphone. Announced Feb 2021. Features 6.1″  display, Dimensity 800 chipset, 5200 mAh battery, 256 GB storage, 8 GB RAM, MIL-STD-810G compliant, Oleophobic coating.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-11-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Note 11P",
+      "title": "Ulefone Note 11P Android smartphone. Announced Jan 2021. Features 6.55″  display, MT6771 Helio P60 chipset, 4500 mAh battery, 128 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-note-11p.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Note 10",
+      "title": "Ulefone Note 10 Android smartphone. Announced Jan 2021. Features 6.52″  display, Unisoc SC9863A chipset, 5500 mAh battery, 32 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-note10.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Armor Mini 2",
+      "title": "Ulefone Armor Mini 2 phone. Announced Jan 2021. Features 2.4″  display, MT6261D chipset, 2100 mAh battery, MIL-STD-810G compliant, Scratch-proof glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-mini2-01.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Note 7T",
+      "title": "Ulefone Note 7T Android smartphone. Announced Nov 2020. Features 6.1″  display, MT6761 Helio A22 chipset, 3500 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-note-7t.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Armor 10 5G",
+      "title": "Ulefone Armor 10 5G Android smartphone. Announced Nov 2020. Features 6.67″  display, Dimensity 800 chipset, 5800 mAh battery, 128 GB storage, 8 GB RAM, MIL-STD-810G compliant, Scratch-resistant glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-10-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Watch Pro",
+      "title": "Ulefone Watch Pro watch. Announced Oct 2020. Features 1.55″  display, 210 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-watch-pro.jpg",
+      "specs": ""
+    }
+  ]
+}

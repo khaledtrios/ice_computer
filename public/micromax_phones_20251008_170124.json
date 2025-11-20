@@ -1,0 +1,1741 @@
+{
+  "scrape_date": "2025-10-08T17:01:49.577666",
+  "total_phones": 289,
+  "source": "https://www.gsmarena.com/micromax-phones-66.php",
+  "phones": [
+    {
+      "name": "In 2c",
+      "title": "Micromax In 2c Android smartphone. Announced Apr 2022. Features 6.52″  display, Unisoc T610 chipset, 5000 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-in-2c.jpg",
+      "specs": ""
+    },
+    {
+      "name": "In note 2",
+      "title": "Micromax In note 2 Android smartphone. Announced Jan 2022. Features 6.43″  display, MT6785V chipset, 5000 mAh battery, 64 GB storage, 4 GB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-in-note2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "In 2b",
+      "title": "Micromax In 2b Android smartphone. Announced Jul 2021. Features 6.52″  display, Unisoc T610 chipset, 5000 mAh battery, 64 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-in-2b.jpg",
+      "specs": ""
+    },
+    {
+      "name": "In 1",
+      "title": "Micromax In 1 Android smartphone. Announced Mar 2021. Features 6.67″  display, MT6769V chipset, 5000 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-in1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "In note 1",
+      "title": "Micromax In note 1 Android smartphone. Announced Nov 2020. Features 6.67″  display, MT6769Z Helio G85 chipset, 5000 mAh battery, 128 GB storage, 4 GB RAM, Oleophobic coating.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-in-note1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "In 1b",
+      "title": "Micromax In 1b Android smartphone. Announced Nov 2020. Features 6.52″  display, MT6765G Helio G35 chipset, 5000 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-in-1b.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Infinity N12",
+      "title": "Micromax Infinity N12 Android smartphone. Announced Dec 2018. Features 6.19″  display, MT6762V Helio P22 chipset, 4000 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-infinity-n12-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Infinity N11",
+      "title": "Micromax Infinity N11 Android smartphone. Announced Dec 2018. Features 6.19″  display, MT6762V Helio P22 chipset, 4000 mAh battery, 32 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-infinity-n11-n8216.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Bharat 5 Infinity",
+      "title": "Micromax Bharat 5 Infinity Android smartphone. Announced Dec 2018. Features 5.45″  display, MT6739 chipset, 5000 mAh battery, 16 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-bharat-5-infinity-edition-q4204.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Bharat Go",
+      "title": "Micromax Bharat Go Android smartphone. Announced May 2018. Features 4.5″  display, MT6737М chipset, 5 MP primary camera, 5 MP front camera, 2000 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-bharat-go-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Canvas 1 2018",
+      "title": "Micromax Canvas 1 2018 Android smartphone. Announced Apr 2018. Features 5.7″  display, MT6737 chipset, 8 MP primary camera, 5 MP front camera, 3000 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-canvas-1-2018.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Canvas Infinity Life",
+      "title": "Micromax Canvas Infinity Life Android smartphone. Announced Mar 2018. Features 5.45″  display, MT6737 chipset, 13 MP primary camera, 8 MP front camera, 2500 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-canvas-infinity-life.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Bharat 5 Pro",
+      "title": "Micromax Bharat 5 Pro Android smartphone. Announced Mar 2018. Features 5.2″  display, MT6737 chipset, 13 MP primary camera, 5 MP front camera, 5000 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-bharat-5-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Bharat 5 Plus",
+      "title": "Micromax Bharat 5 Plus Android smartphone. Announced Jan 2018. Features 5.2″  display, MT6737 chipset, 8 MP primary camera, 5 MP front camera, 5000 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-bharat-5.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Bharat 5",
+      "title": "Micromax Bharat 5 Android smartphone. Announced Dec 2017. Features 5.2″  display, MT6737 chipset, 5 MP primary camera, 5 MP front camera, 5000 mAh battery, 16 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-bharat-5.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Canvas Infinity Pro",
+      "title": "Micromax Canvas Infinity Pro Android smartphone. Announced Dec 2017. Features 5.7″  display, Snapdragon 430 chipset, 16 MP primary camera, Dual: 20 MP (f/2.0) + 8 MP front camera, 3000 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-canvas-infinity-pro-hs3.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Bharat 2 Ultra",
+      "title": "Micromax Bharat 2 Ultra Android smartphone. Announced Oct 2017. Features 4.0″  display, Spreadtrum SC9832 chipset, 2 MP primary camera, 1300 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-brahat2-q402.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Dual 4 E4816",
+      "title": "Micromax Dual 4 E4816 Android smartphone. Announced Jul 2017. Features 5.2″  display, Snapdragon 435 chipset, Dual: 13 MP primary camera, 13 MP front camera, 2730 mAh battery, 64 GB storage, 4 GB RAM, Corning Gorilla Glass (unspecified version).",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-dual-4-e4816.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Canvas Selfie 3 Q460",
+      "title": "Micromax Canvas Selfie 3 Q460 Android smartphone. Announced Sep 2017. Features 5.0″  display, Snapdragon 435 chipset, 13 MP primary camera, 16 MP front camera, 3000 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-selfie-3.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Bharat 4 Q440",
+      "title": "Micromax Bharat 4 Q440 Android smartphone. Announced Sep 2017. Features 5.0″  display, MT6737 chipset, 5 MP primary camera, 5 MP front camera, 2500 mAh battery, 16 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-bharat-4.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Bharat 3 Q437",
+      "title": "Micromax Bharat 3 Q437 Android smartphone. Announced Sep 2017. Features 4.5″  display, MT6737M chipset, 5 MP primary camera, 2 MP front camera, 1600 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-bharat-3.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Bharat 2+",
+      "title": "Micromax Bharat 2+ Android smartphone. Announced Q4 2017. Features 4.0″  display, 5 MP primary camera, 2 MP front camera, 1600 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-brahat2-q402.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Selfie 2 Note Q4601",
+      "title": "Micromax Selfie 2 Note Q4601 Android smartphone. Announced Sep 2017. Features 5.5″  display, MT6737 chipset, 13 MP primary camera, 8 MP front camera, 3000 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-canvas-selfie2-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Canvas Infinity",
+      "title": "Micromax Canvas Infinity Android smartphone. Announced Aug 2017. Features 5.7″  display, Snapdragon 425 chipset, 13 MP primary camera, 16 MP front camera, 2980 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-canvas-infinity.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Evok Dual Note E4815",
+      "title": "Micromax Evok Dual Note E4815 Android smartphone. Announced Aug 2017. Features 5.5″  display, MT6750T chipset, Dual: 13 MP, AF + 5 MP primary camera, 5 MP front camera, 3000 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-evok-dual-note-e4817.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Selfie 2 Q4311",
+      "title": "Micromax Selfie 2 Q4311 Android smartphone. Announced Jul 2017. Features 5.2″  display, MT6737 chipset, 13 MP primary camera, 8 MP front camera, 3000 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-canvas-selfie2-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Canvas 1",
+      "title": "Micromax Canvas 1 Android smartphone. Announced Jul 2017. Features 5.0″  display, MT6737 chipset, 8 MP primary camera, 5 MP front camera, 2500 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-canvas-1-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Canvas 2 Q4310",
+      "title": "Micromax Canvas 2 Q4310 Android smartphone. Announced Jul 2017. Features 5.0″  display, MT6737 chipset, 13 MP primary camera, 5 MP front camera, 3050 mAh battery, 16 GB storage, 3 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-canvas-2-q4310.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Canvas Evok Power Q4260",
+      "title": "Micromax Canvas Evok Power Q4260 Android smartphone. Announced Apr 2017. Features 5.0″  display, MT6737 chipset, 8 MP primary camera, 5 MP front camera, 4000 mAh battery, 16 GB storage, 2 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-canvas-evok-power-q4260.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Canvas Evok Note E453",
+      "title": "Micromax Canvas Evok Note E453 Android smartphone. Announced Apr 2017. Features 5.5″  display, MT6753 chipset, 13 MP primary camera, 5 MP front camera, 4000 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-canvas-evok-note-e453.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Bharat 2 Q402",
+      "title": "Micromax Bharat 2 Q402 Android smartphone. Announced Apr 2017. Features 4.0″  display, Spreadtrum SC9832 chipset, 2 MP primary camera, 1300 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-brahat2-q402.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Dual 5",
+      "title": "Micromax Dual 5 Android smartphone. Announced Mar 2017. Features 5.5″  display, Snapdragon 652 chipset, Dual: 13 MP primary camera, 13 MP front camera, 3200 mAh battery, 128 GB storage, 4 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-canvas-dual-5.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Spark Vdeo Q415",
+      "title": "Micromax Spark Vdeo Q415 Android smartphone. Announced Mar 2017. Features 4.5″  display, Spreadtrum SC9832A chipset, 5 MP primary camera, 2 MP front camera, 1800 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-spark-vdeo-q415.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Vdeo 5",
+      "title": "Micromax Vdeo 5 Android smartphone. Announced Feb 2017. Features 5.5″  display, Spreadtrum SC9832A chipset, 8 MP primary camera, 5 MP front camera, 3000 mAh battery, 8 GB storage, 1000 MB RAM, Corning Gorilla Glass (unspecified version).",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-vdeo-5.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Vdeo 4",
+      "title": "Micromax Vdeo 4 Android smartphone. Announced Jan 2017. Features 5.0″  display, Snapdragon 210 chipset, 8 MP primary camera, 2 MP front camera, 4000 mAh battery, 8 GB storage, 1000 MB RAM, Corning Gorilla Glass (unspecified version).",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-vdeo-4.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Vdeo 3",
+      "title": "Micromax Vdeo 3 Android smartphone. Announced Jan 2017. Features 4.5″  display, Spreadtrum SC9832A chipset, 5 MP primary camera, 2 MP front camera, 1800 mAh battery, 8 GB storage, 1000 MB RAM, Corning Gorilla Glass (unspecified version).",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-vdeo-3.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Vdeo 2",
+      "title": "Micromax Vdeo 2 Android smartphone. Announced Dec 2016. Features 4.5″  display, Spreadtrum chipset, 5 MP primary camera, 2 MP front camera, 1800 mAh battery, 8 GB storage, 1000 MB RAM, Corning Gorilla Glass (unspecified version).",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-vdeo2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Vdeo 1",
+      "title": "Micromax Vdeo 1 Android smartphone. Announced Dec 2016. Features 4.0″  display, Spreadtrum chipset, 5 MP primary camera, 2 MP front camera, 1600 mAh battery, 8 GB storage, 1000 MB RAM, Corning Gorilla Glass (unspecified version).",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-vdeo-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Canvas Spark 4G Q4201",
+      "title": "Micromax Canvas Spark 4G Q4201 Android smartphone. Announced Nov 2016. Features 5.0″  display, Spreadtrum chipset, 5 MP primary camera, 2 MP front camera, 2000 mAh battery, 8 GB storage, 1000 MB RAM, Corning Gorilla Glass (unspecified version).",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-canvas-spark-4g-q4201.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Canvas Fire 6 Q428",
+      "title": "Micromax Canvas Fire 6 Q428 Android smartphone. Announced Oct 2016. Features 5.0″  display, 8 MP primary camera, 2 MP front camera, 3050 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-canvas-fire-6-q428.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Canvas 5 Lite Q462",
+      "title": "Micromax Canvas 5 Lite Q462 Android smartphone. Announced Sep 2016. Features 5.0″  display, MT6735P chipset, 8 MP primary camera, 5 MP front camera, 2000 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-canvas-5-lite-q462.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Bolt Q381",
+      "title": "Micromax Bolt Q381 Android smartphone. Announced Jul 2016. Features 5.0″  display, Spreadtrum SC7731G chipset, 5 MP primary camera, 2000 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-bolt-q381.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Canvas Mega 2 Q426",
+      "title": "Micromax Canvas Mega 2 Q426 Android smartphone. Announced Aug 2016. Features 6.0″  display, Spreadtrum SC9832 chipset, 8 MP primary camera, 5 MP front camera, 3000 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-canvas-mega-2-q426.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Canvas Spark 2 Plus Q350",
+      "title": "Micromax Canvas Spark 2 Plus Q350 Android smartphone. Announced Jul 2016. Features 5.0″  display, MT6580M chipset, 5 MP primary camera, 2 MP front camera, 2000 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-canvas-spark-2-plus-q350.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Canvas Spark 3 Q385",
+      "title": "Micromax Canvas Spark 3 Q385 Android smartphone. Announced Jul 2016. Features 5.5″  display, Spreadtrum SC7731 chipset, 8 MP primary camera, 5 MP front camera, 2500 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-canvas-spark-3-q385.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Canvas Amaze 2 E457",
+      "title": "Micromax Canvas Amaze 2 E457 Android smartphone. Announced Jul 2016. Features 5.0″  display, Snapdragon 415 chipset, 13 MP primary camera, 5 MP front camera, 2500 mAh battery, 16 GB storage, 2 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-canvas-amaze-2-e457.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Canvas xp 4G Q413",
+      "title": "Micromax Canvas xp 4G Q413 Android smartphone. Announced May 2016. Features 5.0″  display, MT6735P chipset, 8 MP primary camera, 2 MP front camera, 2000 mAh battery, 16 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-q413.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Bolt Supreme 2 Q301",
+      "title": "Micromax Bolt Supreme 2 Q301 Android smartphone. Announced May 2016. Features 4.0″  display, Spreadtrum SC7731C chipset, 2 MP primary camera, 1400 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-bolt-q301.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Bolt Supreme Q300",
+      "title": "Micromax Bolt Supreme Q300 Android smartphone. Announced May 2016. Features 3.5″  display, Spreadtrum SC7731C chipset, 2 MP primary camera, 1200 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-q300.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Canvas Evok E483",
+      "title": "Micromax Canvas Evok E483 Android smartphone. Announced May 2016. Features 5.5″  display, Snapdragon 415 chipset, 13 MP primary camera, 5 MP front camera, 3000 mAh battery, 16 GB storage, 3 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-canvas-evok-e483.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Bolt Selfie Q424",
+      "title": "Micromax Bolt Selfie Q424 Android smartphone. Announced May 2016. Features 4.5″  display, MT6735 chipset, 5 MP primary camera, 5 MP front camera, 1750 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-bolt-selfie-q424.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Bolt supreme 4 Q352",
+      "title": "Micromax Bolt supreme 4 Q352 Android smartphone. Announced Jul 2016. Features 5.0″  display, MT6580 chipset, 8 MP primary camera, 5 MP front camera, 2000 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-q352.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Canvas Selfie 4",
+      "title": "Micromax Canvas Selfie 4 Android smartphone. Announced May 2016. Features 5.0″  display, MT6580 chipset, 8 MP primary camera, 8 MP front camera, 2500 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-canvas-selfie-4.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Unite 4 plus",
+      "title": "Micromax Unite 4 plus Android smartphone. Announced Jul 2016. Features 5.0″  display, MT6735P chipset, 8 MP primary camera, 5 MP front camera, 2500 mAh battery, 16 GB storage, 2 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/canvas-unite4-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Canvas Unite 4",
+      "title": "Micromax Canvas Unite 4 Android smartphone. Announced Jun 2016. Features 5.0″  display, MT6735P chipset, 8 MP primary camera, 5 MP front camera, 2500 mAh battery, 8 GB storage, 1000 MB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-canvas-unite-4.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Canvas Unite 4 Pro",
+      "title": "Micromax Canvas Unite 4 Pro Android smartphone. Announced Jun 2016. Features 5.0″  display, Spreadtrum SC9832 chipset, 8 MP primary camera, 5 MP front camera, 3900 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-canvas-unite-4-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Canvas Fire 5 Q386",
+      "title": "Micromax Canvas Fire 5 Q386 Android smartphone. Announced Jun 2016. Features 5.5″  display, MT6580 chipset, 8 MP primary camera, 5 MP front camera, 2500 mAh battery, 16 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-canvas-fire-5.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Canvas 6 Pro E484",
+      "title": "Micromax Canvas 6 Pro E484 Android smartphone. Announced Apr 2016. Features 5.5″  display, MT6795 Helio X10 chipset, 13 MP primary camera, 5 MP front camera, 3000 mAh battery, 16 GB storage, 4 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-canvas-6-e484.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Canvas 6",
+      "title": "Micromax Canvas 6 Android smartphone. Announced Apr 2016. Features 5.5″  display, MT6795 Helio X10 chipset, 13 MP primary camera, 8 MP front camera, 3000 mAh battery, 32 GB storage, 3 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-canvas-6.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Canvas Juice 4G Q461",
+      "title": "Micromax Canvas Juice 4G Q461 Android smartphone. Announced Feb 2016. Features 5.0″  display, 8 MP primary camera, 5 MP front camera, 4000 mAh battery, 8 GB storage, 2 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-canvas-juice-4g-q461.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Canvas Amaze 4G Q491",
+      "title": "Micromax Canvas Amaze 4G Q491 Android smartphone. Announced Feb 2016. Features 5.0″  display, Snapdragon 410 chipset, 8 MP primary camera, 2 MP front camera, 2230 mAh battery, 8 GB storage, 1000 MB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-canvas-amaze-q491.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Canvas Juice 4 Q382",
+      "title": "Micromax Canvas Juice 4 Q382 Android smartphone. Announced Dec 2015. Features 5.0″  display, Spreadtrum SC7731 chipset, 5 MP primary camera, 2 MP front camera, 3000 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-canvas-juice-3-q392.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Canvas Pulse 4G E451",
+      "title": "Micromax Canvas Pulse 4G E451 Android smartphone. Announced Dec 2015. Features 5.0″  display, 13 MP primary camera, 5 MP front camera, 2100 mAh battery, 16 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-e451.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Canvas Mega 4G Q417",
+      "title": "Micromax Canvas Mega 4G Q417 Android smartphone. Announced Dec 2015. Features 5.5″  display, MT6735 chipset, 13 MP primary camera, 5 MP front camera, 2500 mAh battery, 16 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-q417.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Canvas Fire 4G Plus Q412",
+      "title": "Micromax Canvas Fire 4G Plus Q412 Android smartphone. Announced Dec 2015. Features 4.7″  display, MT6735P chipset, 8 MP primary camera, 5 MP front camera, 2000 mAh battery, 8 GB storage, 1000 MB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-q412.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Canvas Nitro 3 E352",
+      "title": "Micromax Canvas Nitro 3 E352 Android smartphone. Announced Nov 2015. Features 5.0″  display, MT6592M chipset, 13 MP primary camera, 5 MP front camera, 2500 mAh battery, 16 GB storage, 2 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-canvas-nitro3-e352.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Canvas Xpress 4G Q413",
+      "title": "Micromax Canvas Xpress 4G Q413 Android smartphone. Announced Nov 2015. Features 5.0″  display, MT6735P chipset, 8 MP primary camera, 2 MP front camera, 2000 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-canvas-express-4g-q413.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Canvas Blaze 4G+ Q414",
+      "title": "Micromax Canvas Blaze 4G+ Q414 Android smartphone. Announced Nov 2015. Features 4.5″  display, MT6735M chipset, 8 MP primary camera, 2 MP front camera, 1750 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-canvas-blaze-4g-plus-q414.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Canvas Pace 4G Q416",
+      "title": "Micromax Canvas Pace 4G Q416 Android smartphone. Announced Nov 2015. Features 5.0″  display, 5 MP primary camera, 2 MP front camera, 2500 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-canvas-pace-4g-q416.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Canvas 5 E481",
+      "title": "Micromax Canvas 5 E481 Android smartphone. Announced Nov 2015. Features 5.2″  display, MT6753 chipset, 13 MP primary camera, 5 MP front camera, 2900 mAh battery, 16 GB storage, 3 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-canvas-5-e481.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Canvas Mega E353",
+      "title": "Micromax Canvas Mega E353 Android smartphone. Announced Oct 2015. Features 5.5″  display, 13 MP primary camera, 5 MP front camera, 2820 mAh battery, 8 GB storage, 1000 MB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-canvas-mega-e353.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Canvas Amaze Q395",
+      "title": "Micromax Canvas Amaze Q395 Android smartphone. Announced Oct 2015. Features 5.0″  display, MT6580 chipset, 13 MP primary camera, 5 MP front camera, 2000 mAh battery, 8 GB storage, 2 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-canvas-amaze-q395.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Canvas Play 4G Q469",
+      "title": "Micromax Canvas Play 4G Q469 Android smartphone. Announced Oct 2015. Features 5.5″  display, Snapdragon 410 chipset, 13 MP primary camera, 5 MP front camera, 2820 mAh battery, 16 GB storage, 2 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-canvas-play-4g-q469.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Bolt Q332",
+      "title": "Micromax Bolt Q332 Android smartphone. Announced Oct 2015. Features 5.0″  display, 5 MP primary camera, 2 MP front camera, 2000 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-bolt-q332.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Canvas Juice 3+ Q394",
+      "title": "Micromax Canvas Juice 3+ Q394 Android smartphone. Announced Oct 2015. Features 5.5″  display, MT6582M chipset, 8 MP primary camera, 5 MP front camera, 4000 mAh battery, 16 GB storage, 2 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-canvas-juice-3-plus-q394.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Bolt Q339",
+      "title": "Micromax Bolt Q339 Android smartphone. Announced Oct 2015. Features 4.5″  display, Spreadtrum SC7731 chipset, 5 MP primary camera, 2 MP front camera, 1650 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-bolt-q339.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Bolt Q338",
+      "title": "Micromax Bolt Q338 Android smartphone. Announced Sep 2015. Features 5.0″  display, MT6580 chipset, 8 MP primary camera, 5 MP front camera, 200 mAh battery, 8 GB storage, 1000 MB RAM, Corning Gorilla Glass (unspecified version).",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-bolt-q338.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Bolt Q331",
+      "title": "Micromax Bolt Q331 Android smartphone. Announced Oct 2015. Features 5.0″  display, Spreadtrum 7731G chipset, 5 MP primary camera, 2 MP front camera, 2000 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-bolt-q331.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Bolt S302",
+      "title": "Micromax Bolt S302 Android smartphone. Announced Oct 2015. Features 4.0″  display, Spreadtrum SC7715 chipset, 2 MP primary camera, 1.3 MP front camera, 1450 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-bolt-s302.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Canvas Fire 4G Q411",
+      "title": "Micromax Canvas Fire 4G Q411 Android smartphone. Announced Sep 2015. Features 4.5″  display, MT6735 chipset, 5 MP primary camera, 2 MP front camera, 1850 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-canvas-fire-4g-q411.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Canvas Blaze 4G Q400",
+      "title": "Micromax Canvas Blaze 4G Q400 Android smartphone. Announced Oct 2015. Features 4.5″  display, Snapdragon 210 chipset, 5 MP primary camera, 2 MP front camera, 2000 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-canvas-blaze-4g-q400.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Canvas Juice 3 Q392",
+      "title": "Micromax Canvas Juice 3 Q392 Android smartphone. Announced Sep 2015. Features 5.0″  display, MT6580 chipset, 8 MP primary camera, 2 MP front camera, 4000 mAh battery, 8 GB storage, 2 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-canvas-juice-3-q392.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Canvas Spark 2 Q334",
+      "title": "Micromax Canvas Spark 2 Q334 Android smartphone. Announced Sep 2015. Features 5.0″  display, MT6580M chipset, 5 MP primary camera, 2 MP front camera, 1800 mAh battery, 4 GB storage, 768 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-canvas-spark-2-q334.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Canvas Nitro 4G E455",
+      "title": "Micromax Canvas Nitro 4G E455 Android smartphone. Announced Aug 2015. Features 5.0″  display, Snapdragon 415 chipset, 13 MP primary camera, 5 MP front camera, 2500 mAh battery, 16 GB storage, 2 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-canvas-nitro-4g-e455.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Canvas Selfie 3 Q348",
+      "title": "Micromax Canvas Selfie 3 Q348 Android smartphone. Announced Aug 2015. Features 4.8″  display, MT6582 chipset, 8 MP primary camera, 8 MP front camera, 2300 mAh battery, 8 GB storage, 1000 MB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-canvas-selfie-3-q348.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Canvas Selfie 2 Q340",
+      "title": "Micromax Canvas Selfie 2 Q340 Android smartphone. Announced Aug 2015. Features 5.0″  display, MT6582M chipset, 5 MP primary camera, 5 MP front camera, 2000 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-canvas-selfie2-q340.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Canvas Xpress 2 E313",
+      "title": "Micromax Canvas Xpress 2 E313 Android smartphone. Announced Jul 2015. Features 5.0″  display, MT6592M chipset, 13 MP primary camera, 2 MP front camera, 2500 mAh battery, 8 GB storage, 1000 MB RAM, Corning Gorilla Glass (unspecified version).",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-canvas-xpress2-e313.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Bolt D303",
+      "title": "Micromax Bolt D303 Android smartphone. Announced Jul 2015. Features 4.0″  display, MT6572M chipset, 3.15 MP primary camera, 1300 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-bolt-d303.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Bolt S301",
+      "title": "Micromax Bolt S301 Android smartphone. Announced Jul 2015. Features 3.5″  display, 1.3 MP primary camera, 1200 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-bolt-s301.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Canvas Selfie Lens Q345",
+      "title": "Micromax Canvas Selfie Lens Q345 Android smartphone. Announced Jun 2015. Features 5.0″  display, MT6582 chipset, 8 MP primary camera, 5 MP front camera, 2800 mAh battery, 8 GB storage, 1000 MB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-canvas-selfie-lens-plus-q345.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Canvas Sliver 5 Q450",
+      "title": "Micromax Canvas Sliver 5 Q450 Android smartphone. Announced Jun 2015. Features 4.8″  display, Snapdragon 410 chipset, 8 MP primary camera, 5 MP front camera, 2000 mAh battery, 16 GB storage, 2 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-canvas-sliver-5--1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Canvas Tab P690",
+      "title": "Micromax Canvas Tab P690 Android tablet. Announced Jun 2015. Features 8.0″  display, Intel Atom chipset, 5 MP primary camera, 2 MP front camera, 4000 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-canvas-tab-p690.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Canvas Knight 2 E471",
+      "title": "Micromax Canvas Knight 2 E471 Android smartphone. Announced Jun 2015. Features 5.0″  display, Snapdragon 615 chipset, 13 MP primary camera, 5 MP front camera, 2260 mAh battery, 16 GB storage, 2 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-canvas-knight-2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Canvas A1 AQ4502",
+      "title": "Micromax Canvas A1 AQ4502 Android smartphone. Announced Jun 2015. Features 4.5″  display, MT6582 chipset, 5 MP primary camera, 2 MP front camera, 1700 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-canvas-a1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Q391 Canvas Doodle 4",
+      "title": "Micromax Q391 Canvas Doodle 4 Android smartphone. Announced May 2015. Features 6.0″  display, MT6582M chipset, 8 MP primary camera, 2 MP front camera, 3000 mAh battery, 8 GB storage, 1000 MB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-q391-canvas-doodle-4.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Canvas Nitro 2 E311",
+      "title": "Micromax Canvas Nitro 2 E311 Android smartphone. Announced May 2015. Features 5.0″  display, MT6592 chipset, 13 MP primary camera, 5 MP front camera, 2400 mAh battery, 16 GB storage, 2 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-canvas-nitro2-e311.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Q372 Unite 3",
+      "title": "Micromax Q372 Unite 3 Android smartphone. Announced May 2015. Features 4.7″  display, MT6582M chipset, 8 MP primary camera, 2 MP front camera, 2000 mAh battery, 8 GB storage, 1000 MB RAM, Corning Gorilla Glass (unspecified version).",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-unite-3-q372.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Canvas Play Q355",
+      "title": "Micromax Canvas Play Q355 Android smartphone. Announced Apr 2015. Features 5.5″  display, MT6582M chipset, 5 MP primary camera, 2820 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-canvas-play-q355.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Canvas Spark Q380",
+      "title": "Micromax Canvas Spark Q380 Android smartphone. Announced Apr 2015. Features 4.7″  display, MT6582M chipset, 8 MP primary camera, 2 MP front camera, 2000 mAh battery, 8 GB storage, 1000 MB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-canvas-spark-Q380.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Bolt S300",
+      "title": "Micromax Bolt S300 Android smartphone. Announced Mar 2015. Features 4.0″  display, Spreadtrum 7715 chipset, 1200 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-bolt-s300.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Bolt D320",
+      "title": "Micromax Bolt D320 Android smartphone. Announced Mar 2015. Features 4.5″  display, MT6572 chipset, 3.15 MP primary camera, 1600 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-bolt-d320.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Bolt D321",
+      "title": "Micromax Bolt D321 Android smartphone. Announced Feb 2015. Features 5.0″  display, MT6572 chipset, 5 MP primary camera, 2 MP front camera, 1800 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-bolt-d321.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Canvas Juice 2 AQ5001",
+      "title": "Micromax Canvas Juice 2 AQ5001 Android smartphone. Announced Mar 2015. Features 5.0″  display, MT6582M chipset, 8 MP primary camera, 2 MP front camera, 3000 mAh battery, 8 GB storage, 2 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-aq5001.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Bolt Q324",
+      "title": "Micromax Bolt Q324 Android smartphone. Announced Mar 2015. Features 4.0″  display, Spreadtrum 7731 chipset, 2 MP primary camera, 1450 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-bolt-q324.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Bolt A82",
+      "title": "Micromax Bolt A82 Android smartphone. Announced Feb 2015. Features 5.0″  display, MT6572 chipset, 5 MP primary camera, 1800 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-bolt-a82.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Canvas Pep Q371",
+      "title": "Micromax Canvas Pep Q371 Android smartphone. Announced Feb 2015. Features 4.5″  display, MT6582M chipset, 5 MP primary camera, 1700 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-q371.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Bolt A067",
+      "title": "Micromax Bolt A067 Android smartphone. Announced Dec 2014. Features 4.0″  display, MT6571 chipset, 2 MP primary camera, 1300 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-bolt-a067.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Canvas 4 Plus A315",
+      "title": "Micromax Canvas 4 Plus A315 Android smartphone. Announced Sep 2014. Features 5.0″  display, MT6592 chipset, 13 MP primary camera, 5 MP front camera, 2000 mAh battery, 16 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-canvas-4-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A109 Canvas XL2",
+      "title": "Micromax A109 Canvas XL2 Android smartphone. Announced Aug 2014. Features 5.5″  display, MT6589M chipset, 5 MP primary camera, 2500 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-a109.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Canvas Fire 4 A107",
+      "title": "Micromax Canvas Fire 4 A107 Android smartphone. Announced Mar 2015. Features 4.5″  display, MT6582M chipset, 8 MP primary camera, 2 MP front camera, 2000 mAh battery, 8 GB storage, 1000 MB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-canvas-fire-a107.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Canvas Tab P666",
+      "title": "Micromax Canvas Tab P666 Android tablet. Announced Jan 2015. Features 8.0″  display, Intel Atom chipset, 5 MP primary camera, 2 MP front camera, 4400 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-666.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Canvas Tab P470",
+      "title": "Micromax Canvas Tab P470 Android tablet. Announced Jan 2015. Features 7.0″  display, MT8312 chipset, 5 MP primary camera, 3200 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-p470.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Canvas Selfie A255",
+      "title": "Micromax Canvas Selfie A255 Android smartphone. Announced Dec 2014. Features 4.7″  display, MT6592 chipset, 13 MP primary camera, 13 MP front camera, 2300 mAh battery, 16 GB storage, 2 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-canvas-selfie.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Bolt A066",
+      "title": "Micromax Bolt A066 Android smartphone. Announced May 2014. Features 3.5″  display, MT6571 chipset, 2 MP primary camera, 1300 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-a066.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Canvas Hue",
+      "title": "Micromax Canvas Hue Android smartphone. Announced Jan 2015. Features 5.0″  display, MT6582 chipset, 8 MP primary camera, 2 MP front camera, 3000 mAh battery, 8 GB storage, 1000 MB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-canvas-hue.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A104 Canvas Fire 2",
+      "title": "Micromax A104 Canvas Fire 2 Android smartphone. Announced Q4 2014. Features 4.5″  display, 5 MP primary camera, 1900 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-canvas-fire-2-a104.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A99 Canvas Xpress",
+      "title": "Micromax A99 Canvas Xpress Android smartphone. Announced Q4 2014. Features 4.5″  display, MT6582V chipset, 5 MP primary camera, 1950 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-a99.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A290 Canvas Knight Cameo",
+      "title": "Micromax A290 Canvas Knight Cameo Android smartphone. Announced Sep 2014. Features 4.7″  display, MT6592M chipset, 8 MP primary camera, 5 MP front camera, 2000 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-a290.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Canvas A1",
+      "title": "Micromax Canvas A1 Android smartphone. Announced Sep 2014. Features 4.5″  display, MT6582 chipset, 5 MP primary camera, 2 MP front camera, 1700 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-canvas-a1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A310 Canvas Nitro",
+      "title": "Micromax A310 Canvas Nitro Android smartphone. Announced Sep 2014. Features 5.0″  display, MT6592 chipset, 13 MP primary camera, 5 MP front camera, 2500 mAh battery, 8 GB storage, 2 GB RAM, Oleophobic coating.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-a310.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A092 Unite",
+      "title": "Micromax A092 Unite Android smartphone. Announced Q3 2014. Features 4.0″  display, Snapdragon 200 chipset, 5 MP primary camera, 1500 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-unite-a092.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A65 Bolt",
+      "title": "Micromax A65 Bolt Android smartphone. Announced Sep 2014. Features 4.0″  display, MT6571 chipset, 2 MP primary camera, 2000 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-bolt-a65.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A108 Canvas L",
+      "title": "Micromax A108 Canvas L Android smartphone. Announced Jul 2014. Features 5.5″  display, MT6582M chipset, 8 MP primary camera, 2 MP front camera, 2350 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-canvas-l-a108.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A190 Canvas HD Plus",
+      "title": "Micromax A190 Canvas HD Plus Android smartphone. Announced Jul 2014. Features 5.0″  display, MT6591 chipset, 8 MP primary camera, 2 MP front camera, 2000 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-a190-canvas-hd-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A093 Canvas Fire",
+      "title": "Micromax A093 Canvas Fire Android smartphone. Announced Jul 2014. Features 4.0″  display, 5 MP primary camera, 1750 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/Micromax-Canvas-Fire-A093.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A300 Canvas Gold",
+      "title": "Micromax A300 Canvas Gold Android smartphone. Announced Jun 2014. Features 5.5″  display, MT6592T chipset, 16 MP primary camera, 5 MP front camera, 2300 mAh battery, 32 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-a300.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Canvas Win W121",
+      "title": "Micromax Canvas Win W121 Windows Mobile smartphone. Announced Jun 2014. Features 5.0″  display, Snapdragon 200 chipset, 8 MP primary camera, 2 MP front camera, 2000 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/MicroMax-Canvas-Win-W121.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Canvas Win W092",
+      "title": "Micromax Canvas Win W092 Windows Mobile smartphone. Announced Jun 2014. Features 4.0″  display, Snapdragon 200 chipset, 5 MP primary camera, 1500 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/MicroMax-Canvas-Win-W091.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A089 Bolt",
+      "title": "Micromax A089 Bolt Android smartphone. Announced May 2014. Features 4.0″  display, MT6572 chipset, 2 MP primary camera, 2100 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-a089.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A106 Unite 2",
+      "title": "Micromax A106 Unite 2 Android smartphone. Announced May 2014. Features 4.7″  display, MT6582 chipset, 5 MP primary camera, 2 MP front camera, 2000 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-a106-unite-2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A105 Canvas Entice",
+      "title": "Micromax A105 Canvas Entice Android smartphone. Announced Jun 2014. Features 5.0″  display, Broadcom BCM23550 chipset, 5 MP primary camera, 1900 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-a105.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X352",
+      "title": "Micromax X352 phone. Announced May 2014. Features 2.8″  display, 3000 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-x352.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A121 Canvas Elanza 2",
+      "title": "Micromax A121 Canvas Elanza 2 Android smartphone. Announced May 2014. Features 5.0″  display, Snapdragon 200 chipset, 8 MP primary camera, 2 MP front camera, 2000 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-canvas-elanza-2-a121.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A120 Canvas 2 Colors",
+      "title": "Micromax A120 Canvas 2 Colors Android smartphone. Announced May 2014. Features 5.0″  display, MT6582 chipset, 8 MP primary camera, 2 MP front camera, 2000 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-canvas-2-colors-a120.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A102 Canvas Doodle 3",
+      "title": "Micromax A102 Canvas Doodle 3 Android smartphone. Announced Apr 2014. Features 6.0″  display, MT6572 chipset, 5 MP primary camera, 2500 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-canvas-doodle-3-a102.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A47 Bolt",
+      "title": "Micromax A47 Bolt Android smartphone. Announced  2014. Features 4.0″  display, MT6582 chipset, 2 MP primary camera, 1600 mAh battery, 512 MB storage, 256 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-bolt-a47.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X281",
+      "title": "Micromax X281 phone. Announced  2013. Features 2.4″  display, 2800 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-x281.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X267",
+      "title": "Micromax X267 phone. Announced  2013. Features 2.3″  display, 1800 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-x267.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X098",
+      "title": "Micromax X098 phone. Announced  2013. Features 1.76″  display, 1750 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-x098.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A114R Canvas Beat",
+      "title": "Micromax A114R Canvas Beat Android smartphone. Announced  2014. Features 5.0″  display, Broadcom BCM23550 chipset, 8 MP primary camera, 2 MP front camera, 1900 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-a114r.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A59 Bolt",
+      "title": "Micromax A59 Bolt Android smartphone. Announced  2014. Features 3.5″  display, Spreadtrum SC7710 chipset, 1.3 MP primary camera, 1500 mAh battery, 512 MB storage, 256 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-a59-bolt.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A36 Bolt",
+      "title": "Micromax A36 Bolt Android smartphone. Announced  2014. Features 4.0″  display, Spreadtrum SC6820 chipset, 2 MP primary camera, 1500 mAh battery, 512 MB storage, 256 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-a36-bolt.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A28 Bolt",
+      "title": "Micromax A28 Bolt Android smartphone. Announced  2014. Features 3.5″  display, 1500 mAh battery, 512 MB storage, 256 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-a28-bolt.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A350 Canvas Knight",
+      "title": "Micromax A350 Canvas Knight Android smartphone. Announced Jan 2014. Features 5.0″  display, MT6592T chipset, 16 MP primary camera, 8 MP front camera, 2350 mAh battery, 32 GB storage, 2 GB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-a350.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Canvas Turbo Mini",
+      "title": "Micromax Canvas Turbo Mini Android smartphone. Announced Jan 2014. Features 4.7″  display, MT6582 chipset, 8 MP primary camera, 5 MP front camera, 1800 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-a200.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A94 Canvas MAd",
+      "title": "Micromax A94 Canvas MAd Android smartphone. Announced Jan 2014. Features 4.5″  display, BCM23550 chipset, 5 MP primary camera, 5 MP front camera, 1800 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-a94.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A119 Canvas XL",
+      "title": "Micromax A119 Canvas XL Android smartphone. Announced Jan 2014. Features 6.0″  display, 8 MP primary camera, 5 MP front camera, 2450 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/Micromax-Canvas-XL-A119.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A114 Canvas 2.2",
+      "title": "Micromax A114 Canvas 2.2 Android smartphone. Announced Dec 2013. Features 5.0″  display, MT6582M chipset, 8 MP primary camera, 2 MP front camera, 2000 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-a114.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A61 Bolt",
+      "title": "Micromax A61 Bolt Android smartphone. Announced Nov 2013. Features 4.0″  display, Spreadtrum SC7710 chipset, 2 MP primary camera, 1500 mAh battery, 512 MB storage, 256 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-a61.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A77 Canvas Juice",
+      "title": "Micromax A77 Canvas Juice Android smartphone. Announced Nov 2013. Features 5.0″  display, MT6572 chipset, 5 MP primary camera, 3000 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-canvas-juice-a77.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A117 Canvas Magnus",
+      "title": "Micromax A117 Canvas Magnus Android smartphone. Announced Oct 2013. Features 5.0″  display, MT6589T chipset, 12 MP primary camera, 2 MP front camera, 2000 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-canvas-magnus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Canvas Turbo",
+      "title": "Micromax Canvas Turbo Android smartphone. Announced Oct 2013. Features 5.0″  display, MT6589T chipset, 13 MP primary camera, 5 MP front camera, 2000 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-canvas-turbo.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Canvas Tab P650",
+      "title": "Micromax Canvas Tab P650 Android tablet. Announced Sep 2013. Features 8.0″  display, 5 MP primary camera, 2 MP front camera, 4800 mAh battery, 16 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-p650.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A113 Canvas Ego",
+      "title": "Micromax A113 Canvas Ego Android smartphone. Announced Q3 2013. Features 4.7″  display, 8 MP primary camera, 2 MP front camera, 2000 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-canvas-ego-canvas-ego-a113.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A76",
+      "title": "Micromax A76 Android smartphone. Announced Q3 2013. Features 5.0″  display, MT6572 chipset, 5 MP primary camera, 2000 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-a76.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A74 Canvas Fun",
+      "title": "Micromax A74 Canvas Fun Android smartphone. Announced Sep 2013. Features 4.5″  display, MT6572 chipset, 5 MP primary camera, 1500 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-a74.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A67 Bolt",
+      "title": "Micromax A67 Bolt Android smartphone. Announced Aug 2013. Features 4.5″  display, 2 MP primary camera, 1850 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-bolt-bolt-a67.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A63 Canvas Fun",
+      "title": "Micromax A63 Canvas Fun Android smartphone. Announced Q3 2013. Features 4.0″  display, MT6572 chipset, 2 MP primary camera, 1500 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-a63-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A240 Canvas Doodle 2",
+      "title": "Micromax A240 Canvas Doodle 2 Android smartphone. Announced Aug 2013. Features 5.7″  display, MT6589 chipset, 12 MP primary camera, 5 MP front camera, 2600 mAh battery, 16 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-a240-canvas-doodle-2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A92",
+      "title": "Micromax A92 Android smartphone. Announced Jun 2013. Features 5.0″  display, MT6577 chipset, 5 MP primary camera, 2000 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-a92.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Canvas 4 A210",
+      "title": "Micromax Canvas 4 A210 Android smartphone. Announced Jun 2013. Features 5.0″  display, MT6589 chipset, 13 MP primary camera, 5 MP front camera, 2000 mAh battery, 16 GB storage, 1000 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-canvas-4.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A88",
+      "title": "Micromax A88 Android smartphone. Announced  2013. Features 4.5″  display, MT6577 chipset, 5 MP primary camera, 1800 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-a88.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A110Q Canvas 2 Plus",
+      "title": "Micromax A110Q Canvas 2 Plus Android smartphone. Announced May 2013. Features 5.0″  display, MT6589M chipset, 8 MP primary camera, 2 MP front camera, 2000 mAh battery, 4 GB storage, 1000 MB RAM, Yes.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/Micromax-A110Q-Canvas-2-Plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X322",
+      "title": "Micromax X322 phone. Announced  2013. Features 2.8″  display.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-x322.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X321",
+      "title": "Micromax X321 phone. Announced  2013. Features 2.8″  display.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-x321.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X295",
+      "title": "Micromax X295 phone. Announced  2013. Features 2.6″  display.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-x295.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X286",
+      "title": "Micromax X286 phone. Announced  2013. Features 2.4″  display.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-x286.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X278",
+      "title": "Micromax X278 phone. Announced  2013. Features 2.4″  display.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-x278.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X099",
+      "title": "Micromax X099 phone. Announced  2013. Features 1.77″  display.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-x099.jpg",
+      "specs": ""
+    },
+    {
+      "name": "GC333",
+      "title": "Micromax GC333 phone. Announced  2013. Features 2.2″  display.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-gc333.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X396",
+      "title": "Micromax X396 phone. Announced  2013. Features 3.2″  display.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-x396.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X335C",
+      "title": "Micromax X335C phone. Announced  2013. Features 2.8″  display.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-x335c.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A111 Canvas Doodle",
+      "title": "Micromax A111 Canvas Doodle Android smartphone. Announced May 2013. Features 5.3″  display, Snapdragon S4 Play chipset, 8 MP primary camera, 2 MP front camera, 2100 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-a111.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Funbook 3G P600",
+      "title": "Micromax Funbook 3G P600 Android tablet. Announced Mar 2013. Features 7.0″  display, 2 MP primary camera, 3000 mAh battery, 2 GB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-p600.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Funbook 3G P560",
+      "title": "Micromax Funbook 3G P560 Android tablet. Announced Mar 2013. Features 7.0″  display, 2 MP primary camera, 3000 mAh battery, 2.5 GB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-p560.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Funbook Talk P362",
+      "title": "Micromax Funbook Talk P362 Android tablet. Announced Feb 2013. Features 7.0″  display, 2 MP primary camera, 1.65 GB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-p362.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Funbook Talk P360",
+      "title": "Micromax Funbook Talk P360 Android tablet. Announced Feb 2013. Features 7.0″  display, 2 MP primary camera, 3000 mAh battery, 2 GB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-p360.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Viva A72",
+      "title": "Micromax Viva A72 Android smartphone. Announced Apr 2013. Features 5.0″  display, MT6515 chipset, 3.15 MP primary camera, 110 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-a72.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Ninja A91",
+      "title": "Micromax Ninja A91 Android smartphone. Announced Mar 2013. Features 4.5″  display, MT6577 chipset, 5 MP primary camera, 2 GB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-a91.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Ninja A54",
+      "title": "Micromax Ninja A54 Android smartphone. Announced Jan 2013. Features 3.5″  display, 3.15 MP primary camera, 130 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-a54.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Bolt A62",
+      "title": "Micromax Bolt A62 Android smartphone. Announced Apr 2013. Features 3.95″  display, 2 MP primary camera, 202 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-a62.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Bolt A51",
+      "title": "Micromax Bolt A51 Android smartphone. Announced Apr 2013. Features 3.5″  display, 2 MP primary camera, 1500 mAh battery, 256 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-a51.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Bolt A35",
+      "title": "Micromax Bolt A35 Android smartphone. Announced Feb 2013. Features 4.0″  display, 2 MP primary camera.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-a35.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Bolt A27",
+      "title": "Micromax Bolt A27 Android smartphone. Announced Jan 2013. Features 3.5″  display.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-a27.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A115 Canvas 3D",
+      "title": "Micromax A115 Canvas 3D Android smartphone. Announced Apr 2013. Features 5.0″  display, MT6577T chipset, 5 MP primary camera, 2000 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-a115-canvas-3d.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A116 Canvas HD",
+      "title": "Micromax A116 Canvas HD Android smartphone. Announced Jan 2013. Features 5.0″  display, MT6589 chipset, 8 MP primary camera, 2 MP front camera, 2000 mAh battery, 4 GB storage, 1000 MB RAM, Yes.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-a116-canvas-hd.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A101",
+      "title": "Micromax A101 Android smartphone. Announced Dec 2012. Features 5.0″  display, 5 MP primary camera, 2100 mAh battery, 4 GB storage, 512 MB RAM, Yes.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-a101.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A110 Canvas 2",
+      "title": "Micromax A110 Canvas 2 Android smartphone. Announced Oct 2012. Features 5.0″  display, MT6577 chipset, 8 MP primary camera, 2000 mAh battery, 4 GB storage, 512 MB RAM, Yes.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-a110.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A89 Ninja",
+      "title": "Micromax A89 Ninja Android smartphone. Announced Feb 2013. Features 3.97″  display, MT6577 chipset, 3.15 MP primary camera, 1450 mAh battery, 2 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-ninja-a89.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A87 Ninja 4.0",
+      "title": "Micromax A87 Ninja 4.0 Android smartphone. Announced Sep 2012. Features 4.0″  display, 2 MP primary camera, 1400 mAh battery, 130 MB storage, 256 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-superfone-a87-ninja-4.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A57 Ninja 3.0",
+      "title": "Micromax A57 Ninja 3.0 Android smartphone. Announced Sep 2012. Features 3.5″  display, 3.15 MP primary camera, 1400 mAh battery, 256 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-superfone-a57-ninja-3.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Funbook Infinity P275",
+      "title": "Micromax Funbook Infinity P275 Android tablet. Announced  2012. Features 7.0″  display, 2 MP primary camera, 4000 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-funbook-infinity-p275.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Funbook Alfa P250",
+      "title": "Micromax Funbook Alfa P250 Android tablet. Announced Sep 2012. Features 7.0″  display, 2800 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-funbook-alfa.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Funbook Pro",
+      "title": "Micromax Funbook Pro Android tablet. Announced Aug 2012. Features 10.1″  display, 5600 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-funbook-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A100",
+      "title": "Micromax A100 Android smartphone. Announced Aug 2012. Features 5.0″  display, 5 MP primary camera, 2000 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-a100.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A90s",
+      "title": "Micromax A90s Android smartphone. Announced Q3 2012. Features 4.3″  display, MT6577 chipset, 8 MP primary camera, 1600 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-a90s.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A90",
+      "title": "Micromax A90 Android smartphone. Announced Jul 2012. Features 4.3″  display, MT6575 chipset, 8 MP primary camera, 1600 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-a90.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A84",
+      "title": "Micromax A84 Android smartphone. Announced Aug 2012. Features 3.98″  display, MT6575 chipset, 5 MP primary camera, 1630 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-a84.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A80",
+      "title": "Micromax A80  Android smartphone. Announced Aug 2012. Features 3.75″  display, MT6573 chipset, 5 MP primary camera, 2500 mAh battery, 256 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-a80.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Superfone Punk A44",
+      "title": "Micromax Superfone Punk A44 Android smartphone. Announced Aug 2012. Features 3.5″  display, MT6513 chipset, 2 MP primary camera, 1200 mAh battery, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-superfone-punk-a44.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Q50",
+      "title": "Micromax Q50 phone. Announced  2010. Features 2.2″  display, 2 MP primary camera, 1000 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-Q50.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X560",
+      "title": "Micromax X560 phone. Announced  2010. Features 3.2″  display, 3.15 MP primary camera, 1100 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-X560.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A60",
+      "title": "Micromax A60 Android smartphone. Announced  2010. Features 2.8″  display, 3.15 MP primary camera, 1280 mAh battery, 150 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-a60.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X600",
+      "title": "Micromax X600 phone. Announced  2010. Features 3.2″  display, 2 MP primary camera, 1100 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-x600.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X550 Qube",
+      "title": "Micromax X550 Qube phone. Announced  2010. Features 3.2″  display, 2 MP primary camera, 1200 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-x550-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X510 Pike",
+      "title": "Micromax X510 Pike phone. Announced  2010. Features 2.8″  display, 2 MP primary camera, 1500 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-x510-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X500",
+      "title": "Micromax X500 phone. Announced  2010. Features 2.8″  display, 5 MP primary camera, 800 mAh battery, 87 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-x500.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X310",
+      "title": "Micromax X310 phone. Announced  2010. Features 2.2″  display, 1.3 MP primary camera, 900 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-x310.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X2i",
+      "title": "Micromax X2i phone. Announced  2010. Features 1.44″  display, 1800 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-x2i.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X118",
+      "title": "Micromax X118 phone. Announced  2010. Features 1.75″  display, 850 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-x118.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X100",
+      "title": "Micromax X100 phone. Announced  2010. Features 1.46″  display, 450 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-x100.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X1i",
+      "title": "Micromax X1i phone. Announced  2010. Features 1.46″  display, 1800 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-x1i.jpg",
+      "specs": ""
+    },
+    {
+      "name": "GC700",
+      "title": "Micromax GC700 phone. Announced  2010. Features 2.8″  display, 2 MP primary camera, 940 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-gc700.jpg",
+      "specs": ""
+    },
+    {
+      "name": "GC400",
+      "title": "Micromax GC400 phone. Announced  2010. Features 2.2″  display, 2 MP primary camera, 1000 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-gc400.jpg",
+      "specs": ""
+    },
+    {
+      "name": "GC360",
+      "title": "Micromax GC360 phone. Announced  2010. Features TFT, 65K colors display, 1050 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-gc360-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "GC275",
+      "title": "Micromax GC275 phone. Announced  2010. Features TFT, 65K colors display, 800 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-gc275.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Q75",
+      "title": "Micromax Q75 phone. Announced  2010. Features TFT, 65K colors display, 3.15 MP primary camera, 1200 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-q75-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Q6",
+      "title": "Micromax Q6 phone. Announced  2010. Features TFT, 65K colors display, 2 MP primary camera, 950 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-q6.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Q7",
+      "title": "Micromax Q7 phone. Announced May 2010. Features 2.2″  display, 2 MP primary camera, 800 mAh battery, 78 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-q7.jpg",
+      "specs": ""
+    },
+    {
+      "name": "G4",
+      "title": "Micromax G4 phone. Announced Mar 2010. Features 2.4″  display, 2 MP primary camera, 850 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/g4.jpg",
+      "specs": ""
+    },
+    {
+      "name": "W900",
+      "title": "Micromax W900 Windows Mobile smartphone. Announced Feb 2010. Features 3.2″  display, 2 MP primary camera, 1500 mAh battery, 128 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/w900.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X330",
+      "title": "Micromax X330 phone. Announced Q2 2010. Features 2.2″  display, 2 MP primary camera.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/x330.jpg",
+      "specs": ""
+    },
+    {
+      "name": "H360",
+      "title": "Micromax H360 phone. Announced Oct 2009. Features 2.4″  display, 3.15 MP primary camera, 1000 mAh battery, 52 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/h360.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Q1",
+      "title": "Micromax Q1 phone. Announced Feb 2010. Features 2.2″  display, 1000 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/q1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Q3",
+      "title": "Micromax Q3 phone. Announced Jun 2009. Features 2.2″  display, 1.3 MP primary camera, 1000 mAh battery, 10 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/q3.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Q2",
+      "title": "Micromax Q2 phone. Announced Dec 2009. Features 2.2″  display, 1000 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/q2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Q5 fb",
+      "title": "Micromax Q5 fb phone. Announced Jan 2010. Features 2.2″  display, 2 MP primary camera, 1000 mAh battery, 15 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/q5fb.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Q55 Bling",
+      "title": "Micromax Q55 Bling phone. Announced Feb 2010. Features 2.4″  display, 2 MP primary camera, 850 mAh battery, 10 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/q55.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X1i plus",
+      "title": "Micromax X1i plus phone. Announced Nov 2009. Features 1.46″  display, 1800 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/x1i-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X2i plus",
+      "title": "Micromax X2i plus phone. Announced Feb 2010. Features 1.75″  display, 1800 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/x2i-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X114",
+      "title": "Micromax X114 phone. Announced Jul 2009. Features 1.5″  display, 1050 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/x114.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X111",
+      "title": "Micromax X111 phone. Announced Apr 2010. Features 1.4″  display, 480 mAh battery, 32 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/x111.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X215",
+      "title": "Micromax X215 phone. Announced Dec 2009. Features 1.5″  display, 1000 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/x215.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X220",
+      "title": "Micromax X220 phone. Announced Jan 2010. Features 1.81″  display, 800 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/x220.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X225",
+      "title": "Micromax X225 phone. Announced Dec 2008. Features 1.8″  display, 700 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/x225.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X235",
+      "title": "Micromax X235 phone. Announced Mar 2010. Features 2.0″  display, 1050 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/x235.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X250",
+      "title": "Micromax X250 phone. Announced May 2009. Features 2.0″  display, 1300 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/x250.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X260",
+      "title": "Micromax X260 phone. Announced Oct 2009. Features 2.2″  display, 1300 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/x260.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X360",
+      "title": "Micromax X360 phone. Announced Nov 2009. Features 2.0″  display, 1.3 MP primary camera, 800 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/x360.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X101",
+      "title": "Micromax X101 phone. Announced Sep 2012. Features 1.77″  display, 1000 mAh battery, 16 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-x101.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A25",
+      "title": "Micromax A25 Android smartphone. Announced Oct 2012. Features 2.8″  display, MT6515 chipset, 1.3 MP primary camera, 1280 mAh battery, 120 MB storage, 256 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-a25.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X291",
+      "title": "Micromax X291 phone. Announced May 2012. Features 2.6″  display, 1.3 MP primary camera, 1450 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-x291.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X277",
+      "title": "Micromax X277 phone. Announced May 2012. Features 2.4″  display, 1000 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-x277.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X276",
+      "title": "Micromax X276 phone. Announced May 2012. Features 2.4″  display, 1000 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-x276.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X246",
+      "title": "Micromax X246 phone. Announced May 2012. Features 2.4″  display, 1800 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-x246.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X234+",
+      "title": "Micromax X234+ phone. Announced Jun 2012. Features 2.0″  display, 800 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-x234.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A56",
+      "title": "Micromax A56 Android smartphone. Announced Jul 2012. Features 3.5″  display, MT6573 chipset, 3.15 MP primary camera, 1400 mAh battery, 50 MB storage, 256 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-a56.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A52",
+      "title": "Micromax A52 Android smartphone. Announced Jun 2012. Features 3.2″  display, MT6575 chipset, 2 MP primary camera, 1280 mAh battery, 160 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-a52.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A45",
+      "title": "Micromax A45 Android smartphone. Announced Jun 2012. Features 3.5″  display, MT6513 chipset, 2 MP primary camera, 1300 mAh battery, 180 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-a45.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X660",
+      "title": "Micromax X660 phone. Announced Q2 2012. Features 3.5″  display, 3.2 MP primary camera, 1200 mAh battery, 60 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-x660.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X640",
+      "title": "Micromax X640 phone. Announced Q2 2012. Features 3.2″  display, 2 MP primary camera.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-x640.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X368",
+      "title": "Micromax X368 phone. Announced Q2 2012. Features 2.55″  display, 2 MP primary camera, 43 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-x368.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X335",
+      "title": "Micromax X335 phone. Announced Q2 2012. Features 2.8″  display.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-x335.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X288",
+      "title": "Micromax X288 phone. Announced Q2 2012. Features 2.4″  display, 1.3 MP primary camera.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-x288.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X274",
+      "title": "Micromax X274 phone. Announced Q2 2012. Features 2.4″  display.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-x274.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X233",
+      "title": "Micromax X233 phone. Announced Q2 2012. Features 1.77″  display.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-x233.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X231",
+      "title": "Micromax X231 phone. Announced Q2 2012. Features 2.4″  display, 1.3 MP primary camera.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-x231.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X102",
+      "title": "Micromax X102 phone. Announced Q2 2012. Features 1.8″  display.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-x102.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A50 Ninja",
+      "title": "Micromax A50 Ninja Android smartphone. Announced  2012. Features 3.1″  display, MT6573 chipset, 2 MP primary camera, 1200 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-a50.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A78",
+      "title": "Micromax A78 Android smartphone. Announced Feb 2012. Features 3.5″  display, MT6573 chipset, 3.2 MP primary camera, 1300 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-a78.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Funbook P300",
+      "title": "Micromax Funbook P300 Android tablet. Announced Apr 2012. Features 7.0″  display, 2800 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-funbook-p300.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A73",
+      "title": "Micromax A73 Android smartphone. Announced  2011. Features 3.5″  display, MT6573 chipset, 2 MP primary camera, 1300 mAh battery, 50 MB storage, 256 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-a73.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X650",
+      "title": "Micromax X650 phone. Announced Jan 2012. Features 3.2″  display, 3.15 MP primary camera, 1080 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-x650.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X490",
+      "title": "Micromax X490 phone. Announced Jan 2012. Features 2.2″  display, 2 MP primary camera, 850 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-x490.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X333",
+      "title": "Micromax X333 phone. Announced Jan 2012. Features 2.8″  display, 1000 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-x333.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X275",
+      "title": "Micromax X275 phone. Announced Jan 2012. Features 2.4″  display, 2400 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-x275.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X271",
+      "title": "Micromax X271 phone. Announced Jan 2012. Features 2.4″  display, 1500 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-x271.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X11i",
+      "title": "Micromax X11i phone. Announced Q4 2011. Features 1.46″  display, 1800 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-x11i.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A75",
+      "title": "Micromax A75 Android smartphone. Announced Dec 2011. Features 3.75″  display, MT6573 chipset, 3.15 MP primary camera, 1300 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-a75.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X270",
+      "title": "Micromax X270 phone. Announced  2011. Features 2.4″  display, 1800 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-x270.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X256",
+      "title": "Micromax X256 phone. Announced  2011. Features 2.6″  display, 1200 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-x256.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X78",
+      "title": "Micromax X78 phone. Announced  2011. Features 2.8″  display, 3.2 MP primary camera, 950 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-x78.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X55 Blade",
+      "title": "Micromax X55 Blade phone. Announced  2011. Features TFT, 256K colors display, 5 MP primary camera.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-x55-blade.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X285",
+      "title": "Micromax X285 phone. Announced  2011. Features 2.4″  display, 1.3 MP primary camera, 1100 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-x285.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A55",
+      "title": "Micromax A55 Android smartphone. Announced  2011. Features 2.8″  display, Snapdragon S1 chipset, 3.15 MP primary camera, 1000 mAh battery, 150 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-a55.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X40",
+      "title": "Micromax X40 phone. Announced  2011. Features TFT, 256K colors display, 2 MP primary camera, 1000 mAh battery, 80 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-x40.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X450",
+      "title": "Micromax X450 phone. Announced  2011. Features 2.4″  display, 2 MP primary camera, 1000 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-x450.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X222",
+      "title": "Micromax X222 phone. Announced  2011. Features TFT, 65K colors display, 900 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-x222.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A85",
+      "title": "Micromax A85 Android smartphone. Announced Q3 2011. Features 3.8″  display, Nvidia Tegra 2 AP20H chipset, 5 MP primary camera, 1500 mAh battery, 8 GB storage, 521 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-a85-ofic.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Q80",
+      "title": "Micromax Q80 phone. Announced Jun 2011. Features 2.4″  display, 3.15 MP primary camera, 1200 mAh battery, 68 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-q80.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A70",
+      "title": "Micromax A70 Android smartphone. Announced Q2 2011. Features 3.2″  display, 5 MP primary camera, 1450 mAh battery, 4 GB storage, 256 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-a70.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X410",
+      "title": "Micromax X410 phone. Announced  2011. Features 2.4″  display, 2 MP primary camera, 850 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-X410.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X395",
+      "title": "Micromax X395 phone. Announced  2011. Features 2.4″  display, 1.3 MP primary camera, 800 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-X395.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X266",
+      "title": "Micromax X266 phone. Announced  2011. Features 2.2″  display, 1.3 MP primary camera, 1000 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-X266.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X265",
+      "title": "Micromax X265 phone. Announced  2010. Features 2.2″  display, 1200 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-x265.jpg",
+      "specs": ""
+    },
+    {
+      "name": "M2",
+      "title": "Micromax M2 phone. Announced  2011. Features 2.0″  display, 2 MP primary camera, 850 mAh battery, 2 GB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-M2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Q66",
+      "title": "Micromax Q66 phone. Announced  2010. Features 2.4″  display, 2 MP primary camera, 850 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-Q66.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X370",
+      "title": "Micromax X370 phone. Announced  2010. Features 2.2″  display, 2 MP primary camera, 1000 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-X370.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X226+",
+      "title": "Micromax X226+ phone. Announced  2010. Features 1.77″  display, 1.3 MP primary camera, 1000 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/micromax-X226-plus.jpg",
+      "specs": ""
+    }
+  ]
+}

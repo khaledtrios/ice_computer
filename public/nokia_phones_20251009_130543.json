@@ -1,0 +1,3553 @@
+{
+  "scrape_date": "2025-10-09T13:06:28.058784",
+  "total_phones": 591,
+  "source": "https://www.gsmarena.com/nokia-phones-1.php",
+  "phones": [
+    {
+      "name": "150 Music",
+      "title": "Nokia 150 Music phone. Announced Mar 2025. Features 2.4″  display, Unisoc 6531F chipset, 2500 mAh battery, 8 MB storage, 8 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-150-music-2025.jpg",
+      "specs": ""
+    },
+    {
+      "name": "130 Music",
+      "title": "Nokia 130 Music phone. Announced Mar 2025. Features 2.4″  display, Unisoc 6531F chipset, 2500 mAh battery, 8 MB storage, 8 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-130-music-2025.jpg",
+      "specs": ""
+    },
+    {
+      "name": "110 4G 2nd Edition",
+      "title": "Nokia 110 4G 2nd Edition phone. Announced Dec 2024. Features 1.8″  display, 1450 mAh battery, 48 MB storage, 128 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-110-4g-2nd-edition.jpg",
+      "specs": ""
+    },
+    {
+      "name": "105 4G 2nd Edition",
+      "title": "Nokia 105 4G 2nd Edition phone. Announced Dec 2024. Features 1.8″  display, 1450 mAh battery, 48 MB storage, 128 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-105-4g-2nd-edition.jpg",
+      "specs": ""
+    },
+    {
+      "name": "108 4G (2024)",
+      "title": "Nokia 108 4G (2024) phone. Announced Oct 2024. Features 2.0″  display, 1450 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-108-4g-2024.jpg",
+      "specs": ""
+    },
+    {
+      "name": "110 4G (2024)",
+      "title": "Nokia 110 4G (2024) phone. Announced Oct 2024. Features 2.0″  display, 1000 mAh battery, 64 MB storage, 128 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-110-4g-2024.jpg",
+      "specs": ""
+    },
+    {
+      "name": "105 (2024)",
+      "title": "Nokia 105 (2024) smartphone. Announced Jul 2024. Features 2.0″  display, 1000 mAh battery, 4 MB storage, 4 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-105-2024.jpg",
+      "specs": ""
+    },
+    {
+      "name": "220 4G (2024)",
+      "title": "Nokia 220 4G (2024) phone. Announced Jun 2024. Features 2.8″  display, Unisoc T107 chipset, 1450 mAh battery, 128 MB storage, 64 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-220-4g-2024-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "3210",
+      "title": "Nokia 3210 phone. Announced May 2024. Features 2.4″  display, Unisoc T107 chipset, 1450 mAh battery, 128 MB storage, 64 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-3210.jpg",
+      "specs": ""
+    },
+    {
+      "name": "235 4G (2024)",
+      "title": "Nokia 235 4G (2024) phone. Announced Apr 2024. Features 2.8″  display, Unisoc T107 chipset, 1450 mAh battery, 128 MB storage, 64 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-235-4g-2024.jpg",
+      "specs": ""
+    },
+    {
+      "name": "225 4G (2024)",
+      "title": "Nokia 225 4G (2024) phone. Announced Apr 2024. Features 2.4″  display, Unisoc T107 chipset, 1450 mAh battery, 128 MB storage, 64 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-225-4g-2024.jpg",
+      "specs": ""
+    },
+    {
+      "name": "215 4G (2024)",
+      "title": "Nokia 215 4G (2024) phone. Announced Apr 2024. Features 2.8″  display, Unisoc T107 chipset, 1450 mAh battery, 128 MB storage, 64 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-215-4g-2024.jpg",
+      "specs": ""
+    },
+    {
+      "name": "6310 (2024)",
+      "title": "Nokia 6310 (2024) phone. Announced Apr 2024. Features 2.8″  display, Unisoc 6531F chipset, 1450 mAh battery, 16 MB storage, 8 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-6310-2024-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "5310 (2024)",
+      "title": "Nokia 5310 (2024) phone. Announced Apr 2024. Features 2.8″  display, Unisoc 6531F chipset, 1450 mAh battery, 16 MB storage, 8 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-5310-2024.jpg",
+      "specs": ""
+    },
+    {
+      "name": "230 (2024)",
+      "title": "Nokia 230 (2024) phone. Announced Apr 2024. Features 2.8″  display, Unisoc 6531F chipset, 1450 mAh battery, 16 MB storage, 8 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-230-2024.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C210",
+      "title": "Nokia C210 Android smartphone. Announced Aug 2023. Features 6.3″  display, Snapdragon 662 chipset, 3000 mAh battery, 32 GB storage, 3 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-c210.jpg",
+      "specs": ""
+    },
+    {
+      "name": "G310",
+      "title": "Nokia G310 Android smartphone. Announced Aug 2023. Features 6.56″  display, Snapdragon 480+ 5G chipset, 5000 mAh battery, 128 GB storage, 4 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-g310-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "150 (2023)",
+      "title": "Nokia 150 (2023) phone. Announced Aug 2023. Features 2.4″  display, 1450 mAh battery, 4 MB storage, 4 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-150-2023.jpg",
+      "specs": ""
+    },
+    {
+      "name": "130 (2023)",
+      "title": "Nokia 130 (2023) phone. Announced Aug 2023. Features 2.4″  display, 1450 mAh battery, 4 MB storage, 4 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-130-music.jpg",
+      "specs": ""
+    },
+    {
+      "name": "G42",
+      "title": "Nokia G42 Android smartphone. Announced Jun 2023. Features 6.56″  display, Snapdragon 480+ 5G chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-g42-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C300",
+      "title": "Nokia C300 Android smartphone. Announced Jun 2023. Features 6.52″  display, Snapdragon 662 chipset, 4000 mAh battery, 32 GB storage, 3 GB RAM, Scratch-resistant glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-c300.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C110",
+      "title": "Nokia C110 Android smartphone. Announced Jun 2023. Features 6.3″  display, MT6762 Helio P22 chipset, 3000 mAh battery, 32 GB storage, 3 GB RAM, Scratch-resistant glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-c110.jpg",
+      "specs": ""
+    },
+    {
+      "name": "110 4G (2023)",
+      "title": "Nokia 110 4G (2023) phone. Announced May 2023. Features 1.8″  display, 1450 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-110-4g-2023.jpg",
+      "specs": ""
+    },
+    {
+      "name": "110 (2023)",
+      "title": "Nokia 110 (2023) phone. Announced May 2023. Features 1.8″  display, 1000 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-110-2023.jpg",
+      "specs": ""
+    },
+    {
+      "name": "106 4G (2023)",
+      "title": "Nokia 106 4G (2023) phone. Announced May 2023. Features 1.8″  display, 1450 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-105-4g-2023.jpg",
+      "specs": ""
+    },
+    {
+      "name": "106 (2023)",
+      "title": "Nokia 106 (2023) phone. Announced May 2023. Features 1.8″  display, 1000 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-106-2023.jpg",
+      "specs": ""
+    },
+    {
+      "name": "105 4G (2023)",
+      "title": "Nokia 105 4G (2023) phone. Announced May 2023. Features 1.8″  display, 1450 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-105-4g-2023.jpg",
+      "specs": ""
+    },
+    {
+      "name": "105 (2023)",
+      "title": "Nokia 105 (2023) phone. Announced May 2023. Features 1.8″  display, 1000 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-105-2023.jpg",
+      "specs": ""
+    },
+    {
+      "name": "XR21",
+      "title": "Nokia XR21 Android smartphone. Announced May 2023. Features 6.49″  display, Snapdragon 695 5G chipset, 4800 mAh battery, 128 GB storage, 6 GB RAM, MIL-STD-810H compliant, Corning Gorilla Glass Victus.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-xr21.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C12 Plus",
+      "title": "Nokia C12 Plus Android smartphone. Announced Apr 2023. Features 6.3″  display, Unisoc SC9863A1 chipset, 4000 mAh battery, 32 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-c12.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C12 Pro",
+      "title": "Nokia C12 Pro Android smartphone. Announced Mar 2023. Features 6.3″  display, Unisoc SC9863A1 chipset, 4000 mAh battery, 64 GB storage, 4 GB RAM, Scratch-resistant glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-c12.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C32",
+      "title": "Nokia C32 Android smartphone. Announced Feb 2023. Features 6.5″  display, Unisoc SC9863A1 chipset, 5000 mAh battery, 128 GB storage, 6 GB RAM, Scratch-resistant glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-c32-2023.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C22",
+      "title": "Nokia C22 Android smartphone. Announced Feb 2023. Features 6.5″  display, Unisoc SC9863A chipset, 5000 mAh battery, 128 GB storage, 4 GB RAM, Scratch-resistant glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-c22-2023.jpg",
+      "specs": ""
+    },
+    {
+      "name": "G22",
+      "title": "Nokia G22 Android smartphone. Announced Feb 2023. Features 6.5″  display, Unisoc T606 chipset, 5050 mAh battery, 256 GB storage, 6 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-g22-2023.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C02",
+      "title": "Nokia C02 Android smartphone. Announced Feb 2023. Features 5.45″  display, 3000 mAh battery, 32 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-c02.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C12",
+      "title": "Nokia C12 Android smartphone. Announced Jan 2023. Features 6.3″  display, Unisoc SC9863A1 chipset, 3000 mAh battery, 64 GB storage, 3 GB RAM, Scratch-resistant glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-c12.jpg",
+      "specs": ""
+    },
+    {
+      "name": "2780 Flip",
+      "title": "Nokia 2780 Flip smartphone. Announced Nov 2022. Features 2.7″  display, Snapdragon 215 chipset, 1450 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-2780-flip.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X30",
+      "title": "Nokia X30 Android smartphone. Announced Sep 2022. Features 6.43″  display, Snapdragon 695 5G chipset, 4200 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass Victus.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-x30-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "G100",
+      "title": "Nokia G100 Android smartphone. Announced Sep 2022. Features 6.52″  display, Snapdragon 662 chipset, 5000 mAh battery, 128 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-g100.jpg",
+      "specs": ""
+    },
+    {
+      "name": "G60",
+      "title": "Nokia G60 Android smartphone. Announced Sep 2022. Features 6.58″  display, Snapdragon 695 5G chipset, 4500 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-g60-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C31",
+      "title": "Nokia C31 Android smartphone. Announced Sep 2022. Features 6.75″  display, Unisoc SC9863A chipset, 5050 mAh battery, 128 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-c31.jpg",
+      "specs": ""
+    },
+    {
+      "name": "T21",
+      "title": "Nokia T21 Android tablet. Announced Sep 2022. Features 10.4″  display, Unisoc Tiger T612 chipset, 8200 mAh battery, 128 GB storage, 4 GB RAM, Scratch-resistant glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-t21.jpg",
+      "specs": ""
+    },
+    {
+      "name": "G400",
+      "title": "Nokia G400 Android smartphone. Announced Jan 2022. Features 6.58″  display, Snapdragon 480+ 5G chipset, 5000 mAh battery, 64 GB storage, 4 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-g400-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "110 (2022)",
+      "title": "Nokia 110 (2022) phone. Announced Aug 2022. Features 1.77″  display, 1000 mAh battery, 32 MB storage, 4 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-110-2022.jpg",
+      "specs": ""
+    },
+    {
+      "name": "8210 4G",
+      "title": "Nokia 8210 4G phone. Announced Jul 2022. Features 2.8″  display, Unisoc T107 chipset, 1450 mAh battery, 128 MB storage, 48 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-8210-4g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "5710 XpressAudio",
+      "title": "Nokia 5710 XpressAudio phone. Announced Jul 2022. Features 2.4″  display, Unisoc T107 chipset, 1450 mAh battery, 128 MB storage, 48 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-5710-xpressaudio.jpg",
+      "specs": ""
+    },
+    {
+      "name": "2760 Flip",
+      "title": "Nokia 2760 Flip smartphone. Announced Mar 2022. Features 2.8″  display, 1450 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-2660-flip.jpg",
+      "specs": ""
+    },
+    {
+      "name": "2660 Flip",
+      "title": "Nokia 2660 Flip phone. Announced Jul 2022. Features 2.8″  display, Unisoc T107 chipset, 1450 mAh battery, 128 MB storage, 48 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-2660-flip.jpg",
+      "specs": ""
+    },
+    {
+      "name": "T10",
+      "title": "Nokia T10 Android tablet. Announced Jul 2022. Features 8.0″  display, Unisoc T606 chipset, 5250 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-t10.jpg",
+      "specs": ""
+    },
+    {
+      "name": "G11 Plus",
+      "title": "Nokia G11 Plus Android smartphone. Announced Jun 2022. Features 6.52″  display, Unisoc T606 chipset, 5000 mAh battery, 128 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-g11-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "5310 XpressMusic",
+      "title": "Nokia 5310 XpressMusic phone. Announced Aug 2007. Features 2.1″  display, 2 MP primary camera, 860 mAh battery, 30 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-5310.gif",
+      "specs": ""
+    },
+    {
+      "name": "6555",
+      "title": "Nokia 6555 phone. Announced Aug 2007. Features 2.0″  display, 1.23 MP primary camera, 1020 mAh battery, 30 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-6555.gif",
+      "specs": ""
+    },
+    {
+      "name": "7900 Prism",
+      "title": "Nokia 7900 Prism phone. Announced Aug 2007. Features 2.0″  display, 2 MP primary camera, 850 mAh battery, 1000 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-7900-prism.gif",
+      "specs": ""
+    },
+    {
+      "name": "7500 Prism",
+      "title": "Nokia 7500 Prism phone. Announced Jul 2007. Features 2.0″  display, 2 MP primary camera, 700 mAh battery, 30 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-7500-prism.gif",
+      "specs": ""
+    },
+    {
+      "name": "8600 Luna",
+      "title": "Nokia 8600 Luna phone. Announced May 2007. Features 2.0″  display, 2 MP primary camera, 900 mAh battery, 120 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-8600.gif",
+      "specs": ""
+    },
+    {
+      "name": "6500 slide",
+      "title": "Nokia 6500 slide phone. Announced May 2007. Features 2.2″  display, 3.15 MP primary camera, 900 mAh battery, 20 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-6500slide.gif",
+      "specs": ""
+    },
+    {
+      "name": "6500 classic",
+      "title": "Nokia 6500 classic phone. Announced May 2007. Features 2.0″  display, 2 MP primary camera, 830 mAh battery, 1000 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-6500classic.gif",
+      "specs": ""
+    },
+    {
+      "name": "N810",
+      "title": "Nokia N810 tablet. Announced Oct 2007. Features 4.13″  display, TI OMAP 2420 chipset, 1500 mAh battery, 2 GB storage, 128 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-n810.jpg",
+      "specs": ""
+    },
+    {
+      "name": "3500 classic",
+      "title": "Nokia 3500 classic phone. Announced Jun 2007. Features 1.8″  display, 2 MP primary camera, 820 mAh battery, 9 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-3500classic.gif",
+      "specs": ""
+    },
+    {
+      "name": "2630",
+      "title": "Nokia 2630 phone. Announced May 2007. Features 1.8″  display, 700 mAh battery, 11 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-2630.gif",
+      "specs": ""
+    },
+    {
+      "name": "6267",
+      "title": "Nokia 6267 phone. Announced Jun 2007. Features 2.2″  display, 2 MP primary camera, 1020 mAh battery, 30 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-6267.gif",
+      "specs": ""
+    },
+    {
+      "name": "2760",
+      "title": "Nokia 2760 phone. Announced May 2007. Features 1.9″  display, 700 mAh battery, 10 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-2760.gif",
+      "specs": ""
+    },
+    {
+      "name": "2660",
+      "title": "Nokia 2660 phone. Announced May 2007. Features 1.85″  display, 700 mAh battery, 2 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-2660.gif",
+      "specs": ""
+    },
+    {
+      "name": "1650",
+      "title": "Nokia 1650 phone. Announced May 2007. Features 1.8″  display, 1020 mAh battery, 8 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-1650.gif",
+      "specs": ""
+    },
+    {
+      "name": "1208",
+      "title": "Nokia 1208 phone. Announced May 2007. Features 1.5″  display, 700 mAh battery, 4 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-1208.gif",
+      "specs": ""
+    },
+    {
+      "name": "1200",
+      "title": "Nokia 1200 phone. Announced May 2007. Features 1.5″  display, 700 mAh battery, 4 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-1200.gif",
+      "specs": ""
+    },
+    {
+      "name": "6120 classic",
+      "title": "Nokia 6120 classic Symbian smartphone. Announced Apr 2007. Features 2.0″  display, 2 MP primary camera, 890 mAh battery, 32 MB storage, 64 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-6120.gif",
+      "specs": ""
+    },
+    {
+      "name": "6121 classic",
+      "title": "Nokia 6121 classic Symbian smartphone. Announced Jun 2007. Features 2.0″  display, 2 MP primary camera, 890 mAh battery, 32 MB storage, 64 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-6121classic.gif",
+      "specs": ""
+    },
+    {
+      "name": "5700",
+      "title": "Nokia 5700 Symbian smartphone. Announced Mar 2007. Features 2.2″  display, 2 MP primary camera, 900 mAh battery, 38 MB storage, 64 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-5700.gif",
+      "specs": ""
+    },
+    {
+      "name": "5070",
+      "title": "Nokia 5070 phone. Announced Mar 2007. Features 1.87″  display, 860 mAh battery, 4 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-5070.gif",
+      "specs": ""
+    },
+    {
+      "name": "E90",
+      "title": "Nokia E90 Symbian smartphone. Announced Feb 2007. Features 4.0″  display, 3.15 MP primary camera, 1500 mAh battery, 120 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-e90.gif",
+      "specs": ""
+    },
+    {
+      "name": "E65",
+      "title": "Nokia E65 Symbian smartphone. Announced Feb 2007. Features 2.2″  display, 2 MP primary camera, 950 mAh battery, 50 MB storage, 64 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-e65.gif",
+      "specs": ""
+    },
+    {
+      "name": "E61i",
+      "title": "Nokia E61i Symbian smartphone. Announced Feb 2007. Features 2.8″  display, 2 MP primary camera, 1500 mAh battery, 60 MB storage, 64 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-e61i.gif",
+      "specs": ""
+    },
+    {
+      "name": "N77",
+      "title": "Nokia N77 Symbian smartphone. Announced Feb 2007. Features 2.4″  display, 2 MP primary camera, 1100 mAh battery, 20 MB storage, 64 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-n77.gif",
+      "specs": ""
+    },
+    {
+      "name": "6110 Navigator",
+      "title": "Nokia 6110 Navigator Symbian smartphone. Announced Feb 2007. Features 2.2″  display, 2 MP primary camera, 900 mAh battery, 40 MB storage, 128 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-6110navi.gif",
+      "specs": ""
+    },
+    {
+      "name": "N800",
+      "title": "Nokia N800 tablet. Announced Jan 2007. Features 4.13″  display, 128 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-n800.jpg",
+      "specs": ""
+    },
+    {
+      "name": "3109 classic",
+      "title": "Nokia 3109 classic phone. Announced May 2007. Features 1.8″  display, 1020 mAh battery, 9 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-3109classic.gif",
+      "specs": ""
+    },
+    {
+      "name": "3110 classic",
+      "title": "Nokia 3110 classic phone. Announced Feb 2007. Features 1.8″  display, 1.3 MP primary camera, 1020 mAh battery, 9 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-3110classic.gif",
+      "specs": ""
+    },
+    {
+      "name": "N76",
+      "title": "Nokia N76 Symbian smartphone. Announced Jan 2007. Features 2.4″  display, 2 MP primary camera, 700 mAh battery, 26 MB storage, 96 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-n76.gif",
+      "specs": ""
+    },
+    {
+      "name": "N93i",
+      "title": "Nokia N93i Symbian smartphone. Announced Jan 2007. Features 2.4″  display, 3.15 MP primary camera, 950 mAh battery, 50 MB storage, 64 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-n93i.gif",
+      "specs": ""
+    },
+    {
+      "name": "6290",
+      "title": "Nokia 6290 Symbian smartphone. Announced Nov 2006. Features 2.2″  display, 2 MP primary camera, 950 mAh battery, 45 MB storage, 64 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-6290.gif",
+      "specs": ""
+    },
+    {
+      "name": "6086",
+      "title": "Nokia 6086 phone. Announced Nov 2006. Features 1.8″  display, 850 mAh battery, 5 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-6086.gif",
+      "specs": ""
+    },
+    {
+      "name": "6300",
+      "title": "Nokia 6300 phone. Announced Nov 2006. Features 2.0″  display, 2 MP primary camera, 860 mAh battery, 8 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-6300.gif",
+      "specs": ""
+    },
+    {
+      "name": "2626",
+      "title": "Nokia 2626 phone. Announced Nov 2006. Features 1.5″  display, 970 mAh battery, 2 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-2626.gif",
+      "specs": ""
+    },
+    {
+      "name": "N95",
+      "title": "Nokia N95 Symbian smartphone. Announced Sep 2006. Features 2.6″  display, 5 MP primary camera, 950 mAh battery, 160 MB storage, 64 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-n95.gif",
+      "specs": ""
+    },
+    {
+      "name": "N75",
+      "title": "Nokia N75 Symbian smartphone. Announced Sep 2006. Features 2.4″  display, 2 MP primary camera, 800 mAh battery, 40 MB storage, 64 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-n75.gif",
+      "specs": ""
+    },
+    {
+      "name": "5300",
+      "title": "Nokia 5300 phone. Announced Sep 2006. Features 2.1″  display, 1.3 MP primary camera, 860 mAh battery, 5 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-5300.gif",
+      "specs": ""
+    },
+    {
+      "name": "5200",
+      "title": "Nokia 5200 phone. Announced Sep 2006. Features 2.0″  display, 760 mAh battery, 5 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-5200.gif",
+      "specs": ""
+    },
+    {
+      "name": "6288",
+      "title": "Nokia 6288 phone. Announced Sep 2006. Features 2.2″  display, 2 MP primary camera, 1100 mAh battery, 6 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-6288.gif",
+      "specs": ""
+    },
+    {
+      "name": "6085",
+      "title": "Nokia 6085 phone. Announced Sep 2006. Features 1.8″  display, 970 mAh battery, 4 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-6085.gif",
+      "specs": ""
+    },
+    {
+      "name": "8800 Sirocco",
+      "title": "Nokia 8800 Sirocco phone. Announced Sep 2006. Features 1.7″  display, 2 MP primary camera, 700 mAh battery, 120 MB storage, Scratch-resistant glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-8800-sirocco.gif",
+      "specs": ""
+    },
+    {
+      "name": "7390",
+      "title": "Nokia 7390 phone. Announced Sep 2006. Features 2.3″  display, 3.15 MP primary camera, 21 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-7390.gif",
+      "specs": ""
+    },
+    {
+      "name": "7373",
+      "title": "Nokia 7373 phone. Announced Sep 2006. Features 2.0″  display, 2 MP primary camera, 700 mAh battery, 8 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-7373.gif",
+      "specs": ""
+    },
+    {
+      "name": "6151",
+      "title": "Nokia 6151 phone. Announced Jun 2006. Features 1.8″  display, 1.3 MP primary camera, 1100 mAh battery, 30 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-6151.gif",
+      "specs": ""
+    },
+    {
+      "name": "6080",
+      "title": "Nokia 6080 phone. Announced Jun 2006. Features 1.78″  display, 820 mAh battery, 4 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-6080.gif",
+      "specs": ""
+    },
+    {
+      "name": "1110i",
+      "title": "Nokia 1110i phone. Announced Jun 2006. Features Monochrome graphic display, 900 mAh battery, 4 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-1110i.gif",
+      "specs": ""
+    },
+    {
+      "name": "E50",
+      "title": "Nokia E50 Symbian smartphone. Announced May 2006. Features 2.1″  display, 1.3 MP primary camera, 970 mAh battery, 70 MB storage, 32 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-e50.gif",
+      "specs": ""
+    },
+    {
+      "name": "5500 Sport",
+      "title": "Nokia 5500 Sport Symbian smartphone. Announced May 2006. Features 1.7″  display, 2 MP primary camera, 860 mAh battery, 8 MB storage, 64 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-5500s.gif",
+      "specs": ""
+    },
+    {
+      "name": "N93",
+      "title": "Nokia N93 Symbian smartphone. Announced Apr 2006. Features 2.4″  display, 3.15 MP primary camera, 1100 mAh battery, 50 MB storage, 64 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-n93.gif",
+      "specs": ""
+    },
+    {
+      "name": "N73",
+      "title": "Nokia N73 Symbian smartphone. Announced Apr 2006. Features 2.4″  display, 3.15 MP primary camera, 1100 mAh battery, 42 MB storage, 64 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-n73.gif",
+      "specs": ""
+    },
+    {
+      "name": "2323 classic",
+      "title": "Nokia 2323 classic phone. Announced Nov 2008. Features 1.8″  display, 1020 mAh battery, 4 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-2323-classic.jpg",
+      "specs": ""
+    },
+    {
+      "name": "1662",
+      "title": "Nokia 1662 phone. Announced Nov 2008. Features 1.8″  display, 860 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-1662.jpg",
+      "specs": ""
+    },
+    {
+      "name": "1661",
+      "title": "Nokia 1661 phone. Announced Nov 2008. Features 1.8″  display, 860 mAh battery, 8 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-1661.jpg",
+      "specs": ""
+    },
+    {
+      "name": "1202",
+      "title": "Nokia 1202 phone. Announced Nov 2008. Features 1.3″  display, 720 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-1202.jpg",
+      "specs": ""
+    },
+    {
+      "name": "5800 XpressMusic",
+      "title": "Nokia 5800 XpressMusic Symbian smartphone. Announced Oct 2008. Features 3.2″  display, 3.15 MP primary camera, 1320 mAh battery, 81 MB storage, 128 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-5800-xpressmusic.jpg",
+      "specs": ""
+    },
+    {
+      "name": "N85",
+      "title": "Nokia N85 Symbian smartphone. Announced Aug 2008. Features 2.6″  display, 5 MP primary camera, 1200 mAh battery, 74 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-n85.jpg",
+      "specs": ""
+    },
+    {
+      "name": "N79",
+      "title": "Nokia N79 Symbian smartphone. Announced Aug 2008. Features 2.4″  display, 5 MP primary camera, 1200 mAh battery, 50 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-n79.jpg",
+      "specs": ""
+    },
+    {
+      "name": "8800 Carbon Arte",
+      "title": "Nokia 8800 Carbon Arte phone. Announced Aug 2008. Features 2.0″  display, 3.15 MP primary camera, 1000 mAh battery, 4 GB storage, Scratch-resistant glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-8800-carbon-arte.jpg",
+      "specs": ""
+    },
+    {
+      "name": "3610 fold",
+      "title": "Nokia 3610 fold phone. Announced Aug 2008. Features 2.0″  display, 1.3 MP primary camera, 1020 mAh battery, 30 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-3610fold.jpg",
+      "specs": ""
+    },
+    {
+      "name": "7610 Supernova",
+      "title": "Nokia 7610 Supernova phone. Announced Jun 2008. Features 2.0″  display, 3.15 MP primary camera, 860 mAh battery, 64 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-7610-s.jpg",
+      "specs": ""
+    },
+    {
+      "name": "7510 Supernova",
+      "title": "Nokia 7510 Supernova phone. Announced Jun 2008. Features 2.2″  display, 2 MP primary camera, 870 mAh battery, 20 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-7510-s.jpg",
+      "specs": ""
+    },
+    {
+      "name": "7310 Supernova",
+      "title": "Nokia 7310 Supernova phone. Announced Jun 2008. Features 2.0″  display, 2 MP primary camera, 860 mAh battery, 32 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-7310-s.jpg",
+      "specs": ""
+    },
+    {
+      "name": "7210 Supernova",
+      "title": "Nokia 7210 Supernova phone. Announced Jun 2008. Features 2.0″  display, 2 MP primary camera, 860 mAh battery, 30 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-7210-s.jpg",
+      "specs": ""
+    },
+    {
+      "name": "E71",
+      "title": "Nokia E71 Symbian smartphone. Announced Jun 2008. Features 2.36″  display, 3.15 MP primary camera, 1500 mAh battery, 110 MB storage, 128 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-e71.jpg",
+      "specs": ""
+    },
+    {
+      "name": "E66",
+      "title": "Nokia E66 Symbian smartphone. Announced Jun 2008. Features 2.4″  display, 3.15 MP primary camera, 1000 mAh battery, 110 MB storage, 128 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-e66.jpg",
+      "specs": ""
+    },
+    {
+      "name": "703",
+      "title": "Nokia 703 Windows Mobile smartphone. Not officially announced yet. Features 3.7″  display, 5 MP primary camera, 8 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-703.jpg",
+      "specs": ""
+    },
+    {
+      "name": "6600 fold",
+      "title": "Nokia 6600 fold phone. Announced Apr 2008. Features 2.13″  display, 2 MP primary camera, 860 mAh battery, 18 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-6600fold.jpg",
+      "specs": ""
+    },
+    {
+      "name": "6600 slide",
+      "title": "Nokia 6600 slide phone. Announced Apr 2008. Features 2.2″  display, 3.15 MP primary camera, 1000 mAh battery, 18 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-6600slide.jpg",
+      "specs": ""
+    },
+    {
+      "name": "3600 slide",
+      "title": "Nokia 3600 slide phone. Announced Apr 2008. Features 2.0″  display, 3.15 MP primary camera, 860 mAh battery, 30 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-3600slide.jpg",
+      "specs": ""
+    },
+    {
+      "name": "5320 XpressMusic",
+      "title": "Nokia 5320 XpressMusic Symbian smartphone. Announced Apr 2008. Features 2.0″  display, 2 MP primary camera, 890 mAh battery, 140 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-5320.jpg",
+      "specs": ""
+    },
+    {
+      "name": "5220 XpressMusic",
+      "title": "Nokia 5220 XpressMusic phone. Announced Apr 2008. Features 2.0″  display, 2 MP primary camera, 1020 mAh battery, 30 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-5220.jpg",
+      "specs": ""
+    },
+    {
+      "name": "6212 classic",
+      "title": "Nokia 6212 classic phone. Announced Apr 2008. Features 2.0″  display, 2 MP primary camera, 1000 mAh battery, 22 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-6112-classic.jpg",
+      "specs": ""
+    },
+    {
+      "name": "5000",
+      "title": "Nokia 5000 phone. Announced Apr 2008. Features 2.0″  display, 1.3 MP primary camera, 700 mAh battery, 12 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-5000.jpg",
+      "specs": ""
+    },
+    {
+      "name": "7070 Prism",
+      "title": "Nokia 7070 Prism phone. Announced Apr 2008. Features 1.8″  display, 700 mAh battery, 11 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-7070-prism.jpg",
+      "specs": ""
+    },
+    {
+      "name": "2680 slide",
+      "title": "Nokia 2680 slide phone. Announced Apr 2008. Features 1.8″  display, 860 mAh battery, 12 MB storage, 4 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-2680-slide.jpg",
+      "specs": ""
+    },
+    {
+      "name": "1680 classic",
+      "title": "Nokia 1680 classic phone. Announced Apr 2008. Features 1.85″  display, 700 mAh battery, 11 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-1680-classic.jpg",
+      "specs": ""
+    },
+    {
+      "name": "6300i",
+      "title": "Nokia 6300i phone. Announced Mar 2008. Features 2.0″  display, 2 MP primary camera, 860 mAh battery, 30 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-6300i.jpg",
+      "specs": ""
+    },
+    {
+      "name": "N96",
+      "title": "Nokia N96 Symbian smartphone. Announced Feb 2008. Features 2.8″  display, 5 MP primary camera, 950 mAh battery, 16 GB storage, 128 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-n96.jpg",
+      "specs": ""
+    },
+    {
+      "name": "N78",
+      "title": "Nokia N78 Symbian smartphone. Announced Feb 2008. Features 2.4″  display, 3.15 MP primary camera, 1200 mAh battery, 76 MB storage, 96 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-n78.jpg",
+      "specs": ""
+    },
+    {
+      "name": "6220 classic",
+      "title": "Nokia 6220 classic Symbian smartphone. Announced Feb 2008. Features 2.2″  display, 5 MP primary camera, 900 mAh battery, 120 MB storage, 128 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-6220cl.jpg",
+      "specs": ""
+    },
+    {
+      "name": "6210 Navigator",
+      "title": "Nokia 6210 Navigator Symbian smartphone. Announced Feb 2008. Features 2.4″  display, 3.15 MP primary camera, 950 mAh battery, 120 MB storage, 128 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-6210navi.jpg",
+      "specs": ""
+    },
+    {
+      "name": "6124 classic",
+      "title": "Nokia 6124 classic Symbian smartphone. Announced Mar 2008. Features 2.0″  display, 2 MP primary camera, 890 mAh battery, 35 MB storage, 64 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-6124.jpg",
+      "specs": ""
+    },
+    {
+      "name": "6650 fold",
+      "title": "Nokia 6650 fold Symbian smartphone. Announced Mar 2008. Features 2.2″  display, 2 MP primary camera, 1500 mAh battery, 30 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-6650.jpg",
+      "specs": ""
+    },
+    {
+      "name": "3555",
+      "title": "Nokia 3555 phone. Announced Nov 2007. Features 1.8″  display, 1020 mAh battery, 30 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-3555.jpg",
+      "specs": ""
+    },
+    {
+      "name": "3120 classic",
+      "title": "Nokia 3120 classic phone. Announced Feb 2008. Features 2.0″  display, 2 MP primary camera, 1000 mAh battery, 24 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-3120cl.jpg",
+      "specs": ""
+    },
+    {
+      "name": "7900 Crystal Prism",
+      "title": "Nokia 7900 Crystal Prism phone. Announced Jan 2008. Features 2.0″  display, 2 MP primary camera, 850 mAh battery, 1000 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-7900-crystal.jpg",
+      "specs": ""
+    },
+    {
+      "name": "2600 classic",
+      "title": "Nokia 2600 classic phone. Announced Jan 2008. Features 1.77″  display, 870 mAh battery, 10 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-2600c.jpg",
+      "specs": ""
+    },
+    {
+      "name": "1209",
+      "title": "Nokia 1209 phone. Announced Jan 2008. Features 1.4″  display, 700 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-1209.jpg",
+      "specs": ""
+    },
+    {
+      "name": "3110 Evolve",
+      "title": "Nokia 3110 Evolve phone. Announced Dec 2007. Features 1.8″  display, 1.3 MP primary camera, 1020 mAh battery, 9 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-3110-evolve.gif",
+      "specs": ""
+    },
+    {
+      "name": "N82",
+      "title": "Nokia N82 Symbian smartphone. Announced Nov 2007. Features 2.4″  display, 5 MP primary camera, 1050 mAh battery, 100 MB storage, 128 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-n82.gif",
+      "specs": ""
+    },
+    {
+      "name": "8800 Sapphire Arte",
+      "title": "Nokia 8800 Sapphire Arte phone. Announced Nov 2007. Features 2.0″  display, 3.15 MP primary camera, 1000 mAh battery, 1000 MB storage, Scratch-resistant glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-8800-sp-arte.gif",
+      "specs": ""
+    },
+    {
+      "name": "8800 Arte",
+      "title": "Nokia 8800 Arte phone. Announced Nov 2007. Features 2.0″  display, 3.15 MP primary camera, 1000 mAh battery, 1000 MB storage, Scratch-resistant glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-8800-arte.gif",
+      "specs": ""
+    },
+    {
+      "name": "6301",
+      "title": "Nokia 6301 phone. Announced Sep 2007. Features 2.0″  display, 2 MP primary camera, 860 mAh battery, 30 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-6301.gif",
+      "specs": ""
+    },
+    {
+      "name": "E51",
+      "title": "Nokia E51 Symbian smartphone. Announced Sep 2007. Features 2.0″  display, 2 MP primary camera, 1050 mAh battery, 130 MB storage, 96 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-e51.gif",
+      "specs": ""
+    },
+    {
+      "name": "E51 camera-free",
+      "title": "Nokia E51 camera-free Symbian smartphone. Announced Feb 2008. Features 2.0″  display, 1050 mAh battery, 130 MB storage, 96 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-e51-camera-free.jpg",
+      "specs": ""
+    },
+    {
+      "name": "6263",
+      "title": "Nokia 6263 phone. Announced Dec 2007. Features 2.2″  display, 1.3 MP primary camera.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-6263.jpg",
+      "specs": ""
+    },
+    {
+      "name": "N81 8GB",
+      "title": "Nokia N81 8GB Symbian smartphone. Announced Aug 2007. Features 2.4″  display, 2 MP primary camera, 1050 mAh battery, 8 GB storage, 96 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-n81-8gb.gif",
+      "specs": ""
+    },
+    {
+      "name": "N81",
+      "title": "Nokia N81 Symbian smartphone. Announced Aug 2007. Features 2.4″  display, 2 MP primary camera, 1050 mAh battery, 12 MB storage, 96 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-n81.gif",
+      "specs": ""
+    },
+    {
+      "name": "N95 8GB",
+      "title": "Nokia N95 8GB Symbian smartphone. Announced Aug 2007. Features 2.8″  display, 5 MP primary camera, 1200 mAh battery, 8 GB storage, 128 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-n95-8gb.gif",
+      "specs": ""
+    },
+    {
+      "name": "5610 XpressMusic",
+      "title": "Nokia 5610 XpressMusic phone. Announced Aug 2007. Features 2.2″  display, 3.15 MP primary camera, 900 mAh battery, 20 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-5610.gif",
+      "specs": ""
+    },
+    {
+      "name": "7230",
+      "title": "Nokia 7230 phone. Announced Nov 2009. Features 2.4″  display, 3.15 MP primary camera, 860 mAh battery, 45 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-7230.jpg",
+      "specs": ""
+    },
+    {
+      "name": "5330 Mobile TV Edition",
+      "title": "Nokia 5330 Mobile TV Edition phone. Announced Nov 2009. Features 2.4″  display, 3.15 MP primary camera, 1000 mAh battery, 70 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-5330-mobile-tv.jpg",
+      "specs": ""
+    },
+    {
+      "name": "2690",
+      "title": "Nokia 2690 phone. Announced Nov 2009. Features 1.8″  display, 860 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-2690.jpg",
+      "specs": ""
+    },
+    {
+      "name": "2220 slide",
+      "title": "Nokia 2220 slide phone. Announced Nov 2009. Features 1.8″  display, 860 mAh battery, 32 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-2220.jpg",
+      "specs": ""
+    },
+    {
+      "name": "1800",
+      "title": "Nokia 1800 phone. Announced Nov 2009. Features 1.8″  display, 800 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-1800.jpg",
+      "specs": ""
+    },
+    {
+      "name": "1616",
+      "title": "Nokia 1616 phone. Announced Nov 2009. Features 1.8″  display, 800 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-1616.jpg",
+      "specs": ""
+    },
+    {
+      "name": "1280",
+      "title": "Nokia 1280 phone. Announced Nov 2009. Features 1.36″  display, 800 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-1280.jpg",
+      "specs": ""
+    },
+    {
+      "name": "5235 Comes With Music",
+      "title": "Nokia 5235 Comes With Music Symbian smartphone. Announced Dec 2009. Features 3.2″  display, 2 MP primary camera, 1320 mAh battery, 70 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-5235.jpg",
+      "specs": ""
+    },
+    {
+      "name": "6788",
+      "title": "Nokia 6788 Symbian smartphone. Announced Oct 2009. Features 2.8″  display, 5 MP primary camera, 1200 mAh battery, 4 GB storage, 128 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-6788.jpg",
+      "specs": ""
+    },
+    {
+      "name": "N97 mini",
+      "title": "Nokia N97 mini Symbian smartphone. Announced Sep 2009. Features 3.2″  display, 5 MP primary camera, 1200 mAh battery, 8 GB storage, 128 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-n97-mini.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X3",
+      "title": "Nokia X3 phone. Announced Sep 2009. Features 2.2″  display, 3.2 MP primary camera, 860 mAh battery, 46 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-x3.jpg",
+      "specs": ""
+    },
+    {
+      "name": "N900",
+      "title": "Nokia N900 smartphone. Announced Aug 2009. Features 3.5″  display, TI OMAP 3430 chipset, 5 MP primary camera, 1320 mAh battery, 32 GB storage, 256 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-n900.jpg",
+      "specs": ""
+    },
+    {
+      "name": "5230",
+      "title": "Nokia 5230 Symbian smartphone. Announced Aug 2009. Features 3.2″  display, 2 MP primary camera, 1320 mAh battery, 70 MB storage, 128 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-5230.jpg",
+      "specs": ""
+    },
+    {
+      "name": "3208c",
+      "title": "Nokia 3208c phone. Announced Aug 2009. Features 2.4″  display, 2 MP primary camera, 1020 mAh battery, 13 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-3208c.jpg",
+      "specs": ""
+    },
+    {
+      "name": "5800 Navigation Edition",
+      "title": "Nokia 5800 Navigation Edition Symbian smartphone. Announced Aug 2009. Features 3.2″  display, 3.15 MP primary camera, 1320 mAh battery, 81 MB storage, 128 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-5800-navigation-edition.jpg",
+      "specs": ""
+    },
+    {
+      "name": "6350",
+      "title": "Nokia 6350 phone. Announced Oct 2009. Features 2.0″  display, 2 MP primary camera, 1050 mAh battery, 52 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-6350.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mural",
+      "title": "Nokia Mural phone. Announced Sep 2009. Features 2.2″  display, 2 MP primary camera, 1050 mAh battery, 70 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-mural.jpg",
+      "specs": ""
+    },
+    {
+      "name": "6760 slide",
+      "title": "Nokia 6760 slide Symbian smartphone. Announced Jul 2009. Features 2.4″  display, 3.15 MP primary camera, 1500 mAh battery, 120 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-6760-slide.jpg",
+      "specs": ""
+    },
+    {
+      "name": "6790 Surge",
+      "title": "Nokia 6790 Surge Symbian smartphone. Announced Jul 2009. Features 2.4″  display, 2 MP primary camera, 1500 mAh battery, 120 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-surge.jpg",
+      "specs": ""
+    },
+    {
+      "name": "3720 classic",
+      "title": "Nokia 3720 classic phone. Announced Jul 2009. Features 2.2″  display, 2 MP primary camera, 1050 mAh battery, 20 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-3720-classic.jpg",
+      "specs": ""
+    },
+    {
+      "name": "5530 XpressMusic",
+      "title": "Nokia 5530 XpressMusic Symbian smartphone. Announced Jun 2009. Features 2.9″  display, 3.15 MP primary camera, 1000 mAh battery, 70 MB storage, 128 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-5530-xpressmusic.jpg",
+      "specs": ""
+    },
+    {
+      "name": "E72",
+      "title": "Nokia E72 Symbian smartphone. Announced Jun 2009. Features 2.36″  display, 5 MP primary camera, 1500 mAh battery, 256 MB storage, 128 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-e72.jpg",
+      "specs": ""
+    },
+    {
+      "name": "3710 fold",
+      "title": "Nokia 3710 fold phone. Announced Jun 2009. Features 2.2″  display, 3.2 MP primary camera, 860 mAh battery, 70 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-3710-fold.jpg",
+      "specs": ""
+    },
+    {
+      "name": "6730 classic",
+      "title": "Nokia 6730 classic Symbian smartphone. Announced May 2009. Features 2.2″  display, 3.15 MP primary camera, 1050 mAh battery, 48 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-6730-classic.jpg",
+      "specs": ""
+    },
+    {
+      "name": "6600i slide",
+      "title": "Nokia 6600i slide phone. Announced May 2009. Features 2.2″  display, 5 MP primary camera, 1000 mAh battery, 20 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-6600i-slide.jpg",
+      "specs": ""
+    },
+    {
+      "name": "7020",
+      "title": "Nokia 7020 phone. Announced May 2009. Features 2.2″  display, 2 MP primary camera, 860 mAh battery, 45 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-7020.jpg",
+      "specs": ""
+    },
+    {
+      "name": "2720 fold",
+      "title": "Nokia 2720 fold phone. Announced May 2009. Features 1.8″  display, 1.3 MP primary camera, 860 mAh battery, 9 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-2720-f.jpg",
+      "specs": ""
+    },
+    {
+      "name": "2730 classic",
+      "title": "Nokia 2730 classic phone. Announced May 2009. Features 2.0″  display, 2 MP primary camera, 1020 mAh battery, 30 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-2730-classic.jpg",
+      "specs": ""
+    },
+    {
+      "name": "E52",
+      "title": "Nokia E52 Symbian smartphone. Announced May 2009. Features 2.4″  display, 3.2 MP primary camera, 1500 mAh battery, 60 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-e52.jpg",
+      "specs": ""
+    },
+    {
+      "name": "6216 classic",
+      "title": "Nokia 6216 classic phone. Announced Apr 2009. Features 2.0″  display, 2 MP primary camera, 1000 mAh battery, 22 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-6216c.jpg",
+      "specs": ""
+    },
+    {
+      "name": "5730 XpressMusic",
+      "title": "Nokia 5730 XpressMusic Symbian smartphone. Announced Mar 2009. Features 2.4″  display, 3.15 MP primary camera, 1000 mAh battery, 100 MB storage, 128 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-5730-xpressmusic.jpg",
+      "specs": ""
+    },
+    {
+      "name": "5330 XpressMusic",
+      "title": "Nokia 5330 XpressMusic phone. Announced Mar 2009. Features 2.4″  display, 3.15 MP primary camera, 1000 mAh battery, 70 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-5330-xpressmusic.jpg",
+      "specs": ""
+    },
+    {
+      "name": "5030 XpressRadio",
+      "title": "Nokia 5030 XpressRadio phone. Announced Mar 2009. Features 1.8″  display, 1020 mAh battery, 8 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-5030-xpressradio.jpg",
+      "specs": ""
+    },
+    {
+      "name": "N86 8MP",
+      "title": "Nokia N86 8MP Symbian smartphone. Announced Feb 2009. Features 2.6″  display, 8 MP primary camera, 1200 mAh battery, 8 GB storage, 128 MB RAM, Scratch-resistant glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-n86.jpg",
+      "specs": ""
+    },
+    {
+      "name": "E75",
+      "title": "Nokia E75 Symbian smartphone. Announced Feb 2009. Features 2.4″  display, 3.2 MP primary camera, 1000 mAh battery, 85 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-e75.jpg",
+      "specs": ""
+    },
+    {
+      "name": "E55",
+      "title": "Nokia E55 Symbian smartphone. Announced Feb 2009. Features 2.4″  display, 3.2 MP primary camera, 1500 mAh battery, 60 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-e55.jpg",
+      "specs": ""
+    },
+    {
+      "name": "6720 classic",
+      "title": "Nokia 6720 classic Symbian smartphone. Announced Feb 2009. Features 2.2″  display, 5 MP primary camera, 1050 mAh battery, 50 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-6720-classic.jpg",
+      "specs": ""
+    },
+    {
+      "name": "6710 Navigator",
+      "title": "Nokia 6710 Navigator Symbian smartphone. Announced Feb 2009. Features 2.6″  display, 5 MP primary camera, 950 mAh battery, 50 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-6710.jpg",
+      "specs": ""
+    },
+    {
+      "name": "5630 XpressMusic",
+      "title": "Nokia 5630 XpressMusic Symbian smartphone. Announced Feb 2009. Features 2.2″  display, 3.15 MP primary camera, 860 mAh battery, 60 MB storage, 128 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-5630-e.jpg",
+      "specs": ""
+    },
+    {
+      "name": "6700 classic",
+      "title": "Nokia 6700 classic phone. Announced Jan 2009. Features 2.2″  display, 5 MP primary camera, 970 mAh battery, 170 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-6700-classic.jpg",
+      "specs": ""
+    },
+    {
+      "name": "6303 classic",
+      "title": "Nokia 6303 classic phone. Announced Dec 2008. Features 2.2″  display, 3.15 MP primary camera, 1050 mAh battery, 17 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-6303-classic.jpg",
+      "specs": ""
+    },
+    {
+      "name": "2700 classic",
+      "title": "Nokia 2700 classic phone. Announced Jan 2009. Features 2.0″  display, 2 MP primary camera, 1020 mAh battery, 32 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-2700-classic.jpg",
+      "specs": ""
+    },
+    {
+      "name": "6208c",
+      "title": "Nokia 6208c phone. Announced Dec 2008. Features 2.4″  display, 3.15 MP primary camera, 860 mAh battery, 13 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-6208c.jpg",
+      "specs": ""
+    },
+    {
+      "name": "8800 Gold Arte",
+      "title": "Nokia 8800 Gold Arte phone. Announced Dec 2008. Features 2.0″  display, 3.15 MP primary camera, 1000 mAh battery, 4 GB storage, Scratch-resistant glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-8800-gold-arte.jpg",
+      "specs": ""
+    },
+    {
+      "name": "N97",
+      "title": "Nokia N97 Symbian smartphone. Announced Nov 2008. Features 3.5″  display, 5 MP primary camera, 1500 mAh battery, 32 GB storage, 128 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-n97.jpg",
+      "specs": ""
+    },
+    {
+      "name": "6260 slide",
+      "title": "Nokia 6260 slide phone. Announced Nov 2008. Features 2.4″  display, 5 MP primary camera, 950 mAh battery, 200 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-6260-slide.jpg",
+      "specs": ""
+    },
+    {
+      "name": "E63",
+      "title": "Nokia E63 Symbian smartphone. Announced Nov 2008. Features 2.36″  display, 2 MP primary camera, 1500 mAh battery, 120 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-e63.jpg",
+      "specs": ""
+    },
+    {
+      "name": "7100 Supernova",
+      "title": "Nokia 7100 Supernova phone. Announced Nov 2008. Features 2.0″  display, 1.3 MP primary camera, 860 mAh battery, 4 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-7110-supernova.jpg",
+      "specs": ""
+    },
+    {
+      "name": "5130 XpressMusic",
+      "title": "Nokia 5130 XpressMusic phone. Announced Nov 2008. Features 2.0″  display, 2 MP primary camera, 1020 mAh battery, 30 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-5130-e.jpg",
+      "specs": ""
+    },
+    {
+      "name": "2330 classic",
+      "title": "Nokia 2330 classic phone. Announced Nov 2008. Features 1.8″  display, 1020 mAh battery, 10 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-2330-classic.jpg",
+      "specs": ""
+    },
+    {
+      "name": "105 Dual SIM (2015)",
+      "title": "Nokia 105 Dual SIM (2015) phone. Announced Jun 2015. Features 1.4″  display, 800 mAh battery, 4 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-105-ds-2015.jpg",
+      "specs": ""
+    },
+    {
+      "name": "105 (2015)",
+      "title": "Nokia 105 (2015) phone. Announced Jun 2015. Features 1.4″  display, 800 mAh battery, 4 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-105-2015.jpg",
+      "specs": ""
+    },
+    {
+      "name": "215",
+      "title": "Nokia 215 phone. Announced Jan 2015. Features 2.4″  display, 1100 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-215-1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "215 Dual SIM",
+      "title": "Nokia 215 Dual SIM phone. Announced Jan 2015. Features 2.4″  display, 1100 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-215-ds.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Lumia 638",
+      "title": "Nokia Lumia 638 Windows Mobile smartphone. Announced Dec 2014. Features 4.5″  display, Snapdragon 400 chipset, 5 MP primary camera, 1830 mAh battery, 8 GB storage, 1000 MB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-lumia-638.jpg",
+      "specs": ""
+    },
+    {
+      "name": "N1",
+      "title": "Nokia N1 Android tablet. Announced Nov 2014. Features 7.9″  display, Intel Atom Z3580 chipset, 8 MP primary camera, 5 MP front camera, 5300 mAh battery, 32 GB storage, 2 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-n1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Lumia 730 Dual SIM",
+      "title": "Nokia Lumia 730 Dual SIM Windows Mobile smartphone. Announced Sep 2014. Features 4.7″  display, Snapdragon 400 chipset, 6.7 MP (6.1 MP primary camera, 5 MP front camera, 2200 mAh battery, 8 GB storage, 1000 MB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-lumia-730.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Lumia 735",
+      "title": "Nokia Lumia 735 Windows Mobile smartphone. Announced Sep 2014. Features 4.7″  display, Snapdragon 400 chipset, 6.7 MP (6.1 MP primary camera, 5 MP front camera, 2200 mAh battery, 8 GB storage, 1000 MB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-lumia-735.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Lumia 830",
+      "title": "Nokia Lumia 830 Windows Mobile smartphone. Announced Sep 2014. Features 5.0″  display, Snapdragon 400 chipset, 10 MP primary camera, 0.9 MP front camera, 2200 mAh battery, 16 GB storage, 1000 MB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-lumia-830.jpg",
+      "specs": ""
+    },
+    {
+      "name": "130 Dual SIM",
+      "title": "Nokia 130 Dual SIM phone. Announced Aug 2014. Features 1.8″  display, 1020 mAh battery, 4 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/Nokia-130-Dual-SIM.jpg",
+      "specs": ""
+    },
+    {
+      "name": "130",
+      "title": "Nokia 130 phone. Announced Aug 2014. Features 1.8″  display, 1020 mAh battery, 4 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/Nokia-130.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Lumia 530 Dual SIM",
+      "title": "Nokia Lumia 530 Dual SIM Windows Mobile smartphone. Announced Jul 2014. Features 4.0″  display, Snapdragon 200 chipset, 5 MP primary camera, 1430 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-lumia-530.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Lumia 530",
+      "title": "Nokia Lumia 530 Windows Mobile smartphone. Announced Jul 2014. Features 4.0″  display, Snapdragon 200 chipset, 5 MP primary camera, 1430 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-lumia-530.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X2 Dual SIM",
+      "title": "Nokia X2 Dual SIM Android smartphone. Announced Jun 2014. Features 4.3″  display, Snapdragon 200 chipset, 5 MP primary camera, 1800 mAh battery, 4 GB storage, 1000 MB RAM, Scratch-resistant glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/Nokia-X2-Dual-SIM.jpg",
+      "specs": ""
+    },
+    {
+      "name": "225",
+      "title": "Nokia 225 phone. Announced Apr 2014. Features 2.8″  display, 2 MP primary camera, 1200 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-225-ss.jpg",
+      "specs": ""
+    },
+    {
+      "name": "225 Dual SIM",
+      "title": "Nokia 225 Dual SIM phone. Announced Apr 2014. Features 2.8″  display, 2 MP primary camera, 1200 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/Nokia-225-Dual-SIM.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Lumia 930",
+      "title": "Nokia Lumia 930 Windows Mobile smartphone. Announced Apr 2014. Features 5.0″  display, Snapdragon 800 chipset, 20 MP primary camera, 1.2 MP front camera, 2420 mAh battery, 32 GB storage, 2 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-lumia-930-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Lumia 635",
+      "title": "Nokia Lumia 635 Windows Mobile smartphone. Announced Apr 2014. Features 4.5″  display, Snapdragon 400 chipset, 5 MP primary camera, 1830 mAh battery, 8 GB storage, 1000 MB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-lumia-635-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Lumia 630 Dual SIM",
+      "title": "Nokia Lumia 630 Dual SIM Windows Mobile smartphone. Announced Apr 2014. Features 4.5″  display, Snapdragon 400 chipset, 5 MP primary camera, 1830 mAh battery, 8 GB storage, 512 MB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-lumia-630-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Lumia 630",
+      "title": "Nokia Lumia 630 Windows Mobile smartphone. Announced Apr 2014. Features 4.5″  display, Snapdragon 400 chipset, 5 MP primary camera, 1830 mAh battery, 8 GB storage, 512 MB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-lumia-630-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "XL",
+      "title": "Nokia XL Android smartphone. Announced Feb 2014. Features 5.0″  display, Snapdragon S4 Play chipset, 5 MP primary camera, 2 MP front camera, 2000 mAh battery, 4 GB storage, 768 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-xl.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X+",
+      "title": "Nokia X+ Android smartphone. Announced Feb 2014. Features 4.0″  display, Snapdragon S4 Play chipset, 3.15 MP primary camera, 1500 mAh battery, 4 GB storage, 768 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-x-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X",
+      "title": "Nokia X Android smartphone. Announced Feb 2014. Features 4.0″  display, Snapdragon S4 Play chipset, 3.15 MP primary camera, 1500 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-x.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Asha 230",
+      "title": "Nokia Asha 230 smartphone. Announced Feb 2014. Features 2.8″  display, 1.3 MP primary camera, 1020 mAh battery, 64 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-asha-230.jpg",
+      "specs": ""
+    },
+    {
+      "name": "220",
+      "title": "Nokia 220 phone. Announced Feb 2014. Features 2.4″  display, 2 MP primary camera, 1100 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-220.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Lumia Icon",
+      "title": "Nokia Lumia Icon Windows Mobile smartphone. Announced Feb 2014. Features 5.0″  display, Snapdragon 800 chipset, 20 MP primary camera, 1.2 MP front camera, 2420 mAh battery, 32 GB storage, 2 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-lumia-icon-929.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Lumia 525",
+      "title": "Nokia Lumia 525 Windows Mobile smartphone. Announced Nov 2013. Features 4.0″  display, MSM8227 chipset, 5 MP primary camera, 1430 mAh battery, 8 GB storage, 1000 MB RAM, Scratch-resistant glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-lumia-525.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Lumia 1520",
+      "title": "Nokia Lumia 1520 Windows Mobile smartphone. Announced Oct 2013. Features 6.0″  display, Snapdragon 800 chipset, 20 MP primary camera, 1.2 MP front camera, 3400 mAh battery, 32 GB storage, 2 GB RAM, Corning Gorilla Glass 2.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-lumia-1520-ofic.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Lumia 1320",
+      "title": "Nokia Lumia 1320 Windows Mobile smartphone. Announced Oct 2013. Features 6.0″  display, Snapdragon 400 chipset, 5 MP primary camera, 3400 mAh battery, 8 GB storage, 1000 MB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-lumia-1320.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Lumia 2520",
+      "title": "Nokia Lumia 2520 Windows Mobile smartphone. Announced Oct 2013. Features 10.1″  display, Snapdragon 800 chipset, 6.7 MP primary camera, 2 MP front camera, 8120 mAh battery, 32 GB storage, 2 GB RAM, Corning Gorilla Glass 2.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-lumia-2520.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Asha 503 Dual SIM",
+      "title": "Nokia Asha 503 Dual SIM smartphone. Announced Oct 2013. Features 3.0″  display, 5 MP primary camera, 1200 mAh battery, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-asha-503-ds.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Asha 503",
+      "title": "Nokia Asha 503 smartphone. Announced Oct 2013. Features 3.0″  display, 5 MP primary camera, 1200 mAh battery, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-asha-503.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Asha 502 Dual SIM",
+      "title": "Nokia Asha 502 Dual SIM smartphone. Announced Oct 2013. Features 3.0″  display, 5 MP primary camera, 1010 mAh battery, 64 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-asha-502-dual-sim.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Asha 500 Dual SIM",
+      "title": "Nokia Asha 500 Dual SIM smartphone. Announced Oct 2013. Features 2.8″  display, 2 MP primary camera, 1200 mAh battery, 64 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-asha-500-dual-sim.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Asha 500",
+      "title": "Nokia Asha 500 smartphone. Announced Oct 2013. Features 2.8″  display, 2 MP primary camera, 1200 mAh battery, 128 MB storage, 64 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-asha-500.jpg",
+      "specs": ""
+    },
+    {
+      "name": "108 Dual SIM",
+      "title": "Nokia 108 Dual SIM phone. Announced Sep 2013. Features 1.8″  display, 950 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-108-dual-sim.jpg",
+      "specs": ""
+    },
+    {
+      "name": "515",
+      "title": "Nokia 515 phone. Announced Aug 2013. Features 2.4″  display, 5 MP primary camera, 1200 mAh battery, 256 MB storage, 64 MB RAM, Corning Gorilla Glass 2.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-515.jpg",
+      "specs": ""
+    },
+    {
+      "name": "107 Dual SIM",
+      "title": "Nokia 107 Dual SIM phone. Announced Aug 2013. Features 1.8″  display, 1020 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-107.jpg",
+      "specs": ""
+    },
+    {
+      "name": "106",
+      "title": "Nokia 106 phone. Announced Aug 2013. Features 1.8″  display, 800 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-106.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Lumia 625",
+      "title": "Nokia Lumia 625 Windows Mobile smartphone. Announced Jul 2013. Features 4.7″  display, Snapdragon 400 chipset, 5 MP primary camera, 2000 mAh battery, 8 GB storage, 512 MB RAM, Corning Gorilla Glass 2.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-lumia-625.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Lumia 1020",
+      "title": "Nokia Lumia 1020 Windows Mobile smartphone. Announced Jul 2013. Features 4.5″  display, Snapdragon S4 Plus chipset, 41 MP primary camera, 1.2 MP front camera, 2000 mAh battery, 64 GB storage, 2 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-lumia-1020-ofic.jpg",
+      "specs": ""
+    },
+    {
+      "name": "208",
+      "title": "Nokia 208 phone. Announced Jul 2013. Features 2.4″  display, 1.3 MP primary camera, 1020 mAh battery, 256 MB storage, 64 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-208.jpg",
+      "specs": ""
+    },
+    {
+      "name": "207",
+      "title": "Nokia 207 phone. Announced Jul 2013. Features 2.4″  display, 1020 mAh battery, 256 MB storage, 64 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-207.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Lumia 925",
+      "title": "Nokia Lumia 925 Windows Mobile smartphone. Announced May 2013. Features 4.5″  display, Snapdragon S4 Plus chipset, 8 MP primary camera, 1.3 MP front camera, 2000 mAh battery, 32 GB storage, 1000 MB RAM, Corning Gorilla Glass 2.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-lumia-925-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Lumia 928",
+      "title": "Nokia Lumia 928 Windows Mobile smartphone. Announced Apr 2013. Features 4.5″  display, Snapdragon S4 Plus chipset, 8 MP primary camera, 1.3 MP front camera, 2000 mAh battery, 32 GB storage, 1000 MB RAM, Corning Gorilla Glass 2.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-lumia-928-black.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Asha 501",
+      "title": "Nokia Asha 501 smartphone. Announced May 2013. Features 3.0″  display, 3.15 MP primary camera, 1200 mAh battery, 128 MB storage, 64 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-asha-501-dual-sim.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Asha 210",
+      "title": "Nokia Asha 210 phone. Announced Apr 2013. Features 2.4″  display, 2 MP primary camera, 1200 mAh battery, 64 MB storage, 30 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-asha-210-1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Lumia 720",
+      "title": "Nokia Lumia 720 Windows Mobile smartphone. Announced Feb 2013. Features 4.3″  display, MSM8227 chipset, 6.7 MP primary camera, 1.3 MP front camera, 2000 mAh battery, 8 GB storage, 512 MB RAM, Corning Gorilla Glass 2.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-lumia-720.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Lumia 520",
+      "title": "Nokia Lumia 520 Windows Mobile smartphone. Announced Feb 2013. Features 4.0″  display, MSM8227 chipset, 5 MP primary camera, 1430 mAh battery, 8 GB storage, 512 MB RAM, Scratch-resistant glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-lumia-520.jpg",
+      "specs": ""
+    },
+    {
+      "name": "301",
+      "title": "Nokia 301 phone. Announced Feb 2013. Features 2.4″  display, 3.15 MP primary camera, 1110 mAh battery, 64 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-301.jpg",
+      "specs": ""
+    },
+    {
+      "name": "105",
+      "title": "Nokia 105 phone. Announced Feb 2013. Features 1.45″  display, 800 mAh battery, 8 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-105.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Asha 310",
+      "title": "Nokia Asha 310 phone. Announced Feb 2013. Features 3.0″  display, 2 MP primary camera, 1110 mAh battery, 20 MB storage, 60 MB RAM, Scratch-resistant glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-asha-310.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Lumia 505",
+      "title": "Nokia Lumia 505 Windows Mobile smartphone. Announced Dec 2012. Features 3.7″  display, Snapdragon S1 chipset, 8 MP primary camera, 1300 mAh battery, 4 GB storage, 256 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-lumia-505.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Lumia 620",
+      "title": "Nokia Lumia 620 Windows Mobile smartphone. Announced Dec 2012. Features 3.8″  display, Snapdragon S4 chipset, 5 MP primary camera, 1300 mAh battery, 8 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-lumia-620.jpg",
+      "specs": ""
+    },
+    {
+      "name": "114",
+      "title": "Nokia 114 phone. Announced Nov 2012. Features 1.8″  display, 1020 mAh battery, 16 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-114.jpg",
+      "specs": ""
+    },
+    {
+      "name": "206",
+      "title": "Nokia 206 phone. Announced Nov 2012. Features 2.4″  display, 1.3 MP primary camera, 1100 mAh battery, 64 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-206.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Asha 205",
+      "title": "Nokia Asha 205 phone. Announced Nov 2012. Features 2.4″  display, 1020 mAh battery, 64 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-asha-205-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "109",
+      "title": "Nokia 109 phone. Announced Nov 2012. Features 1.8″  display, 800 mAh battery, 64 MB storage, 16 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-109.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Lumia 822",
+      "title": "Nokia Lumia 822 Windows Mobile smartphone. Announced Oct 2012. Features 4.3″  display, Snapdragon S4 Plus chipset, 8 MP primary camera, 1.2 MP front camera, 1800 mAh battery, 16 GB storage, 1000 MB RAM, Corning Gorilla Glass 2.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-lumia-822-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Lumia 510",
+      "title": "Nokia Lumia 510 Windows Mobile smartphone. Announced Oct 2012. Features 4.0″  display, Snapdragon S1 chipset, 5 MP primary camera, 1300 mAh battery, 4 GB storage, 256 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-lumia-510.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Lumia 810",
+      "title": "Nokia Lumia 810 Windows Mobile smartphone. Announced Oct 2012. Features 4.3″  display, Snapdragon S4 Plus chipset, 8 MP primary camera, 1.2 MP front camera, 1800 mAh battery, 8 GB storage, 1000 MB RAM, Corning Gorilla Glass 2.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-lumia-810.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Asha 309",
+      "title": "Nokia Asha 309 phone. Announced Sep 2012. Features 3.0″  display, 2 MP primary camera, 1110 mAh battery, 20 MB storage, 64 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-asha-309.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Asha 308",
+      "title": "Nokia Asha 308 phone. Announced Sep 2012. Features 3.0″  display, 2 MP primary camera, 1110 mAh battery, 20 MB storage, 64 MB RAM, Scratch-resistant glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-asha-308.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Lumia 920",
+      "title": "Nokia Lumia 920 Windows Mobile smartphone. Announced Sep 2012. Features 4.5″  display, Snapdragon S4 Plus chipset, 8 MP primary camera, 1.3 MP front camera, 2000 mAh battery, 32 GB storage, 1000 MB RAM, Corning Gorilla Glass 2.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-lumia-920.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Lumia 820",
+      "title": "Nokia Lumia 820 Windows Mobile smartphone. Announced Sep 2012. Features 4.3″  display, Snapdragon S4 Plus chipset, 8 MP primary camera, 1650 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-lumia-820.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Asha 311",
+      "title": "Nokia Asha 311 phone. Announced Jun 2012. Features 3.0″  display, 3.15 MP primary camera, 1110 mAh battery, 140 MB storage, 128 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-asha-311.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Asha 306",
+      "title": "Nokia Asha 306 phone. Announced Jun 2012. Features 3.0″  display, 2 MP primary camera, 1110 mAh battery, 10 MB storage, 32 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-asha-306.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Asha 305",
+      "title": "Nokia Asha 305 phone. Announced Jun 2012. Features 3.0″  display, 2 MP primary camera, 1110 mAh battery, 10 MB storage, 32 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-asha-305.jpg",
+      "specs": ""
+    },
+    {
+      "name": "113",
+      "title": "Nokia 113 phone. Announced May 2012. Features 1.8″  display, 800 mAh battery, 16 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-113.jpg",
+      "specs": ""
+    },
+    {
+      "name": "112",
+      "title": "Nokia 112 phone. Announced May 2012. Features 1.8″  display, 1400 mAh battery, 16 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-112.jpg",
+      "specs": ""
+    },
+    {
+      "name": "111",
+      "title": "Nokia 111 phone. Announced May 2012. Features 1.8″  display, 800 mAh battery, 10 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-111.jpg",
+      "specs": ""
+    },
+    {
+      "name": "110",
+      "title": "Nokia 110 phone. Announced May 2012. Features 1.8″  display, 1020 mAh battery, 10 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-110.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Lumia 610 NFC",
+      "title": "Nokia Lumia 610 NFC Windows Mobile smartphone. Announced Apr 2012. Features 3.7″  display, Snapdragon S1 chipset, 5 MP primary camera, 1300 mAh battery, 8 GB storage, 256 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-lumia-610-nfc.jpg",
+      "specs": ""
+    },
+    {
+      "name": "103",
+      "title": "Nokia 103 phone. Announced Apr 2012. Features 1.36″  display, 800 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-103.jpg",
+      "specs": ""
+    },
+    {
+      "name": "808 PureView",
+      "title": "Nokia 808 PureView smartphone. Announced Feb 2012. Features 4.0″  display, 41 MP (38 MP primary camera, 1400 mAh battery, 16 GB storage, 512 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-808-pureview.jpg",
+      "specs": ""
+    },
+    {
+      "name": "800c",
+      "title": "Nokia 800c Windows Mobile smartphone. Announced Mar 2012. Features 3.7″  display, Snapdragon S2 chipset, 8 MP primary camera, 1450 mAh battery, 16 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-800c.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Lumia 610",
+      "title": "Nokia Lumia 610 Windows Mobile smartphone. Announced Feb 2012. Features 3.7″  display, Snapdragon S1 chipset, 5 MP primary camera, 1300 mAh battery, 8 GB storage, 256 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-lumia-610.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Asha 302",
+      "title": "Nokia Asha 302 phone. Announced Feb 2012. Features 2.4″  display, 3.15 MP primary camera, 1320 mAh battery, 100 MB storage, 128 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-asha-302-ofic.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Asha 203",
+      "title": "Nokia Asha 203 phone. Announced Feb 2012. Features 2.4″  display, 2 MP primary camera, 1020 mAh battery, 10 MB storage, 16 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-asha-203.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Asha 202",
+      "title": "Nokia Asha 202 phone. Announced Feb 2012. Features 2.4″  display, 2 MP primary camera, 1020 mAh battery, 10 MB storage, 16 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-asha-202.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Lumia 900",
+      "title": "Nokia Lumia 900 Windows Mobile smartphone. Announced Feb 2012. Features 4.3″  display, Snapdragon S2 chipset, 8 MP primary camera, 1 MP front camera, 1830 mAh battery, 16 GB storage, 512 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-lumia-900-white.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Lumia 900 AT&T",
+      "title": "Nokia Lumia 900 AT&T Windows Mobile smartphone. Announced Jan 2012. Features 4.3″  display, Snapdragon S2 chipset, 8 MP primary camera, 1.3 MP front camera, 1830 mAh battery, 16 GB storage, 512 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-lumia-900-black.jpg",
+      "specs": ""
+    },
+    {
+      "name": "801T",
+      "title": "Nokia 801T Symbian smartphone. Announced Dec 2011. Features 4.0″  display, Broadcom BCM2727 chipset, 8 MP primary camera, 1300 mAh battery, 8 GB storage, 256 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-801t.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X2-02",
+      "title": "Nokia X2-02 phone. Announced Dec 2011. Features 2.2″  display, 2 MP primary camera, 1020 mAh battery, 10 MB storage, 32 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-x2-02.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Lumia 800",
+      "title": "Nokia Lumia 800 Windows Mobile smartphone. Announced Oct 2011. Features 3.7″  display, Snapdragon S2 chipset, 8 MP primary camera, 1450 mAh battery, 16 GB storage, 512 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-800-ofic.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Lumia 710 T-Mobile",
+      "title": "Nokia Lumia 710 T-Mobile Windows Mobile smartphone. Announced Dec 2011. Features 3.7″  display, Snapdragon S2 chipset, 5 MP primary camera, 1300 mAh battery, 8 GB storage, 512 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-lumia-710-t-mobile.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Lumia 710",
+      "title": "Nokia Lumia 710 Windows Mobile smartphone. Announced Oct 2011. Features 3.7″  display, Snapdragon S2 chipset, 5 MP primary camera, 1300 mAh battery, 8 GB storage, 512 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-lumia-710.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Asha 303",
+      "title": "Nokia Asha 303 phone. Announced Oct 2011. Features 2.6″  display, 3.2 MP primary camera, 1300 mAh battery, 170 MB storage, 128 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-asha-303.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Asha 300",
+      "title": "Nokia Asha 300 phone. Announced Oct 2011. Features 2.4″  display, 5 MP primary camera, 1110 mAh battery, 140 MB storage, 128 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-asha-300.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Asha 201",
+      "title": "Nokia Asha 201 phone. Announced Oct 2011. Features 2.4″  display, 2 MP primary camera, 1430 mAh battery, 10 MB storage, 32 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-asha-201.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Asha 200",
+      "title": "Nokia Asha 200 phone. Announced Oct 2011. Features 2.4″  display, 2 MP primary camera, 1430 mAh battery, 10 MB storage, 32 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-asha-201.jpg",
+      "specs": ""
+    },
+    {
+      "name": "603",
+      "title": "Nokia 603 Symbian smartphone. Announced Oct 2011. Features 3.5″  display, 5 MP primary camera, 2 GB storage, 512 MB RAM, Scratch-resistant glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-603-ofic.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C2-05",
+      "title": "Nokia C2-05 phone. Announced Oct 2011. Features 2.0″  display, 860 mAh battery, 64 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-c2-05.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X2-05",
+      "title": "Nokia X2-05 phone. Announced Oct 2011. Features 2.2″  display, 800 mAh battery, 64 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-x2-05.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C5-06",
+      "title": "Nokia C5-06 Symbian smartphone. Announced Oct 2011. Features 3.2″  display, 2 MP primary camera, 1000 mAh battery, 40 MB storage, 128 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-c5-06.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C5-05",
+      "title": "Nokia C5-05 Symbian smartphone. Announced Oct 2011. Features 3.2″  display, 2 MP primary camera, 1000 mAh battery, 40 MB storage, 128 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-c5-05.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C5-04",
+      "title": "Nokia C5-04 Symbian smartphone. Announced Oct 2011. Features 3.2″  display, 2 MP primary camera, 1000 mAh battery, 60 MB storage, 128 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-c5-04.jpg",
+      "specs": ""
+    },
+    {
+      "name": "101",
+      "title": "Nokia 101 phone. Announced Aug 2011. Features 1.8″  display, 1020 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-101.jpg",
+      "specs": ""
+    },
+    {
+      "name": "100",
+      "title": "Nokia 100 phone. Announced Aug 2011. Features 1.8″  display, 850 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-100.jpg",
+      "specs": ""
+    },
+    {
+      "name": "701",
+      "title": "Nokia 701 Symbian smartphone. Announced Aug 2011. Features 3.5″  display, 8 MP primary camera, 1300 mAh battery, 8 GB storage, 512 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-701.jpg",
+      "specs": ""
+    },
+    {
+      "name": "700",
+      "title": "Nokia 700 Symbian smartphone. Announced Aug 2011. Features 3.2″  display, 5 MP primary camera, 1080 mAh battery, 2 GB storage, 512 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-700.jpg",
+      "specs": ""
+    },
+    {
+      "name": "600",
+      "title": "Nokia 600 Symbian smartphone. Announced Aug 2011. Features 3.2″  display, 5 MP primary camera, 1200 mAh battery, 2 GB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-600.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C3-01 Gold Edition",
+      "title": "Nokia C3-01 Gold Edition phone. Announced Aug 2011. Features 2.4″  display, 5 MP primary camera, 1050 mAh battery, 140 MB storage, 64 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/Nokia-C3-01-Gold-Edition.jpg",
+      "specs": ""
+    },
+    {
+      "name": "500",
+      "title": "Nokia 500 Symbian smartphone. Announced Aug 2011. Features 3.2″  display, 5 MP primary camera, 1110 mAh battery, 2 GB storage, 256 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-500.jpg",
+      "specs": ""
+    },
+    {
+      "name": "N9",
+      "title": "Nokia N9 smartphone. Announced Jun 2011. Features 3.9″  display, TI OMAP 3630 chipset, 8 MP primary camera, 1450 mAh battery, 64 GB storage, 1000 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/Nokia-N9-00-cyan.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C5 5MP",
+      "title": "Nokia C5 5MP Symbian smartphone. Announced Jun 2011. Features 2.2″  display, 5 MP primary camera, 1050 mAh battery, 270 MB storage, 256 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-c5-00-5mp1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C2-06",
+      "title": "Nokia C2-06 phone. Announced Jun 2011. Features 2.6″  display, 2 MP primary camera, 1020 mAh battery, 10 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/Nokia-C2-06-graphite.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C2-03",
+      "title": "Nokia C2-03 phone. Announced Jun 2011. Features 2.6″  display, 2 MP primary camera, 1020 mAh battery, 10 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/Nokia-C2-03-white-light-gold.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C2-02",
+      "title": "Nokia C2-02 phone. Announced Jun 2011. Features 2.6″  display, 2 MP primary camera, 1020 mAh battery, 10 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-c2-02.jpg",
+      "specs": ""
+    },
+    {
+      "name": "702T",
+      "title": "Nokia 702T Symbian smartphone. Announced Jun 2011. Features 2.46″  display, 8 MP primary camera, 1200 mAh battery, 8 GB storage, 256 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-702t.jpg",
+      "specs": ""
+    },
+    {
+      "name": "T7",
+      "title": "Nokia T7 Symbian smartphone. Announced Jun 2011. Features 3.5″  display, 8 MP primary camera, 1200 mAh battery, 290 MB storage, 256 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-t7-00-ofic.jpg",
+      "specs": ""
+    },
+    {
+      "name": "N950",
+      "title": "Nokia N950 smartphone. Announced Jun 2011. Features 4.0″  display, TI OMAP 3630 chipset, 12 MP primary camera, 1320 mAh battery, 8.5 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-n950.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Oro",
+      "title": "Nokia Oro Symbian smartphone. Announced May 2011. Features 3.5″  display, 8 MP primary camera, 1200 mAh battery, 8 GB storage, 256 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-oro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X1-01",
+      "title": "Nokia X1-01 phone. Announced May 2011. Features 1.8″  display, 1320 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-x1-01.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X7-00",
+      "title": "Nokia X7-00 Symbian smartphone. Announced Apr 2011. Features 4.0″  display, 8 MP primary camera, 1200 mAh battery, 256 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-x7-ofic.jpg",
+      "specs": ""
+    },
+    {
+      "name": "E6",
+      "title": "Nokia E6 Symbian smartphone. Announced Apr 2011. Features 2.46″  display, 8 MP primary camera, 1500 mAh battery, 8 GB storage, 256 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-e6-00-ofic.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C7 Astound",
+      "title": "Nokia C7 Astound Symbian smartphone. Announced Mar 2011. Features 3.5″  display, 8 MP primary camera, 1200 mAh battery, 8 GB storage, 256 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-astound.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X1-00",
+      "title": "Nokia X1-00 phone. Announced Mar 2011. Features 1.8″  display, 1320 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-x1-00.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X2-01",
+      "title": "Nokia X2-01 phone. Announced Nov 2010. Features 2.4″  display, 1020 mAh battery, 55 MB storage, 64 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-x2-01-ofic.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C2-01",
+      "title": "Nokia C2-01 phone. Announced Nov 2010. Features 2.0″  display, 3.15 MP primary camera, 1020 mAh battery, 43 MB storage, 64 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-c2-01-ofic.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C5-03",
+      "title": "Nokia C5-03 Symbian smartphone. Announced Oct 2010. Features 3.2″  display, 5 MP primary camera, 1000 mAh battery, 40 MB storage, 128 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-c5-03.jpg",
+      "specs": ""
+    },
+    {
+      "name": "E7",
+      "title": "Nokia E7 Symbian smartphone. Announced Sep 2010. Features 4.0″  display, 8 MP primary camera, 1200 mAh battery, 16 GB storage, 256 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-e7.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C6-01",
+      "title": "Nokia C6-01 Symbian smartphone. Announced Sep 2010. Features 3.2″  display, 8 MP primary camera, 1050 mAh battery, 340 MB storage, 256 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-c6-01-ofic.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C7",
+      "title": "Nokia C7 Symbian smartphone. Announced Sep 2010. Features 3.5″  display, 8 MP primary camera, 1200 mAh battery, 8 GB storage, 256 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-c7-ofic.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C3-01 Touch and Type",
+      "title": "Nokia C3-01 Touch and Type phone. Announced Sep 2010. Features 2.4″  display, 5 MP primary camera, 1050 mAh battery, 30 MB storage, 64 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/Nokia-C3-Touch-and-Type.jpg",
+      "specs": ""
+    },
+    {
+      "name": "5250",
+      "title": "Nokia 5250 Symbian smartphone. Announced Aug 2010. Features 2.8″  display, 2 MP primary camera, 1000 mAh battery, 51 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-5250.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X3 Touch and Type S",
+      "title": "Nokia X3 Touch and Type S phone. Not officially announced yet. Features TFT resistive touchscreen, 256K colors display.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-x3-02-touch-and-type.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X3-02 Touch and Type",
+      "title": "Nokia X3-02 Touch and Type phone. Announced Aug 2010. Features 2.4″  display, 5 MP primary camera, 860 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/Nokia-X3-02.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X6 8GB (2010)",
+      "title": "Nokia X6 8GB (2010) Symbian smartphone. Announced Jun 2010. Features 3.2″  display, 5 MP primary camera, 1320 mAh battery, 8 GB storage, 128 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-x6-8gb.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X5-01",
+      "title": "Nokia X5-01 Symbian smartphone. Announced Jun 2010. Features 2.36″  display, 5 MP primary camera, 950 mAh battery, 200 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-x5-ofic.jpg",
+      "specs": ""
+    },
+    {
+      "name": "5233",
+      "title": "Nokia 5233 Symbian smartphone. Announced Jan 2010. Features 3.2″  display, 2 MP primary camera, 1320 mAh battery, 70 MB storage, 128 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-5228.jpg",
+      "specs": ""
+    },
+    {
+      "name": "E73 Mode",
+      "title": "Nokia E73 Mode Symbian smartphone. Announced Jun 2010. Features 2.4″  display, 5 MP primary camera, 1500 mAh battery, 256 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/Nokia-E73-Mode-ofic.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C2-00",
+      "title": "Nokia C2-00 phone. Announced Jun 2010. Features 1.8″  display, 1020 mAh battery, 16 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-c2-00.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C1-02",
+      "title": "Nokia C1-02 phone. Announced Jun 2010. Features 1.8″  display, 1020 mAh battery, 10 MB storage, 16 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-c1-02.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C1-01",
+      "title": "Nokia C1-01 phone. Announced Jun 2010. Features 1.8″  display, 800 mAh battery, 10 MB storage, 16 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-c1-01.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C1-00",
+      "title": "Nokia C1-00 phone. Announced Jun 2010. Features 1.8″  display, 1020 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-c1-00.jpg",
+      "specs": ""
+    },
+    {
+      "name": "N8",
+      "title": "Nokia N8 Symbian smartphone. Announced Apr 2010. Features 3.5″  display, 12 MP primary camera, 1200 mAh battery, 16 GB storage, 256 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-n8-silver.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X2-00",
+      "title": "Nokia X2-00 phone. Announced Apr 2010. Features 2.2″  display, 5 MP primary camera, 860 mAh battery, 48 MB storage, 64 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-x2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C6",
+      "title": "Nokia C6 Symbian smartphone. Announced Apr 2010. Features 3.2″  display, 5 MP primary camera, 1200 mAh battery, 240 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-c6-ofic-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "E5",
+      "title": "Nokia E5 Symbian smartphone. Announced Apr 2010. Features 2.36″  display, 5 MP primary camera, 1200 mAh battery, 256 MB storage, 256 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-e5-ofic.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C3 (2010)",
+      "title": "Nokia C3 (2010) phone. Announced Apr 2010. Features 2.4″  display, 2 MP primary camera, 1320 mAh battery, 55 MB storage, 64 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-c3-ofic.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C5",
+      "title": "Nokia C5 Symbian smartphone. Announced Mar 2010. Features 2.2″  display, 3.15 MP primary camera, 1050 mAh battery, 50 MB storage, 128 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-c5.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C5 TD-SCDMA",
+      "title": "Nokia C5 TD-SCDMA Symbian smartphone. Announced Apr 2010. Features 2.4″  display, 5 MP primary camera, 950 mAh battery, 256 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-c5-china.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X5 TD-SCDMA",
+      "title": "Nokia X5 TD-SCDMA Symbian smartphone. Announced Apr 2010. Features 2.4″  display, 5 MP primary camera, 950 mAh battery, 256 MB storage, Scratch-resistant glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-x5.jpg",
+      "specs": ""
+    },
+    {
+      "name": "6303i classic",
+      "title": "Nokia 6303i classic phone. Announced Feb 2010. Features 2.2″  display, 3.15 MP primary camera, 1050 mAh battery, 55 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-6303i-classic.jpg",
+      "specs": ""
+    },
+    {
+      "name": "5132 XpressMusic",
+      "title": "Nokia 5132 XpressMusic phone. Announced Feb 2010. Features 2.0″  display, 2 MP primary camera, 1200 mAh battery, 30 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-5132.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X6 16GB (2010)",
+      "title": "Nokia X6 16GB (2010) Symbian smartphone. Announced Jan 2010. Features 3.2″  display, 5 MP primary camera, 1320 mAh battery, 16 GB storage, 128 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-x6-16gb-pink.jpg",
+      "specs": ""
+    },
+    {
+      "name": "2710 Navigation Edition",
+      "title": "Nokia 2710 Navigation Edition phone. Announced Dec 2009. Features 2.2″  display, 2 MP primary camera, 1020 mAh battery, 64 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-2710-navigation-edition.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X6 (2009)",
+      "title": "Nokia X6 (2009) Symbian smartphone. Announced Sep 2009. Features 3.2″  display, 5 MP primary camera, 1320 mAh battery, 32 GB storage, 128 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-x6.jpg",
+      "specs": ""
+    },
+    {
+      "name": "6700 slide",
+      "title": "Nokia 6700 slide Symbian smartphone. Announced Nov 2009. Features 2.2″  display, 5 MP primary camera, 860 mAh battery, 45 MB storage, 128 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-6700-slide.jpg",
+      "specs": ""
+    },
+    {
+      "name": "3230",
+      "title": "Nokia 3230 Symbian smartphone. Announced Q4 2004. Features 2.1″  display, TI OMAP 1510 chipset, 1.23 MP primary camera, 760 mAh battery, 6 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no3230.gif",
+      "specs": ""
+    },
+    {
+      "name": "6670",
+      "title": "Nokia 6670 Symbian smartphone. Announced Q3 2004. Features 2.1″  display, TI OMAP 1510 chipset, 1 MP primary camera, 900 mAh battery, 8 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no6670.gif",
+      "specs": ""
+    },
+    {
+      "name": "7280",
+      "title": "Nokia 7280 phone. Announced Q3 2004. Features TFT, 65K colors display, 700 mAh battery, 50 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no7280.gif",
+      "specs": ""
+    },
+    {
+      "name": "7270",
+      "title": "Nokia 7270 phone. Announced Q3 2004. Features 2.0″  display, 780 mAh battery, 32 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no7270.gif",
+      "specs": ""
+    },
+    {
+      "name": "7260",
+      "title": "Nokia 7260 phone. Announced Q3 2004. Features 1.6″  display, 760 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no7260.gif",
+      "specs": ""
+    },
+    {
+      "name": "9300",
+      "title": "Nokia 9300 Symbian smartphone. Announced Q3 2004. Features 4.0″  display, TI OMAP 1510 chipset, 970 mAh battery, 80 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no9300.gif",
+      "specs": ""
+    },
+    {
+      "name": "6630",
+      "title": "Nokia 6630 Symbian smartphone. Announced Q2 2004. Features 2.1″  display, TI OMAP 1710 chipset, 1.3 MP primary camera, 900 mAh battery, 10 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no6630.gif",
+      "specs": ""
+    },
+    {
+      "name": "6260",
+      "title": "Nokia 6260 Symbian smartphone. Announced Q2 2004. Features 2.1″  display, TI OMAP 1510 chipset, 760 mAh battery, 6 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no6260.gif",
+      "specs": ""
+    },
+    {
+      "name": "6170",
+      "title": "Nokia 6170 phone. Announced Q3 2004. Features 2.0″  display, 760 mAh battery, 2 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no6170.gif",
+      "specs": ""
+    },
+    {
+      "name": "3128",
+      "title": "Nokia 3128 phone. Announced Q4 2004. Features 65K colors display, 720 mAh battery, 1 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no3128.gif",
+      "specs": ""
+    },
+    {
+      "name": "2650",
+      "title": "Nokia 2650 phone. Announced Q2 2004. Features 4096 colors display, 760 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no2650.gif",
+      "specs": ""
+    },
+    {
+      "name": "2600",
+      "title": "Nokia 2600 phone. Announced Q2 2004. Features 1.5″  display, 820 mAh battery, 4 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no2600.gif",
+      "specs": ""
+    },
+    {
+      "name": "3220",
+      "title": "Nokia 3220 phone. Announced Q2 2004. Features 1.5″  display, 760 mAh battery, 3 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no3220.gif",
+      "specs": ""
+    },
+    {
+      "name": "N-Gage QD",
+      "title": "Nokia N-Gage QD Symbian smartphone. Announced Apr 2004. Features 2.1″  display, 1070 mAh battery, 3 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nongageqd.gif",
+      "specs": ""
+    },
+    {
+      "name": "3120",
+      "title": "Nokia 3120 phone. Announced Q2 2004. Features 1.6″  display, 820 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no3120.gif",
+      "specs": ""
+    },
+    {
+      "name": "7610",
+      "title": "Nokia 7610 Symbian smartphone. Announced Mar 2004. Features 2.1″  display, TI OMAP 1510 chipset, 1 MP primary camera, 900 mAh battery, 8 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no7610.gif",
+      "specs": ""
+    },
+    {
+      "name": "9500",
+      "title": "Nokia 9500 Symbian smartphone. Announced Q1 2004. Features 4.5″  display, TI OMAP 1510 chipset, 1300 mAh battery, 80 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no9500.gif",
+      "specs": ""
+    },
+    {
+      "name": "5140",
+      "title": "Nokia 5140 phone. Announced Q4 2003. Features 1.5″  display, 760 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no5140.gif",
+      "specs": ""
+    },
+    {
+      "name": "6610i",
+      "title": "Nokia 6610i phone. Announced Q1 2004. Features 1.5″  display, 780 mAh battery, 4 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no6610i.gif",
+      "specs": ""
+    },
+    {
+      "name": "3108",
+      "title": "Nokia 3108 phone. Announced Q4 2003. Features 1.45″  display, 760 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no3108.gif",
+      "specs": ""
+    },
+    {
+      "name": "7700",
+      "title": "Nokia 7700 Symbian smartphone. Announced Q4 2003. Features 3.5″  display, TI OMAP 1510 chipset, 1300 mAh battery, 25 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no7700.gif",
+      "specs": ""
+    },
+    {
+      "name": "7200",
+      "title": "Nokia 7200 phone. Announced Q4 2003. Features 1.5″  display, 760 mAh battery, 4 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no7200.gif",
+      "specs": ""
+    },
+    {
+      "name": "6230",
+      "title": "Nokia 6230 phone. Announced Q4 2003. Features 1.5″  display, 850 mAh battery, 6 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no6230.gif",
+      "specs": ""
+    },
+    {
+      "name": "6820",
+      "title": "Nokia 6820 phone. Announced Q4 2003. Features 1.6″  display, 850 mAh battery, 4 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no6820.gif",
+      "specs": ""
+    },
+    {
+      "name": "6810",
+      "title": "Nokia 6810 phone. Announced Q4 2003. Features 1.6″  display, 1000 mAh battery, 4 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no6810.gif",
+      "specs": ""
+    },
+    {
+      "name": "3660",
+      "title": "Nokia 3660 Symbian smartphone. Announced Q4 2003. Features 2.1″  display, 850 mAh battery, 3 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no3660.gif",
+      "specs": ""
+    },
+    {
+      "name": "7600",
+      "title": "Nokia 7600 phone. Announced Q4 2003. Features 2.0″  display, 850 mAh battery, 29 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no7600.gif",
+      "specs": ""
+    },
+    {
+      "name": "3200",
+      "title": "Nokia 3200 phone. Announced Q4 2003. Features 1.56″  display, 780 mAh battery, 1 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no3200.gif",
+      "specs": ""
+    },
+    {
+      "name": "2300",
+      "title": "Nokia 2300 phone. Announced Q3 2003. Features Monochrome graphic display, 850 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no2300.gif",
+      "specs": ""
+    },
+    {
+      "name": "1100",
+      "title": "Nokia 1100 phone. Announced Q3 2003. Features Monochrome graphic display, 850 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no1100.gif",
+      "specs": ""
+    },
+    {
+      "name": "6620",
+      "title": "Nokia 6620 Symbian smartphone. Announced Q1 2004. Features 2.1″  display, TI OMAP 1510 chipset, 850 mAh battery, 12 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no6620.gif",
+      "specs": ""
+    },
+    {
+      "name": "6600",
+      "title": "Nokia 6600 Symbian smartphone. Announced Q4 2003. Features 2.1″  display, 850 mAh battery, 6 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no6600.gif",
+      "specs": ""
+    },
+    {
+      "name": "3100",
+      "title": "Nokia 3100 phone. Announced Q3 2003. Features 1.5″  display, 850 mAh battery, 1 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no3100.gif",
+      "specs": ""
+    },
+    {
+      "name": "7250i",
+      "title": "Nokia 7250i phone. Announced Jun 2003. Features 1.5″  display, 780 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no7250i.gif",
+      "specs": ""
+    },
+    {
+      "name": "6108",
+      "title": "Nokia 6108 phone. Announced Q3 2003. Features CSTN, 4096 colors display, 850 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no6108.gif",
+      "specs": ""
+    },
+    {
+      "name": "6220",
+      "title": "Nokia 6220 phone. Announced Q3 2003. Features 1.5″  display, 780 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no6220.gif",
+      "specs": ""
+    },
+    {
+      "name": "3300",
+      "title": "Nokia 3300 phone. Announced Jun 2003. Features 1.7″  display, 780 mAh battery, 5 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no3300.gif",
+      "specs": ""
+    },
+    {
+      "name": "N-Gage",
+      "title": "Nokia N-Gage Symbian smartphone. Announced Q4 2003. Features 2.1″  display, 850 mAh battery, 3 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nongage.gif",
+      "specs": ""
+    },
+    {
+      "name": "7250",
+      "title": "Nokia 7250 phone. Announced Q1 2003. Features 1.5″  display, 780 mAh battery, 1 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no7250.gif",
+      "specs": ""
+    },
+    {
+      "name": "8910i",
+      "title": "Nokia 8910i phone. Announced Q1 2003. Features 1.25″  display, 830 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no8910i.gif",
+      "specs": ""
+    },
+    {
+      "name": "6800",
+      "title": "Nokia 6800 phone. Announced Q1 2003. Features 1.7″  display, 1000 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no6800.gif",
+      "specs": ""
+    },
+    {
+      "name": "6100",
+      "title": "Nokia 6100 phone. Announced Q4 2002. Features 1.5″  display, 760 mAh battery, 1 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no6100.gif",
+      "specs": ""
+    },
+    {
+      "name": "5100",
+      "title": "Nokia 5100 phone. Announced Q1 2003. Features 1.5″  display, 760 mAh battery, 1 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no5100.gif",
+      "specs": ""
+    },
+    {
+      "name": "2100",
+      "title": "Nokia 2100 phone. Announced Q1 2003. Features Monochrome graphic display, 720 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no2100.gif",
+      "specs": ""
+    },
+    {
+      "name": "6650",
+      "title": "Nokia 6650 phone. Announced  2003. Features TFT, 4096 colors display, 950 mAh battery, 7 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no6650.gif",
+      "specs": ""
+    },
+    {
+      "name": "3650",
+      "title": "Nokia 3650 Symbian smartphone. Announced Q1 2003. Features 2.1″  display, 850 mAh battery, 4 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no3650.gif",
+      "specs": ""
+    },
+    {
+      "name": "3530",
+      "title": "Nokia 3530 phone. Announced Q4 2002. Features 1.5″  display, 1000 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no3530.gif",
+      "specs": ""
+    },
+    {
+      "name": "3510i",
+      "title": "Nokia 3510i phone. Announced Q4 2002. Features CSTN, 4096 colors display, 950 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no3510i.gif",
+      "specs": ""
+    },
+    {
+      "name": "6610",
+      "title": "Nokia 6610 phone. Announced Q3 2002. Features 1.5″  display, 780 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no6610.gif",
+      "specs": ""
+    },
+    {
+      "name": "3610",
+      "title": "Nokia 3610 phone. Announced  2002. Features Backlit full graphics display, 830 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no3610.gif",
+      "specs": ""
+    },
+    {
+      "name": "9210i Communicator",
+      "title": "Nokia 9210i Communicator smartphone. Announced  2002. Features 4.5″  display, 1300 mAh battery, 40 MB storage, 8 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no9210i.gif",
+      "specs": ""
+    },
+    {
+      "name": "7210",
+      "title": "Nokia 7210 phone. Announced  2002. Features 1.5″  display, 780 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no7210.gif",
+      "specs": ""
+    },
+    {
+      "name": "6310i",
+      "title": "Nokia 6310i phone. Announced  2002. Features Backlit full graphics display, 1050 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no6310i.gif",
+      "specs": ""
+    },
+    {
+      "name": "3510",
+      "title": "Nokia 3510 phone. Announced  2002. Features Monochrome graphic display, 950 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no3510.gif",
+      "specs": ""
+    },
+    {
+      "name": "3410",
+      "title": "Nokia 3410 phone. Announced  2002. Features Monochrome graphic display, 825 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no3410.gif",
+      "specs": ""
+    },
+    {
+      "name": "7650",
+      "title": "Nokia 7650 Symbian smartphone. Announced Q1 2002. Features 2.1″  display, 750 mAh battery, 4 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no7650.gif",
+      "specs": ""
+    },
+    {
+      "name": "8910",
+      "title": "Nokia 8910 phone. Announced Q2 2002. Features Monochrome graphic display, 830 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no8910.gif",
+      "specs": ""
+    },
+    {
+      "name": "6510",
+      "title": "Nokia 6510 phone. Announced Q1 2002. Features Monochrome graphic display, 750 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no6510.gif",
+      "specs": ""
+    },
+    {
+      "name": "6500",
+      "title": "Nokia 6500 phone. Announced Q1 2002. Features Monochrome graphic display, 750 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no6500.gif",
+      "specs": ""
+    },
+    {
+      "name": "8855",
+      "title": "Nokia 8855 phone. Announced Q1 2002. Features Monochrome graphic display, 1000 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no8855.gif",
+      "specs": ""
+    },
+    {
+      "name": "5210",
+      "title": "Nokia 5210 phone. Announced Q1 2002. Features Monochrome graphic display, 750 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no5210.gif",
+      "specs": ""
+    },
+    {
+      "name": "5510",
+      "title": "Nokia 5510 phone. Announced Q4 2001. Features Monochrome graphic display, 950 mAh battery, 64 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no5510.gif",
+      "specs": ""
+    },
+    {
+      "name": "8310",
+      "title": "Nokia 8310 phone. Announced  2001. Features Monochrome graphic display, 830 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no8310.gif",
+      "specs": ""
+    },
+    {
+      "name": "6310",
+      "title": "Nokia 6310 phone. Announced  2001. Features Monochrome graphic display, 1050 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no6310.gif",
+      "specs": ""
+    },
+    {
+      "name": "3350",
+      "title": "Nokia 3350 phone. Announced  2001. Features Monochrome graphic display, 1000 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no3350.gif",
+      "specs": ""
+    },
+    {
+      "name": "3330",
+      "title": "Nokia 3330 phone. Announced  2001. Features Monochrome graphic display, 900 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no3330.gif",
+      "specs": ""
+    },
+    {
+      "name": "8250",
+      "title": "Nokia 8250 phone. Announced  2000. Features Monochrome graphic display, 830 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no8250.gif",
+      "specs": ""
+    },
+    {
+      "name": "9210 Communicator",
+      "title": "Nokia 9210 Communicator smartphone. Announced  2000. Features 4.5″  display, 1300 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no9210.gif",
+      "specs": ""
+    },
+    {
+      "name": "3310",
+      "title": "Nokia 3310 phone. Announced  2000. Features Monochrome graphic display, 900 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no3310b.gif",
+      "specs": ""
+    },
+    {
+      "name": "8890",
+      "title": "Nokia 8890 phone. Announced  2000. Features Monochrome graphic display, 830 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no8890t.gif",
+      "specs": ""
+    },
+    {
+      "name": "8210",
+      "title": "Nokia 8210 phone. Announced  1999. Features Monochrome graphic display, 650 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no8210t.gif",
+      "specs": ""
+    },
+    {
+      "name": "8850",
+      "title": "Nokia 8850 phone. Announced  1999. Features Monochrome graphic display, 830 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no8850t.gif",
+      "specs": ""
+    },
+    {
+      "name": "8810",
+      "title": "Nokia 8810 phone. Announced  1998. Features Monochrome graphic display, 600 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no8810t.gif",
+      "specs": ""
+    },
+    {
+      "name": "6250",
+      "title": "Nokia 6250 phone. Announced  2000. Features Monochrome graphic display, 1200 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no6250b.gif",
+      "specs": ""
+    },
+    {
+      "name": "6210",
+      "title": "Nokia 6210 phone. Announced  2000. Features Monochrome graphic display, 1050 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no6210b.gif",
+      "specs": ""
+    },
+    {
+      "name": "7110",
+      "title": "Nokia 7110 phone. Features Monochrome graphic display, 600 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no7110b.gif",
+      "specs": ""
+    },
+    {
+      "name": "9110i Communicator",
+      "title": "Nokia 9110i Communicator phone. Announced  1999. Features 4.5″  display, 1100 mAh battery, 8 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no9110ib.gif",
+      "specs": ""
+    },
+    {
+      "name": "9000 Communicator",
+      "title": "Nokia 9000 Communicator phone. Announced  1998. Features Grayscale LCD display, 8 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no9000b.gif",
+      "specs": ""
+    },
+    {
+      "name": "3210 (1999)",
+      "title": "Nokia 3210 (1999) phone. Announced  1999. Features Monochrome graphic display.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no3210b.gif",
+      "specs": ""
+    },
+    {
+      "name": "6150",
+      "title": "Nokia 6150 phone. Announced  1998. Features Monochrome graphic display, 600 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no6150b.gif",
+      "specs": ""
+    },
+    {
+      "name": "6130",
+      "title": "Nokia 6130 phone. Announced  1998. Features Monochrome graphic display, 600 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no6130b.gif",
+      "specs": ""
+    },
+    {
+      "name": "6110",
+      "title": "Nokia 6110 phone. Announced  1998. Features Monochrome graphic display, 600 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no6110b.gif",
+      "specs": ""
+    },
+    {
+      "name": "5110",
+      "title": "Nokia 5110 phone. Announced  1998. Features Monochrome graphic display, 600 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no5110b.gif",
+      "specs": ""
+    },
+    {
+      "name": "3110",
+      "title": "Nokia 3110 phone. Announced  1997. Features Monochrome graphic display, 400 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no3110b.gif",
+      "specs": ""
+    },
+    {
+      "name": "8110",
+      "title": "Nokia 8110 phone. Announced  1996. Features Monochrome graphic display, 400 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no8110b.gif",
+      "specs": ""
+    },
+    {
+      "name": "2110",
+      "title": "Nokia 2110 phone. Announced  1995. Features Monochrome graphic display, 550 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no2110b.gif",
+      "specs": ""
+    },
+    {
+      "name": "G",
+      "title": "Nokia G Android smartphone. Announced Apr 2021. Features 6.38″  display, Snapdragon 460 chipset, 4000 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/smartphone.jpg",
+      "specs": ""
+    },
+    {
+      "name": "7.3",
+      "title": "Nokia 7.3 Android smartphone. Not announced yet. Features 6.5″  display, Snapdragon 690 5G chipset, 4000 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/smartphone.jpg",
+      "specs": ""
+    },
+    {
+      "name": "9.3 PureView",
+      "title": "Nokia 9.3 PureView Android smartphone. Not announced yet. Features 6.7″  display, Snapdragon 865 5G chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/smartphone.jpg",
+      "specs": ""
+    },
+    {
+      "name": "8.1 Plus",
+      "title": "Nokia 8.1 Plus Android smartphone. Not announced yet. Features 6.22″  display, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/smartphone.jpg",
+      "specs": ""
+    },
+    {
+      "name": "N87",
+      "title": "Nokia N87 Symbian smartphone. Not officially announced yet. Features AMOLED, 16M colors display, 12 MP primary camera, Scratch-resistant glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-n87.jpg",
+      "specs": ""
+    },
+    {
+      "name": "N72",
+      "title": "Nokia N72 Symbian smartphone. Announced Apr 2006. Features 2.1″  display, TI OMAP 1710 chipset, 2 MP primary camera, 970 mAh battery, 20 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-n72.gif",
+      "specs": ""
+    },
+    {
+      "name": "2610",
+      "title": "Nokia 2610 phone. Announced Mar 2006. Features 1.6″  display, 970 mAh battery, 3 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-2610.gif",
+      "specs": ""
+    },
+    {
+      "name": "2310",
+      "title": "Nokia 2310 phone. Announced Mar 2006. Features 1.5″  display, 970 mAh battery, 4 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-2310.gif",
+      "specs": ""
+    },
+    {
+      "name": "1112",
+      "title": "Nokia 1112 phone. Announced Mar 2006. Features Monochrome graphic display, 700 mAh battery, 4 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-1112.gif",
+      "specs": ""
+    },
+    {
+      "name": "6136",
+      "title": "Nokia 6136 phone. Announced Feb 2006. Features 1.8″  display, 1.3 MP primary camera, 820 mAh battery, 32 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-6136.gif",
+      "specs": ""
+    },
+    {
+      "name": "6133",
+      "title": "Nokia 6133 phone. Announced Oct 2006. Features 2.2″  display, 1.3 MP primary camera, 820 mAh battery, 11 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-6133.gif",
+      "specs": ""
+    },
+    {
+      "name": "6131 NFC",
+      "title": "Nokia 6131 NFC phone. Announced Feb 2007. Features 2.2″  display, 860 mAh battery, 11 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-6131.gif",
+      "specs": ""
+    },
+    {
+      "name": "6131",
+      "title": "Nokia 6131 phone. Announced Feb 2006. Features 2.2″  display, 1.3 MP primary camera, 820 mAh battery, 11 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-6131.gif",
+      "specs": ""
+    },
+    {
+      "name": "6126",
+      "title": "Nokia 6126 phone. Announced Feb 2006. Features 2.2″  display, 1.3 MP primary camera, 820 mAh battery, 10 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-6126.gif",
+      "specs": ""
+    },
+    {
+      "name": "6070",
+      "title": "Nokia 6070 phone. Announced Feb 2006. Features 1.8″  display, 760 mAh battery, 3 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-6070.gif",
+      "specs": ""
+    },
+    {
+      "name": "6125",
+      "title": "Nokia 6125 phone. Announced Q1 2006. Features 1.8″  display, 1.3 MP primary camera, 820 mAh battery, 11 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-6125.gif",
+      "specs": ""
+    },
+    {
+      "name": "6103",
+      "title": "Nokia 6103 phone. Announced Q1 2006. Features 1.8″  display, 820 mAh battery, 4 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-6103.gif",
+      "specs": ""
+    },
+    {
+      "name": "6233",
+      "title": "Nokia 6233 phone. Announced Q4 2005. Features 2.0″  display, 2 MP primary camera, 1100 mAh battery, 6 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-6233.gif",
+      "specs": ""
+    },
+    {
+      "name": "6234",
+      "title": "Nokia 6234 phone. Announced Q4 2005. Features 2.0″  display, 2 MP primary camera, 6 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-6234.gif",
+      "specs": ""
+    },
+    {
+      "name": "6282",
+      "title": "Nokia 6282 phone. Announced Q4 2005. Features 2.2″  display, 1 MP primary camera, 970 mAh battery, 10 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-6282.gif",
+      "specs": ""
+    },
+    {
+      "name": "9300i",
+      "title": "Nokia 9300i Symbian smartphone. Announced Nov 2005. Features 4.0″  display, TI OMAP 1510 chipset, 1100 mAh battery, 80 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-9300i.gif",
+      "specs": ""
+    },
+    {
+      "name": "N92",
+      "title": "Nokia N92 Symbian smartphone. Announced Q4 2005. Features 2.8″  display, 2 MP primary camera, 1500 mAh battery, 40 MB storage, 64 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-n92.gif",
+      "specs": ""
+    },
+    {
+      "name": "N80",
+      "title": "Nokia N80 Symbian smartphone. Announced Q4 2005. Features 2.1″  display, 3.15 MP primary camera, 820 mAh battery, 40 MB storage, 64 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-n80.gif",
+      "specs": ""
+    },
+    {
+      "name": "N71",
+      "title": "Nokia N71 Symbian smartphone. Announced Q4 2005. Features 2.4″  display, 2 MP primary camera, 970 mAh battery, 10 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-n71.gif",
+      "specs": ""
+    },
+    {
+      "name": "7380",
+      "title": "Nokia 7380 phone. Announced Oct 2005. Features TFT, 65K colors display, 2 MP primary camera, 700 mAh battery, 52 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-7380.gif",
+      "specs": ""
+    },
+    {
+      "name": "7370",
+      "title": "Nokia 7370 phone. Announced Oct 2005. Features 2.0″  display, 1.3 MP primary camera, 700 mAh battery, 10 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-7370.gif",
+      "specs": ""
+    },
+    {
+      "name": "7360",
+      "title": "Nokia 7360 phone. Announced Oct 2005. Features 1.9″  display, 760 mAh battery, 4 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-7360.gif",
+      "specs": ""
+    },
+    {
+      "name": "E70",
+      "title": "Nokia E70 Symbian smartphone. Announced Oct 2005. Features 2.1″  display, 2 MP primary camera, 1150 mAh battery, 64 MB storage, 64 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-e70.gif",
+      "specs": ""
+    },
+    {
+      "name": "E62",
+      "title": "Nokia E62 Symbian smartphone. Announced Sep 2006. Features 2.9″  display, 1500 mAh battery, 80 MB storage, 32 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-e62.gif",
+      "specs": ""
+    },
+    {
+      "name": "E61",
+      "title": "Nokia E61 Symbian smartphone. Announced Oct 2005. Features 2.9″  display, 1500 mAh battery, 64 MB storage, 64 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-e61.gif",
+      "specs": ""
+    },
+    {
+      "name": "E60",
+      "title": "Nokia E60 Symbian smartphone. Announced Oct 2005. Features 2.1″  display, 970 mAh battery, 64 MB storage, 64 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-e60.gif",
+      "specs": ""
+    },
+    {
+      "name": "3250",
+      "title": "Nokia 3250 Symbian smartphone. Announced Sep 2005. Features 2.1″  display, 2 MP primary camera, 1100 mAh battery, 10 MB storage, 64 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-3250.gif",
+      "specs": ""
+    },
+    {
+      "name": "6708",
+      "title": "Nokia 6708 Symbian smartphone. Announced Q1 2005. Features 2.7″  display, TI OMAP 1510 chipset, 1.3 MP primary camera, 18 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-6708.gif",
+      "specs": ""
+    },
+    {
+      "name": "6280",
+      "title": "Nokia 6280 phone. Announced Jun 2005. Features 2.2″  display, 2 MP primary camera, 970 mAh battery, 6 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-6280.gif",
+      "specs": ""
+    },
+    {
+      "name": "6270",
+      "title": "Nokia 6270 phone. Announced Jun 2005. Features 2.2″  display, 2 MP primary camera, 970 mAh battery, 9 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-6270.gif",
+      "specs": ""
+    },
+    {
+      "name": "6111",
+      "title": "Nokia 6111 phone. Announced Jun 2005. Features 1.8″  display, 1 MP primary camera, 700 mAh battery, 23 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-6111.gif",
+      "specs": ""
+    },
+    {
+      "name": "6060",
+      "title": "Nokia 6060 phone. Announced Jun 2005. Features 1.8″  display, 760 mAh battery, 3 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-6060.gif",
+      "specs": ""
+    },
+    {
+      "name": "N91",
+      "title": "Nokia N91 Symbian smartphone. Announced Q2 2005. Features 2.1″  display, 2 MP primary camera, 900 mAh battery, 8 GB storage, 64 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-n91.gif",
+      "specs": ""
+    },
+    {
+      "name": "N90",
+      "title": "Nokia N90 Symbian smartphone. Announced Q2 2005. Features 2.1″  display, TI OMAP 1710 chipset, 2 MP primary camera, 760 mAh battery, 31 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-n90.gif",
+      "specs": ""
+    },
+    {
+      "name": "N70",
+      "title": "Nokia N70 Symbian smartphone. Announced Q2 2005. Features 2.1″  display, TI OMAP 1710 chipset, 2 MP primary camera, 970 mAh battery, 22 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-n70.gif",
+      "specs": ""
+    },
+    {
+      "name": "2652",
+      "title": "Nokia 2652 phone. Announced Sep 2005. Features 4096 colors display, 760 mAh battery, 1 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-2652.gif",
+      "specs": ""
+    },
+    {
+      "name": "1600",
+      "title": "Nokia 1600 phone. Announced Jun 2005. Features 1.4″  display, 900 mAh battery, 4 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-1600.gif",
+      "specs": ""
+    },
+    {
+      "name": "1110",
+      "title": "Nokia 1110 phone. Announced Jun 2005. Features Monochrome graphic display, 900 mAh battery, 4 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-1110.gif",
+      "specs": ""
+    },
+    {
+      "name": "1101",
+      "title": "Nokia 1101 phone. Announced Jun 2005. Features Monochrome graphic display, 850 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-1101.gif",
+      "specs": ""
+    },
+    {
+      "name": "5140i",
+      "title": "Nokia 5140i phone. Announced Q2 2005. Features 1.5″  display, 760 mAh battery, 5 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-5140i.gif",
+      "specs": ""
+    },
+    {
+      "name": "8800",
+      "title": "Nokia 8800 phone. Announced Q1 2005. Features 1.7″  display, 600 mAh battery, 64 MB storage, Scratch-resistant glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-8800.gif",
+      "specs": ""
+    },
+    {
+      "name": "6230i",
+      "title": "Nokia 6230i phone. Announced Q1 2005. Features 1.5″  display, 1.3 MP primary camera, 900 mAh battery, 32 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-6230i.gif",
+      "specs": ""
+    },
+    {
+      "name": "6021",
+      "title": "Nokia 6021 phone. Announced Q1 2005. Features 1.56″  display, 900 mAh battery, 2 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-6021.gif",
+      "specs": ""
+    },
+    {
+      "name": "6030",
+      "title": "Nokia 6030 phone. Announced Q1 2005. Features 1.5″  display, 900 mAh battery, 3 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-6030.gif",
+      "specs": ""
+    },
+    {
+      "name": "6680",
+      "title": "Nokia 6680 Symbian smartphone. Announced Q1 2005. Features 2.1″  display, TI OMAP 1710 chipset, 1.3 MP primary camera, 900 mAh battery, 10 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no6680.gif",
+      "specs": ""
+    },
+    {
+      "name": "6681",
+      "title": "Nokia 6681 Symbian smartphone. Announced Q1 2005. Features 2.1″  display, TI OMAP 1710 chipset, 1.3 MP primary camera, 900 mAh battery, 8 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no6681.gif",
+      "specs": ""
+    },
+    {
+      "name": "6101",
+      "title": "Nokia 6101 phone. Announced Q1 2005. Features 1.8″  display, 760 mAh battery, 4 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no6101.gif",
+      "specs": ""
+    },
+    {
+      "name": "6822",
+      "title": "Nokia 6822 phone. Announced Q1 2005. Features 1.5″  display, 850 mAh battery, 4 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no6822.gif",
+      "specs": ""
+    },
+    {
+      "name": "7710",
+      "title": "Nokia 7710 Symbian smartphone. Announced Q4 2004. Features 3.5″  display, TI OMAP 1510 chipset, 1 MP primary camera, 1300 mAh battery, 90 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no7710.gif",
+      "specs": ""
+    },
+    {
+      "name": "6020",
+      "title": "Nokia 6020 phone. Announced Q4 2004. Features 1.5″  display, 760 mAh battery, 4 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/no6020.gif",
+      "specs": ""
+    },
+    {
+      "name": "C200",
+      "title": "Nokia C200 Android smartphone. Announced Jan 2022. Features 6.09″  display, MT6761 Helio A22 chipset, 4000 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-c200.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C100",
+      "title": "Nokia C100 Android smartphone. Announced Jan 2022. Features 5.45″  display, MT6761 Helio A22 chipset, 3000 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-c100.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C21 Plus",
+      "title": "Nokia C21 Plus Android smartphone. Announced Feb 2022. Features 6.52″  display, Unisoc SC9863A chipset, 5050 mAh battery, 64 GB storage, 4 GB RAM, Scratch-resistant glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-c21-plus-gray.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C21",
+      "title": "Nokia C21 Android smartphone. Announced Feb 2022. Features 6.52″  display, Unisoc SC9863A chipset, 3000 mAh battery, 64 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-c21-gray.jpg",
+      "specs": ""
+    },
+    {
+      "name": "105+ (2022)",
+      "title": "Nokia 105+ (2022) phone. Announced Apr 2022. Features 1.77″  display, MT6261D chipset, 800 mAh battery, 4 MB storage, 4 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-105-plus-2022.jpg",
+      "specs": ""
+    },
+    {
+      "name": "105 (2022)",
+      "title": "Nokia 105 (2022) phone. Announced Apr 2022. Features 1.77″  display, MT6261D chipset, 800 mAh battery, 4 MB storage, 4 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-105-2022.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C2 2nd Edition",
+      "title": "Nokia C2 2nd Edition Android smartphone. Announced Feb 2022. Features 5.7″  display, 2400 mAh battery, 32 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-c2-2nd-edition-blue.jpg",
+      "specs": ""
+    },
+    {
+      "name": "G11",
+      "title": "Nokia G11 Android smartphone. Announced Feb 2022. Features 6.5″  display, Unisoc T606 chipset, 5050 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-g11.jpg",
+      "specs": ""
+    },
+    {
+      "name": "G21",
+      "title": "Nokia G21 Android smartphone. Announced Feb 2022. Features 6.5″  display, Unisoc T606 chipset, 5050 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-g21-dusk.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X100",
+      "title": "Nokia X100 Android smartphone. Announced Nov 2021. Features 6.67″  display, Snapdragon 480 5G chipset, 4470 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-x100.jpg",
+      "specs": ""
+    },
+    {
+      "name": "G300",
+      "title": "Nokia G300 Android smartphone. Announced Oct 2021. Features 6.52″  display, Snapdragon 480 5G chipset, 4470 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-g300-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "T20",
+      "title": "Nokia T20 Android tablet. Announced Oct 2021. Features 10.4″  display, Unisoc T610 chipset, 8200 mAh battery, 64 GB storage, 4 GB RAM, Scratch-resistant glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-t20-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "G50",
+      "title": "Nokia G50 Android smartphone. Announced Sep 2021. Features 6.82″  display, Snapdragon 480 5G chipset, 5000 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-g50.jpg",
+      "specs": ""
+    },
+    {
+      "name": "XR20",
+      "title": "Nokia XR20 Android smartphone. Announced Jul 2021. Features 6.67″  display, Snapdragon 480 5G chipset, 4630 mAh battery, 128 GB storage, 6 GB RAM, MIL-STD-810H compliant, Corning Gorilla Glass Victus.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-xr20-ultra-blue.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C30",
+      "title": "Nokia C30 Android smartphone. Announced Jul 2021. Features 6.82″  display, Unisoc SC9863A chipset, 6000 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-c30.jpg",
+      "specs": ""
+    },
+    {
+      "name": "6310 (2021)",
+      "title": "Nokia 6310 (2021) phone. Announced Jul 2021. Features 2.8″  display, Unisoc 6531F chipset, 1150 mAh battery, 16 MB storage, 8 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-6310-2021.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C1 2nd Edition",
+      "title": "Nokia C1 2nd Edition Android smartphone. Announced Jul 2021. Features 5.45″  display, Unisoc SC7731e chipset, 2500 mAh battery, 16 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-c1-2nd-edition.jpg",
+      "specs": ""
+    },
+    {
+      "name": "110 4G",
+      "title": "Nokia 110 4G phone. Announced Jun 2021. Features 1.8″  display, 1020 mAh battery, 48 MB storage, 128 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-110-4g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "105 4G",
+      "title": "Nokia 105 4G phone. Announced Jun 2021. Features 1.8″  display, 1020 mAh battery, 48 MB storage, 128 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-105-4g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C20 Plus",
+      "title": "Nokia C20 Plus Android smartphone. Announced Jun 2021. Features 6.5″  display, Unisoc SC9863A chipset, 4950 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-c20-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C01 Plus",
+      "title": "Nokia C01 Plus Android smartphone. Announced Jun 2021. Features 5.45″  display, Unisoc SC9863A chipset, 3000 mAh battery, 32 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-c01-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X20",
+      "title": "Nokia X20 Android smartphone. Announced Apr 2021. Features 6.67″  display, Snapdragon 480 5G chipset, 4470 mAh battery, 128 GB storage, 8 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-x20.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X10",
+      "title": "Nokia X10 Android smartphone. Announced Apr 2021. Features 6.67″  display, Snapdragon 480 5G chipset, 4470 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-x10.jpg",
+      "specs": ""
+    },
+    {
+      "name": "G20",
+      "title": "Nokia G20 Android smartphone. Announced Apr 2021. Features 6.52″  display, MT6765G Helio G35 chipset, 5050 mAh battery, 128 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-g20.jpg",
+      "specs": ""
+    },
+    {
+      "name": "G10",
+      "title": "Nokia G10 Android smartphone. Announced Apr 2021. Features 6.52″  display, MT6762G Helio G25 chipset, 5050 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-g10.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C20",
+      "title": "Nokia C20 Android smartphone. Announced Apr 2021. Features 6.52″  display, Unisoc SC9863A chipset, 3000 mAh battery, 32 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-c20.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C10",
+      "title": "Nokia C10 Android smartphone. Announced Apr 2021. Features 6.52″  display, Unisoc SC7331E chipset, 3000 mAh battery, 32 GB storage, 2 GB RAM, Panda Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-c10.jpg",
+      "specs": ""
+    },
+    {
+      "name": "1.4",
+      "title": "Nokia 1.4 Android smartphone. Announced Feb 2021. Features 6.52″  display, Snapdragon 215 chipset, 4000 mAh battery, 64 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-14.jpg",
+      "specs": ""
+    },
+    {
+      "name": "5.4",
+      "title": "Nokia 5.4 Android smartphone. Announced Dec 2020. Features 6.39″  display, Snapdragon 662 chipset, 4000 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-54-2020.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C1 Plus",
+      "title": "Nokia C1 Plus Android smartphone. Announced Dec 2020. Features 5.45″  display, 2500 mAh battery, 16 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-c1-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "8000 4G",
+      "title": "Nokia 8000 4G smartphone. Announced Nov 2020. Features 2.8″  display, Snapdragon 210 chipset, 1500 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-8800-4g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "6300 4G",
+      "title": "Nokia 6300 4G smartphone. Announced Nov 2020. Features 2.4″  display, Snapdragon 210 chipset, 1500 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-6300-4g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "8 V 5G UW",
+      "title": "Nokia 8 V 5G UW Android smartphone. Announced Nov 2020. Features 6.81″  display, Snapdragon 765G 5G chipset, 4500 mAh battery, 64 GB storage, 6 GB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-8-v-5g-uw.jpg",
+      "specs": ""
+    },
+    {
+      "name": "2 V Tella",
+      "title": "Nokia 2 V Tella Android smartphone. Announced Oct 2020. Features 5.45″  display, MT6761 Helio A22 chipset, 3000 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-2-v-tella.jpg",
+      "specs": ""
+    },
+    {
+      "name": "225 4G",
+      "title": "Nokia 225 4G phone. Announced Oct 2020. Features 2.4″  display, Unisoc UMS9117 chipset, 1150 mAh battery, 128 MB storage, 64 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-225-4g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "215 4G",
+      "title": "Nokia 215 4G phone. Announced Oct 2020. Features 2.4″  display, Unisoc UMS9117 chipset, 1150 mAh battery, 128 MB storage, 64 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-215-4g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "3.4",
+      "title": "Nokia 3.4 Android smartphone. Announced Sep 2020. Features 6.39″  display, Snapdragon 460 chipset, 4000 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-34.jpg",
+      "specs": ""
+    },
+    {
+      "name": "2.4",
+      "title": "Nokia 2.4 Android smartphone. Announced Sep 2020. Features 6.5″  display, MT6762 Helio P22 chipset, 4500 mAh battery, 64 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-24.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C3",
+      "title": "Nokia C3 Android smartphone. Announced Aug 2020. Features 5.99″  display, Unisoc SC9863A chipset, 3040 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-c3-2020.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C5 Endi",
+      "title": "Nokia C5 Endi Android smartphone. Announced May 2020. Features 6.52″  display, MT6762 Helio P22 chipset, 4000 mAh battery, 64 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-c5-endi.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C2 Tennen",
+      "title": "Nokia C2 Tennen Android smartphone. Announced May 2020. Features 5.45″  display, MT6761 Helio A22 chipset, 3000 mAh battery, 32 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-c2-tennen.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C2 Tava",
+      "title": "Nokia C2 Tava Android smartphone. Announced May 2020. Features 5.45″  display, MT6761 Helio A22 chipset, 3000 mAh battery, 32 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-c2-tava.jpg",
+      "specs": ""
+    },
+    {
+      "name": "150 (2020)",
+      "title": "Nokia 150 (2020) phone. Announced May 2020. Features 2.4″  display, 1020 mAh battery, 4 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-150-2020.jpg",
+      "specs": ""
+    },
+    {
+      "name": "125",
+      "title": "Nokia 125 phone. Announced May 2020. Features 2.4″  display, 1020 mAh battery, 4 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-125-2020.jpg",
+      "specs": ""
+    },
+    {
+      "name": "8.3 5G",
+      "title": "Nokia 8.3 5G Android smartphone. Announced Mar 2020. Features 6.81″  display, Snapdragon 765G 5G chipset, 4500 mAh battery, 128 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-83-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "5.3",
+      "title": "Nokia 5.3 Android smartphone. Announced Mar 2020. Features 6.55″  display, Snapdragon 665 chipset, 4000 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-53.jpg",
+      "specs": ""
+    },
+    {
+      "name": "1.3",
+      "title": "Nokia 1.3 Android smartphone. Announced Mar 2020. Features 5.71″  display, Snapdragon 215 chipset, 3000 mAh battery, 16 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-13.jpg",
+      "specs": ""
+    },
+    {
+      "name": "5310 (2020)",
+      "title": "Nokia 5310 (2020) phone. Announced Mar 2020. Features 2.4″  display, MT6260A chipset, 1200 mAh battery, 16 MB storage, 8 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-5310.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C2",
+      "title": "Nokia C2 Android smartphone. Announced Mar 2020. Features 5.7″  display, Unisoc chipset, 2800 mAh battery, 16 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-c2-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C1",
+      "title": "Nokia C1 Android smartphone. Announced Dec 2019. Features 5.45″  display, 2500 mAh battery, 16 GB storage, 1000 MB RAM, Yes.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-c1-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "2.3",
+      "title": "Nokia 2.3 Android smartphone. Announced Dec 2019. Features 6.2″  display, MT6761 Helio A22 chipset, 4000 mAh battery, 32 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-23.jpg",
+      "specs": ""
+    },
+    {
+      "name": "7.2",
+      "title": "Nokia 7.2 Android smartphone. Announced Sep 2019. Features 6.3″  display, Snapdragon 660 chipset, 3500 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-72.jpg",
+      "specs": ""
+    },
+    {
+      "name": "6.2",
+      "title": "Nokia 6.2 Android smartphone. Announced Sep 2019. Features 6.3″  display, Snapdragon 636 chipset, 3500 mAh battery, 128 GB storage, 4 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-62.jpg",
+      "specs": ""
+    },
+    {
+      "name": "800 Tough",
+      "title": "Nokia 800 Tough smartphone. Announced Sep 2019. Features 2.4″  display, Snapdragon 205 chipset, 2100 mAh battery, 4 GB storage, 512 MB RAM, MIL-STD-810G compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-800t.jpg",
+      "specs": ""
+    },
+    {
+      "name": "2720 V Flip",
+      "title": "Nokia 2720 V Flip smartphone. Announced May 2021. Features 2.8″  display, Snapdragon 205 chipset, 1500 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-2720-v-flip.jpg",
+      "specs": ""
+    },
+    {
+      "name": "2720 Flip",
+      "title": "Nokia 2720 Flip smartphone. Announced Sep 2019. Features 2.8″  display, Snapdragon 205 chipset, 1500 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-2720f-0.jpg",
+      "specs": ""
+    },
+    {
+      "name": "220 4G",
+      "title": "Nokia 220 4G phone. Announced Jul 2019. Features 2.4″  display, 1200 mAh battery, 24 MB storage, 16 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-220-4g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "110 (2019)",
+      "title": "Nokia 110 (2019) phone. Announced Sep 2019. Features 1.77″  display, 800 mAh battery, 4 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-110-2019.jpg",
+      "specs": ""
+    },
+    {
+      "name": "105 (2019)",
+      "title": "Nokia 105 (2019) phone. Announced Jul 2019. Features 1.77″  display, 800 mAh battery, 4 MB storage, 4 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-105-2019.jpg",
+      "specs": ""
+    },
+    {
+      "name": "3.1 C",
+      "title": "Nokia 3.1 C Android smartphone. Announced Jun 2019. Features 5.45″  display, Snapdragon 429 chipset, 2990 mAh battery, 32 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-31-c.jpg",
+      "specs": ""
+    },
+    {
+      "name": "3.1 A",
+      "title": "Nokia 3.1 A Android smartphone. Announced Jun 2019. Features 5.45″  display, Snapdragon 429 chipset, 2990 mAh battery, 32 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-31-a.jpg",
+      "specs": ""
+    },
+    {
+      "name": "2.2",
+      "title": "Nokia 2.2 Android smartphone. Announced Jun 2019. Features 5.71″  display, MT6761 Helio A22 chipset, 3000 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-22.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X71",
+      "title": "Nokia X71 Android smartphone. Announced Apr 2019. Features 6.39″  display, Snapdragon 660 chipset, 3500 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-x71.jpg",
+      "specs": ""
+    },
+    {
+      "name": "9 PureView",
+      "title": "Nokia 9 PureView Android smartphone. Announced Feb 2019. Features 5.99″  display, Snapdragon 845 chipset, 3320 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-9-pureview-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "4.2",
+      "title": "Nokia 4.2 Android smartphone. Announced Feb 2019. Features 5.71″  display, Snapdragon 439 chipset, 3000 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-42.jpg",
+      "specs": ""
+    },
+    {
+      "name": "3 V",
+      "title": "Nokia 3 V Android smartphone. Announced Aug 2020. Features 6.26″  display, Snapdragon 429 chipset, 4000 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-3v.jpg",
+      "specs": ""
+    },
+    {
+      "name": "3.2",
+      "title": "Nokia 3.2 Android smartphone. Announced Feb 2019. Features 6.26″  display, Snapdragon 429 chipset, 4000 mAh battery, 64 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-32.jpg",
+      "specs": ""
+    },
+    {
+      "name": "1 Plus",
+      "title": "Nokia 1 Plus Android smartphone. Announced Feb 2019. Features 5.45″  display, MT6739WW chipset, 2500 mAh battery, 16 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-1-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "210",
+      "title": "Nokia 210 phone. Announced Feb 2019. Features 2.4″  display, MT6260A chipset, 1020 mAh battery, 16 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-210-2019.jpg",
+      "specs": ""
+    },
+    {
+      "name": "8.1 (Nokia X7)",
+      "title": "Nokia 8.1 (Nokia X7) Android smartphone. Announced Oct 2018. Features 6.18″  display, Snapdragon 710 chipset, 3500 mAh battery, 128 GB storage, 6 GB RAM, NEG.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-81-r.jpg",
+      "specs": ""
+    },
+    {
+      "name": "106 (2018)",
+      "title": "Nokia 106 (2018) phone. Announced Nov 2018. Features 1.8″  display, MT6261D chipset, 800 mAh battery, 4 MB storage, 4 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-106-2018-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "3.1 Plus",
+      "title": "Nokia 3.1 Plus Android smartphone. Announced Oct 2018. Features 6.0″  display, MT6762 Helio P22 chipset, 3500 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-31-plus-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "7.1",
+      "title": "Nokia 7.1 Android smartphone. Announced Oct 2018. Features 5.84″  display, Snapdragon 636 chipset, 3060 mAh battery, 64 GB storage, 4 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-71-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "6.1 Plus (Nokia X6)",
+      "title": "Nokia 6.1 Plus (Nokia X6) Android smartphone. Announced Jul 2018. Features 5.8″  display, Snapdragon 636 chipset, 3060 mAh battery, 64 GB storage, 6 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-61-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "5.1 Plus (Nokia X5)",
+      "title": "Nokia 5.1 Plus (Nokia X5) Android smartphone. Announced Jul 2018. Features 5.86″  display, MT6771 Helio P60 chipset, Dual: 13 MP (f/2.0, PDAF) + 5 MP primary camera, 8 MP front camera, 3060 mAh battery, 64 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-x5-51-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "5.1",
+      "title": "Nokia 5.1 Android smartphone. Announced May 2018. Features 5.5″  display, MT6755S Helio P18 chipset, 16 MP primary camera, 8 MP front camera, 2970 mAh battery, 32 GB storage, 3 GB RAM, Corning Gorilla Glass (unspecified version).",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-51.jpg",
+      "specs": ""
+    },
+    {
+      "name": "3.1",
+      "title": "Nokia 3.1 Android smartphone. Announced May 2018. Features 5.2″  display, MT6750 chipset, 13 MP primary camera, 8 MP front camera, 2990 mAh battery, 32 GB storage, 3 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-31.jpg",
+      "specs": ""
+    },
+    {
+      "name": "2.1",
+      "title": "Nokia 2.1 Android smartphone. Announced May 2018. Features 5.5″  display, Snapdragon 425 chipset, 8 MP primary camera, 5 MP front camera, 4000 mAh battery, 8 GB storage, 1000 MB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-21-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "8110 4G",
+      "title": "Nokia 8110 4G smartphone. Announced Feb 2018. Features 2.4″  display, Snapdragon 205 chipset, 2 MP primary camera, 1500 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-8110-4g-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "8 Sirocco",
+      "title": "Nokia 8 Sirocco Android smartphone. Announced Feb 2018. Features 5.5″  display, Snapdragon 835 chipset, Dual: 12 MP (f/1.8, 1.4µm) + 13 MP primary camera, 5 MP front camera, 3260 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-8-sirocco-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "7 plus",
+      "title": "Nokia 7 plus Android smartphone. Announced Feb 2018. Features 6.0″  display, Snapdragon 660 chipset, Dual: 12 MP (f/1.8, 25mm, 1.4µm) + 13 MP primary camera, 16 MP front camera, 3800 mAh battery, 64 GB storage, 6 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-7-plus-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "6.1",
+      "title": "Nokia 6.1 Android smartphone. Announced Jan 2018. Features 5.5″  display, Snapdragon 630 chipset, 3000 mAh battery, 64 GB storage, 4 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-6-2018.jpg",
+      "specs": ""
+    },
+    {
+      "name": "1",
+      "title": "Nokia 1 Android smartphone. Announced Feb 2018. Features 4.5″  display, MT6737M chipset, 5 MP primary camera, 2 MP front camera, 2150 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-1-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "3310 4G",
+      "title": "Nokia 3310 4G phone. Announced Jan 2018. Features 2.4″  display, 2 MP primary camera, 1200 mAh battery, 512 MB storage, 256 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-3310-2017-4g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "2",
+      "title": "Nokia 2 Android smartphone. Announced Oct 2017. Features 5.0″  display, Snapdragon 212 chipset, 8 MP primary camera, 5 MP front camera, 4100 mAh battery, 8 GB storage, 1000 MB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia2-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "7",
+      "title": "Nokia 7 Android smartphone. Announced Oct 2017. Features 5.2″  display, Snapdragon 630 chipset, 16 MP primary camera, 5 MP front camera, 3000 mAh battery, 64 GB storage, 6 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-7-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "3310 3G",
+      "title": "Nokia 3310 3G phone. Announced Sep 2017. Features 2.4″  display, 2 MP primary camera, 1200 mAh battery, 64 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-3310-2017-1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "8",
+      "title": "Nokia 8 Android smartphone. Announced Aug 2017. Features 5.3″  display, Snapdragon 835 chipset, Dual: 13 MP primary camera, 13 MP front camera, 3090 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-8-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "105 (2017)",
+      "title": "Nokia 105 (2017) phone. Announced Jul 2017. Features 1.8″  display, 800 mAh battery, 4 MB storage, 4 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-105-2017.jpg",
+      "specs": ""
+    },
+    {
+      "name": "130 (2017)",
+      "title": "Nokia 130 (2017) phone. Announced Jul 2017. Features 1.8″  display, 1020 mAh battery, 8 MB storage, 4 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-130-2017.jpg",
+      "specs": ""
+    },
+    {
+      "name": "3",
+      "title": "Nokia 3 Android smartphone. Announced Feb 2017. Features 5.0″  display, MT6737 chipset, 2630 mAh battery, 16 GB storage, 2 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-3.jpg",
+      "specs": ""
+    },
+    {
+      "name": "5",
+      "title": "Nokia 5 Android smartphone. Announced Feb 2017. Features 5.2″  display, Snapdragon 430 chipset, 13 MP primary camera, 8 MP front camera, 3000 mAh battery, 16 GB storage, 3 GB RAM, Corning Gorilla Glass (unspecified version).",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-5n.jpg",
+      "specs": ""
+    },
+    {
+      "name": "6",
+      "title": "Nokia 6 Android smartphone. Announced Jan 2017. Features 5.5″  display, Snapdragon 430 chipset, 16 MP primary camera, 8 MP front camera, 3000 mAh battery, 64 GB storage, 4 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-6.jpg",
+      "specs": ""
+    },
+    {
+      "name": "3310 (2017)",
+      "title": "Nokia 3310 (2017) phone. Announced Feb 2017. Features 2.4″  display, 2 MP primary camera, 1200 mAh battery, 16 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-3310-2017-orig.jpg",
+      "specs": ""
+    },
+    {
+      "name": "150",
+      "title": "Nokia 150 phone. Announced Dec 2016. Features 2.4″  display, 1020 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-150-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "216",
+      "title": "Nokia 216 phone. Announced Sep 2016. Features 2.4″  display, 1020 mAh battery, 16 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-216-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "230 Dual SIM",
+      "title": "Nokia 230 Dual SIM phone. Announced Nov 2015. Features 2.8″  display, 2 MP primary camera, 2 MP front camera, 1200 mAh battery, 16 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-230-ds.jpg",
+      "specs": ""
+    },
+    {
+      "name": "230",
+      "title": "Nokia 230 phone. Announced Nov 2015. Features 2.8″  display, 2 MP primary camera, 2 MP front camera, 1200 mAh battery, 16 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-230-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "222 Dual SIM",
+      "title": "Nokia 222 Dual SIM phone. Announced Aug 2015. Features 2.4″  display, 2 MP primary camera, 1100 mAh battery, 16 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-222-ds.jpg",
+      "specs": ""
+    },
+    {
+      "name": "222",
+      "title": "Nokia 222 phone. Announced Aug 2015. Features 2.4″  display, 2 MP primary camera, 1100 mAh battery, 16 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-222.jpg",
+      "specs": ""
+    }
+  ]
+}

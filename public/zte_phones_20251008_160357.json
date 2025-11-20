@@ -1,0 +1,2503 @@
+{
+  "scrape_date": "2025-10-08T16:04:26.807881",
+  "total_phones": 416,
+  "source": "https://www.gsmarena.com/zte-phones-62.php",
+  "phones": [
+    {
+      "name": "nubia Air",
+      "title": "ZTE nubia Air 5G Android smartphone. Announced Sep 2025. Features 6.78″  display, Unisoc T8300 chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 7i.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-air.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade A36",
+      "title": "ZTE Blade A36 Android smartphone. Announced Jun 2025. Features 6.75″  display, Unisoc T7200 chipset, 5000 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-a36.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade A56",
+      "title": "ZTE Blade A56 Android smartphone. Announced Jun 2025. Features 6.75″  display, Unisoc T7200 chipset, 5000 mAh battery, 128 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-a56-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia RedMagic Astra",
+      "title": "ZTE RedMagic Tablet 3 Pro Android tablet. Announced Jun 2025. Features 9.06″  display, Snapdragon 8 Elite chipset, 8200 mAh battery, 1024 GB storage, 24 GB RAM, Corning Gorilla Glass (unspecified version).",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-red-magic-tablet-3-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade A76",
+      "title": "ZTE Blade A76 5G Android smartphone. Announced Jun 2025. Features 6.75″  display, 5000 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-a76-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia RedMagic 10SPro+",
+      "title": "ZTE nubia RedMagic 10SPro+ 5G Android smartphone. Announced May 2025. Features 6.85″  display, Snapdragon 8 Elite chipset, 7500 mAh battery, 1024 GB storage, 24 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-red-magic-10s-pro-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia RedMagic 10S Pro",
+      "title": "ZTE nubia RedMagic 10SPro 5G Android smartphone. Announced May 2025. Features 6.85″  display, Snapdragon 8 Elite chipset, 7050 mAh battery, 1024 GB storage, 24 GB RAM, Corning Gorilla Glass (unspecified version).",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-red-magic-10s-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia Z70S Ultra",
+      "title": "ZTE nubia Z70S Ultra 5G Android smartphone. Announced Apr 2025. Features 6.85″  display, Snapdragon 8 Elite chipset, 6600 mAh battery, 1024 GB storage, 24 GB RAM, Corning Gorilla Glass 7i or Longxi glass (gen 2).",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-z70s-ultra-photographer-edition.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia Pad Pro",
+      "title": "ZTE Nubia Tablet Pro Android tablet. Announced Apr 2025. Features 10.9″  display, Snapdragon 8 Gen 3 chipset, 10100 mAh battery, 1024 GB storage, 16 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-tablet-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia RedMagic 10 Air",
+      "title": "ZTE nubia RedMagic 10 Air 5G Android smartphone. Announced Apr 2025. Features 6.8″  display, Snapdragon 8 Gen 3 chipset, 6000 mAh battery, 512 GB storage, 16 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-redmagic-10-air.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia Focus 2 Ultra",
+      "title": "ZTE nubia Focus 2 Ultra Android smartphone. Announced Mar 2025. Features 6.8″  display, Unisoc T760 chipset, 5000 mAh battery, 512 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-focus2-ultra-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia Focus 2",
+      "title": "ZTE nubia Focus 2 Android smartphone. Announced Mar 2025. Features 6.7″  display, Unisoc T760 chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-focus2-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia Neo 3 GT",
+      "title": "ZTE nubia Neo 3 GT Android smartphone. Announced Mar 2025. Features 6.8″  display, Unisoc T9100 chipset, 6000 mAh battery, 256 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-neo-3-gt-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia Neo 3",
+      "title": "ZTE nubia Neo 3 Android smartphone. Announced Mar 2025. Features 6.8″  display, Unisoc T8300 chipset, 6000 mAh battery, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-neo-3-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia Flip2",
+      "title": "ZTE nubia Flip2 Android smartphone. Announced Jan 2025. Features 6.9″  display, Dimensity 7300X chipset, 4325 mAh battery, 512 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-flip2-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade V70 Max",
+      "title": "ZTE Blade V70 Max Android smartphone. Announced Feb 2025. Features 6.9″  display, Unisoc T606 chipset, 6000 mAh battery, 128 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-v70-max.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia Music 2",
+      "title": "ZTE nubia Music 2 Android smartphone. Announced Jan 2025. Features 6.7″  display, Unisoc T7200 chipset, 5000 mAh battery, 128 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-music2-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade V70 Design",
+      "title": "ZTE Blade V70 Design Android smartphone. Announced Nov 2024. Features 6.7″  display, Unisoc T606 chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-nubia-v70-design.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia Z70 Ultra",
+      "title": "ZTE nubia Z70 Ultra Android smartphone. Announced Nov 2024. Features 6.85″  display, Snapdragon 8 Elite chipset, 6150 mAh battery, 1024 GB storage, 24 GB RAM, Longxi glass (gen 2).",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-z70-ultra.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade V70",
+      "title": "ZTE Blade V70 Android smartphone. Announced Nov 2024. Features 6.7″  display, 5000 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-v70.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia RedMagic 10 Pro+",
+      "title": "ZTE nubia Red Magic 10 Pro+ Android smartphone. Announced Nov 2024. Features 6.85″  display, Snapdragon 8 Elite chipset, 7050 mAh battery, 1024 GB storage, 24 GB RAM, Unspecified.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-red-magic-10-pro-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia RedMagic 10 Pro",
+      "title": "ZTE nubia Red Magic 10 Pro Android smartphone. Announced Nov 2024. Features 6.85″  display, Snapdragon 8 Elite chipset, 7050 mAh battery, 1024 GB storage, 24 GB RAM, Corning Gorilla Glass (unspecified version).",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-red-magic-10-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade A55",
+      "title": "ZTE Blade A55 Android smartphone. Announced Jan 2024. Features 6.75″  display, Unisoc SC9863A1 chipset, 5000 mAh battery, 128 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-a55.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade A35",
+      "title": "ZTE Blade A35 Android smartphone. Announced Oct 2024. Features 6.75″  display, Unisoc SC9863A1 chipset, 5000 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-a35.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade A75 4G",
+      "title": "ZTE Blade A75 4G Android smartphone. Announced Jul 2024. Features 6.6″  display, Unisoc T606 chipset, 5000 mAh battery, 256 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-a75-4g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade V60 Design",
+      "title": "ZTE Blade V60 Design Android smartphone. Announced Jun 2024. Features 6.6″  display, Unisoc T606 chipset, 5000 mAh battery, 256 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-v60-design.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade A75",
+      "title": "ZTE Blade A75 Android smartphone. Announced Sep 2024. Features 6.6″  display, Unisoc T760 chipset, 5000 mAh battery, 128 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-a75-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia RedMagic Nova",
+      "title": "ZTE nubia Red Magic Nova Android tablet. Announced Sep 2024. Features 10.9″  display, Snapdragon 8 Gen 3 chipset, 10100 mAh battery, 1024 GB storage, 24 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-red-magic-nova.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia Z60S Pro",
+      "title": "ZTE nubia Z60S Pro Android smartphone. Announced Jul 2024. Features 6.78″  display, Snapdragon 8 Gen 2 chipset, 5100 mAh battery, 1024 GB storage, 24 GB RAM, Longxi glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-z60s-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia Z60 Ultra Leading",
+      "title": "ZTE nubia Z60 Ultra Leading Android smartphone. Announced Jul 2024. Features 6.8″  display, Snapdragon 8 Gen 3 chipset, 6000 mAh battery, 1024 GB storage, 24 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-z60-ultra-leading-version.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia RedMagic 9S Pro+",
+      "title": "ZTE nubia Red Magic 9S Pro+ Android smartphone. Announced Jul 2024. Features 6.8″  display, Snapdragon 8 Gen 3 chipset, 5500 mAh battery, 1024 GB storage, 24 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-red-magic-9s-pro-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia RedMagic 9S Pro",
+      "title": "ZTE nubia Red Magic 9S Pro Android smartphone. Announced Jul 2024. Features 6.8″  display, Snapdragon 8 Gen 3 chipset, 6500 mAh battery, 512 GB storage, 16 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-red-magic-9s-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Voyage 3D",
+      "title": "ZTE Voyage 3D Android smartphone. Announced Jun 2024. Features 6.58″  display, Unisoc T760 chipset, 4500 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-voyage-3d-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Axon 60",
+      "title": "ZTE Axon 60 Android smartphone. Announced May 2024. Features 6.72″  display, Unisoc Tiger T616 chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-axon-60.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Axon 60 Lite",
+      "title": "ZTE Axon 60 Lite Android smartphone. Announced May 2024. Features 6.6″  display, Unisoc T606 chipset, 5000 mAh battery, 256 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-axon-60-lite.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade A34",
+      "title": "ZTE Blade A34 Android smartphone. Announced Feb 2024. Features 6.6″  display, Unisoc SC9863A chipset, 5000 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-a34.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade A33s",
+      "title": "ZTE Blade A33s Android smartphone. Announced Nov 2023. Features 6.3″  display, Unisoc SC9863A chipset, 4000 mAh battery, 32 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-a33s.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Axon 60 Ultra",
+      "title": "ZTE Axon 60 Ultra Android smartphone. Announced Apr 2024. Features 6.78″  display, Snapdragon 8 Gen 2 chipset, 6000 mAh battery, 1024 GB storage, 16 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-axon-60-ultra.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia Focus Pro",
+      "title": "ZTE nubia Focus Pro Android smartphone. Announced Feb 2024. Features 6.72″  display, Unisoc T760 chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-focus-pro-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia Focus",
+      "title": "ZTE nubia Focus Android smartphone. Announced Feb 2024. Features 6.56″  display, Unisoc T760 chipset, 5000 mAh battery, 256 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-focus-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia Neo 2",
+      "title": "ZTE nubia Neo 2 Android smartphone. Announced Feb 2024. Features 6.72″  display, Unisoc T820 chipset, 6000 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-neo2-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia Music",
+      "title": "ZTE nubia Music Android smartphone. Announced Feb 2024. Features 6.6″  display, Unisoc SC9863A chipset, 5000 mAh battery, 128 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-music.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia Pad 3D II",
+      "title": "ZTE nubia Pad 3D II Android tablet. Announced Feb 2024. Features 12.1″  display, Snapdragon 8 Gen 2 chipset, 10000 mAh battery, 512 GB storage, 8 GB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-pad-3d-ii.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia Flip",
+      "title": "ZTE nubia Flip Android smartphone. Announced Feb 2024. Features 6.9″  display, Snapdragon 7 Gen 1 chipset, 4310 mAh battery, 512 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-flip-5g-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia Z60 Ultra",
+      "title": "ZTE nubia Z60 Ultra Android smartphone. Announced Dec 2023. Features 6.8″  display, Snapdragon 8 Gen 3 chipset, 6000 mAh battery, 1024 GB storage, 24 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-z60-ultra.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia RedMagic 9 Pro+",
+      "title": "ZTE nubia Red Magic 9 Pro+ Android smartphone. Announced Nov 2023. Features 6.8″  display, Snapdragon 8 Gen 3 chipset, 5500 mAh battery, 1024 GB storage, 24 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-red-magic-9-pro-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia RedMagic 9 Pro",
+      "title": "ZTE nubia Red Magic 9 Pro Android smartphone. Announced Nov 2023. Features 6.8″  display, Snapdragon 8 Gen 3 chipset, 6500 mAh battery, 512 GB storage, 16 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-red-magic-9-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade V50 Design 4G",
+      "title": "ZTE Blade V50 Design 4G Android smartphone. Announced Oct 2023. Features 6.6″  display, Unisoc T606 chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-v50-design-4g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade V50 Vita",
+      "title": "ZTE Blade V50 Vita Android smartphone. Announced Sep 2023. Features 6.75″  display, Unisoc T606 chipset, 5200 mAh battery, 256 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-v50-vita.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade V50",
+      "title": "ZTE Blade V50 Android smartphone. Announced Sep 2023. Features 6.67″  display, 4800 mAh battery, 256 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-v50-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade V50 Design",
+      "title": "ZTE Blade V50 Design Android smartphone. Announced Jul 2023. Features 6.6″  display, Unisoc T760 chipset, 4500 mAh battery, 128 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-v50-design-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade A54",
+      "title": "ZTE Blade A54 Android smartphone. Announced Sep 2023. Features 6.6″  display, Unisoc SC9863A chipset, 5000 mAh battery, 128 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-a54.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade A73",
+      "title": "ZTE Blade A73 Android smartphone. Announced Aug 2023. Features 6.6″  display, Unisoc T606 chipset, 5000 mAh battery, 128 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-a73-lte-4g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade A73 5G",
+      "title": "ZTE Blade A73 5G Android smartphone. Announced Aug 2023. Features 6.52″  display, Unisoc T760 chipset, 5000 mAh battery, 128 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-a73-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia Neo",
+      "title": "ZTE nubia Neo Android smartphone. Announced Jun 2023. Features 6.6″  display, Unisoc T820 chipset, 4500 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia Z50S Pro",
+      "title": "ZTE nubia Z50S Pro Android smartphone. Announced Jul 2023. Features 6.8″  display, Snapdragon 8+ Gen 2 chipset, 5100 mAh battery, 1024 GB storage, 16 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-z50s-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia RedMagic Tablet",
+      "title": "ZTE nubia Red Magic Tablet Android tablet. Announced Jul 2023. Features 12.1″  display, Snapdragon 8+ Gen 1 chipset, 10000 mAh battery, 512 GB storage, 16 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-red-magic-tablet.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia RedMagic 8S Pro+",
+      "title": "ZTE nubia Red Magic 8S Pro+ Android smartphone. Announced Jun 2023. Features 6.8″  display, Snapdragon 8 Gen 2 chipset, 5000 mAh battery, 1024 GB storage, 24 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-red-magic-8s-pro-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia RedMagic 8S Pro",
+      "title": "ZTE nubia Red Magic 8S Pro Android smartphone. Announced Jun 2023. Features 6.8″  display, Snapdragon 8 Gen 2 chipset, 6000 mAh battery, 512 GB storage, 16 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nubia-red-magic-8s-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade A53 Pro",
+      "title": "ZTE Blade A53 Pro Android smartphone. Announced Apr 2023. Features 6.52″  display, Unisoc SC9863A1 chipset, 5000 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-a53-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade A53",
+      "title": "ZTE Blade A53 Android smartphone. Announced Apr 2023. Features 6.52″  display, Unisoc SC9863A1 chipset, 4000 mAh battery, 32 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-a53.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade A72s",
+      "title": "ZTE Blade A72s Android smartphone. Announced Jun 2022. Features 6.75″  display, Unisoc T606 chipset, 5000 mAh battery, 128 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-a72s.jpg",
+      "specs": ""
+    },
+    {
+      "name": "V70",
+      "title": "ZTE V70 Android smartphone. Announced Jun 2023. Features 6.67″  display, Dimensity 810 chipset, 5100 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-v70.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Axon 50 Ultra",
+      "title": "ZTE Axon 50 Ultra Android smartphone. Announced Apr 2023. Features 6.67″  display, Snapdragon 8+ Gen 1 chipset, 5000 mAh battery, 512 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-axon-50-ultra-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Axon Pad",
+      "title": "ZTE Axon Pad Android tablet. Announced Apr 2023. Features 12.1″  display, Snapdragon 8+ Gen 1 chipset, 10000 mAh battery, 512 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-axon-pad-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia Z50 Ultra",
+      "title": "ZTE nubia Z50 Ultra Android smartphone. Announced Mar 2023. Features 6.8″  display, Snapdragon 8 Gen 2 chipset, 5000 mAh battery, 1024 GB storage, 16 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-z50-ultra.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia Pad 3D",
+      "title": "ZTE nubia Pad 3D Android tablet. Announced Feb 2023. Features 12.4″  display, Snapdragon 888 5G chipset, 9070 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-pad-3d-1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade V40",
+      "title": "ZTE Blade V40 Android smartphone. Announced Feb 2022. Features 6.67″  display, Dimensity 700 chipset, 6000 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-v40-5g-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade V40 Design",
+      "title": "ZTE Blade V40 Design Android smartphone. Announced Dec 2022. Features 6.6″  display, Unisoc Tiger T616 chipset, 4500 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-v40-design.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia RedMagic 8 Pro+",
+      "title": "ZTE nubia Red Magic 8 Pro+ Android smartphone. Announced Dec 2022. Features 6.8″  display, Snapdragon 8 Gen 2 chipset, 5000 mAh battery, 1024 GB storage, 16 GB RAM, Unspecified.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-red-magic-8-pro-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia RedMagic 8 Pro",
+      "title": "ZTE nubia Red Magic 8 Pro Android smartphone. Announced Dec 2022. Features 6.8″  display, Snapdragon 8 Gen 2 chipset, 6000 mAh battery, 512 GB storage, 16 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-red-magic-8-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia Z50",
+      "title": "ZTE nubia Z50 Android smartphone. Announced Dec 2022. Features 6.67″  display, Snapdragon 8 Gen 2 chipset, 5000 mAh battery, 1024 GB storage, 16 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-z50.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade V41 Vita",
+      "title": "ZTE Blade V41 Vita Android smartphone. Announced Dec 2022. Features 6.6″  display, Dimensity 810 chipset, 4500 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-v41-vita-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Voyage 40 Pro+",
+      "title": "ZTE Voyage 40 Pro+ Android smartphone. Announced Nov 2022. Features 6.67″  display, Dimensity 810 chipset, 4510 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-voyage-40-pro-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Axon 40 Ultra Space Edition",
+      "title": "ZTE Axon 40 Ultra Space Edition Android smartphone. Announced Nov 2022. Features 6.8″  display, Snapdragon 8 Gen 1 chipset, 5000 mAh battery, 1024 GB storage, 18 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-axon-40-ultra-space-edition.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Axon 40 SE",
+      "title": "ZTE Axon 40 SE Android smartphone. Announced Oct 2022. Features 6.67″  display, Unisoc UMS512T T618 chipset, 4500 mAh battery, 128 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-axon-40-se-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade V40s",
+      "title": "ZTE Blade V40s Android smartphone. Announced Oct 2022. Features 6.67″  display, Unisoc UMS512T T618 chipset, 4500 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-axon-40-se-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Axon 30S",
+      "title": "ZTE Axon 30S Android smartphone. Announced Sep 2022. Features 6.92″  display, Snapdragon 870 5G chipset, 4200 mAh battery, 256 GB storage, 12 GB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-axon30s-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia Z40S Pro",
+      "title": "ZTE nubia Z40S Pro Android smartphone. Announced Jul 2022. Features 6.67″  display, Snapdragon 8+ Gen 1 chipset, 5000 mAh battery, 1024 GB storage, 18 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-z40s-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia RedMagic 7S Pro",
+      "title": "ZTE nubia Red Magic 7S Pro Android smartphone. Announced Jul 2022. Features 6.8″  display, Snapdragon 8+ Gen 1 chipset, 5000 mAh battery, 1024 GB storage, 18 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-red-magic-7s-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia RedMagic 7S",
+      "title": "ZTE nubia Red Magic 7S Android smartphone. Announced Jul 2022. Features 6.8″  display, Snapdragon 8+ Gen 1 chipset, 4500 mAh battery, 512 GB storage, 16 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-red-magic-7s.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade V40 Pro",
+      "title": "ZTE Blade V40 Pro Android smartphone. Announced Mar 2022. Features 6.67″  display, Unisoc Tiger T618 chipset, 5100 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-v40-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade A72 5G",
+      "title": "ZTE Blade A72 5G Android smartphone. Announced Jun 2022. Features 6.52″  display, Dimensity 700 chipset, 4000 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-a72-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade A72",
+      "title": "ZTE Blade A72 Android smartphone. Announced Jun 2022. Features 6.75″  display, Unisoc SC9863A chipset, 6000 mAh battery, 128 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-a72.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade A52 Lite",
+      "title": "ZTE Blade A52 Lite Android smartphone. Announced Aug 2022. Features 6.52″  display, 4000 mAh battery, 32 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-a52-lite.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade A52",
+      "title": "ZTE Blade A52 Android smartphone. Announced Jun 2022. Features 6.52″  display, Unisoc SC9863A chipset, 5000 mAh battery, 64 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-a52.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Axon 40 Pro",
+      "title": "ZTE Axon 40 Pro Android smartphone. Announced May 2022. Features 6.67″  display, Snapdragon 870 5G chipset, 5000 mAh battery, 512 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-axon40-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A41 Ultra",
+      "title": "ZTE A41 Ultra 5G Android smartphone. Announced  2022. Features 6.67″  display, Snapdragon 8 Gen 1 chipset, 5000 mAh battery, 512 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-a41-ultra.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Axon 40 Ultra",
+      "title": "ZTE Axon 40 Ultra Android smartphone. Announced May 2022. Features 6.8″  display, Snapdragon 8 Gen 1 chipset, 5000 mAh battery, 1024 GB storage, 16 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-axon-40-ultra.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia Z40 Pro",
+      "title": "ZTE nubia Z40 Pro Android smartphone. Announced Feb 2022. Features 6.67″  display, Snapdragon 8 Gen 1 chipset, 5000 mAh battery, 1024 GB storage, 16 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-z40-pro-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade V40 Vita",
+      "title": "ZTE Blade V40 Vita Android smartphone. Announced May 2022. Features 6.75″  display, Unisoc T606 chipset, 6000 mAh battery, 128 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-v40-vita.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia RedMagic 7 Pro",
+      "title": "ZTE nubia Red Magic 7 Pro Android smartphone. Announced Feb 2022. Features 6.8″  display, Snapdragon 8 Gen 1 chipset, 5000 mAh battery, 1024 GB storage, 18 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-red-magic-7-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia RedMagic 7",
+      "title": "ZTE nubia Red Magic 7 Android smartphone. Announced Feb 2022. Features 6.8″  display, Snapdragon 8 Gen 1 chipset, 4500 mAh battery, 512 GB storage, 18 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-red-magic-7.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade A3 Plus",
+      "title": "ZTE Blade A3 Plus Android smartphone. Announced Jan 2022. Features 5.0″  display, MT6739W chipset, 2050 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-a3plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade A7P",
+      "title": "ZTE Blade A7P Android smartphone. Announced Dec 2021. Features 6.52″  display, MT6762D Helio P22 chipset, 3200 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-bladea7p.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Voyage 20 Pro",
+      "title": "ZTE Voyage 20 Pro Android smartphone. Announced Nov 2021. Features 6.67″  display, Dimensity 720 chipset, 5100 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-voyage-20-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Avid 589",
+      "title": "ZTE Avid 589 Android smartphone. Announced Nov 2021. Features 5.5″  display, MT6762D Helio P22 chipset, 3000 mAh battery, 32 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-avid589.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade A71",
+      "title": "ZTE Blade A71 Android smartphone. Announced Oct 2021. Features 6.52″  display, Unisoc SC9863A chipset, 4000 mAh battery, 64 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-a71.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade A31 Plus",
+      "title": "ZTE Blade A31 Plus Android smartphone. Announced Oct 2021. Features 6.0″  display, Unisoc SC9863A chipset, 3000 mAh battery, 32 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-a31-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade A31",
+      "title": "ZTE Blade A31 Android smartphone. Announced Jul 2021. Features 5.45″  display, Unisoc SC9863A chipset, 3000 mAh battery, 32 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-a31.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade 10 Prime",
+      "title": "ZTE Blade 10 Prime Android smartphone. Announced Nov 2019. Features 6.3″  display, MT6771 Helio P60 chipset, 3200 mAh battery, 64 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-10.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade Vantage 2",
+      "title": "ZTE Blade Vantage 2 Android smartphone. Announced Oct 2019. Features 5.0″  display, MT6761 Helio A22 chipset, 2050 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-vantage2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade 20",
+      "title": "ZTE Blade 20 Android smartphone. Announced Oct 2019. Features 6.49″  display, MT6771 Helio P60 chipset, 5000 mAh battery, 128 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ztel-blade-v20.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia RedMagic 3S",
+      "title": "ZTE nubia Red Magic 3s Android smartphone. Announced Sep 2019. Features 6.65″  display, Snapdragon 855+ chipset, 5000 mAh battery, 256 GB storage, 12 GB RAM, Corning Gorilla Glass 4.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-red-magic-3s.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia Z20",
+      "title": "ZTE nubia Z20 Android smartphone. Announced Aug 2019. Features 6.42″  display, Snapdragon 855+ chipset, 4000 mAh battery, 512 GB storage, 8 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-z20.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade A5 (2019)",
+      "title": "ZTE Blade A5 (2019) Android smartphone. Announced May 2019. Features 5.45″  display, Unisoc SC9863A chipset, 2600 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-a5-2019.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade A3 (2019)",
+      "title": "ZTE Blade A3 (2019) Android smartphone. Announced Apr 2019. Features 5.0″  display, Unisoc SC9832E chipset, 2000 mAh battery, 32 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-a3-2019.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade L8",
+      "title": "ZTE Blade L8 Android smartphone. Announced Apr 2019. Features 5.0″  display, Unisoc SC7731E chipset, 2000 mAh battery, 16 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-a3-2019.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia RedMagic 3",
+      "title": "ZTE nubia Red Magic 3 Android smartphone. Announced May 2019. Features 6.65″  display, Snapdragon 855 chipset, 5000 mAh battery, 256 GB storage, 12 GB RAM, Corning Gorilla Glass 4.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nubia-red-magic-3.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Avid 559",
+      "title": "ZTE Avid 559 Android smartphone. Announced Mar 2019. Features 5.0″  display, Snapdragon 210 chipset, 2200 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-avid559.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia Alpha",
+      "title": "ZTE nubia Alpha watch. Announced Feb 2019. Features 4.01″  display, Snapdragon Wear 2100 chipset, 500 mAh battery, 8 GB storage, 1000 MB RAM, Yes.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-alpha.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Axon 10 Pro 5G",
+      "title": "ZTE Axon 10 Pro 5G Android smartphone. Announced Feb 2019. Features 6.47″  display, Snapdragon 855 chipset, 4000 mAh battery, 256 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-axon-10-pro-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Axon 10 Pro",
+      "title": "ZTE Axon 10 Pro Android smartphone. Announced Feb 2019. Features 6.47″  display, Snapdragon 855 chipset, 4000 mAh battery, 256 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-axon-10-pro-4g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade V10",
+      "title": "ZTE Blade V10 Android smartphone. Announced Feb 2019. Features 6.3″  display, MT6771V Helio P70 chipset, 3200 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-v10.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade V10 Vita",
+      "title": "ZTE Blade V10 Vita Android smartphone. Announced Feb 2019. Features 6.26″  display, Unisoc SC9863A chipset, 3200 mAh battery, 64 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-v10-vita.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia RedMagic Mars",
+      "title": "ZTE nubia Red Magic Mars Android smartphone. Announced Nov 2018. Features 6.0″  display, Snapdragon 845 chipset, 3800 mAh battery, 256 GB storage, 10 GB RAM, Dinorex T2X-1 scratch/shock resistant glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-red-magic-mars.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia X",
+      "title": "ZTE nubia X Android smartphone. Announced Oct 2018. Features 6.26″  display, Snapdragon 845 chipset, 3800 mAh battery, 512 GB storage, 8 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-x.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia Z18",
+      "title": "ZTE nubia Z18 Android smartphone. Announced Sep 2018. Features 5.99″  display, Snapdragon 845 chipset, Dual: 24 MP (dual pixel PDAF) + 8 MP primary camera, Dual: 8 MP front camera, 3450 mAh battery, 128 GB storage, 8 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-z18-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Axon 9 Pro",
+      "title": "ZTE Axon 9 Pro Android smartphone. Announced Aug 2018. Features 6.21″  display, Snapdragon 845 chipset, Dual:12 MP (f/1.8, 1.4µm, OIS, dual pixel PDAF) + 20 MP primary camera, 20 MP front camera, 4000 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-axon-9-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia RedMagic",
+      "title": "ZTE nubia Red Magic Android smartphone. Announced Apr 2018. Features 6.0″  display, Snapdragon 835 chipset, 24 MP primary camera, 8 MP front camera, 3800 mAh battery, 128 GB storage, 8 GB RAM, Dinorex T2X-1 scratch/shock resistant glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-red-magic-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade A7 Vita",
+      "title": "ZTE Blade A7 Vita Android smartphone. Announced Dec 2018. Features 5.45″  display, Snapdragon 425 chipset, 3200 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-a7-vista.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade A7",
+      "title": "ZTE Blade A7 Android smartphone. Announced May 2019. Features 6.09″  display, MT6771 Helio P60 chipset, 3200 mAh battery, 64 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-a7.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia Z18 mini",
+      "title": "ZTE nubia Z18 mini Android smartphone. Announced Apr 2018. Features 5.7″  display, Snapdragon 660 chipset, Dual: 24 MP (f/1.7, PDAF) + 5 MP primary camera, 8 MP front camera, 3450 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-z18-mini.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia V18",
+      "title": "ZTE nubia V18 Android smartphone. Announced Mar 2018. Features 6.01″  display, Snapdragon 625 chipset, 13 MP primary camera, 8 MP front camera, 4000 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-v18.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia N3",
+      "title": "ZTE nubia N3 Android smartphone. Announced Mar 2018. Features 6.01″  display, Snapdragon 625 chipset, Dual: 16 MP (f/2.2, PDAF) + 5 MP primary camera, 16 MP front camera, 5000 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-n3-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade V9 Vita",
+      "title": "ZTE Blade V9 Vita Android smartphone. Announced Feb 2018. Features 5.45″  display, Snapdragon 435 chipset, Dual: 13 MP (PDAF) + 2 MP primary camera, 5 MP front camera, 3200 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-v9-vita.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade V9",
+      "title": "ZTE Blade V9 Android smartphone. Announced Feb 2018. Features 5.7″  display, Snapdragon 450 chipset, Dual: 16 MP (f/1.8, 1.12µm, PDAF) + 5 MP primary camera, 8 MP front camera, 3100 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-v9-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Tempo Go",
+      "title": "ZTE Tempo Go Android smartphone. Announced Feb 2018. Features 5.0″  display, Snapdragon 210 chipset, 5 MP primary camera, 2 MP front camera, 2200 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-tempo-go.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade A3",
+      "title": "ZTE Blade A3 Android smartphone. Announced Nov 2017. Features 5.5″  display, MT6737T chipset, 13 MP primary camera, Dual: 5 MP + 2 MP front camera, 4000 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-a3.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade A6",
+      "title": "ZTE Blade A6 Android smartphone. Announced Aug 2017. Features 5.2″  display, Snapdragon 435 chipset, 13 MP primary camera, 5 MP front camera, 5000 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-a6.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Maven 2",
+      "title": "ZTE Maven 2 Android smartphone. Announced Jul 2017. Features 5.0″  display, Snapdragon 210 chipset, 5 MP primary camera, 2 MP front camera, 2300 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-maven2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade X",
+      "title": "ZTE Blade X Android smartphone. Announced Oct 2017. Features 5.5″  display, Snapdragon 425 chipset, 13 MP primary camera, 5 MP front camera, 3000 mAh battery, 16 GB storage, 2 GB RAM, Asahi Dragontrail Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-x.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Axon M",
+      "title": "ZTE Axon M Android smartphone. Announced Oct 2017. Features 5.2″  display, Snapdragon 821 chipset, 20 MP primary camera, 3180 mAh battery, 64 GB storage, 4 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-axon-m-1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia Z17s",
+      "title": "ZTE nubia Z17s Android smartphone. Announced Oct 2017. Features 5.73″  display, Snapdragon 835 chipset, Dual: 12 MP (f/1.8, 1/2.55″, 1.4µm, dual pixel PDAF) + 23 MP primary camera, Dual: 5 MP front camera, 3100 mAh battery, 128 GB storage, 8 GB RAM, Corning Gorilla Glass (unspecified version).",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-z17s.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia Z17 miniS",
+      "title": "ZTE nubia Z17 miniS Android smartphone. Announced Oct 2017. Features 5.2″  display, Snapdragon 653 chipset, Dual: 13 MP (f/2.2, 1/3″, 1.12µm, PDAF) + 2 MP primary camera, Dual: 16 MP (f/2.0) + 5 MP front camera, 3200 mAh battery, 64 GB storage, 6 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-z17-minis.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia Z17 lite",
+      "title": "ZTE nubia Z17 lite Android smartphone. Announced Aug 2017. Features 5.5″  display, Snapdragon 653 chipset, Dual: 13 MP (f/2.2, PDAF) + 2 MP primary camera, 16 MP front camera, 3200 mAh battery, 64 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-z17-lite.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade Z Max",
+      "title": "ZTE Blade Z Max Android smartphone. Announced Aug 2017. Features 6.0″  display, Snapdragon 435 chipset, Dual: 16 MP (PDAF) + 2 MP primary camera, 8 MP front camera, 4080 mAh battery, 32 GB storage, 2 GB RAM, Asahi Dragontrail Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-z-max.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade Force",
+      "title": "ZTE Blade Force Android smartphone. Announced Oct 2017. Features 5.5″  display, Snapdragon 427 chipset, 8 MP primary camera, 5 MP front camera, 3000 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-force.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Tempo X",
+      "title": "ZTE Tempo X Android smartphone. Announced Sep 2017. Features 5.0″  display, Snapdragon 210 chipset, 5 MP primary camera, 2 MP front camera, 2200 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-tempo-x.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade A601",
+      "title": "ZTE Blade A601 Android smartphone. Announced Jun 2016. Features 5.0″  display, 8 MP primary camera, 2 MP front camera, 4000 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-a601.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Grand X View 2",
+      "title": "ZTE Grand X View 2 Android tablet. Announced Jul 2017. Features 8.0″  display, Snapdragon 210 chipset, 5 MP primary camera, 2 MP front camera, 4620 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-grand-x-view2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade V7 Plus",
+      "title": "ZTE Blade V7 Plus Android smartphone. Announced Jul 2017. Features 5.2″  display, MT6753 chipset, 13 MP primary camera, 5 MP front camera, 2540 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-v7-plus-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Quartz",
+      "title": "ZTE Quartz Android watch. Announced Apr 2017. Features 1.4″  display, Snapdragon Wear 2100 chipset, 500 mAh battery, 4 GB storage, 768 MB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-quartz-r.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia N2",
+      "title": "ZTE nubia N2 Android smartphone. Announced Mar 2017. Features 5.5″  display, MT6750 chipset, 13 MP primary camera, 16 MP front camera, 5000 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-n2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia M2",
+      "title": "ZTE nubia M2 Android smartphone. Announced Mar 2017. Features 5.5″  display, Snapdragon 625 chipset, Dual: 13 MP (f/2.2, 1/2.9″, 1.25µm, AF) + 2 MP primary camera, 16 MP front camera, 3630 mAh battery, 64 GB storage, 4 GB RAM, Corning Gorilla Glass (unspecified version).",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-m2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia M2 lite",
+      "title": "ZTE nubia M2 lite Android smartphone. Announced Mar 2017. Features 5.5″  display, MT6750 chipset, 13 MP primary camera, 16 MP front camera, 3000 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-m2-lite.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia M2 Play",
+      "title": "ZTE nubia M2 Play Android smartphone. Announced Jun 2017. Features 5.5″  display, Snapdragon 435 chipset, 13 MP primary camera, 5 MP front camera, 3000 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-m2-play.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia Z17",
+      "title": "ZTE nubia Z17 Android smartphone. Announced Jun 2017. Features 5.5″  display, Snapdragon 835 chipset, Dual: 12 MP (f/1.8, 1/2.55″, 1.4µm) + 23 MP primary camera, 16 MP front camera, 3200 mAh battery, 128 GB storage, 8 GB RAM, Corning Gorilla Glass (unspecified version).",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-z17-n.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Axon 7s",
+      "title": "ZTE Axon 7s Android smartphone. Announced Apr 2017. Features 5.5″  display, Snapdragon 821 chipset, Dual: 12 MP (f/1.8, 1/2.8″, 1µm, PDAF) + 20 MP primary camera, 8 MP front camera, 3400 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-axon-7s.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Max XL",
+      "title": "ZTE Max XL Android smartphone. Announced Apr 2017. Features 6.0″  display, Snapdragon 435 chipset, 13 MP primary camera, 5 MP front camera, 3990 mAh battery, 32 GB storage, 2 GB RAM, Corning Gorilla Glass (unspecified version).",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-max-xl.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Axon Pro",
+      "title": "ZTE Axon Pro Android smartphone. Announced Jul 2015. Features 5.5″  display, Snapdragon 810 chipset, Dual: 13 MP (PDAF) + 2 MP primary camera, 8 MP front camera, 3000 mAh battery, 64 GB storage, 4 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-axon-pro-r.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade A410",
+      "title": "ZTE Blade A410 Android smartphone. Announced Jun 2015. Features 4.0″  display, MT6735M chipset, 5 MP primary camera, 1500 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-a410.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Obsidian",
+      "title": "ZTE Obsidian Android smartphone. Announced Aug 2015. Features 4.5″  display, MT6735M chipset, 5 MP primary camera, 2 MP front camera, 1800 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-obsidian.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Grand X2",
+      "title": "ZTE Grand X2 Android smartphone. Announced Aug 2015. Features 5.0″  display, Snapdragon 400 chipset, 8 MP primary camera, 2 MP front camera, 2480 mAh battery, 16 GB storage, 2 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-grand-x2-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Sonata 2",
+      "title": "ZTE Sonata 2 Android smartphone. Announced Jun 2015. Features 4.0″  display, 5 MP primary camera, 2 MP front camera, 1650 mAh battery, 4 GB storage, 1000 MB RAM, Asahi Dragontrail Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-sonata-2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade Apex 3",
+      "title": "ZTE Blade Apex 3 Android smartphone. Announced Jun 2015. Features 4.5″  display, Snapdragon 410 chipset, 5 MP primary camera, 2 MP front camera, 2000 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-apex-3.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Maven",
+      "title": "ZTE Maven Android smartphone. Announced Jun 2015. Features 4.5″  display, Snapdragon 410 chipset, 5 MP primary camera, 2100 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-maven.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade Q Pro",
+      "title": "ZTE Blade Q Pro Android smartphone. Announced  2015. Features 4.5″  display, Spreadtrum SC7731 chipset, 8 MP primary camera, 2 MP front camera, 1800 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-qpro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade Qlux 4G",
+      "title": "ZTE Blade Qlux 4G Android smartphone. Announced Jun 2015. Features 4.5″  display, MT6732M chipset, 8 MP, AF, LED flash (India) or 5 MP primary camera, 5 MP (India) or 2 MP front camera, 2200 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-qlux-4g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia Z9",
+      "title": "ZTE nubia Z9 Android smartphone. Announced May 2015. Features 5.2″  display, Snapdragon 810 chipset, 16 MP primary camera, 8 MP front camera, 2900 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zlte-nubia-z9.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade S6 Plus",
+      "title": "ZTE Blade S6 Plus Android smartphone. Announced Apr 2015. Features 5.5″  display, Snapdragon 615 chipset, 13 MP primary camera, 5 MP front camera, 3000 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-s6-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia Z9 Max",
+      "title": "ZTE nubia Z9 Max Android smartphone. Announced Mar 2015. Features 5.5″  display, Snapdragon 810 chipset, 16 MP primary camera, 8 MP front camera, 2900 mAh battery, 16 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-z9-max.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia Z9 mini",
+      "title": "ZTE nubia Z9 mini Android smartphone. Announced Mar 2015. Features 5.0″  display, Snapdragon 615 chipset, 16 MP primary camera, 8 MP front camera, 2900 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-z9-mini.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Open L",
+      "title": "ZTE Open L smartphone. Announced Mar 2015. Features 5.0″  display, Snapdragon 210 chipset, 5 MP primary camera, 2 MP front camera, 2200 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-open-l.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Grand S3",
+      "title": "ZTE Grand S3 Android smartphone. Announced Mar 2015. Features 5.5″  display, Snapdragon 801 chipset, 16 MP primary camera, 8 MP front camera, 3100 mAh battery, 16 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-grand-s31.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade L3 Plus",
+      "title": "ZTE Blade L3 Plus Android smartphone. Announced Mar 2015. Features 5.0″  display, MT6582 chipset, 13 MP primary camera, 5 MP front camera, 2000 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-l3-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade L3",
+      "title": "ZTE Blade L3 Android smartphone. Announced Feb 2015. Features 5.0″  display, MT6582M chipset, 8 MP primary camera, 2 MP front camera, 2000 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-l3.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade G Lux",
+      "title": "ZTE Blade G Lux Android smartphone. Announced Feb 2015. Features 4.5″  display, MT6572 chipset, 5 MP or 8 MP primary camera, 2 MP front camera, 1850 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-g-lux.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade G",
+      "title": "ZTE Blade G Android smartphone. Announced Feb 2015. Features 4.0″  display, MT6572M chipset, 2 MP primary camera, 1200 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "V5 Lux",
+      "title": "ZTE V5 Lux Android smartphone. Announced Feb 2015. Features 5.0″  display, Snapdragon 410 chipset, 13 MP primary camera, 5 MP front camera, 2400 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-v5-lux.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade S6",
+      "title": "ZTE Blade S6 Android smartphone. Announced Jan 2015. Features 5.0″  display, Snapdragon 615 chipset, 13 MP primary camera, 5 MP front camera, 2400 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-s6.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Imperial II",
+      "title": "ZTE Imperial II Android smartphone. Announced Jan 2015. Features 5.0″  display, Snapdragon 400 chipset, 5 MP primary camera, 1 MP front camera, 2300 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-imperial-ii.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Grand X Max+",
+      "title": "ZTE Grand X Max+ Android smartphone. Announced Jan 2015. Features 6.0″  display, Snapdragon 400 chipset, 13 MP primary camera, 5 MP front camera, 3200 mAh battery, 16 GB storage, 2 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-grand-x-max-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Star 2",
+      "title": "ZTE Star 2 Android smartphone. Announced Dec 2014. Features 5.0″  display, Snapdragon 801 chipset, 13 MP primary camera, 5 MP front camera, 2400 mAh battery, 16 GB storage, 2 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-star-2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Grand X Plus Z826",
+      "title": "ZTE Grand X Plus Z826 Android smartphone. Announced Dec 2014. Features 5.0″  display, Snapdragon 400 chipset, 8 MP primary camera, 2 MP front camera, 2300 mAh battery, 8 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ZTE-Grand-X-Plus-Z826.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Speed",
+      "title": "ZTE Speed Android smartphone. Announced Dec 2014. Features 4.5″  display, Snapdragon 410 chipset, 5 MP primary camera, 2 MP front camera, 2000 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-speed.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Grand S II",
+      "title": "ZTE Grand S II Android smartphone. Announced Dec 2014. Features 5.5″  display, Snapdragon 800 chipset, 13 MP primary camera, 5 MP front camera, 2500 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-grand-s2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Grand S Pro",
+      "title": "ZTE Grand S Pro Android smartphone. Announced Jun 2014. Features 5.0″  display, Snapdragon 801 chipset, 13 MP primary camera, 2 MP front camera, 2300 mAh battery, 8 GB storage, 2 GB RAM, Asahi Dragontrail Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-grand-s-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Zinger",
+      "title": "ZTE Zinger Android smartphone. Announced Oct 2014. Features 3.5″  display, Snapdragon 200 chipset, 2 MP primary camera, 1500 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-zinger.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Grand Xmax",
+      "title": "ZTE Grand Xmax Android smartphone. Announced Oct 2014. Features 6.0″  display, Snapdragon 200 chipset, 8 MP primary camera, 1 MP front camera, 3200 mAh battery, 8 GB storage, 1000 MB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-grand-xmax.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Zmax",
+      "title": "ZTE Zmax Android smartphone. Announced Sep 2014. Features 5.7″  display, Snapdragon 400 chipset, 8 MP primary camera, 1.6 MP front camera, 3400 mAh battery, 16 GB storage, 2 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-zmax.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade Vec 4G",
+      "title": "ZTE Blade Vec 4G Android smartphone. Announced Sep 2014. Features 5.0″  display, Snapdragon 400 chipset, 8 MP or 13 MP primary camera, 2 MP/ 1 MP front camera, 2300 mAh battery, 16 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-vec-4g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade Vec 3G",
+      "title": "ZTE Blade Vec 3G Android smartphone. Announced Sep 2014. Features 5.0″  display, MT6582 chipset, 8 MP primary camera, 5 MP front camera, 2300 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-vec-3g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Kis 3 Max",
+      "title": "ZTE Kis 3 Max Android smartphone. Announced Sep 2014. Features 4.5″  display, MT6572 chipset, 5 MP primary camera, 2 MP front camera, 1850 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-kiss-3-max.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia Z5S mini NX405H",
+      "title": "ZTE nubia Z5S mini NX405H Android smartphone. Announced Aug 2014. Features 4.7″  display, Snapdragon 400 chipset, 13 MP primary camera, 5 MP front camera, 2000 mAh battery, 16 GB storage, 2 GB RAM, Scratch-resistant glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-z5s-mini-lte.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia Z7",
+      "title": "ZTE nubia Z7 Android smartphone. Announced Jul 2014. Features 5.5″  display, Snapdragon 801 chipset, 13 MP primary camera, 5 MP front camera, 3000 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-z7.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia Z7 Max",
+      "title": "ZTE nubia Z7 Max Android smartphone. Announced Jul 2014. Features 5.5″  display, Snapdragon 801 chipset, 13 MP primary camera, 5 MP front camera, 3100 mAh battery, 32 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-z7-max.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia Z7 mini",
+      "title": "ZTE nubia Z7 mini Android smartphone. Announced Jul 2014. Features 5.0″  display, Snapdragon 801 chipset, 13 MP primary camera, 5 MP front camera, 2300 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-z7-mini.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade L2",
+      "title": "ZTE Blade L2 Android smartphone. Announced May 2014. Features 5.0″  display, MT6582M chipset, 5 MP or 8 MP primary camera, VGA/ 1 MP front camera, 2000 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-l2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Kis 3",
+      "title": "ZTE Kis 3 Android smartphone. Announced May 2014. Features 4.0″  display, Snapdragon S1 chipset, 3.15 MP primary camera, 1400 mAh battery, 512 MB storage, 256 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-kis-3.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade G2",
+      "title": "ZTE Blade G2 Android smartphone. Announced Jul 2013. Features 4.5″  display, MT6589 chipset, 5 MP primary camera, 2000 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-g2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redbull V5 V9180",
+      "title": "ZTE Redbull V5 V9180 Android smartphone. Announced Apr 2014. Features 5.0″  display, Snapdragon 400 chipset, 13 MP primary camera, 5 MP front camera, 2400 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-redbull-v5.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Star 1",
+      "title": "ZTE Star 1 Android smartphone. Announced Apr 2014. Features 5.0″  display, Snapdragon 400 chipset, 8 MP primary camera, 5 MP front camera, 2300 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-star-1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia X6",
+      "title": "ZTE nubia X6 Android smartphone. Announced Mar 2014. Features 6.44″  display, MSM8974AB chipset, 13 MP primary camera, 13 MP front camera, 4250 mAh battery, 128 GB storage, 3 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-x6-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Grand Memo II LTE",
+      "title": "ZTE Grand Memo II LTE Android smartphone. Announced Feb 2014. Features 6.0″  display, Snapdragon 400 chipset, 13 MP primary camera, 5 MP front camera, 3200 mAh battery, 16 GB storage, 2 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-grand-memo-ii-lte.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Open C",
+      "title": "ZTE Open C smartphone. Announced Feb 2014. Features 4.0″  display, Snapdragon 200 chipset, 3.15 MP primary camera, 1400 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-open-c-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Open II",
+      "title": "ZTE Open II smartphone. Announced Feb 2014. Features 3.5″  display, Snapdragon 200 chipset, 2 MP primary camera, 1150 mAh battery, 2 GB storage, 256 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-open-ii.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Iconic Phablet",
+      "title": "ZTE Iconic Phablet Android smartphone. Announced Jan 2014. Features 5.7″  display, Qualcomm chipset, 8 MP primary camera, 1 MP front camera, 3200 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-iconic-phablet.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Sonata 4G",
+      "title": "ZTE Sonata 4G Android smartphone. Announced Jan 2014. Features 4.0″  display, Snapdragon 400 chipset, 5 MP primary camera, 1780 mAh battery, 4 GB storage, 1000 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-sonata-4g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Grand S II S291",
+      "title": "ZTE Grand S II S291 Android smartphone. Announced Jan 2014. Features 5.5″  display, Snapdragon 801 chipset, 13 MP primary camera, 2 MP front camera, 3100 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-grand-s-ii.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia Z5S",
+      "title": "ZTE nubia Z5S Android smartphone. Announced Nov 2013. Features 5.0″  display, Snapdragon 800 chipset, 13 MP primary camera, 5 MP front camera, 2300 mAh battery, 32 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-z5s.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia Z5S mini NX403A",
+      "title": "ZTE nubia Z5S mini NX403A Android smartphone. Announced Nov 2013. Features 4.7″  display, Snapdragon 600 chipset, 13 MP primary camera, 5 MP front camera, 2000 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-z5s-mini.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Grand S Flex",
+      "title": "ZTE Grand S Flex Android smartphone. Announced Nov 2013. Features 5.0″  display, Snapdragon 400 chipset, 8 MP primary camera, 1 MP front camera, 2300 mAh battery, 16 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-grand-x-flex1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade Q Maxi",
+      "title": "ZTE Blade Q Maxi Android smartphone. Announced Oct 2013. Features 5.0″  display, MT6572 chipset, 5 MP primary camera, 2000 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-q-maxi.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade Q",
+      "title": "ZTE Blade Q Android smartphone. Announced Oct 2013. Features 4.5″  display, MT6572 chipset, 5 MP primary camera, 1800 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-q.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade Q Mini",
+      "title": "ZTE Blade Q Mini Android smartphone. Announced Oct 2013. Features 4.0″  display, MT6572 chipset, 5 MP primary camera, 1500 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-q-mini.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Warp 4G",
+      "title": "ZTE Warp 4G Android smartphone. Announced Sep 2013. Features 4.5″  display, Snapdragon 400 chipset, 8 MP primary camera, 1 MP front camera, 2070 mAh battery, 8 GB storage, 1000 MB RAM, Scratch-resistant glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-boost-warp-4g-n9510.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade V",
+      "title": "ZTE Blade V Android smartphone. Announced Sep 2013. Features 4.0″  display, Snapdragon S4 Play chipset, 5 MP primary camera, 1800 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-4.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade G V880G",
+      "title": "ZTE Blade G V880G Android smartphone. Announced Apr 2013. Features 4.5″  display, Snapdragon S4 Play chipset, 5 MP primary camera, 2000 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blage-g-v880g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Reef",
+      "title": "ZTE Reef Android smartphone. Announced Aug 2013. Features 4.0″  display, Snapdragon S2 chipset, 5 MP primary camera, 1 MP front camera, 2500 mAh battery, 4 GB storage, 1000 MB RAM, IPX7 certified.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-reef.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Imperial",
+      "title": "ZTE Imperial Android smartphone. Announced Jun 2013. Features 4.0″  display, 5 MP primary camera, 2500 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-imperial.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Vital N9810",
+      "title": "ZTE Vital N9810 Android smartphone. Announced Jun 2013. Features 5.0″  display, Snapdragon S4 Plus chipset, 13 MP primary camera, 1 MP front camera, 2500 mAh battery, 8 GB storage, 1000 MB RAM, Yes.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ste-vital-for-sprint.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Grand X Pro",
+      "title": "ZTE Grand X Pro Android smartphone. Announced Mar 2013. Features 4.5″  display, MT6577 chipset, 8 MP primary camera, 2000 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-grand-x-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Grand X2 In",
+      "title": "ZTE Grand X2 In Android smartphone. Announced May 2013. Features 4.5″  display, Intel Atom Z2580 chipset, 8 MP primary camera, 1 MP front camera, 2000 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-grand-x2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Grand X Quad V987",
+      "title": "ZTE Grand X Quad V987 Android smartphone. Announced Jun 2013. Features 5.0″  display, MT6589 chipset, 8 MP primary camera, 1.3 MP front camera, 2500 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-grand-x-quad-v987.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade III Pro",
+      "title": "ZTE Blade III Pro Android smartphone. Announced Apr 2013. Features 4.0″  display, Snapdragon S4 Play chipset, 5 MP primary camera, 1600 mAh battery, 4 GB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-iii-pro-ofic.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Geek V975",
+      "title": "ZTE Geek V975 Android smartphone. Announced Apr 2013. Features 5.0″  display, Intel Atom Z2580 chipset, 8 MP primary camera, 1 MP front camera, 2300 mAh battery, 16 GB storage, 2 GB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-geek.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Grand Memo V9815",
+      "title": "ZTE Grand Memo V9815 Android smartphone. Announced Feb 2013. Features 5.7″  display, Snapdragon 800 chipset, 13 MP primary camera, 1 MP front camera, 3200 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-grand-memo.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Open",
+      "title": "ZTE Open smartphone. Announced Feb 2013. Features 3.5″  display, Snapdragon S1 chipset, 3.15 MP primary camera, 1200 mAh battery, 256 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-open-ofic.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade C V807",
+      "title": "ZTE Blade C V807 Android smartphone. Announced Jan 2013. Features 4.0″  display, MT6577 chipset, 3.15 MP primary camera, 1600 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ZTE-Blade-C-V807.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Director",
+      "title": "ZTE Director Android smartphone. Announced Apr 2013. Features 3.5″  display, MSM7626A chipset, 3.15 MP primary camera, 1500 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-director.jpg",
+      "specs": ""
+    },
+    {
+      "name": "V81",
+      "title": "ZTE V81 Android tablet. Announced Jan 2013. Features 8.0″  display, Snapdragon S4 Plus chipset, 2 MP primary camera, 3700 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-v81-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Grand S",
+      "title": "ZTE Grand S Android smartphone. Announced Jan 2013. Features 5.0″  display, Snapdragon S4 Pro chipset, 13 MP primary camera, 2 MP front camera, 1780 mAh battery, 16 GB storage, 2 GB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-grand-s.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Avid 4G",
+      "title": "ZTE Avid 4G Android smartphone. Announced Dec 2012. Features 4.0″  display, 5 MP primary camera, 1730 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-avid-4g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "V889M",
+      "title": "ZTE V889M Android smartphone. Announced Nov 2012. Features 4.0″  display, MT6577 chipset, 5 MP primary camera, 1650 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-v889m.jpg",
+      "specs": ""
+    },
+    {
+      "name": "V887",
+      "title": "ZTE V887 Android smartphone. Announced Nov 2012. Features 5.0″  display, MT6577 chipset, 5 MP primary camera, 2000 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-v887.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Kis III V790",
+      "title": "ZTE Kis III V790 Android smartphone. Announced Nov 2012. Features 3.5″  display, Snapdragon S1 chipset, 2 MP primary camera, 1200 mAh battery, 512 MB storage, 256 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-v790.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Groove X501",
+      "title": "ZTE Groove X501 Android smartphone. Announced Nov 2012. Features 3.2″  display, Snapdragon S1 chipset, 3.15 MP primary camera, 1500 mAh battery, 1000 MB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-groove.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia Z5",
+      "title": "ZTE nubia Z5 Android smartphone. Announced Dec 2012. Features 5.0″  display, Snapdragon 600 chipset, 13 MP primary camera, 2 MP front camera, 2300 mAh battery, 32 GB storage, 2 GB RAM, Scratch-resistant glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-z5-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Flash",
+      "title": "ZTE Flash Android smartphone. Announced Nov 2012. Features 4.5″  display, Snapdragon S4 Plus chipset, 12.6 MP primary camera, 1 MP front camera, 1780 mAh battery, 8 GB storage, 1000 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-flash.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Anthem 4G",
+      "title": "ZTE Anthem 4G Android smartphone. Announced Sep 2012. Features 4.3″  display, Snapdragon chipset, 5 MP primary camera, 1780 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-anthem-4g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Warp Sequent",
+      "title": "ZTE Warp Sequent Android smartphone. Announced Sep 2012. Features 4.3″  display, Snapdragon S2 chipset, 5 MP primary camera, 1.3 MP front camera, 1650 mAh battery, 4 GB storage, 768 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-warp-sequent.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Grand Era U895",
+      "title": "ZTE Grand Era U895 Android smartphone. Announced Sep 2012. Features 4.5″  display, Nvidia Tegra 3 chipset, 8 MP primary camera, 1.3 MP front camera, 1800 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-grand-era-u895.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade III",
+      "title": "ZTE Blade III Android smartphone. Announced Sep 2012. Features 4.0″  display, Snapdragon S1 chipset, 5 MP primary camera, 1600 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-3.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Grand X IN",
+      "title": "ZTE Grand X IN Android smartphone. Announced Aug 2012. Features 4.3″  display, Intel XMM 6260 chipset, 8 MP primary camera, 1650 mAh battery, 16 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-grand-x-in.jpg",
+      "specs": ""
+    },
+    {
+      "name": "N880E",
+      "title": "ZTE N880E Android smartphone. Announced May 2012. Features 4.0″  display, Snapdragon S1 chipset, 3.15 MP primary camera, 1650 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-n880e.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Grand X LTE T82",
+      "title": "ZTE Grand X LTE T82 Android smartphone. Announced Jul 2012. Features 4.3″  display, Snapdragon S4 Plus chipset, 8 MP primary camera, 1.3 MP front camera, 1900 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-grand-x-lte.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Grand X V970",
+      "title": "ZTE Grand X V970 Android smartphone. Announced Feb 2012. Features 4.3″  display, Nvidia Tegra 2 chipset, 5 MP primary camera, 1600 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-mimoza-x.jpg",
+      "specs": ""
+    },
+    {
+      "name": "U880E",
+      "title": "ZTE U880E Android smartphone. Announced May 2012. Features 4.0″  display, Marvell PXA920H chipset, 5 MP primary camera, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-u880.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Score M",
+      "title": "ZTE Score M Android smartphone. Announced Mar 2012. Features 3.5″  display, 3.15 MP primary camera, 1500 mAh battery, 4 GB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-score-m.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Light Tab 300",
+      "title": "ZTE Light Tab 300 Android tablet. Announced Feb 2012. Features 7.0″  display, 5 MP primary camera, 2 MP front camera, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/thumb.jpg",
+      "specs": ""
+    },
+    {
+      "name": "V96",
+      "title": "ZTE V96 Android tablet. Announced Feb 2012. Features 10.1″  display, Snapdragon S4 Plus chipset, 5 MP primary camera, 2 MP front camera, 16 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-v96.jpg",
+      "specs": ""
+    },
+    {
+      "name": "PF 100",
+      "title": "ZTE PF 100 Android tablet. Announced Feb 2012. Features 10.1″  display, Nvidia Tegra 3 chipset, 5 MP primary camera, 2 MP front camera, 16 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-pf100.jpg",
+      "specs": ""
+    },
+    {
+      "name": "T98",
+      "title": "ZTE T98 Android tablet. Announced Feb 2012. Features 7.0″  display, Nvidia Tegra 3 chipset, 5 MP primary camera, 2 MP front camera, 16 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-t98.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Light Tab 3 V9S",
+      "title": "ZTE Light Tab 3 V9S Android tablet. Announced Feb 2012. Features 7.0″  display, Snapdragon S3 chipset, 5 MP primary camera, 2 MP front camera, 4000 mAh battery, 16 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-v9s.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Era",
+      "title": "ZTE Era Android smartphone. Announced Feb 2012. Features 4.3″  display, Nvidia Tegra 3 chipset, 8 MP primary camera, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-era.jpg",
+      "specs": ""
+    },
+    {
+      "name": "PF112 HD",
+      "title": "ZTE PF112 HD Android smartphone. Announced Feb 2012. Features 4.5″  display, 8 MP primary camera, 2 MP front camera, 1650 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-pf112-hd.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Skate Acqua",
+      "title": "ZTE Skate Acqua Android smartphone. Announced Feb 2012. Features 4.0″  display, Snapdragon S1 chipset, 5 MP primary camera, 1600 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ZTE-Skate-Acqua.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Orbit",
+      "title": "ZTE Orbit Windows Mobile smartphone. Announced Feb 2012. Features 4.0″  display, 5 MP primary camera, 1600 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-orbit.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Kis V788",
+      "title": "ZTE Kis V788 Android smartphone. Announced Feb 2012. Features 3.5″  display, 3.15 MP primary camera, 1400 mAh battery, 200 MB storage, 256 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-kis.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Raise",
+      "title": "ZTE Raise Windows Mobile smartphone. Announced  2009. Features 3.2″  display, 5 MP primary camera, 1250 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-raise.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Xiang",
+      "title": "ZTE Xiang Windows Mobile smartphone. Announced  2009. Features 2.5″  display, Snapdragon S1 chipset, 3.2 MP primary camera, 1300 mAh battery, 256 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-xiang.jpg",
+      "specs": ""
+    },
+    {
+      "name": "S302",
+      "title": "ZTE S302 phone. Announced  2009. Features Monochrome graphic display, 1000 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-s302.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A261",
+      "title": "ZTE A261 phone. Announced  2009. Features CSTN, 65K colors display.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ZTE-A261.jpg",
+      "specs": ""
+    },
+    {
+      "name": "F233",
+      "title": "ZTE F233 phone. Announced  2009. Features 2.0″  display, 2 MP primary camera, 830 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-f233.jpg",
+      "specs": ""
+    },
+    {
+      "name": "F912",
+      "title": "ZTE F912 phone. Announced Jan 2008. Features 2.2″  display, 2 MP primary camera, 1000 mAh battery, 60 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-f912.jpg",
+      "specs": ""
+    },
+    {
+      "name": "F952",
+      "title": "ZTE F952 phone. Announced  2009. Features 3.2″  display, 5 MP primary camera, 1250 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-f952.jpg",
+      "specs": ""
+    },
+    {
+      "name": "F928",
+      "title": "ZTE F928 phone. Announced Sep 2008. Features TFT, 65K colors display, 2 MP primary camera, 900 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-f928.jpg",
+      "specs": ""
+    },
+    {
+      "name": "F870",
+      "title": "ZTE F870 phone. Announced  2009. Features 3.2″  display, 5 MP primary camera, 1250 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-f870.jpg",
+      "specs": ""
+    },
+    {
+      "name": "F600",
+      "title": "ZTE F600 phone. Announced  2009. Features 2.4″  display, 3.15 MP primary camera, 800 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-f600.jpg",
+      "specs": ""
+    },
+    {
+      "name": "F103",
+      "title": "ZTE F103 phone. Announced  2009. Features 2.0″  display, 2 MP primary camera, 1000 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-f103.jpg",
+      "specs": ""
+    },
+    {
+      "name": "F101",
+      "title": "ZTE F101 phone. Announced  2009. Features 2.0″  display, 2 MP primary camera, 1000 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-f101.jpg",
+      "specs": ""
+    },
+    {
+      "name": "F100",
+      "title": "ZTE F100 phone. Announced  2009. Features 2.0″  display, 2 MP primary camera, 1000 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-f100.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Coral200 Sollar",
+      "title": "ZTE Coral200 Sollar phone. Announced May 2007. Features CSTN, 65K colors display, 690 mAh battery, 4 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-coral200-sollar.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade V20",
+      "title": "ZTE Blade V20 Android smartphone. Not announced yet. Features 6.1″  display, 5000 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/smartphone.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia X 5G",
+      "title": "ZTE nubia X 5G Android smartphone. Not announced yet. Features 6.26″  display, Snapdragon 855 chipset, 3800 mAh battery, 512 GB storage, 8 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-x.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia Z17 mini",
+      "title": "ZTE nubia Z17 mini Android smartphone. Announced Apr 2017. Features 5.2″  display, Snapdragon 652 chipset, Dual: 13 MP (f/2.2, 1/3″, 1.12µm, PDAF) + 2 MP primary camera, 16 MP front camera, 2950 mAh battery, 64 GB storage, 6 GB RAM, Corning Gorilla Glass (unspecified version).",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-z17-mini.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade A520",
+      "title": "ZTE Blade A520 Android smartphone. Announced Mar 2017. Features 5.0″  display, MT6737 chipset, 8 MP primary camera, 8 MP or 2 MP front camera, 2400 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-a520.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia N1 lite",
+      "title": "ZTE nubia N1 lite Android smartphone. Announced Feb 2017. Features 5.5″  display, MT6737 chipset, 8 MP primary camera, 5 MP front camera, 3000 mAh battery, 16 GB storage, 2 GB RAM, To be confirmed.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nubia-n1-lite.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade V8 Mini",
+      "title": "ZTE Blade V8 Mini Android smartphone. Announced Feb 2017. Features 5.0″  display, Snapdragon 435 chipset, Dual: 13 MP (AF) + 2 MP primary camera, 5 MP front camera, 2800 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-v8-mini.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade V8 Lite",
+      "title": "ZTE Blade V8 Lite Android smartphone. Announced Feb 2017. Features 5.0″  display, MT6750 chipset, 8 MP primary camera, 5 MP front camera, 2500 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-v8-lite-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade A2 Plus",
+      "title": "ZTE Blade A2 Plus Android smartphone. Announced Feb 2017. Features 5.5″  display, MT6750T chipset, 13 MP primary camera, 8 MP front camera, 5000 mAh battery, 32 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-a2-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Hawkeye",
+      "title": "ZTE Hawkeye Android smartphone. Announced Jan 2017. Features 5.5″  display, Snapdragon 625 chipset, Dual: 13 MP + 12 MP primary camera, 8 MP front camera, 3000 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-hawkeye-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade V8 Pro",
+      "title": "ZTE Blade V8 Pro Android smartphone. Announced Jan 2017. Features 5.5″  display, Snapdragon 625 chipset, Dual: 13 MP (AF) + 2 MP primary camera, 8 MP front camera, 3140 mAh battery, 32 GB storage, 3 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-v8-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade V8",
+      "title": "ZTE Blade V8 Android smartphone. Announced Jan 2017. Features 5.2″  display, Snapdragon 435 chipset, Dual: 13 MP (AF) + 2 MP primary camera, 13 MP front camera, 2730 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-balde-v8-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Axon 7 Max",
+      "title": "ZTE Axon 7 Max Android smartphone. Announced Oct 2016. Features 6.0″  display, Snapdragon 625 chipset, Dual: 13 MP primary camera, 13 MP front camera, 4100 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-axon7-max.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Grand X4",
+      "title": "ZTE Grand X4 Android smartphone. Announced Sep 2016. Features 5.5″  display, Snapdragon 425 chipset, 13 MP primary camera, 5 MP front camera, 3140 mAh battery, 16 GB storage, 2 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-grand-x4-z596.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade V7 Max",
+      "title": "ZTE Blade V7 Max Android smartphone. Announced Apr 2016. Features 5.5″  display, 16 MP primary camera, 8 MP front camera, 3000 mAh battery, 32 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-v7max.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia Z11 mini S",
+      "title": "ZTE nubia Z11 mini S Android smartphone. Announced Oct 2016. Features 5.2″  display, Snapdragon 625 chipset, 23 MP primary camera, 13 MP front camera, 3000 mAh battery, 128 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-z11-mini-r1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Axon 7 mini",
+      "title": "ZTE Axon 7 mini Android smartphone. Announced Sep 2016. Features 5.2″  display, Snapdragon 617 chipset, 16 MP primary camera, 8 MP front camera, 2705 mAh battery, 32 GB storage, 3 GB RAM, Corning Gorilla Glass 4.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-axon-7-mini.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Warp 7",
+      "title": "ZTE Warp 7 Android smartphone. Announced Aug 2016. Features 5.5″  display, 13 MP primary camera, 5 MP front camera, 3000 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-warp-7.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Zmax Pro",
+      "title": "ZTE Zmax Pro Android smartphone. Announced Jul 2016. Features 6.0″  display, Snapdragon 617 chipset, 13 MP primary camera, 5 MP front camera, 3400 mAh battery, 32 GB storage, 2 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-zmax-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia N1",
+      "title": "ZTE nubia N1 Android smartphone. Announced Jul 2016. Features 5.5″  display, MT6755 Helio P10 chipset, 13 MP primary camera, 13 MP front camera, 5000 mAh battery, 64 GB storage, 3 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-n1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia Z11 Max",
+      "title": "ZTE nubia Z11 Max Android smartphone. Announced Jun 2016. Features 6.0″  display, Snapdragon 652 chipset, 16 MP primary camera, 8 MP front camera, 4000 mAh battery, 64 GB storage, 4 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-z11-max.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Axon 7",
+      "title": "ZTE Axon 7 Android smartphone. Announced May 2016. Features 5.5″  display, Snapdragon 820 chipset, 20 MP primary camera, 8 MP front camera, 3250 mAh battery, 64 GB storage, 4 GB RAM, Corning Gorilla Glass 4.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-axon-7.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia Z11",
+      "title": "ZTE nubia Z11 Android smartphone. Announced Jun 2016. Features 5.5″  display, Snapdragon 820 chipset, 16 MP primary camera, 8 MP front camera, 3000 mAh battery, 64 GB storage, 6 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-z11-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade L110 (A110)",
+      "title": "ZTE Blade L110 (A110) Android smartphone. Announced Jul 2016. Features 4.0″  display, Spreadtrum SC7731G chipset, 5 MP primary camera, 2 MP front camera, 1400 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-l110.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Grand X Max 2",
+      "title": "ZTE Grand X Max 2 Android smartphone. Announced May 2016. Features 6.0″  display, Snapdragon 617 chipset, Dual: 13 MP (AF) + 2 MP primary camera, 5 MP front camera, 3400 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-grand-x-max-2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia Z11 mini",
+      "title": "ZTE nubia Z11 mini Android smartphone. Announced Apr 2016. Features 5.0″  display, Snapdragon 617 chipset, 16 MP primary camera, 8 MP front camera, 2800 mAh battery, 64 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-z11-mini.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade L5 Plus",
+      "title": "ZTE Blade L5 Plus Android smartphone. Announced Apr 2016. Features 5.0″  display, MT6580 chipset, 8 MP primary camera, 2 MP front camera, 2150 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-l5-plus-r.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade V Plus",
+      "title": "ZTE Blade V Plus Android smartphone. Announced Jan 2016. Features 5.5″  display, MT6753 chipset, 13 MP primary camera, 5 MP front camera, 3000 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-v-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade A610",
+      "title": "ZTE Blade A610 Android smartphone. Announced Aug 2016. Features 5.0″  display, MT6735 chipset, 8 MP primary camera, 5 MP front camera, 4000 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-a610.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade A512",
+      "title": "ZTE Blade A512 Android smartphone. Announced Jul 2016. Features 5.2″  display, Snapdragon 425 chipset, 13 MP primary camera, 5 MP front camera, 2540 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-a512.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade A452",
+      "title": "ZTE Blade A452 Android smartphone. Announced Q1 2016. Features 5.0″  display, MT6735P chipset, 8 MP primary camera, 5 MP front camera, 4000 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-a452.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade V7",
+      "title": "ZTE Blade V7 Android smartphone. Announced Feb 2016. Features 5.2″  display, MT6753 chipset, 13 MP primary camera, 5 MP front camera, 2500 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-v7.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade A910",
+      "title": "ZTE Blade A910 Android smartphone. Announced Apr 2016. Features 5.5″  display, MT6735 chipset, 13 MP primary camera, 8 MP front camera, 2540 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-a910.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade A2",
+      "title": "ZTE Blade A2 Android smartphone. Announced Jun 2016. Features 5.0″  display, MT6750 chipset, 13 MP primary camera, 5 MP front camera, 2500 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-v7-lite.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade V7 Lite",
+      "title": "ZTE Blade V7 Lite Android smartphone. Announced Feb 2016. Features 5.0″  display, MT6735P chipset, 13 MP primary camera, 8 MP front camera, 2500 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-v7-lite.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Axon Max",
+      "title": "ZTE Axon Max Android smartphone. Announced Dec 2015. Features 6.0″  display, Snapdragon 617 chipset, 16 MP primary camera, 13 MP front camera, 4140 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-axon-max.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia Prague S",
+      "title": "ZTE nubia Prague S Android smartphone. Announced Jan 2016. Features 5.2″  display, Snapdragon 615 chipset, 13 MP primary camera, 8 MP front camera, 2200 mAh battery, 64 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-prague-s1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Grand X 3",
+      "title": "ZTE Grand X 3 Android smartphone. Announced Jan 2016. Features 5.5″  display, Snapdragon 210 chipset, 8 MP primary camera, 2 MP front camera, 3080 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-grand-x-3.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Avid Plus",
+      "title": "ZTE Avid Plus Android smartphone. Announced Jan 2016. Features 5.0″  display, Snapdragon 210 chipset, 5 MP primary camera, 2 MP front camera, 2300 mAh battery, 8 GB storage, 1000 MB RAM, Asahi Dragontrail Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-avid-plus1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade X9",
+      "title": "ZTE Blade X9 Android smartphone. Announced Nov 2015. Features 5.5″  display, Snapdragon 615 chipset, 13 MP primary camera, 5 MP front camera, 3000 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-x9.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade X5",
+      "title": "ZTE Blade X5 Android smartphone. Announced Nov 2015. Features 5.0″  display, 13 MP primary camera, 8 MP front camera, 2400 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-x5.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade X3",
+      "title": "ZTE Blade X3 Android smartphone. Announced Nov 2015. Features 5.0″  display, MT6735P chipset, 8 MP primary camera, 5 MP or 2 MP front camera, 4000 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-x3.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Axon Watch",
+      "title": "ZTE Axon Watch watch. Announced Jul 2015. Features 1.4″  display, Snapdragon 400 chipset, 300 mAh battery, 4 GB storage, 512 MB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-axon-watch.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Axon",
+      "title": "ZTE Axon Android smartphone. Announced Oct 2015. Features 5.5″  display, Snapdragon 801 chipset, Dual: 13 MP (AF) + 2 MP primary camera, 8 MP front camera, 3000 mAh battery, 32 GB storage, 2 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-axon-pro-r.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade S7",
+      "title": "ZTE Blade S7 Android smartphone. Announced Oct 2015. Features 5.0″  display, Snapdragon 615 chipset, 13 MP primary camera, 13 MP front camera, 2500 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-s7--.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Axon mini",
+      "title": "ZTE Axon mini Android smartphone. Announced Oct 2015. Features 5.2″  display, Snapdragon 616 chipset, 13 MP primary camera, 8 MP front camera, 2800 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-axon-mini.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Zmax 2",
+      "title": "ZTE Zmax 2 Android smartphone. Announced Sep 2015. Features 5.5″  display, Snapdragon 410 chipset, 8 MP primary camera, 2 MP front camera, 3000 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-zmax2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Axon Elite",
+      "title": "ZTE Axon Elite Android smartphone. Announced Sep 2015. Features 5.5″  display, Snapdragon 810 chipset, Dual: 13 MP (PDAF) + 2 MP primary camera, 8 MP front camera, 3000 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-axon-elite-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia My Prague",
+      "title": "ZTE nubia My Prague Android smartphone. Announced Jun 2015. Features 5.2″  display, Snapdragon 615 chipset, 13 MP primary camera, 8 MP front camera, 2200 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-my-prague.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Axon Lux",
+      "title": "ZTE Axon Lux Android smartphone. Announced Jul 2015. Features 5.5″  display, Snapdragon 810 chipset, Dual: 13 MP (PDAF) + 2 MP primary camera, 8 MP front camera, 3000 mAh battery, 128 MB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-axon-lux.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Boost Max+",
+      "title": "ZTE Boost Max+ Android smartphone. Announced Jul 2015. Features 5.7″  display, 8 MP primary camera, 1 MP front camera, 3400 mAh battery, 16 GB storage, 2 GB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-boost-max-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade A460",
+      "title": "ZTE Blade A460 Android smartphone. Announced Jun 2015. Features 5.0″  display, Snapdragon 210 chipset, 5 MP primary camera, 2 MP front camera, 2200 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-a460.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade D6",
+      "title": "ZTE Blade D6 Android smartphone. Announced Jul 2015. Features 5.0″  display, MT6735 chipset, 13 MP primary camera, 5 MP front camera, 2200 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-d6.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade A31 Lite",
+      "title": "ZTE Blade A31 Lite Android smartphone. Announced Jun 2021. Features 5.0″  display, Unisoc SC9832E chipset, 2000 mAh battery, 32 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-a31-lite.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade A51",
+      "title": "ZTE Blade A51 Android smartphone. Announced May 2021. Features 6.52″  display, Unisoc SC9863A chipset, 3200 mAh battery, 64 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-a51.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade L9",
+      "title": "ZTE Blade L9 Android smartphone. Announced Oct 2021. Features 5.0″  display, Unisoc SC7731e chipset, 2000 mAh battery, 32 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-l9.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia RedMagic 6s Pro",
+      "title": "ZTE nubia Red Magic 6s Pro Android smartphone. Announced Sep 2021. Features 6.8″  display, Snapdragon 888+ 5G chipset, 5050 mAh battery, 512 GB storage, 18 GB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-red-magic-6s-pro-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia RedMagic 6s",
+      "title": "ZTE nubia Red Magic 6s Android smartphone. Announced Sep 2021. Features 6.8″  display, Snapdragon 888+ 5G chipset, 5050 mAh battery, 256 GB storage, 16 GB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-red-magic-6s-pro-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Axon 30 5G",
+      "title": "ZTE Axon 30 5G Android smartphone. Announced Jul 2021. Features 6.92″  display, Snapdragon 870 5G chipset, 4200 mAh battery, 256 GB storage, 12 GB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-axon30-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade V30 Vita",
+      "title": "ZTE Blade V30 Vita Android smartphone. Announced Jul 2021. Features 6.82″  display, 5000 mAh battery, 128 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-v30-vita.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade V30",
+      "title": "ZTE Blade V30 Android smartphone. Announced Jul 2021. Features 6.67″  display, Unisoc Tiger T618 chipset, 5000 mAh battery, 128 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-v30-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia RedMagic 6R",
+      "title": "ZTE nubia Red Magic 6R Android smartphone. Announced May 2021. Features 6.67″  display, Snapdragon 888 5G chipset, 4200 mAh battery, 256 GB storage, 12 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-red-magic-6r-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia Z30 Pro",
+      "title": "ZTE nubia Z30 Pro Android smartphone. Announced May 2021. Features 6.67″  display, Snapdragon 888 5G chipset, 4200 mAh battery, 512 GB storage, 16 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-z30-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade 11 Prime",
+      "title": "ZTE Blade 11 Prime Android smartphone. Announced Apr 2021. Features 6.52″  display, MT6762 Helio P22 chipset, 4000 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-11-prime.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Axon 30 Ultra 5G",
+      "title": "ZTE Axon 30 Ultra 5G Android smartphone. Announced Apr 2021. Features 6.67″  display, Snapdragon 888 5G chipset, 4600 mAh battery, 1024 GB storage, 18 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-axon-30-ultra.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Axon 30 Pro 5G",
+      "title": "ZTE Axon 30 Pro 5G Android smartphone. Announced Apr 2021. Features 6.67″  display, Snapdragon 888 5G chipset, 4200 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-axon-30-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "S30 Pro",
+      "title": "ZTE S30 Pro Android smartphone. Announced Mar 2021. Features 6.67″  display, Snapdragon 768G 5G chipset, 4200 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-s30-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "S30",
+      "title": "ZTE S30 Android smartphone. Announced Mar 2021. Features 6.67″  display, Snapdragon 720G chipset, 4000 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-s30.jpg",
+      "specs": ""
+    },
+    {
+      "name": "S30 SE",
+      "title": "ZTE S30 SE Android smartphone. Announced Mar 2021. Features 6.67″  display, Dimensity 700 chipset, 6000 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-s30-se.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia RedMagic 6 Pro",
+      "title": "ZTE nubia Red Magic 6 Pro Android smartphone. Announced Mar 2021. Features 6.8″  display, Snapdragon 888 5G chipset, 5050 mAh battery, 512 GB storage, 18 GB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-red-magic-6-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia RedMagic 6",
+      "title": "ZTE nubia Red Magic 6 Android smartphone. Announced Mar 2021. Features 6.8″  display, Snapdragon 888 5G chipset, 5050 mAh battery, 256 GB storage, 12 GB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-red-magic-6.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Watch GT",
+      "title": "ZTE Watch GT watch. Announced Mar 2021. Features 1.39″  display, 420 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-watch-gt.jpg",
+      "specs": ""
+    },
+    {
+      "name": "RedMagic Watch",
+      "title": "ZTE Red Magic Watch watch. Announced Mar 2021. Features 1.39″  display, 420 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-red-magic-watch.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Link II",
+      "title": "ZTE Link II smartphone. Announced Feb 2021. Features 2.8″  display, Snapdragon 215 chipset, 1600 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-linkii.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade X1 5G",
+      "title": "ZTE Blade X1 5G Android smartphone. Announced Jan 2021. Features 6.5″  display, Snapdragon 765G 5G chipset, 4000 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-x1-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade 20 Pro 5G",
+      "title": "ZTE Blade 20 Pro 5G Android smartphone. Announced Nov 2020. Features 6.47″  display, Snapdragon 765G 5G chipset, 4000 mAh battery, 128 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-20-pro-5g-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Cymbal U",
+      "title": "ZTE Cymbal U smartphone. Announced Jan 2021. Features 2.8″  display, Snapdragon 215 chipset, 1600 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-cymbalu.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade V2020 5G",
+      "title": "ZTE Blade V2020 5G Android smartphone. Announced Oct 2020. Features 6.53″  display, Dimensity 800 chipset, 4000 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-20-pro-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Watch Live",
+      "title": "ZTE Watch Live watch. Announced Nov 2020. Features 1.3″  display.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-watch.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade A7s 2020",
+      "title": "ZTE Blade A7s 2020 Android smartphone. Announced Nov 2020. Features 6.5″  display, Unisoc SC9863A chipset, 4000 mAh battery, 64 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-a7s-2020-optus-x-pro-telstra-evoke-plus-2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade 20 5G",
+      "title": "ZTE Blade 20 5G Android smartphone. Announced Nov 2020. Features 6.52″  display, Dimensity 720 chipset, 4000 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-20-5g-r1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade A3Y",
+      "title": "ZTE Blade A3Y Android smartphone. Announced Oct 2020. Features 5.5″  display, MT6761 Helio A22 chipset, 2660 mAh battery, 32 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-a3y.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade A5 2020",
+      "title": "ZTE Blade A5 2020 Android smartphone. Announced Jul 2020. Features 6.09″  display, Unisoc SC9863A chipset, 3200 mAh battery, 64 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-a5-2020.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Axon 20 5G Extreme",
+      "title": "ZTE Axon 20 5G Extreme Android smartphone. Announced Dec 2020. Features 6.92″  display, Snapdragon 765G 5G chipset, 4220 mAh battery, 256 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-axon-20-5g-extreme-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Axon 20 5G",
+      "title": "ZTE Axon 20 5G Android smartphone. Announced Sep 2020. Features 6.92″  display, Snapdragon 765G 5G chipset, 4220 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-axon-20-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Axon 20 4G",
+      "title": "ZTE Axon 20 4G Android smartphone. Announced Nov 2020. Features 6.92″  display, Unisoc UMS512T chipset, 4220 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-axon-20-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Quest 5",
+      "title": "ZTE Quest 5 Android smartphone. Announced Aug 2020. Features 5.0″  display, MT6739 chipset, 2000 mAh battery, 16 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-quest5.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Gabb Z2",
+      "title": "ZTE Gabb Z2 Android smartphone. Announced Aug 2020. Features 5.45″  display, MT6761 Helio A22 chipset, 2650 mAh battery, 32 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-gabbz2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia Watch",
+      "title": "ZTE nubia Watch watch. Announced Jul 2020. Features 4.01″  display, Snapdragon Wear 2100 chipset, 420 mAh battery, 8 GB storage, 1000 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-watch.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia RedMagic 5S",
+      "title": "ZTE nubia Red Magic 5S Android smartphone. Announced Jul 2020. Features 6.65″  display, Snapdragon 865 5G chipset, 4500 mAh battery, 256 GB storage, 16 GB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-red-magic-5s.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Avid 579",
+      "title": "ZTE Avid 579 Android smartphone. Announced Jun 2020. Features 5.45″  display, MT6761D Helio A20 chipset, 2660 mAh battery, 32 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-avid5791.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia RedMagic 5G Lite",
+      "title": "ZTE nubia Red Magic 5G Lite Android smartphone. Announced Jun 2020. Features 6.65″  display, Snapdragon 765G 5G chipset, 5100 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-play.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Axon 11 SE 5G",
+      "title": "ZTE Axon 11 SE 5G Android smartphone. Announced Jun 2020. Features 6.53″  display, Dimensity 800 chipset, 4000 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-axon-11-se-5g1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade A3 Joy",
+      "title": "ZTE Blade A3 Joy Android smartphone. Announced Jun 2020. Features 5.5″  display, MT6761D Helio A20 chipset, 2650 mAh battery, 32 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-a3-joy.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade A3 Prime",
+      "title": "ZTE Blade A3 Prime Android smartphone. Announced Jun 2020. Features 5.45″  display, MT6761 Helio A22 chipset, 2660 mAh battery, 32 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-a3-prime.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia Play",
+      "title": "ZTE nubia Play Android smartphone. Announced Apr 2020. Features 6.65″  display, Snapdragon 765G 5G chipset, 5100 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-play.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Axon 11 4G",
+      "title": "ZTE Axon 11 4G Android smartphone. Announced Jun 2020. Features 6.47″  display, MT6771 Helio P70 chipset, 4000 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-axon-11-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Axon 11 5G",
+      "title": "ZTE Axon 11 5G Android smartphone. Announced Mar 2020. Features 6.47″  display, Snapdragon 765G 5G chipset, 4000 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-axon-11-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "nubia RedMagic 5G",
+      "title": "ZTE nubia Red Magic 5G Android smartphone. Announced Mar 2020. Features 6.65″  display, Snapdragon 865 5G chipset, 4500 mAh battery, 256 GB storage, 16 GB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-red-magic-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Axon 10s Pro 5G",
+      "title": "ZTE Axon 10s Pro 5G Android smartphone. Announced Feb 2020. Features 6.47″  display, Snapdragon 865 5G chipset, 4000 mAh battery, 256 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-axon-10s-pro-5g-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Cymbal 2",
+      "title": "ZTE Cymbal 2 smartphone. Announced Jan 2020. Features 2.8″  display, Snapdragon 215 chipset, 1600 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-cymbal2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade Max View",
+      "title": "ZTE Blade Max View Android smartphone. Announced  2019. Features 6.0″  display, Snapdragon 435 chipset, 4000 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-max-view-610dl.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade A7 Prime",
+      "title": "ZTE Blade A7 Prime Android smartphone. Announced Nov 2019. Features 6.09″  display, MT6761 Helio A22 chipset, 3200 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-a7-prime.jpg",
+      "specs": ""
+    },
+    {
+      "name": "V880E",
+      "title": "ZTE V880E Android smartphone. Announced Feb 2012. Features 4.0″  display, 5 MP primary camera, 1650 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-v880e.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Nova 3.5",
+      "title": "ZTE Nova 3.5 Android smartphone. Announced Feb 2012. Features 3.5″  display, 3.15 MP primary camera, 256 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nova-35.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Nova 4 V8000",
+      "title": "ZTE Nova 4 V8000 Android smartphone. Announced Feb 2012. Features 4.0″  display, Snapdragon S2 chipset, 8 MP primary camera, 1900 mAh battery, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nova-35.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Nova Messenger",
+      "title": "ZTE Nova Messenger phone. Announced Feb 2012. Features 2.0″  display, 3.15 MP primary camera, 256 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nova-messenger.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Style Q",
+      "title": "ZTE Style Q Android smartphone. Announced  2012. Features 2.8″  display, 3.15 MP primary camera.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-style-q.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Style Messanger",
+      "title": "ZTE Style Messanger phone. Announced Feb 2012. Features 2.4″  display, 2 MP primary camera.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-style-messenger.jpg",
+      "specs": ""
+    },
+    {
+      "name": "V875",
+      "title": "ZTE V875 Android smartphone. Announced Feb 2012. Features 3.2″  display, 3.15 MP primary camera.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-v875.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade II V880+",
+      "title": "ZTE Blade II V880+ Android smartphone. Announced Feb 2012. Features 3.5″  display, Snapdragon S1 chipset, 5 MP primary camera, 1200 mAh battery, 200 MB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-ii.jpg",
+      "specs": ""
+    },
+    {
+      "name": "N910",
+      "title": "ZTE N910 Android smartphone. Announced Feb 2012. Features IPS LCD display, 5 MP primary camera, 2 MP front camera.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-n910.jpg",
+      "specs": ""
+    },
+    {
+      "name": "PF200",
+      "title": "ZTE PF200 Android smartphone. Announced Feb 2012. Features 4.3″  display, 8 MP primary camera, 2 MP front camera.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-pf200.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Optik",
+      "title": "ZTE Optik Android tablet. Announced Feb 2012. Features 7.0″  display, Snapdragon S3 chipset, 5 MP primary camera, 2 MP front camera, 4000 mAh battery, 16 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-optik.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Light Tab 2 V9A",
+      "title": "ZTE Light Tab 2 V9A Android tablet. Announced Dec 2011. Features 7.0″  display, Snapdragon S2 chipset, 3.2 MP primary camera, 3400 mAh battery, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-light-tab-2-v9a-ofic.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Light Tab V9C",
+      "title": "ZTE Light Tab V9C Android tablet. Announced Nov 2011. Features 7.0″  display, 2 MP primary camera, 3400 mAh battery, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-light-tab-v9c.jpg",
+      "specs": ""
+    },
+    {
+      "name": "FTV Phone",
+      "title": "ZTE FTV Phone Android smartphone. Announced Nov 2011. Features 3.5″  display, Snapdragon S1 chipset, 3.15 MP primary camera, 1250 mAh battery, 150 MB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-ftv-phone.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Chorus",
+      "title": "ZTE Chorus phone. Announced Nov 2011. Features 3.2″  display, 2 MP primary camera, 1000 mAh battery, 512 MB storage, 256 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-chorus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Memo",
+      "title": "ZTE Memo phone. Announced Oct 2011. Features 2.4″  display, 2 MP primary camera, 1150 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-memo.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Tania",
+      "title": "ZTE Tania Windows Mobile smartphone. Announced Sep 2011. Features 4.3″  display, Snapdragon S2 chipset, 5 MP primary camera, 1400 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-tania.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Warp",
+      "title": "ZTE Warp Android smartphone. Announced Sep 2011. Features 4.3″  display, Snapdragon S2 chipset, 5 MP primary camera, 1600 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-warp.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Score",
+      "title": "ZTE Score Android smartphone. Announced Sep 2011. Features 3.5″  display, 3.15 MP primary camera, 1200 mAh battery, 512 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-score.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Avail",
+      "title": "ZTE Avail Android smartphone. Announced Oct 2011. Features 3.5″  display, 5 MP primary camera, 1800 mAh battery, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-avail.jpg",
+      "specs": ""
+    },
+    {
+      "name": "V9+",
+      "title": "ZTE V9+ Android tablet. Announced Feb 2011. Features 7.0″  display, Snapdragon S2 chipset, 5 MP primary camera, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-v9-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "V9",
+      "title": "ZTE V9 Android tablet. Announced Oct 2010. Features 7.0″  display, 3.15 MP primary camera, 3400 mAh battery, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-v9.jpg",
+      "specs": ""
+    },
+    {
+      "name": "N721",
+      "title": "ZTE N721 Android smartphone. Announced  2011. Features 2.8″  display, 2 MP primary camera, 1100 mAh battery, 150 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-n721.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Skate",
+      "title": "ZTE Skate Android smartphone. Announced Feb 2011. Features 4.3″  display, 5 MP primary camera, 1400 mAh battery, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-skate.jpg",
+      "specs": ""
+    },
+    {
+      "name": "V821",
+      "title": "ZTE V821 Android smartphone. Announced Jun 2011. Features TFT resistive touchscreen, 65K colors display, MT6516 chipset, 2 MP primary camera, 256 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ZTE-V821.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Amigo",
+      "title": "ZTE Amigo Android smartphone. Announced Feb 2011. Features 3.2″  display, 3.15 MP primary camera.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-amigo.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Racer II",
+      "title": "ZTE Racer II Android smartphone. Announced Aug 2011. Features 2.8″  display, 3.15 MP primary camera, 1100 mAh battery, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-racer-ii.jpg",
+      "specs": ""
+    },
+    {
+      "name": "U900",
+      "title": "ZTE U900 Android smartphone. Announced Feb 2011. Features 3.5″  display, 3.15 MP primary camera.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-u900.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Libra",
+      "title": "ZTE Libra Android smartphone. Announced Feb 2011. Features 3.5″  display, Snapdragon S1 chipset, 3.15 MP primary camera.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-libra.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Rio",
+      "title": "ZTE Rio phone. Announced  2011. Features 2.4″  display, 2 MP primary camera, 1 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-rio.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Blade",
+      "title": "ZTE Blade Android smartphone. Announced Oct 2010. Features 3.5″  display, Snapdragon S1 chipset, 3.15 MP primary camera, 1250 mAh battery, 150 MB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Sage",
+      "title": "ZTE Sage phone. Announced  2010. Features TFT resistive touchscreen, 65K colors display, 1.3 MP primary camera, 10 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-sage-orange-lisbon.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X990D",
+      "title": "ZTE X990D phone. Announced  2010. Features 2.5″  display, 2 MP primary camera.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-x990d.jpg",
+      "specs": ""
+    },
+    {
+      "name": "N290",
+      "title": "ZTE N290 phone. Announced  2010. Features 3.2″  display, 3.2 MP primary camera, 2 MP front camera, 1500 mAh battery, 20 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-n290.jpg",
+      "specs": ""
+    },
+    {
+      "name": "N280",
+      "title": "ZTE N280 phone. Announced  2010. Features 2.8″  display, 32 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-n280.jpg",
+      "specs": ""
+    },
+    {
+      "name": "R230",
+      "title": "ZTE R230 phone. Announced  2010. Features 1.8″  display, 1.3 MP primary camera, 720 mAh battery, 10 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-r230.jpg",
+      "specs": ""
+    },
+    {
+      "name": "R228 Dual SIM",
+      "title": "ZTE R228 Dual SIM phone. Announced May 2011. Features 2.0″  display, 1.3 MP primary camera, 1000 mAh battery, 2 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ZTE-G-R228.jpg",
+      "specs": ""
+    },
+    {
+      "name": "R228",
+      "title": "ZTE R228 phone. Announced May 2011. Features 2.0″  display, 1.3 MP primary camera, 700 mAh battery, 2 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ZTE-G-R228.jpg",
+      "specs": ""
+    },
+    {
+      "name": "R221",
+      "title": "ZTE R221 phone. Announced  2010. Features 1.8″  display, 1000 mAh battery, 5 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-r221.jpg",
+      "specs": ""
+    },
+    {
+      "name": "R220",
+      "title": "ZTE R220 phone. Announced  2009. Features 1.8″  display, 720 mAh battery, 10 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-r220.jpg",
+      "specs": ""
+    },
+    {
+      "name": "S213",
+      "title": "ZTE S213 phone. Announced Oct 2010. Features 1.5″  display, 650 mAh battery, 64 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-s213.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Salute F350",
+      "title": "ZTE Salute F350 phone. Announced Aug 2010. Features 2.4″  display, 1.3 MP primary camera.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/verizon-wireless-salute.jpg",
+      "specs": ""
+    },
+    {
+      "name": "F107",
+      "title": "ZTE F107 phone. Announced  2010. Features 2.0″  display, 2 MP primary camera, 35 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-f107.jpg",
+      "specs": ""
+    },
+    {
+      "name": "E N72",
+      "title": "ZTE E N72 Windows Mobile smartphone. Announced Aug 2010. Features 2.5″  display, 3.15 MP primary camera, 1300 mAh battery, 100 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ZTE-E-N72.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Racer",
+      "title": "ZTE Racer Android smartphone. Announced Jul 2010. Features 2.8″  display, Snapdragon S1 chipset, 3.15 MP primary camera, 1100 mAh battery, 256 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-racer.jpg",
+      "specs": ""
+    },
+    {
+      "name": "F951",
+      "title": "ZTE F951 phone. Announced  2010. Features 3.2″  display, 5 MP primary camera, 1250 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ZTE-U-F951.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X990",
+      "title": "ZTE X990 Windows Mobile smartphone. Announced Mar 2010. Features 2.5″  display, 2 MP primary camera, 5 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-x990.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Bingo",
+      "title": "ZTE Bingo phone. Announced Feb 2010. Features 3.2″  display, 5 MP primary camera.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-bingo.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X760",
+      "title": "ZTE X760 phone. Announced Mar 2009. Features 2.4″  display, 1.3 MP primary camera.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-x760.jpg",
+      "specs": ""
+    },
+    {
+      "name": "E811",
+      "title": "ZTE E811 phone. Announced  2009. Features 2.5″  display, 2 MP primary camera.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-e811.jpg",
+      "specs": ""
+    }
+  ]
+}

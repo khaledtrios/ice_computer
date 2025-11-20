@@ -1,0 +1,571 @@
+{
+  "scrape_date": "2025-10-08T17:52:52.400288",
+  "total_phones": 94,
+  "source": "https://www.gsmarena.com/oneplus-phones-95.php",
+  "phones": [
+    {
+      "name": "Nord 5",
+      "title": "OnePlus Nord 5 5G Android smartphone. Announced Jul 2025. Features 6.83″  display, Snapdragon 8s Gen 3 chipset, 6800 mAh battery, 512 GB storage, 12 GB RAM, Corning Gorilla Glass 7i.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-nord5.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Nord CE5",
+      "title": "OnePlus Nord CE5 5G Android smartphone. Announced Jul 2025. Features 6.77″  display, Dimensity 8350 Apex chipset, 5200 mAh battery, 256 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-nord-ce5.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Watch 3 43mm",
+      "title": "OnePlus Watch 3 43mm watch. Announced Jul 2025. Features 1.32″  display, Snapdragon W5 Gen 1 chipset, 354 mAh battery, 32 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-watch3-43mm.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pad Lite",
+      "title": "OnePlus Pad Lite Android tablet. Announced Jul 2025. Features 11.0″  display, Helio G100 chipset, 9340 mAh battery, 128 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-pad-lite.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pad 3",
+      "title": "OnePlus Pad 3 (global) Android tablet. Announced Jun 2025. Features 13.2″  display, Snapdragon 8 Elite chipset, 12140 mAh battery, 512 GB storage, 16 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-pad-2-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "13s",
+      "title": "OnePlus 13S 5G Android smartphone. Announced Jun 2025. Features 6.32″  display, Snapdragon 8 Elite chipset, 5850 mAh battery, 512 GB storage, 12 GB RAM, Crystal Shield Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-13s-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Ace 5 Ultra",
+      "title": "OnePlus Ace 5 Ultra 5G Android smartphone. Announced May 2025. Features 6.83″  display, Dimensity 9400+ chipset, 6700 mAh battery, 1024 GB storage, 16 GB RAM, Crystal Shield Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-ace-5-ultra.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Ace 5 Racing",
+      "title": "OnePlus Ace 5 Racing 5G Android smartphone. Announced May 2025. Features 6.77″  display, Dimensity 9400e chipset, 7100 mAh battery, 512 GB storage, 16 GB RAM, Crystal Shield Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-ace-5-racing.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pad 2 Pro",
+      "title": "OnePlus Pad 2 Pro Android tablet. Announced May 2025. Features 13.2″  display, Snapdragon 8 Elite chipset, 12140 mAh battery, 512 GB storage, 16 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-pad-2-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "13T",
+      "title": "OnePlus 13T 5G Android smartphone. Announced Apr 2025. Features 6.32″  display, Snapdragon 8 Elite chipset, 6260 mAh battery, 1024 GB storage, 16 GB RAM, Crystal Shield Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-13t.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Watch 3",
+      "title": "OnePlus Watch 3 watch. Announced Feb 2025. Features 1.5″  display, Snapdragon W5 Gen 1 chipset, 648 mAh battery, 32 GB storage, 2 GB RAM, MIL-STD-810H compliant, Sapphire crystal glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-watch3.jpg",
+      "specs": ""
+    },
+    {
+      "name": "13R",
+      "title": "OnePlus 13R Android smartphone. Announced Jan 2025. Features 6.78″  display, Snapdragon 8 Gen 3 chipset, 6000 mAh battery, 512 GB storage, 16 GB RAM, Corning Gorilla Glass 7i.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-13r.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Ace 5 Pro",
+      "title": "OnePlus Ace 5 Pro Android smartphone. Announced Dec 2024. Features 6.78″  display, Snapdragon 8 Elite chipset, 6100 mAh battery, 1024 GB storage, 16 GB RAM, Crystal Shield Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-ace5-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Ace 5",
+      "title": "OnePlus Ace 5 Android smartphone. Announced Dec 2024. Features 6.78″  display, Snapdragon 8 Gen 3 chipset, 6415 mAh battery, 1024 GB storage, 16 GB RAM, Crystal Shield Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-ace5.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pad 3 (China)",
+      "title": "OnePlus Pad 3 Android tablet. Announced Dec 2024. Features 11.61″  display, Dimensity 8350 chipset, 9520 mAh battery, 512 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-pad3.jpg",
+      "specs": ""
+    },
+    {
+      "name": "13",
+      "title": "OnePlus 13 Android smartphone. Announced Oct 2024. Features 6.82″  display, Snapdragon 8 Elite chipset, 6000 mAh battery, 1024 GB storage, 24 GB RAM, Ceramic Guard glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-13.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Nord 4",
+      "title": "OnePlus Nord 4 Android smartphone. Announced Jul 2024. Features 6.74″  display, Snapdragon 7+ Gen 3 chipset, 5500 mAh battery, 512 GB storage, 16 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-nord4.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pad 2",
+      "title": "OnePlus Pad 2 Android tablet. Announced Jul 2024. Features 12.1″  display, Snapdragon 8 Gen 3 chipset, 9510 mAh battery, 256 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-pad2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Watch 2R",
+      "title": "OnePlus Watch 2R Android watch. Announced Jul 2024. Features 1.43″  display, Snapdragon W5 Gen 1 chipset, 500 mAh battery, 32 GB storage, 2 GB RAM, Panda Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-watch-2r.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Ace 3 Pro",
+      "title": "OnePlus Ace 3 Pro Android smartphone. Announced Jun 2024. Features 6.78″  display, Snapdragon 8 Gen 3 chipset, 6100 mAh battery, 1024 GB storage, 24 GB RAM, Corning Gorilla Glass Victus 2.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-ace3-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pad Pro",
+      "title": "OnePlus Pad Pro Android tablet. Announced Jun 2024. Features 12.1″  display, Snapdragon 8 Gen 3 chipset, 9510 mAh battery, 512 GB storage, 16 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-pad-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Watch 2 (eSIM)",
+      "title": "OnePlus Watch 2 (eSIM) watch. Announced Jun 2024. Features 1.43″  display, Snapdragon W5 Gen 1 chipset, 500 mAh battery, 32 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-watch2-china.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Nord CE4 Lite",
+      "title": "OnePlus Nord CE4 Lite Android smartphone. Announced Jun 2024. Features 6.67″  display, Snapdragon 695 5G chipset, 5110 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-nord-ce4-lite-intl.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Nord CE4 Lite (India)",
+      "title": "OnePlus Nord CE4 Lite (India) Android smartphone. Announced Jun 2024. Features 6.67″  display, Snapdragon 695 5G chipset, 5500 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-nord-ce4-lite-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Ace 3V",
+      "title": "OnePlus Ace 3V Android smartphone. Announced Mar 2024. Features 6.74″  display, Snapdragon 7+ Gen 3 chipset, 5500 mAh battery, 512 GB storage, 16 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-ace-3v.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Nord CE4",
+      "title": "OnePlus Nord CE4 Android smartphone. Announced Apr 2024. Features 6.7″  display, Snapdragon 7 Gen 3 chipset, 5500 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-nord-ce4-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Watch 2",
+      "title": "OnePlus Watch 2 Android watch. Announced Feb 2024. Features 1.43″  display, Snapdragon W5 Gen 1 chipset, 500 mAh battery, 32 GB storage, 2 GB RAM, MIL-STD-810H compliant, Sapphire crystal glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-watch-2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Nord N30 SE",
+      "title": "OnePlus Nord N30 SE Android smartphone. Announced Jan 2024. Features 6.72″  display, Dimensity 6020 chipset, 5000 mAh battery, 128 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-nord-n30-se-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "12R",
+      "title": "OnePlus 12R Android smartphone. Announced Jan 2024. Features 6.78″  display, Snapdragon 8 Gen 2 chipset, 5500 mAh battery, 256 GB storage, 16 GB RAM, Corning Gorilla Glass Victus 2.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-12r-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "12",
+      "title": "OnePlus 12 Android smartphone. Announced Dec 2023. Features 6.82″  display, Snapdragon 8 Gen 3 chipset, 5400 mAh battery, 1024 GB storage, 24 GB RAM, Corning Gorilla Glass Victus 2.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-12.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Ace 3",
+      "title": "OnePlus Ace 3 Android smartphone. Announced Jan 2024. Features 6.78″  display, Snapdragon 8 Gen 2 chipset, 5500 mAh battery, 1024 GB storage, 16 GB RAM, Corning Gorilla Glass Victus 2.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-ace3.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Open",
+      "title": "OnePlus Open Android smartphone. Announced Oct 2023. Features 7.82″  display, Snapdragon 8 Gen 2 chipset, 4805 mAh battery, 1024 GB storage, 16 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-open-10.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pad Go",
+      "title": "OnePlus Pad Go Android tablet. Announced Oct 2023. Features 11.35″  display, Helio G99 chipset, 8000 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-pad-go.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Ace 2 Pro",
+      "title": "OnePlus Ace 2 Pro Android smartphone. Announced Aug 2023. Features 6.74″  display, Snapdragon 8 Gen 2 chipset, 5000 mAh battery, 1024 GB storage, 24 GB RAM, Asahi Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-ace-2-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Nord CE3",
+      "title": "OnePlus Nord CE3 Android smartphone. Announced Jul 2023. Features 6.7″  display, Snapdragon 782G chipset, 5000 mAh battery, 256 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-nord-ce3-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Nord 3",
+      "title": "OnePlus Nord 3 Android smartphone. Announced Jul 2023. Features 6.74″  display, Dimensity 9000 chipset, 5000 mAh battery, 256 GB storage, 16 GB RAM, Dragontrail Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-nord-3r.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Nord N30",
+      "title": "OnePlus Nord N30 Android smartphone. Announced Jun 2023. Features 6.72″  display, Snapdragon 695 5G chipset, 5000 mAh battery, 128 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-nord-n30-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Nord CE 3 Lite",
+      "title": "OnePlus Nord CE 3 Lite Android smartphone. Announced Apr 2023. Features 6.72″  display, Snapdragon 695 5G chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-nord-ce-3-lite-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Ace 2V",
+      "title": "OnePlus Ace 2V Android smartphone. Announced Mar 2023. Features 6.74″  display, Dimensity 9000 chipset, 5000 mAh battery, 1024 GB storage, 16 GB RAM, Asahi Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-ace-2v.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pad",
+      "title": "OnePlus Pad Android tablet. Announced Feb 2023. Features 11.61″  display, Dimensity 9000 chipset, 9510 mAh battery, 256 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-pad.jpg",
+      "specs": ""
+    },
+    {
+      "name": "11R",
+      "title": "OnePlus 11R Android smartphone. Announced Feb 2023. Features 6.74″  display, Snapdragon 8+ Gen 1 chipset, 5000 mAh battery, 512 GB storage, 18 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-ace2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Ace 2",
+      "title": "OnePlus Ace 2 Android smartphone. Announced Feb 2023. Features 6.74″  display, Snapdragon 8+ Gen 1 chipset, 5000 mAh battery, 512 GB storage, 18 GB RAM, Asahi Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-ace2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "11",
+      "title": "OnePlus 11 Android smartphone. Announced Jan 2023. Features 6.7″  display, Snapdragon 8 Gen 2 chipset, 5000 mAh battery, 512 GB storage, 16 GB RAM, Corning Gorilla Glass Victus.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-11.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Nord N300",
+      "title": "OnePlus Nord N300 Android smartphone. Announced Oct 2022. Features 6.56″  display, Dimensity 810 chipset, 5000 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-nord-n300-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Nord Watch",
+      "title": "OnePlus Nord Watch watch. Announced Oct 2022. Features 1.78″  display, 230 mAh battery, 256 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-nord-watch.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Ace Pro",
+      "title": "OnePlus Ace Pro Android smartphone. Announced Aug 2022. Features 6.7″  display, Snapdragon 8+ Gen 1 chipset, 4800 mAh battery, 512 GB storage, 16 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-10t-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Nord N20 SE",
+      "title": "OnePlus Nord N20 SE Android smartphone. Announced Aug 2022. Features 6.56″  display, MT6765G Helio G35 chipset, 5000 mAh battery, 128 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-nord-n20-se.jpg",
+      "specs": ""
+    },
+    {
+      "name": "10T",
+      "title": "OnePlus 10T Android smartphone. Announced Aug 2022. Features 6.7″  display, Snapdragon 8+ Gen 1 chipset, 4800 mAh battery, 256 GB storage, 16 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-10t-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Nord 2T",
+      "title": "OnePlus Nord 2T Android smartphone. Announced May 2022. Features 6.43″  display, Dimensity 1300 chipset, 4500 mAh battery, 256 GB storage, 12 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-nord-2t.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Ace Racing",
+      "title": "OnePlus Ace Racing Android smartphone. Announced May 2022. Features 6.59″  display, Dimensity 8100 Max chipset, 5000 mAh battery, 256 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-ace-race.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Nord N20 5G",
+      "title": "OnePlus Nord N20 5G Android smartphone. Announced Apr 2022. Features 6.43″  display, Snapdragon 695 5G chipset, 4500 mAh battery, 128 GB storage, 6 GB RAM, Schott Xensation Up.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-nord-n20-5g-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "10R 150W",
+      "title": "OnePlus 10R 150W Android smartphone. Announced Apr 2022. Features 6.7″  display, Dimensity 8100 Max chipset, 4500 mAh battery, 256 GB storage, 12 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-10r.jpg",
+      "specs": ""
+    },
+    {
+      "name": "10R",
+      "title": "OnePlus 10R Android smartphone. Announced Apr 2022. Features 6.7″  display, Dimensity 8100 Max chipset, 5000 mAh battery, 256 GB storage, 12 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-10r.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Nord CE 2 Lite 5G",
+      "title": "OnePlus Nord CE 2 Lite 5G Android smartphone. Announced Apr 2022. Features 6.59″  display, Snapdragon 695 5G chipset, 5000 mAh battery, 128 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-nord-ce-2-lite-5g-0.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Ace",
+      "title": "OnePlus Ace Android smartphone. Announced Apr 2022. Features 6.7″  display, Dimensity 8100 Max chipset, 4500 mAh battery, 512 GB storage, 12 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-ace.jpg",
+      "specs": ""
+    },
+    {
+      "name": "10 Pro",
+      "title": "OnePlus 10 Pro Android smartphone. Announced Jan 2022. Features 6.7″  display, Snapdragon 8 Gen 1 chipset, 5000 mAh battery, 512 GB storage, 12 GB RAM, Corning Gorilla Glass Victus.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-10-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Nord CE 2 5G",
+      "title": "OnePlus Nord CE 2 5G Android smartphone. Announced Feb 2022. Features 6.43″  display, Dimensity 900 chipset, 4500 mAh battery, 128 GB storage, 8 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-nord-ce-2-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "9RT 5G",
+      "title": "OnePlus 9RT 5G Android smartphone. Announced Oct 2021. Features 6.62″  display, Snapdragon 888 5G chipset, 4500 mAh battery, 256 GB storage, 12 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-9-rt-r.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Nord 2 5G",
+      "title": "OnePlus Nord 2 5G Android smartphone. Announced Jul 2021. Features 6.43″  display, Dimensity 1200 chipset, 4500 mAh battery, 256 GB storage, 12 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-nord-2-5g-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Nord N200 5G",
+      "title": "OnePlus Nord N200 5G Android smartphone. Announced Jun 2021. Features 6.49″  display, Snapdragon 480 5G chipset, 5000 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-nord-n200-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Nord CE 5G",
+      "title": "OnePlus Nord CE 5G Android smartphone. Announced Jun 2021. Features 6.43″  display, Snapdragon 750G 5G chipset, 4500 mAh battery, 256 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-nord-ce-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "9 Pro",
+      "title": "OnePlus 9 Pro Android smartphone. Announced Mar 2021. Features 6.7″  display, Snapdragon 888 5G chipset, 4500 mAh battery, 256 GB storage, 12 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-9-pro-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "9",
+      "title": "OnePlus 9 Android smartphone. Announced Mar 2021. Features 6.55″  display, Snapdragon 888 5G chipset, 4500 mAh battery, 256 GB storage, 12 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-9-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "9R",
+      "title": "OnePlus 9R Android smartphone. Announced Mar 2021. Features 6.55″  display, Snapdragon 870 5G chipset, 4500 mAh battery, 256 GB storage, 12 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-9r.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Watch",
+      "title": "OnePlus Watch watch. Announced Mar 2021. Features 1.39″  display, 402 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-watch.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Nord N10 5G",
+      "title": "OnePlus Nord N10 5G Android smartphone. Announced Oct 2020. Features 6.49″  display, Snapdragon 690 5G chipset, 4300 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-nord-n10-5g-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Nord N100",
+      "title": "OnePlus Nord N100 Android smartphone. Announced Oct 2020. Features 6.52″  display, Snapdragon 460 chipset, 5000 mAh battery, 64 GB storage, 4 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-nord-n100-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "8T",
+      "title": "OnePlus 8T Android smartphone. Announced Oct 2020. Features 6.55″  display, Snapdragon 865 5G chipset, 4500 mAh battery, 256 GB storage, 12 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-8t.jpg",
+      "specs": ""
+    },
+    {
+      "name": "8T+ 5G",
+      "title": "OnePlus 8T+ 5G Android smartphone. Announced Oct 2020. Features 6.55″  display, Snapdragon 865 5G chipset, 4500 mAh battery, 256 GB storage, 12 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-8t.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Nord",
+      "title": "OnePlus Nord Android smartphone. Announced Jul 2020. Features 6.44″  display, Snapdragon 765G 5G chipset, 4115 mAh battery, 256 GB storage, 12 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-nord.jpg",
+      "specs": ""
+    },
+    {
+      "name": "8 Pro",
+      "title": "OnePlus 8 Pro Android smartphone. Announced Apr 2020. Features 6.78″  display, Snapdragon 865 5G chipset, 4510 mAh battery, 256 GB storage, 12 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-8-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "8",
+      "title": "OnePlus 8 Android smartphone. Announced Apr 2020. Features 6.55″  display, Snapdragon 865 5G chipset, 4300 mAh battery, 256 GB storage, 12 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-8.jpg",
+      "specs": ""
+    },
+    {
+      "name": "8 5G UW (Verizon)",
+      "title": "OnePlus 8 5G UW (Verizon) Android smartphone. Announced Apr 2020. Features 6.55″  display, Snapdragon 865 5G chipset, 4300 mAh battery, 128 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-8-5g-uw.jpg",
+      "specs": ""
+    },
+    {
+      "name": "8 5G (T-Mobile)",
+      "title": "OnePlus 8 5G (T-Mobile) Android smartphone. Announced Apr 2020. Features 6.55″  display, Snapdragon 865 5G chipset, 4300 mAh battery, 128 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-8-5g-t-mobile.jpg",
+      "specs": ""
+    },
+    {
+      "name": "7T Pro 5G McLaren",
+      "title": "OnePlus 7T Pro 5G McLaren Android smartphone. Announced Oct 2019. Features 6.67″  display, Snapdragon 855+ chipset, 4085 mAh battery, 256 GB storage, 12 GB RAM, Corning Gorilla Glass 6.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-7t-pro-5g-mclaren-edition-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "7T Pro",
+      "title": "OnePlus 7T Pro Android smartphone. Announced Oct 2019. Features 6.67″  display, Snapdragon 855+ chipset, 4085 mAh battery, 256 GB storage, 12 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-7t-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "7T",
+      "title": "OnePlus 7T Android smartphone. Announced Sep 2019. Features 6.55″  display, Snapdragon 855+ chipset, 3800 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-7t-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "7 Pro 5G",
+      "title": "OnePlus 7 Pro 5G Android smartphone. Announced May 2019. Features 6.67″  display, Snapdragon 855 chipset, 4000 mAh battery, 256 GB storage, 12 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-7-pro-r1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "7 Pro",
+      "title": "OnePlus 7 Pro Android smartphone. Announced May 2019. Features 6.67″  display, Snapdragon 855 chipset, 4000 mAh battery, 256 GB storage, 12 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-7-pro-r1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "7",
+      "title": "OnePlus 7 Android smartphone. Announced May 2019. Features 6.41″  display, Snapdragon 855 chipset, 3700 mAh battery, 256 GB storage, 12 GB RAM, Corning Gorilla Glass 6.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-7--.jpg",
+      "specs": ""
+    },
+    {
+      "name": "6T McLaren",
+      "title": "OnePlus 6T McLaren Android smartphone. Announced Dec 2018. Features 6.41″  display, Snapdragon 845 chipset, 3700 mAh battery, 256 GB storage, 10 GB RAM, Corning Gorilla Glass 6.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-6t-mclaren-edition.jpg",
+      "specs": ""
+    },
+    {
+      "name": "6T",
+      "title": "OnePlus 6T Android smartphone. Announced Oct 2018. Features 6.41″  display, Snapdragon 845 chipset, 3700 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 6.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-6t-thunder-purple.jpg",
+      "specs": ""
+    },
+    {
+      "name": "6",
+      "title": "OnePlus 6 Android smartphone. Announced May 2018. Features 6.28″  display, Snapdragon 845 chipset, 3300 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-6-red.jpg",
+      "specs": ""
+    },
+    {
+      "name": "5T",
+      "title": "OnePlus 5T Android smartphone. Announced Nov 2017. Features 6.01″  display, Snapdragon 835 chipset, 3300 mAh battery, 128 GB storage, 8 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-5t.jpg",
+      "specs": ""
+    },
+    {
+      "name": "5",
+      "title": "OnePlus 5 Android smartphone. Announced Jun 2017. Features 5.5″  display, Snapdragon 835 chipset, 3300 mAh battery, 128 GB storage, 8 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-5.jpg",
+      "specs": ""
+    },
+    {
+      "name": "3T",
+      "title": "OnePlus 3T Android smartphone. Announced Nov 2016. Features 5.5″  display, Snapdragon 821 chipset, 3400 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass 4.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-3t-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "3",
+      "title": "OnePlus 3 Android smartphone. Announced Jun 2016. Features 5.5″  display, Snapdragon 820 chipset, 3000 mAh battery, 64 GB storage, 6 GB RAM, Corning Gorilla Glass 4.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-3-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X",
+      "title": "OnePlus X Android smartphone. Announced Oct 2015. Features 5.0″  display, Snapdragon 801 chipset, 13 MP primary camera, 8 MP front camera, 2525 mAh battery, 16 GB storage, 3 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-x.jpg",
+      "specs": ""
+    },
+    {
+      "name": "2",
+      "title": "OnePlus 2 Android smartphone. Announced Jul 2015. Features 5.5″  display, Snapdragon 810 chipset, 13 MP primary camera, 5 MP front camera, 3300 mAh battery, 64 GB storage, 4 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-two.jpg",
+      "specs": ""
+    },
+    {
+      "name": "One",
+      "title": "OnePlus One Android smartphone. Announced Apr 2014. Features 5.5″  display, Snapdragon 801 chipset, 13 MP primary camera, 5 MP front camera, 3100 mAh battery, 64 GB storage, 3 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-one.jpg",
+      "specs": ""
+    },
+    {
+      "name": "V Fold",
+      "title": "OnePlus V Fold Android smartphone. Not announced yet. Features 7.8″  display, 4800 mAh battery, 256 GB storage, 16 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-fold-r.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Nord 2 Lite",
+      "title": "OnePlus Nord 2 Lite Android smartphone. Not announced yet. Features 6.59″  display, Snapdragon 695 5G chipset, 4500 mAh battery, 128 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-nord-ce-2-lite-5g-0.jpg",
+      "specs": ""
+    },
+    {
+      "name": "9E",
+      "title": "OnePlus 9E Android smartphone. Not announced yet. Features 6.5″  display, Snapdragon 690 5G chipset, 5000 mAh battery, 128 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/smartphone.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Open 2",
+      "title": "OnePlus Open 2 Android smartphone. Not announced yet. Features 8.0″  display, Snapdragon 8 Elite chipset, 5900 mAh battery, 1024 GB storage, 16 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-open-10.jpg",
+      "specs": ""
+    }
+  ]
+}

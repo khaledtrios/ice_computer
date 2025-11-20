@@ -1,0 +1,2863 @@
+{
+  "scrape_date": "2025-10-08T17:08:18.119944",
+  "total_phones": 476,
+  "source": "https://www.gsmarena.com/xiaomi-phones-80.php",
+  "phones": [
+    {
+      "name": "17 Pro Max",
+      "title": "Xiaomi 17 Pro Max 5G Android smartphone. Announced Sep 2025. Features 6.9″  display, Snapdragon 8 Elite Gen 5 chipset, 7500 mAh battery, 1024 GB storage, 16 GB RAM, Xiaomi Dragon Crystal Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-17-pro-max.jpg",
+      "specs": ""
+    },
+    {
+      "name": "17 Pro",
+      "title": "Xiaomi 17 Pro 5G Android smartphone. Announced Sep 2025. Features 6.3″  display, Snapdragon 8 Elite Gen 5 chipset, 6300 mAh battery, 1024 GB storage, 16 GB RAM, Xiaomi Dragon Crystal Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-17-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "17",
+      "title": "Xiaomi 17 5G Android smartphone. Announced Sep 2025. Features 6.3″  display, Snapdragon 8 Elite Gen 5 chipset, 7000 mAh battery, 512 GB storage, 16 GB RAM, Xiaomi Dragon Crystal Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-17.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pad 8 Pro",
+      "title": "Xiaomi Pad 8 Pro Android tablet. Announced Sep 2025. Features 11.2″  display, Snapdragon 8 Elite chipset, 9200 mAh battery, 512 GB storage, 16 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-pad-8-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pad 8",
+      "title": "Xiaomi Pad 8 Android tablet. Announced Sep 2025. Features 11.2″  display, Snapdragon 8s Gen 4 chipset, 9200 mAh battery, 256 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-pad-8.jpg",
+      "specs": ""
+    },
+    {
+      "name": "15T Pro",
+      "title": "Xiaomi 15T Pro 5G Android smartphone. Announced Sep 2025. Features 6.83″  display, Dimensity 9400+ chipset, 5500 mAh battery, 1024 GB storage, 12 GB RAM, Corning Gorilla Glass 7i.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-15t-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "15T",
+      "title": "Xiaomi 15T 5G Android smartphone. Announced Sep 2025. Features 6.83″  display, Dimensity 8400 Ultra chipset, 5500 mAh battery, 512 GB storage, 12 GB RAM, Corning Gorilla Glass 7i.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-15t.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Pad 2 Pro",
+      "title": "Xiaomi Redmi Pad 2 Pro Android tablet. Announced Sep 2025. Features 12.1″  display, Snapdragon 7s Gen 4 chipset, 12000 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-pad2-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pad Mini",
+      "title": "Xiaomi Pad Mini Android tablet. Announced Sep 2025. Features 8.8″  display, Dimensity 9400+ chipset, 7500 mAh battery, 512 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-pad-mini-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi 15C",
+      "title": "Xiaomi Redmi 15C 5G Android smartphone. Announced Sep 2025. Features 6.9″  display, Dimensity 6300 chipset, 6000 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-15c.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Poco C85 4G",
+      "title": "Xiaomi Poco C85 Android smartphone. Announced Sep 2025. Features 6.9″  display, Helio G81 Ultra chipset, 6000 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-c85.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 15 Pro+",
+      "title": "Xiaomi Redmi Note 15 Pro+ 5G (China) Android smartphone. Announced Aug 2025. Features 6.83″  display, Snapdragon 7s Gen 4 chipset, 7000 mAh battery, 1024 GB storage, 16 GB RAM, Xiaomi Dragon Crystal Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-15-pro-plus-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 15 Pro",
+      "title": "Xiaomi Redmi Note 15 Pro 5G (China) Android smartphone. Announced Aug 2025. Features 6.83″  display, Dimensity 7400 Ultra chipset, 7000 mAh battery, 512 GB storage, 12 GB RAM, Xiaomi Dragon Crystal Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-15-pro-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 15",
+      "title": "Xiaomi Redmi Note 15 5G (China) Android smartphone. Announced Aug 2025. Features 6.77″  display, Snapdragon 6 Gen 3 chipset, 5800 mAh battery, 256 GB storage, 12 GB RAM, Xiaomi Dragon Crystal Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-15-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Poco M7 4G",
+      "title": "Xiaomi Poco M7 Android smartphone. Announced Aug 2025. Features 6.9″  display, Snapdragon 685 chipset, 7000 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-m7-4g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Poco M7 Plus",
+      "title": "Xiaomi Poco M7 Plus 5G Android smartphone. Announced Aug 2025. Features 6.9″  display, Snapdragon 6s Gen 3 chipset, 7000 mAh battery, 128 GB storage, 8 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-m7-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi 15 4G",
+      "title": "Xiaomi Redmi 15 Android smartphone. Announced Aug 2025. Features 6.9″  display, Snapdragon 685 chipset, 7000 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-15-4g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi 15",
+      "title": "Xiaomi Redmi 15 5G Android smartphone. Announced Aug 2025. Features 6.9″  display, Snapdragon 6s Gen 3 chipset, 7000 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-15-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi 15C 4G",
+      "title": "Xiaomi Redmi 15C 4G Android smartphone. Announced Aug 2025. Features 6.9″  display, Helio G81 Ultra chipset, 6000 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-15c-4g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi K80 Ultra",
+      "title": "Xiaomi Redmi K80 Ultra 5G Android smartphone. Announced Jun 2025. Features 6.83″  display, Dimensity 9400+ chipset, 7410 mAh battery, 1024 GB storage, 16 GB RAM, Scratch/drop-resistant glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k80-ultra.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mix Flip 2",
+      "title": "Xiaomi Mix Flip 2 5G Android smartphone. Announced Jun 2025. Features 6.86″  display, Snapdragon 8 Elite chipset, 5165 mAh battery, 1024 GB storage, 16 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mix-flip2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Watch S4 41mm",
+      "title": "Xiaomi Watch S4 41mm watch. Announced Jun 2025. Features 1.32″  display, 320 mAh battery, Scratch/drop-proof glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-watch-s4-41mm.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pad 7S Pro 12.5",
+      "title": "Xiaomi Pad 7S Pro 12.5 Android tablet. Announced Jun 2025. Features 12.5″  display, Xring O1 chipset, 10610 mAh battery, 1024 GB storage, 16 GB RAM, Corning Gorilla Glass 5 or Panda-X.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-pad-7s-pro-125.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi K Pad",
+      "title": "Xiaomi Redmi K Pad Android tablet. Announced Jun 2025. Features 8.8″  display, Dimensity 9400+ chipset, 7500 mAh battery, 1024 GB storage, 16 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k-pad.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Poco F7",
+      "title": "Xiaomi Poco F7 5G Android smartphone. Announced Jun 2025. Features 6.83″  display, Snapdragon 8s Gen 4 chipset, 6500 mAh battery, 512 GB storage, 12 GB RAM, Corning Gorilla Glass 7i.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-f7-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Pad 2",
+      "title": "Xiaomi Redmi Pad 2 Android tablet. Announced Jun 2025. Features 11.0″  display, Helio G100 Ultra chipset, 9000 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-pad-2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "15S Pro",
+      "title": "Xiaomi 15S Pro 5G Android smartphone. Announced May 2025. Features 6.73″  display, Xring O1 chipset, 6100 mAh battery, 1024 GB storage, 16 GB RAM, Shatterproof glass (2024 gen).",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-15s-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Civi 5 Pro",
+      "title": "Xiaomi Civi 5 Pro 5G Android smartphone. Announced May 2025. Features 6.55″  display, Snapdragon 8s Gen 4 chipset, 6000 mAh battery, 512 GB storage, 16 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-civi-5-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pad 7 Ultra",
+      "title": "Xiaomi Pad 7 Ultra Android tablet. Announced May 2025. Features 14.0″  display, Xring O1 chipset, 12000 mAh battery, 1024 GB storage, 16 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-pad7-ultra.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Turbo 4 Pro",
+      "title": "Xiaomi Redmi Turbo 4 Pro Android smartphone. Announced Apr 2025. Features 6.83″  display, Snapdragon 8s Gen 4 chipset, 7550 mAh battery, 1024 GB storage, 16 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-turbo-4-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Watch Move",
+      "title": "Xiaomi Redmi Watch Move watch. Announced Apr 2025. Features 1.85″  display, 300 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-watch-move.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Poco C71",
+      "title": "Xiaomi Poco C71 4G Android smartphone. Announced Apr 2025. Features 6.88″  display, Unisoc T7250 chipset, 5200 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-c71.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Poco F7 Ultra",
+      "title": "Xiaomi Poco F7 Ultra Android smartphone. Announced Mar 2025. Features 6.67″  display, Snapdragon 8 Elite chipset, 5300 mAh battery, 512 GB storage, 16 GB RAM, Poco Shield Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-f7-ultra.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Poco F7 Pro",
+      "title": "Xiaomi Poco F7 Pro Android smartphone. Announced Mar 2025. Features 6.67″  display, Snapdragon 8 Gen 3 chipset, 6000 mAh battery, 512 GB storage, 12 GB RAM, Corning Gorilla Glass 7i.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-f7-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi 13x",
+      "title": "Xiaomi Redmi 13x 4G Android smartphone. Announced Mar 2025. Features 6.79″  display, Helio G91 Ultra chipset, 5030 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-13x-4g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi A5 4G",
+      "title": "Xiaomi Redmi A5 4G Android smartphone. Announced Mar 2025. Features 6.88″  display, Unisoc T7250 chipset, 5200 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-a5-4g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 14S",
+      "title": "Xiaomi Redmi Note 14S Android smartphone. Announced Mar 2025. Features 6.67″  display, Helio G99 Ultra chipset, 5000 mAh battery, 512 GB storage, 12 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-14s.jpg",
+      "specs": ""
+    },
+    {
+      "name": "15 Ultra",
+      "title": "Xiaomi 15 Ultra Android smartphone. Announced Feb 2025. Features 6.73″  display, Snapdragon 8 Elite chipset, 5410 mAh battery, 1024 GB storage, 16 GB RAM, Xiaomi Shield Glass 2.0.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-15-ultra-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "15",
+      "title": "Xiaomi 15 Android smartphone. Announced Oct 2024. Features 6.36″  display, Snapdragon 8 Elite chipset, 5240 mAh battery, 1024 GB storage, 16 GB RAM, Xiaomi Shield Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-15.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Black Shark Pad 6",
+      "title": "Xiaomi Black Shark Pad 6 4G Android tablet. Announced Nov 2024. Features 11.0″  display, Unisoc Tiger T616 chipset, 8800 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-black-shark-pad-6.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Poco M7",
+      "title": "Xiaomi Poco M7 5G Android smartphone. Announced Mar 2025. Features 6.88″  display, Snapdragon 4 Gen 2 chipset, 5160 mAh battery, 128 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-m7-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 14 Pro+ 5G",
+      "title": "Xiaomi Redmi Note 14 Pro+ 5G (Global) Android smartphone. Announced Jan 2025. Features 6.67″  display, Snapdragon 7s Gen 3 chipset, 5110 mAh battery, 512 GB storage, 12 GB RAM, Corning Gorilla Glass Victus 2.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-14-pro-plus-5g-gl.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 14 Pro 5G",
+      "title": "Xiaomi Redmi Note 14 Pro 5G (Global) Android smartphone. Announced Jan 2025. Features 6.67″  display, Dimensity 7300 Ultra chipset, 5110 mAh battery, 512 GB storage, 12 GB RAM, Corning Gorilla Glass Victus 2.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-14-pro-5g-gl.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 14 Pro 4G",
+      "title": "Xiaomi Redmi Note 14 Pro 4G (Global) Android smartphone. Announced Jan 2025. Features 6.67″  display, Helio G100 Ultra chipset, 5500 mAh battery, 512 GB storage, 12 GB RAM, Corning Gorilla Glass Victus 2.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-14-pro-4g-gl.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 14 5G",
+      "title": "Xiaomi Redmi Note 14 5G (Global) Android smartphone. Announced Jan 2025. Features 6.67″  display, Dimensity 7025 Ultra chipset, 5110 mAh battery, 512 GB storage, 12 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-14-5g-gl.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 14 4G",
+      "title": "Xiaomi Redmi Note 14 4G (Global) Android smartphone. Announced Jan 2025. Features 6.67″  display, Helio G99 Ultra chipset, 5500 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-14-4g-gl.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Poco X7 Pro",
+      "title": "Xiaomi Poco X7 Pro Android smartphone. Announced Jan 2025. Features 6.67″  display, Dimensity 8400 Ultra chipset, 6000 mAh battery, 512 GB storage, 12 GB RAM, Corning Gorilla Glass 7i.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-x7-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Poco X7",
+      "title": "Xiaomi Poco X7 Android smartphone. Announced Jan 2025. Features 6.67″  display, Dimensity 7300 Ultra chipset, 5110 mAh battery, 512 GB storage, 12 GB RAM, Corning Gorilla Glass Victus 2.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-x7.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi 14C 5G",
+      "title": "Xiaomi Redmi 14C 5G Android smartphone. Announced Jan 2025. Features 6.88″  display, Snapdragon 4 Gen 2 chipset, 5160 mAh battery, 256 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-14c.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi 14C (China)",
+      "title": "Xiaomi Redmi 14C (China) Android smartphone. Announced Dec 2024. Features 6.88″  display, Helio G81 Ultra chipset, 5160 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-14c-cn.jpg",
+      "specs": ""
+    },
+    {
+      "name": "11T",
+      "title": "Xiaomi 11T Android smartphone. Announced Sep 2021. Features 6.67″  display, Dimensity 1200 chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass Victus.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-11t.jpg",
+      "specs": ""
+    },
+    {
+      "name": "11 Lite 5G NE",
+      "title": "Xiaomi 11 Lite 5G NE Android smartphone. Announced Sep 2021. Features 6.55″  display, Snapdragon 778G 5G chipset, 4250 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-11-lite-5g-ne.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi 10 Prime",
+      "title": "Xiaomi Redmi 10 Prime Android smartphone. Announced Sep 2021. Features 6.5″  display, MT6769H Helio G88 chipset, 6000 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-10-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi 10",
+      "title": "Xiaomi Redmi 10 Android smartphone. Announced Aug 2021. Features 6.5″  display, MT6769H Helio G88 chipset, 5000 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-10-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pad 5 Pro",
+      "title": "Xiaomi Pad 5 Pro Android tablet. Announced Aug 2021. Features 11.0″  display, Snapdragon 870 5G chipset, 8600 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-pad-5-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pad 5",
+      "title": "Xiaomi Pad 5 Android tablet. Announced Aug 2021. Features 11.0″  display, Snapdragon 860 chipset, 8720 mAh battery, 256 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-pad-5.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mix 4",
+      "title": "Xiaomi Mix 4 Android smartphone. Announced Aug 2021. Features 6.67″  display, Snapdragon 888+ 5G chipset, 4500 mAh battery, 512 GB storage, 12 GB RAM, Corning Gorilla Glass Victus.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-mix-4.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Poco X3 GT",
+      "title": "Xiaomi Poco X3 GT Android smartphone. Announced Jul 2021. Features 6.6″  display, Dimensity 1100 chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass Victus.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-10-pro-china-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Poco F3 GT",
+      "title": "Xiaomi Poco F3 GT Android smartphone. Announced Jul 2021. Features 6.67″  display, Dimensity 1200 chipset, 5065 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-f3-gt.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 10T 5G",
+      "title": "Xiaomi Redmi Note 10T 5G Android smartphone. Announced Jul 2021. Features 6.5″  display, Dimensity 700 chipset, 5000 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-10t-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi Watch Revolve Active",
+      "title": "Xiaomi Mi Watch Revolve Active watch. Announced Jun 2021. Features 1.39″  display, 420 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-watch-revolve-active.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 10 Pro (China)",
+      "title": "Xiaomi Redmi Note 10 Pro (China) Android smartphone. Announced May 2021. Features 6.6″  display, Dimensity 1100 chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass Victus.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-10-pro-china-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 8 2021",
+      "title": "Xiaomi Redmi Note 8 2021 Android smartphone. Announced May 2021. Features 6.3″  display, MT6769Z Helio G85 chipset, 4000 mAh battery, 128 GB storage, 4 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note8-2021.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Poco M3 Pro 5G",
+      "title": "Xiaomi Poco M3 Pro 5G Android smartphone. Announced May 2021. Features 6.5″  display, Dimensity 700 chipset, 5000 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-m3-pro-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi K40 Gaming",
+      "title": "Xiaomi Redmi K40 Gaming Android smartphone. Announced Apr 2021. Features 6.67″  display, Dimensity 1200 chipset, 5065 mAh battery, 256 GB storage, 12 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k40-gaming.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi 11X Pro",
+      "title": "Xiaomi Mi 11X Pro Android smartphone. Announced Apr 2021. Features 6.67″  display, Snapdragon 888 5G chipset, 4520 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi11x-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi 11X",
+      "title": "Xiaomi Mi 11X Android smartphone. Announced Apr 2021. Features 6.67″  display, Snapdragon 870 5G chipset, 4520 mAh battery, 128 GB storage, 8 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi11x.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Poco M2 Reloaded",
+      "title": "Xiaomi Poco M2 Reloaded Android smartphone. Announced Apr 2021. Features 6.53″  display, MT6769V chipset, 5000 mAh battery, 64 GB storage, 4 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-m2-reloaded.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi Mix Fold",
+      "title": "Xiaomi Mi Mix Fold Android smartphone. Announced Mar 2021. Features 8.01″  display, Snapdragon 888 5G chipset, 5020 mAh battery, 512 GB storage, 16 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-mix-fold.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi 11 Ultra",
+      "title": "Xiaomi Mi 11 Ultra Android smartphone. Announced Mar 2021. Features 6.81″  display, Snapdragon 888 5G chipset, 5000 mAh battery, 512 GB storage, 12 GB RAM, Corning Gorilla Glass Victus.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi11-ultra-5g-k1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi 11 Pro",
+      "title": "Xiaomi Mi 11 Pro Android smartphone. Announced Mar 2021. Features 6.81″  display, Snapdragon 888 5G chipset, 5000 mAh battery, 256 GB storage, 12 GB RAM, Corning Gorilla Glass Victus.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-11-pro-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi 11i",
+      "title": "Xiaomi Mi 11i Android smartphone. Announced Mar 2021. Features 6.67″  display, Snapdragon 888 5G chipset, 4520 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-11i-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi 11 Lite 5G",
+      "title": "Xiaomi Mi 11 Lite 5G Android smartphone. Announced Mar 2021. Features 6.55″  display, Snapdragon 780G chipset, 4250 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 6.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-11-lite-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi 11 Lite",
+      "title": "Xiaomi Mi 11 Lite Android smartphone. Announced Mar 2021. Features 6.55″  display, Snapdragon 732G chipset, 4250 mAh battery, 128 GB storage, 8 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-11-lite-4g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Black Shark 4 Pro",
+      "title": "Xiaomi Black Shark 4 Pro Android smartphone. Announced Mar 2021. Features 6.67″  display, Snapdragon 888 5G chipset, 4500 mAh battery, 512 GB storage, 16 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-black-shark-4-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Black Shark 4",
+      "title": "Xiaomi Black Shark 4 Android smartphone. Announced Mar 2021. Features 6.67″  display, Snapdragon 870 5G chipset, 4500 mAh battery, 256 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-black-shark-4.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Poco X3 Pro",
+      "title": "Xiaomi Poco X3 Pro Android smartphone. Announced Mar 2021. Features 6.67″  display, Snapdragon 860 chipset, 5160 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 6.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-x3-pro-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Poco F3",
+      "title": "Xiaomi Poco F3 Android smartphone. Announced Mar 2021. Features 6.67″  display, Snapdragon 870 5G chipset, 4520 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-f3.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi 10S",
+      "title": "Xiaomi Mi 10S Android smartphone. Announced Mar 2021. Features 6.67″  display, Snapdragon 870 5G chipset, 4780 mAh battery, 256 GB storage, 12 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-10s.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 10 Pro",
+      "title": "Xiaomi Redmi Note 10 Pro Android smartphone. Announced Mar 2021. Features 6.67″  display, Snapdragon 732G chipset, 5020 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note10-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 10 5G",
+      "title": "Xiaomi Redmi Note 10 5G Android smartphone. Announced Mar 2021. Features 6.5″  display, Dimensity 700 chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note10-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 10S",
+      "title": "Xiaomi Redmi Note 10S Android smartphone. Announced Mar 2021. Features 6.43″  display, MT6785V chipset, 5000 mAh battery, 128 GB storage, 8 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note10s.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 10",
+      "title": "Xiaomi Redmi Note 10 Android smartphone. Announced Mar 2021. Features 6.43″  display, Snapdragon 678 chipset, 5000 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note10--.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 10 Pro Max",
+      "title": "Xiaomi Redmi Note 10 Pro Max Android smartphone. Announced Mar 2021. Features 6.67″  display, Snapdragon 732G chipset, 5020 mAh battery, 128 GB storage, 8 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note10-pro-india.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 10 Pro (India)",
+      "title": "Xiaomi Redmi Note 10 Pro (India) Android smartphone. Announced Mar 2021. Features 6.67″  display, Snapdragon 732G chipset, 5020 mAh battery, 128 GB storage, 8 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note10-pro-india.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi K40 Pro+",
+      "title": "Xiaomi Redmi K40 Pro+ Android smartphone. Announced Feb 2021. Features 6.67″  display, Snapdragon 888 5G chipset, 4520 mAh battery, 256 GB storage, 12 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k40-pro-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi K40 Pro",
+      "title": "Xiaomi Redmi K40 Pro Android smartphone. Announced Feb 2021. Features 6.67″  display, Snapdragon 888 5G chipset, 4520 mAh battery, 256 GB storage, 12 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k40-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi K40",
+      "title": "Xiaomi Redmi K40 Android smartphone. Announced Feb 2021. Features 6.67″  display, Snapdragon 870 5G chipset, 4520 mAh battery, 256 GB storage, 12 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k40.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 9T",
+      "title": "Xiaomi Redmi Note 9T Android smartphone. Announced Jan 2021. Features 6.53″  display, Dimensity 800U chipset, 5000 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-9t-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi 9T",
+      "title": "Xiaomi Redmi 9T Android smartphone. Announced Jan 2021. Features 6.53″  display, Snapdragon 662 chipset, 6000 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-9-power.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi 10i 5G",
+      "title": "Xiaomi Mi 10i 5G Android smartphone. Announced Jan 2021. Features 6.67″  display, Snapdragon 750G 5G chipset, 4820 mAh battery, 128 GB storage, 8 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-10i-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi 11",
+      "title": "Xiaomi Mi 11 Android smartphone. Announced Dec 2020. Features 6.81″  display, Snapdragon 888 5G chipset, 4600 mAh battery, 256 GB storage, 12 GB RAM, Corning Gorilla Glass Victus.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi11.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi 9 Power",
+      "title": "Xiaomi Redmi 9 Power Android smartphone. Announced Dec 2020. Features 6.53″  display, Snapdragon 662 chipset, 6000 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-9-power.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi Watch Lite",
+      "title": "Xiaomi Mi Watch Lite watch. Announced Dec 2020. Features 1.4″  display, 230 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-watch.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 9 Pro 5G",
+      "title": "Xiaomi Redmi Note 9 Pro 5G Android smartphone. Announced Nov 2020. Features 6.67″  display, Snapdragon 750G 5G chipset, 4820 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note9-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 9 5G",
+      "title": "Xiaomi Redmi Note 9 5G Android smartphone. Announced Nov 2020. Features 6.53″  display, Dimensity 800U chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-9-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 9 4G",
+      "title": "Xiaomi Redmi Note 9 4G Android smartphone. Announced Nov 2020. Features 6.53″  display, Snapdragon 662 chipset, 6000 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note9-4g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Watch",
+      "title": "Xiaomi Redmi Watch watch. Announced Nov 2020. Features 1.4″  display, 230 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-watch.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Poco M3",
+      "title": "Xiaomi Poco M3 Android smartphone. Announced Nov 2020. Features 6.53″  display, Snapdragon 662 chipset, 6000 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-m3-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi K30S",
+      "title": "Xiaomi Redmi K30S Android smartphone. Announced Oct 2020. Features 6.67″  display, Snapdragon 865 5G chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-10t-5g-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi Watch Color Sports",
+      "title": "Xiaomi Mi Watch Color Sports watch. Announced Oct 2020. Features 1.39″  display, 420 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-watch-color-sports-edition.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Poco C3",
+      "title": "Xiaomi Poco C3 Android smartphone. Announced Oct 2020. Features 6.43″  display, MT6765G Helio G35 chipset, 5000 mAh battery, 64 GB storage, 4 GB RAM, Panda Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-c3.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi 10T Pro 5G",
+      "title": "Xiaomi Mi 10T Pro 5G Android smartphone. Announced Sep 2020. Features 6.67″  display, Snapdragon 865 5G chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-10t-5g-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi 10T 5G",
+      "title": "Xiaomi Mi 10T 5G Android smartphone. Announced Sep 2020. Features 6.67″  display, Snapdragon 865 5G chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-10t-5g-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi 10T Lite 5G",
+      "title": "Xiaomi Mi 10T Lite 5G Android smartphone. Announced Sep 2020. Features 6.67″  display, Snapdragon 750G 5G chipset, 4820 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-10t-lite-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi Watch",
+      "title": "Xiaomi Mi Watch watch. Announced Sep 2020. Features 1.39″  display, 420 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-watch.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi Watch Revolve",
+      "title": "Xiaomi Mi Watch Revolve watch. Announced Sep 2020. Features 1.39″  display, 420 mAh battery, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-watch-revolve.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi 9AT",
+      "title": "Xiaomi Redmi 9AT Android smartphone. Announced Sep 2020. Features 6.53″  display, MT6762G Helio G25 chipset, 5000 mAh battery, 32 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-9a-1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi 9i",
+      "title": "Xiaomi Redmi 9i Android smartphone. Announced Sep 2020. Features 6.53″  display, MT6762G Helio G25 chipset, 5000 mAh battery, 128 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-9a-1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Poco M2",
+      "title": "Xiaomi Poco M2 Android smartphone. Announced Sep 2020. Features 6.53″  display, MT6769V chipset, 5000 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-m2-mzb9921in.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Poco X3",
+      "title": "Xiaomi Poco X3 Android smartphone. Announced Sep 2020. Features 6.67″  display, Snapdragon 732G chipset, 6000 mAh battery, 128 GB storage, 8 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-x3.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Poco X3 NFC",
+      "title": "Xiaomi Poco X3 NFC Android smartphone. Announced Sep 2020. Features 6.67″  display, Snapdragon 732G chipset, 5160 mAh battery, 128 GB storage, 8 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-x3-nfc.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi 9 (India)",
+      "title": "Xiaomi Redmi 9 (India) Android smartphone. Announced Aug 2020. Features 6.53″  display, MT6765G Helio G35 chipset, 5000 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-9-india.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi 10 Ultra",
+      "title": "Xiaomi Mi 10 Ultra Android smartphone. Announced Aug 2020. Features 6.67″  display, Snapdragon 865 5G chipset, 4500 mAh battery, 512 GB storage, 16 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi10-ultra.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi K30 Ultra",
+      "title": "Xiaomi Redmi K30 Ultra Android smartphone. Announced Aug 2020. Features 6.67″  display, Dimensity 1000+ chipset, 4500 mAh battery, 512 GB storage, 8 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k30-ultra.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi 9 Prime",
+      "title": "Xiaomi Redmi 9 Prime Android smartphone. Announced Aug 2020. Features 6.53″  display, MT6769V chipset, 5020 mAh battery, 128 GB storage, 4 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-9.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Black Shark 3S",
+      "title": "Xiaomi Black Shark 3S Android smartphone. Announced Jul 2020. Features 6.67″  display, Snapdragon 865 5G chipset, 4729 mAh battery, 256 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-black-shark-3s.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Poco M2 Pro",
+      "title": "Xiaomi Poco M2 Pro Android smartphone. Announced Jul 2020. Features 6.67″  display, Snapdragon 720G chipset, 5000 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/poco-m2-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi 9A",
+      "title": "Xiaomi Redmi 9A Android smartphone. Announced Jun 2020. Features 6.53″  display, MT6762G Helio G25 chipset, 5000 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-9a-1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi 9C NFC",
+      "title": "Xiaomi Redmi 9C NFC Android smartphone. Announced Aug 2020. Features 6.53″  display, MT6765G Helio G35 chipset, 5000 mAh battery, 128 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-9c-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi 9C",
+      "title": "Xiaomi Redmi 9C Android smartphone. Announced Jun 2020. Features 6.53″  display, MT6765G Helio G35 chipset, 5000 mAh battery, 128 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-9c-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi 9",
+      "title": "Xiaomi Redmi 9 Android smartphone. Announced Jun 2020. Features 6.53″  display, MT6769V chipset, 5020 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-9.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi 10X Pro 5G",
+      "title": "Xiaomi Redmi 10X Pro 5G Android smartphone. Announced May 2020. Features 6.57″  display, Dimensity 820 chipset, 4520 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-10x-pro-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi 10X 5G",
+      "title": "Xiaomi Redmi 10X 5G Android smartphone. Announced May 2020. Features 6.57″  display, Dimensity 820 chipset, 4520 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-10x-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi 10X 4G",
+      "title": "Xiaomi Redmi 10X 4G Android smartphone. Announced May 2020. Features 6.53″  display, MT6769Z Helio G85 chipset, 5020 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-10x-4g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi K30i 5G",
+      "title": "Xiaomi Redmi K30i 5G Android smartphone. Announced May 2020. Features 6.67″  display, Snapdragon 765G 5G chipset, 4500 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k30i-5g-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Poco F2 Pro",
+      "title": "Xiaomi Poco F2 Pro Android smartphone. Announced May 2020. Features 6.67″  display, Snapdragon 865 5G chipset, 4700 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-f2-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi K30 5G Racing",
+      "title": "Xiaomi Redmi K30 5G Racing Android smartphone. Announced May 2020. Features 6.67″  display, Snapdragon 768G 5G chipset, 4500 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k30-5g-racing-edition1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 9 Pro",
+      "title": "Xiaomi Redmi Note 9 Pro Android smartphone. Announced Apr 2020. Features 6.67″  display, Snapdragon 720G chipset, 5020 mAh battery, 128 GB storage, 8 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-9-pro-global-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 9",
+      "title": "Xiaomi Redmi Note 9 Android smartphone. Announced Apr 2020. Features 6.53″  display, MT6769Z Helio G85 chipset, 5020 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-9.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi Note 10 Lite",
+      "title": "Xiaomi Mi Note 10 Lite Android smartphone. Announced Apr 2020. Features 6.47″  display, Snapdragon 730G chipset, 5260 mAh battery, 128 GB storage, 8 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-note-10-lite-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi 10 Youth 5G",
+      "title": "Xiaomi Mi 10 Youth 5G Android smartphone. Announced Apr 2020. Features 6.57″  display, Snapdragon 765G 5G chipset, 4160 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-10-youth-5g-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi 10 Lite 5G",
+      "title": "Xiaomi Mi 10 Lite 5G Android smartphone. Announced Mar 2020. Features 6.57″  display, Snapdragon 765G 5G chipset, 4160 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi10-lite-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi K30 Pro Zoom",
+      "title": "Xiaomi Redmi K30 Pro Zoom Android smartphone. Announced Mar 2020. Features 6.67″  display, Snapdragon 865 5G chipset, 4700 mAh battery, 512 GB storage, 12 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k30-pro-zoom.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi K30 Pro",
+      "title": "Xiaomi Redmi K30 Pro Android smartphone. Announced Mar 2020. Features 6.67″  display, Snapdragon 865 5G chipset, 4700 mAh battery, 256 GB storage, 12 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k30-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 9S",
+      "title": "Xiaomi Redmi Note 9S Android smartphone. Announced Mar 2020. Features 6.67″  display, Snapdragon 720G chipset, 5020 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-9-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 9 Pro Max",
+      "title": "Xiaomi Redmi Note 9 Pro Max Android smartphone. Announced Mar 2020. Features 6.67″  display, Snapdragon 720G chipset, 5020 mAh battery, 128 GB storage, 8 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-9-pro-max.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 9 Pro (India)",
+      "title": "Xiaomi Redmi Note 9 Pro (India) Android smartphone. Announced Mar 2020. Features 6.67″  display, Snapdragon 720G chipset, 5020 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-9-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Black Shark 3 Pro",
+      "title": "Xiaomi Black Shark 3 Pro Android smartphone. Announced Mar 2020. Features 7.1″  display, Snapdragon 865 5G chipset, 5000 mAh battery, 512 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-black-shark-3-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Black Shark 3",
+      "title": "Xiaomi Black Shark 3 Android smartphone. Announced Mar 2020. Features 6.67″  display, Snapdragon 865 5G chipset, 4720 mAh battery, 256 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-black-shark-3.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi 10 Pro 5G",
+      "title": "Xiaomi Mi 10 Pro 5G Android smartphone. Announced Feb 2020. Features 6.67″  display, Snapdragon 865 5G chipset, 4500 mAh battery, 512 GB storage, 12 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-10-pro-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi 10 5G",
+      "title": "Xiaomi Mi 10 5G Android smartphone. Announced Feb 2020. Features 6.67″  display, Snapdragon 865 5G chipset, 4780 mAh battery, 256 GB storage, 12 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-10-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi 8A Pro",
+      "title": "Xiaomi Redmi 8A Pro Android smartphone. Announced Apr 2020. Features 6.22″  display, Snapdragon 439 chipset, 5000 mAh battery, 32 GB storage, 3 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-8a-dual.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi 8A Dual",
+      "title": "Xiaomi Redmi 8A Dual Android smartphone. Announced Feb 2020. Features 6.22″  display, Snapdragon 439 chipset, 5000 mAh battery, 64 GB storage, 3 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-8a-dual.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Poco X2",
+      "title": "Xiaomi Poco X2 Android smartphone. Announced Feb 2020. Features 6.67″  display, Snapdragon 730G chipset, 4500 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-x2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi K30",
+      "title": "Xiaomi Redmi K30 Android smartphone. Announced Dec 2019. Features 6.67″  display, Snapdragon 730G chipset, 4500 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k30.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi K30 5G",
+      "title": "Xiaomi Redmi K30 5G Android smartphone. Announced Dec 2019. Features 6.67″  display, Snapdragon 765G 5G chipset, 4500 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k30-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 8T",
+      "title": "Xiaomi Redmi Note 8T Android smartphone. Announced Nov 2019. Features 6.3″  display, Snapdragon 665 chipset, 4000 mAh battery, 128 GB storage, 4 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-8t.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi Note 10 Pro",
+      "title": "Xiaomi Mi Note 10 Pro Android smartphone. Announced Nov 2019. Features 6.47″  display, Snapdragon 730G chipset, 5260 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-note10-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi Note 10",
+      "title": "Xiaomi Mi Note 10 Android smartphone. Announced Nov 2019. Features 6.47″  display, Snapdragon 730G chipset, 5260 mAh battery, 256 GB storage, 6 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-note10-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Turbo 4",
+      "title": "Xiaomi Redmi Turbo 4 Android smartphone. Announced Jan 2025. Features 6.67″  display, Dimensity 8400 Ultra chipset, 6550 mAh battery, 512 GB storage, 16 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-turbo4.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Poco M7 Pro 5G",
+      "title": "Xiaomi Poco M7 Pro 5G Android smartphone. Announced Dec 2024. Features 6.67″  display, Dimensity 7025 Ultra chipset, 5110 mAh battery, 512 GB storage, 12 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-m7-pro-5g-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Poco C75 5G",
+      "title": "Xiaomi Poco C75 5G Android smartphone. Announced Dec 2024. Features 6.88″  display, Snapdragon 4s Gen 2 chipset, 5160 mAh battery, 128 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-c75-5g-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 14 5G (India)",
+      "title": "Xiaomi Redmi Note 14 Android smartphone. Announced Dec 2024. Features 6.67″  display, Dimensity 7025 Ultra chipset, 5110 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-14-5g-in.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 14 Pro 5G (India)",
+      "title": "Xiaomi Redmi Note 14 Pro Android smartphone. Announced Sep 2024. Features 6.67″  display, Dimensity 7300 Ultra chipset, 5500 mAh battery, 512 GB storage, 12 GB RAM, Corning Gorilla Glass Victus 2.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-14-pro-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 14 Pro+ 5G (India)",
+      "title": "Xiaomi Redmi Note 14 Pro+ Android smartphone. Announced Sep 2024. Features 6.67″  display, Snapdragon 7s Gen 3 chipset, 6200 mAh battery, 512 GB storage, 16 GB RAM, Corning Gorilla Glass Victus 2.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-14-pro-plus-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi K80 Pro",
+      "title": "Xiaomi Redmi K80 Pro Android smartphone. Announced Nov 2024. Features 6.67″  display, Snapdragon 8 Elite chipset, 6000 mAh battery, 1024 GB storage, 16 GB RAM, Longjing glass 2.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k80-pro-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi K80",
+      "title": "Xiaomi Redmi K80 Android smartphone. Announced Nov 2024. Features 6.67″  display, Snapdragon 8 Gen 3 chipset, 6550 mAh battery, 1024 GB storage, 16 GB RAM, Corning Gorilla Glass 7i.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k80-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pad 7 Pro",
+      "title": "Xiaomi Pad 7 Pro Android tablet. Announced Oct 2024. Features 11.2″  display, Snapdragon 8s Gen 3 chipset, 8850 mAh battery, 512 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-pad-7-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pad 7",
+      "title": "Xiaomi Pad 7 Android tablet. Announced Oct 2024. Features 11.2″  display, Snapdragon 7+ Gen 3 chipset, 8850 mAh battery, 256 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-pad-7-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Watch 5",
+      "title": "Xiaomi Redmi Watch 5 watch. Announced Nov 2024. Features 2.1″  display, 550 mAh battery, 164 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-watch-5.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Watch S4",
+      "title": "Xiaomi Watch S4 watch. Announced Oct 2024. Features 1.43″  display, 486 mAh battery, Scratch/drop-proof glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-watch-s4.jpg",
+      "specs": ""
+    },
+    {
+      "name": "15 Pro",
+      "title": "Xiaomi 15 Pro Android smartphone. Announced Oct 2024. Features 6.73″  display, Snapdragon 8 Elite chipset, 6100 mAh battery, 1024 GB storage, 16 GB RAM, Shatterproof glass (2024 gen).",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-15-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Poco C75",
+      "title": "Xiaomi Poco C75 Android smartphone. Announced Oct 2024. Features 6.88″  display, Helio G81 Ultra chipset, 5160 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-c75-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi A4",
+      "title": "Xiaomi Redmi A4 Android smartphone. Announced Oct 2024. Features 6.88″  display, Snapdragon 4s Gen 2 chipset, 5160 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-a4-5g-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi A3 Pro",
+      "title": "Xiaomi Redmi A3 Pro Android smartphone. Announced Oct 2024. Features 6.88″  display, Helio G81 Ultra chipset, 5160 mAh battery, 128 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-a3-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "14T Pro",
+      "title": "Xiaomi 14T Pro Android smartphone. Announced Sep 2024. Features 6.67″  display, Dimensity 9300+ chipset, 5000 mAh battery, 1024 GB storage, 16 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-14t-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "14T",
+      "title": "Xiaomi 14T Android smartphone. Announced Sep 2024. Features 6.67″  display, Dimensity 8300 Ultra chipset, 5000 mAh battery, 512 GB storage, 16 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-14t.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 14 5G (China)",
+      "title": "Xiaomi Redmi Note 14 (China) Android smartphone. Announced Sep 2024. Features 6.67″  display, Dimensity 7025 Ultra chipset, 5110 mAh battery, 256 GB storage, 12 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-14-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi 14R",
+      "title": "Xiaomi Redmi 14R Android smartphone. Announced Sep 2024. Features 6.88″  display, Snapdragon 4 Gen 2 chipset, 5160 mAh battery, 256 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-14r.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi 14C",
+      "title": "Xiaomi Redmi 14C Android smartphone. Announced Aug 2024. Features 6.88″  display, Helio G81 Ultra chipset, 5160 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-14c.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Watch 5 Lite",
+      "title": "Xiaomi Redmi Watch 5 Lite watch. Announced Sep 2024. Features 1.96″  display, 470 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-watch5-lite.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Watch 5 Active",
+      "title": "Xiaomi Redmi Watch 5 Active watch. Announced Aug 2024. Features 2.0″  display, 470 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-watch-5-active.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Poco Pad 5G",
+      "title": "Xiaomi Poco Pad 5G Android tablet. Announced Aug 2024. Features 12.1″  display, Snapdragon 7s Gen 2 chipset, 10000 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-pad-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Poco M6 Plus",
+      "title": "Xiaomi Poco M6 Plus Android smartphone. Announced Aug 2024. Features 6.79″  display, Snapdragon 4 Gen 2 AE chipset, 5030 mAh battery, 128 GB storage, 8 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-m6-plus-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Pad SE 8.7",
+      "title": "Xiaomi Redmi Pad SE 8.7 Android tablet. Announced Jul 2024. Features 8.7″  display, Helio G85 chipset, 6650 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-pad-se-4g-1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mix Flip",
+      "title": "Xiaomi Mix Flip Android smartphone. Announced Jul 2024. Features 6.86″  display, Snapdragon 8 Gen 3 chipset, 4780 mAh battery, 1024 GB storage, 16 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mix-flip.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi K70 Ultra",
+      "title": "Xiaomi Redmi K70 Ultra Android smartphone. Announced Jul 2024. Features 6.67″  display, Dimensity 9300+ chipset, 5500 mAh battery, 1024 GB storage, 24 GB RAM, Scratch/drop-resistant glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k70-ultra-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mix Fold 4",
+      "title": "Xiaomi Mix Fold 4 Android smartphone. Announced Jul 2024. Features 7.98″  display, Snapdragon 8 Gen 3 chipset, 5100 mAh battery, 1024 GB storage, 16 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mix-fold4.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Watch S4 Sport",
+      "title": "Xiaomi Watch S4 Sport watch. Announced Jul 2024. Features 1.43″  display, 586 mAh battery, 32 GB storage, Sapphire crystal glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-watch-s4-sport.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi 13 5G",
+      "title": "Xiaomi Redmi 13 5G Android smartphone. Announced Jul 2024. Features 6.79″  display, Snapdragon 4 Gen 2 AE chipset, 5030 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-13-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Poco M6 4G",
+      "title": "Xiaomi Poco M6 4G Android smartphone. Announced Jun 2024. Features 6.79″  display, Helio G91 Ultra chipset, 5030 mAh battery, 256 GB storage, 8 GB RAM, Unspecified.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-m6-4g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "14 Civi",
+      "title": "Xiaomi 14 Civi Android smartphone. Announced Jun 2024. Features 6.55″  display, Snapdragon 8s Gen 3 chipset, 4700 mAh battery, 512 GB storage, 12 GB RAM, Corning Gorilla Glass Victus 2.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-14-civi-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi 13",
+      "title": "Xiaomi Redmi 13 Android smartphone. Announced Jun 2024. Features 6.79″  display, Helio G91 Ultra chipset, 5030 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-13-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Pad Pro 5G",
+      "title": "Xiaomi Redmi Pad Pro 5G Android tablet. Announced May 2024. Features 12.1″  display, Snapdragon 7s Gen 2 chipset, 10000 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-pad-pro-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi A3x",
+      "title": "Xiaomi Redmi A3x Android smartphone. Announced May 2024. Features 6.71″  display, Unisoc T603 chipset, 5000 mAh battery, 128 GB storage, 4 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-a3x-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Poco F6 Pro",
+      "title": "Xiaomi Poco F6 Pro Android smartphone. Announced May 2024. Features 6.67″  display, Snapdragon 8 Gen 2 chipset, 5000 mAh battery, 1024 GB storage, 16 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-f6-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Poco F6",
+      "title": "Xiaomi Poco F6 Android smartphone. Announced May 2024. Features 6.67″  display, Snapdragon 8s Gen 3 chipset, 5000 mAh battery, 512 GB storage, 12 GB RAM, Corning Gorilla Glass Victus.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-f6.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Poco Pad",
+      "title": "Xiaomi Poco Pad Android tablet. Announced May 2024. Features 12.1″  display, Snapdragon 7s Gen 2 chipset, 10000 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-pad.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 13R",
+      "title": "Xiaomi Redmi Note 13R Android smartphone. Announced May 2024. Features 6.79″  display, Snapdragon 4+ Gen 2 chipset, 5030 mAh battery, 512 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-13r.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Pad Pro",
+      "title": "Xiaomi Redmi Pad Pro Android tablet. Announced Apr 2024. Features 12.1″  display, Snapdragon 7s Gen 2 chipset, 10000 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-pad-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Turbo 3",
+      "title": "Xiaomi Redmi Turbo 3 Android smartphone. Announced Apr 2024. Features 6.67″  display, Snapdragon 8s Gen 3 chipset, 5000 mAh battery, 512 GB storage, 16 GB RAM, Corning Gorilla Glass Victus.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-turbo3.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Poco C61",
+      "title": "Xiaomi Poco C61 Android smartphone. Announced Mar 2024. Features 6.71″  display, Helio G36 chipset, 5000 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-c61.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Civi 4 Pro",
+      "title": "Xiaomi Civi 4 Pro Android smartphone. Announced Mar 2024. Features 6.55″  display, Snapdragon 8s Gen 3 chipset, 4700 mAh battery, 512 GB storage, 16 GB RAM, Corning Gorilla Glass Victus 2.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-civi-4-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Poco X6 Neo",
+      "title": "Xiaomi Poco X6 Neo Android smartphone. Announced Mar 2024. Features 6.67″  display, Dimensity 6080 chipset, 5000 mAh battery, 256 GB storage, 12 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-x6-neo-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "14",
+      "title": "Xiaomi 14 Android smartphone. Announced Oct 2023. Features 6.36″  display, Snapdragon 8 Gen 3 chipset, 4610 mAh battery, 1024 GB storage, 16 GB RAM, Corning Gorilla Glass Victus.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-14-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "14 Ultra",
+      "title": "Xiaomi 14 Ultra Android smartphone. Announced Feb 2024. Features 6.73″  display, Snapdragon 8 Gen 3 chipset, 5000 mAh battery, 1024 GB storage, 16 GB RAM, Xiaomi Shield Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-14-ultra-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pad 6S Pro 12.4",
+      "title": "Xiaomi Pad 6S Pro 12.4 Android tablet. Announced Feb 2024. Features 12.4″  display, Snapdragon 8 Gen 2 chipset, 10000 mAh battery, 1024 GB storage, 16 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-pad-6s-pro-124.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Watch 2",
+      "title": "Xiaomi Watch 2 Android watch. Announced Feb 2024. Features 1.43″  display, Snapdragon W5+ Gen 1 chipset, 495 mAh battery, 32 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-watch2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Watch S3",
+      "title": "Xiaomi Watch S3 watch. Announced Oct 2023. Features 1.43″  display, 486 mAh battery, Scratch/drop-proof glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-watch-s3.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi CC9 Pro",
+      "title": "Xiaomi Mi CC9 Pro Android smartphone. Announced Nov 2019. Features 6.47″  display, Snapdragon 730G chipset, 5260 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-cc9-pro-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Watch Color",
+      "title": "Xiaomi Watch Color watch. Announced Jan 2020. Features 1.39″  display, 420 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-watch-color-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi Watch (China)",
+      "title": "Xiaomi Mi Watch (China) watch. Announced Nov 2019. Features 1.78″  display, Snapdragon Wear 3100 chipset, 590 mAh battery, 8 GB storage, 1000 MB RAM, Corning Gorilla Glass 3 or Sapphire crystal glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-watch-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi 8",
+      "title": "Xiaomi Redmi 8 Android smartphone. Announced Oct 2019. Features 6.22″  display, Snapdragon 439 chipset, 5000 mAh battery, 64 GB storage, 4 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-8.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi 8A",
+      "title": "Xiaomi Redmi 8A Android smartphone. Announced Sep 2019. Features 6.22″  display, Snapdragon 439 chipset, 5000 mAh battery, 64 GB storage, 4 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-8a.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi Mix Alpha",
+      "title": "Xiaomi Mi Mix Alpha Android smartphone. Announced Sep 2019. Features 7.92″  display, Snapdragon 855+ chipset, 4050 mAh battery, 512 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-mix-alpha.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi 9 Pro 5G",
+      "title": "Xiaomi Mi 9 Pro 5G Android smartphone. Announced Sep 2019. Features 6.39″  display, Snapdragon 855+ chipset, 4000 mAh battery, 512 GB storage, 12 GB RAM, Corning Gorilla Glass 6.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-9-pro-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi 9 Pro",
+      "title": "Xiaomi Mi 9 Pro Android smartphone. Announced Sep 2019. Features 6.39″  display, Snapdragon 855+ chipset, 4000 mAh battery, 512 GB storage, 12 GB RAM, Corning Gorilla Glass 6.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-9-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi K20 Pro Premium",
+      "title": "Xiaomi Redmi K20 Pro Premium Android smartphone. Announced Sep 2019. Features 6.39″  display, Snapdragon 855+ chipset, 4000 mAh battery, 512 GB storage, 12 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k20pro-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi 9 Lite",
+      "title": "Xiaomi Mi 9 Lite Android smartphone. Announced Sep 2019. Features 6.39″  display, Snapdragon 710 chipset, 4030 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-cc9-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 8 Pro",
+      "title": "Xiaomi Redmi Note 8 Pro Android smartphone. Announced Aug 2019. Features 6.53″  display, MT6785V chipset, 4500 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-8-pro-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Black Shark 2 Pro",
+      "title": "Xiaomi Black Shark 2 Pro Android smartphone. Announced Jul 2019. Features 6.39″  display, Snapdragon 855+ chipset, 4000 mAh battery, 256 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-black-shark2-pro-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi A3",
+      "title": "Xiaomi Mi A3 Android smartphone. Announced Jul 2019. Features 6.09″  display, Snapdragon 665 chipset, 4030 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-a3.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi 7A",
+      "title": "Xiaomi Redmi 7A Android smartphone. Announced May 2019. Features 5.45″  display, Snapdragon 439 chipset, 4000 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-7a-mzb8008in.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi CC9e",
+      "title": "Xiaomi Mi CC9e Android smartphone. Announced Jul 2019. Features 6.01″  display, Snapdragon 665 chipset, 4030 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-cc9e-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi CC9",
+      "title": "Xiaomi Mi CC9 Android smartphone. Announced Jul 2019. Features 6.39″  display, Snapdragon 710 chipset, 4030 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-cc9-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 8",
+      "title": "Xiaomi Redmi Note 8 Android smartphone. Announced Aug 2019. Features 6.3″  display, Snapdragon 665 chipset, 4000 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-8-1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi 9T Pro",
+      "title": "Xiaomi Mi 9T Pro Android smartphone. Announced Aug 2019. Features 6.39″  display, Snapdragon 855 chipset, 4000 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-9t.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi 9T",
+      "title": "Xiaomi Mi 9T Android smartphone. Announced Jun 2019. Features 6.39″  display, Snapdragon 730 chipset, 4000 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-9t.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi K20",
+      "title": "Xiaomi Redmi K20 Android smartphone. Announced May 2019. Features 6.39″  display, Snapdragon 730 chipset, 4000 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k20pro-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi K20 Pro",
+      "title": "Xiaomi Redmi K20 Pro Android smartphone. Announced May 2019. Features 6.39″  display, Snapdragon 855 chipset, 4000 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k20pro-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 7S",
+      "title": "Xiaomi Redmi Note 7S Android smartphone. Announced May 2019. Features 6.3″  display, Snapdragon 660 chipset, 4000 mAh battery, 64 GB storage, 4 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-7s.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Y3",
+      "title": "Xiaomi Redmi Y3 Android smartphone. Announced Apr 2019. Features 6.26″  display, Snapdragon 632 chipset, 4000 mAh battery, 64 GB storage, 4 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-y3.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Black Shark 2",
+      "title": "Xiaomi Black Shark 2 Android smartphone. Announced Mar 2019. Features 6.39″  display, Snapdragon 855 chipset, 4000 mAh battery, 256 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-black-shark-2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi 7",
+      "title": "Xiaomi Redmi 7 Android smartphone. Announced Mar 2019. Features 6.26″  display, Snapdragon 632 chipset, 4000 mAh battery, 64 GB storage, 4 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-7.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 7 Pro",
+      "title": "Xiaomi Redmi Note 7 Pro Android smartphone. Announced Feb 2019. Features 6.3″  display, Snapdragon 675 chipset, 4000 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-7-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi Mix 3 5G",
+      "title": "Xiaomi Mi Mix 3 5G Android smartphone. Announced Feb 2019. Features 6.39″  display, Snapdragon 855 chipset, 3800 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-mix3.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi 9 Explorer",
+      "title": "Xiaomi Mi 9 Explorer Android smartphone. Announced Feb 2019. Features 6.39″  display, Snapdragon 855 chipset, 3300 mAh battery, 256 GB storage, 12 GB RAM, Corning Gorilla Glass 6.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-9-explore.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi 9 SE",
+      "title": "Xiaomi Mi 9 SE Android smartphone. Announced Feb 2019. Features 5.97″  display, Snapdragon 712 chipset, 3070 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-9-se.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi 9",
+      "title": "Xiaomi Mi 9 Android smartphone. Announced Feb 2019. Features 6.39″  display, Snapdragon 855 chipset, 3300 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 6.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-9-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Go",
+      "title": "Xiaomi Redmi Go Android smartphone. Announced Jan 2019. Features 5.0″  display, Snapdragon 425 chipset, 3000 mAh battery, 16 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-go.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 7",
+      "title": "Xiaomi Redmi Note 7 Android smartphone. Announced Jan 2019. Features 6.3″  display, Snapdragon 660 chipset, 4000 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-7.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi Play",
+      "title": "Xiaomi Mi Play Android smartphone. Announced Dec 2018. Features 5.84″  display, MT6765 Helio P35 chipset, 3000 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-miplay.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Black Shark Helo",
+      "title": "Xiaomi Black Shark Helo Android smartphone. Announced Oct 2018. Features 6.01″  display, Snapdragon 845 chipset, Dual: 12 MP (f/1.8, 1.25µm) + 20 MP primary camera, 20 MP front camera, 4000 mAh battery, 256 GB storage, 10 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-black-shark2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi Mix 3",
+      "title": "Xiaomi Mi Mix 3 Android smartphone. Announced Oct 2018. Features 6.39″  display, Snapdragon 845 chipset, 3200 mAh battery, 256 GB storage, 10 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-mix3.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 6 Pro",
+      "title": "Xiaomi Redmi Note 6 Pro Android smartphone. Announced Sep 2018. Features 6.26″  display, Snapdragon 636 chipset, 4000 mAh battery, 64 GB storage, 6 GB RAM, Corning Gorilla Glass (unspecified version).",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-6-pro-r.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi 8 Pro",
+      "title": "Xiaomi Mi 8 Pro Android smartphone. Announced Sep 2018. Features 6.21″  display, Snapdragon 845 chipset, 3000 mAh battery, 128 GB storage, 8 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-8-pro-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi 8 Lite",
+      "title": "Xiaomi Mi 8 Lite Android smartphone. Announced Sep 2018. Features 6.26″  display, Snapdragon 660 chipset, 3350 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-8-lite-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pocophone F1",
+      "title": "Xiaomi Pocophone F1 Android smartphone. Announced Aug 2018. Features 6.18″  display, Snapdragon 845 chipset, 4000 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass (unspecified version).",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-pocophone-f1-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi A2 (Mi 6X)",
+      "title": "Xiaomi Mi A2 (Mi 6X) Android smartphone. Announced Jul 2018. Features 5.99″  display, Snapdragon 660 chipset, Dual:12 MP (f/1.8, 1/2.9″, 1.25µm) + 20 MP primary camera, 20 MP front camera, 3000 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-a2-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi A2 Lite (Redmi 6 Pro)",
+      "title": "Xiaomi Mi A2 Lite (Redmi 6 Pro) Android smartphone. Announced Jul 2018. Features 5.84″  display, Snapdragon 625 chipset, Dual: 12 MP (f/2.2, 1.25 μm, PDAF) + 5 MP primary camera, 5 MP front camera, 4000 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-a2-lite.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi Max 3",
+      "title": "Xiaomi Mi Max 3 Android smartphone. Announced Jul 2018. Features 6.9″  display, Snapdragon 636 chipset, Dual: 12 MP (f/1.9, 1.4μm, dual pixel PDAF) + 5 MP primary camera, 8 MP front camera, 5500 mAh battery, 128 GB storage, 6 GB RAM, To be confirmed.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-max3-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi Pad 4 Plus",
+      "title": "Xiaomi Mi Pad 4 Plus Android tablet. Announced Aug 2018. Features 10.1″  display, Snapdragon 660 chipset, 13 MP primary camera, 5 MP front camera, 8620 mAh battery, 128 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-pad-4-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi Pad 4",
+      "title": "Xiaomi Mi Pad 4 Android tablet. Announced Jun 2018. Features 8.0″  display, Snapdragon 660 chipset, 13 MP primary camera, 5 MP front camera, 6000 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-pad-4.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi 6",
+      "title": "Xiaomi Redmi 6 Android smartphone. Announced Jun 2018. Features 5.45″  display, MT6762 Helio P22 chipset, Dual: 12 MP (f/2.2, 1.25 μm, PDAF) + 5 MP primary camera, 5 MP front camera, 3000 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-6.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi 6A",
+      "title": "Xiaomi Redmi 6A Android smartphone. Announced Jun 2018. Features 5.45″  display, MT6761 Helio A22 chipset, 13 MP primary camera, 5 MP front camera, 3000 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-6a.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi 8 Explorer",
+      "title": "Xiaomi Mi 8 Explorer Android smartphone. Announced May 2018. Features 6.21″  display, Snapdragon 845 chipset, 3000 mAh battery, 128 GB storage, 8 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi8-explore-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi 8",
+      "title": "Xiaomi Mi 8 Android smartphone. Announced May 2018. Features 6.21″  display, Snapdragon 845 chipset, 3400 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi8.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi 8 SE",
+      "title": "Xiaomi Mi 8 SE Android smartphone. Announced May 2018. Features 5.88″  display, Snapdragon 710 chipset, Dual: 12 MP (f/1.9, 1.4µm, dual pixel PDAF) + 5 MP primary camera, 20 MP front camera, 3120 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi8-se.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi S2 (Redmi Y2)",
+      "title": "Xiaomi Redmi S2 (Redmi Y2) Android smartphone. Announced May 2018. Features 5.99″  display, Snapdragon 625 chipset, Dual: 12 MP (f/2.2, 1.25μm, PDAF) + 5 MP primary camera, 16 MP front camera, 3080 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-s2-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Poco Watch",
+      "title": "Xiaomi Poco Watch watch. Announced Apr 2022. Features 1.6″  display, 225 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-watch2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Civi 1S",
+      "title": "Xiaomi Civi 1S Android smartphone. Announced Apr 2022. Features 6.55″  display, Snapdragon 778G+ 5G chipset, 4500 mAh battery, 256 GB storage, 12 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-civi-1s.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi 10 Power",
+      "title": "Xiaomi Redmi 10 Power Android smartphone. Announced Apr 2022. Features 6.7″  display, Snapdragon 680 4G chipset, 6000 mAh battery, 128 GB storage, 8 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-10-power-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Black Shark 5 Pro",
+      "title": "Xiaomi Black Shark 5 Pro Android smartphone. Announced Mar 2022. Features 6.67″  display, Snapdragon 8 Gen 1 chipset, 4650 mAh battery, 512 GB storage, 16 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-black-shark-5-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Black Shark 5",
+      "title": "Xiaomi Black Shark 5 Android smartphone. Announced Mar 2022. Features 6.67″  display, Snapdragon 870 5G chipset, 4650 mAh battery, 256 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-black-shark-5-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Black Shark 5 RS",
+      "title": "Xiaomi Black Shark 5 RS Android smartphone. Announced Mar 2022. Features 6.67″  display, Snapdragon 888 chipset, 4500 mAh battery, 256 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-black-shark-5-rs.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi 10A",
+      "title": "Xiaomi Redmi 10A Android smartphone. Announced Mar 2022. Features 6.53″  display, MT6762G Helio G25 chipset, 5000 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-10a.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 11S 5G",
+      "title": "Xiaomi Redmi Note 11S 5G Android smartphone. Announced Mar 2022. Features 6.6″  display, Dimensity 810 chipset, 5000 mAh battery, 128 GB storage, 8 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-11s-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi 10 5G",
+      "title": "Xiaomi Redmi 10 5G Android smartphone. Announced Mar 2022. Features 6.58″  display, Dimensity 700 chipset, 5000 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-10-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 11 Pro+ 5G",
+      "title": "Xiaomi Redmi Note 11 Pro+ 5G Android smartphone. Announced Oct 2021. Features 6.67″  display, Dimensity 920 chipset, 4500 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note11-pro-plus-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi K50 Pro",
+      "title": "Xiaomi Redmi K50 Pro Android smartphone. Announced Mar 2022. Features 6.67″  display, Dimensity 9000 chipset, 5000 mAh battery, 512 GB storage, 12 GB RAM, Corning Gorilla Glass Victus.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k50-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi K50",
+      "title": "Xiaomi Redmi K50 Android smartphone. Announced Mar 2022. Features 6.67″  display, Dimensity 8100 chipset, 5500 mAh battery, 512 GB storage, 12 GB RAM, Corning Gorilla Glass Victus.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k50.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi K40S",
+      "title": "Xiaomi Redmi K40S Android smartphone. Announced Mar 2022. Features 6.67″  display, Snapdragon 870 5G chipset, 4500 mAh battery, 256 GB storage, 12 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k40s.jpg",
+      "specs": ""
+    },
+    {
+      "name": "12 Pro",
+      "title": "Xiaomi 12 Pro Android smartphone. Announced Dec 2021. Features 6.73″  display, Snapdragon 8 Gen 1 chipset, 4600 mAh battery, 256 GB storage, 12 GB RAM, Corning Gorilla Glass Victus.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-12-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "12",
+      "title": "Xiaomi 12 Android smartphone. Announced Dec 2021. Features 6.28″  display, Snapdragon 8 Gen 1 chipset, 4500 mAh battery, 256 GB storage, 12 GB RAM, Corning Gorilla Glass Victus.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-12.jpg",
+      "specs": ""
+    },
+    {
+      "name": "12X",
+      "title": "Xiaomi 12X Android smartphone. Announced Dec 2021. Features 6.28″  display, Snapdragon 870 5G chipset, 4500 mAh battery, 256 GB storage, 12 GB RAM, Corning Gorilla Glass Victus.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-12x.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Watch S1 Active",
+      "title": "Xiaomi Watch S1 Active watch. Announced Mar 2022. Features 1.43″  display, 470 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-watch-s1-active.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi 10 (India)",
+      "title": "Xiaomi Redmi 10 (India) Android smartphone. Announced Mar 2022. Features 6.7″  display, Snapdragon 680 4G chipset, 6000 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-10-india.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi 10C",
+      "title": "Xiaomi Redmi 10C Android smartphone. Announced Mar 2022. Features 6.71″  display, Snapdragon 680 4G chipset, 5000 mAh battery, 128 GB storage, 4 GB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-10c.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 11 Pro+ 5G (India)",
+      "title": "Xiaomi Redmi Note 11 Pro+ 5G (India) Android smartphone. Announced Mar 2022. Features 6.67″  display, Snapdragon 695 5G chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-note-11-pro-plus-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 11E Pro",
+      "title": "Xiaomi Redmi Note 11E Pro Android smartphone. Announced Mar 2022. Features 6.67″  display, Snapdragon 695 5G chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-11e-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 11E",
+      "title": "Xiaomi Redmi Note 11E Android smartphone. Announced Mar 2022. Features 6.58″  display, Dimensity 700 chipset, 5000 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-11e.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Poco X4 Pro 5G",
+      "title": "Xiaomi Poco X4 Pro 5G Android smartphone. Announced Feb 2022. Features 6.67″  display, Snapdragon 695 5G chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-x4-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Poco M4 Pro",
+      "title": "Xiaomi Poco M4 Pro Android smartphone. Announced Feb 2022. Features 6.43″  display, MT6781 Helio G96 chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-m4-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi K50 Gaming",
+      "title": "Xiaomi Redmi K50 Gaming Android smartphone. Announced Feb 2022. Features 6.67″  display, Snapdragon 8 Gen 1 chipset, 4700 mAh battery, 256 GB storage, 12 GB RAM, Corning Gorilla Glass Victus.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k50-gaming.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi 10 2022",
+      "title": "Xiaomi Redmi 10 2022 Android smartphone. Announced Feb 2022. Features 6.5″  display, MT6769H Helio G88 chipset, 5000 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-11-4g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 11 Pro 5G",
+      "title": "Xiaomi Redmi Note 11 Pro 5G Android smartphone. Announced Jan 2022. Features 6.67″  display, Snapdragon 695 5G chipset, 5000 mAh battery, 128 GB storage, 8 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-11-pro-5g-global.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 11 Pro",
+      "title": "Xiaomi Redmi Note 11 Pro Android smartphone. Announced Jan 2022. Features 6.67″  display, MT6781 Helio G96 chipset, 5000 mAh battery, 128 GB storage, 8 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-11-pro-global.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 11S",
+      "title": "Xiaomi Redmi Note 11S Android smartphone. Announced Jan 2022. Features 6.43″  display, MT6781 Helio G96 chipset, 5000 mAh battery, 128 GB storage, 8 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-11s-global.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 11",
+      "title": "Xiaomi Redmi Note 11 Android smartphone. Announced Jan 2022. Features 6.43″  display, Snapdragon 680 4G chipset, 5000 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-11-global.jpg",
+      "specs": ""
+    },
+    {
+      "name": "11i HyperCharge 5G",
+      "title": "Xiaomi 11i HyperCharge 5G Android smartphone. Announced Jan 2022. Features 6.67″  display, Dimensity 920 chipset, 4500 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-11i-hypercharge.jpg",
+      "specs": ""
+    },
+    {
+      "name": "11i",
+      "title": "Xiaomi 11i Android smartphone. Announced Jan 2022. Features 6.67″  display, Dimensity 920 chipset, 5160 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-11i.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Watch S1",
+      "title": "Xiaomi Watch S1 watch. Announced Dec 2021. Features 1.43″  display, 470 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-watch-s1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 11T 5G",
+      "title": "Xiaomi Redmi Note 11T 5G Android smartphone. Announced Nov 2021. Features 6.6″  display, Dimensity 810 chipset, 5000 mAh battery, 128 GB storage, 8 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-11t-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 11 4G",
+      "title": "Xiaomi Redmi Note 11 4G Android smartphone. Announced Nov 2021. Features 6.5″  display, MT6769H Helio G88 chipset, 5000 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-11-4g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Poco M4 Pro 5G",
+      "title": "Xiaomi Poco M4 Pro 5G Android smartphone. Announced Nov 2021. Features 6.6″  display, Dimensity 810 chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-m4-pro-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 11 Pro (China)",
+      "title": "Xiaomi Redmi Note 11 Pro (China) Android smartphone. Announced Oct 2021. Features 6.67″  display, Dimensity 920 chipset, 5160 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note11-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 11 (China)",
+      "title": "Xiaomi Redmi Note 11 (China) Android smartphone. Announced Oct 2021. Features 6.6″  display, Dimensity 810 chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note11.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Watch 2 Lite",
+      "title": "Xiaomi Redmi Watch 2 Lite watch. Announced Nov 2021. Features 1.55″  display, 262 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-watch2-lite.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Watch 2",
+      "title": "Xiaomi Redmi Watch 2 watch. Announced Oct 2021. Features 1.6″  display, 225 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-watch2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Black Shark 4S Pro",
+      "title": "Xiaomi Black Shark 4S Pro Android smartphone. Announced Oct 2021. Features 6.67″  display, Snapdragon 888+ 5G chipset, 4500 mAh battery, 512 GB storage, 16 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-black-shark-4s-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Black Shark 4S",
+      "title": "Xiaomi Black Shark 4S Android smartphone. Announced Oct 2021. Features 6.67″  display, Snapdragon 870 5G chipset, 4500 mAh battery, 256 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-black-shark-4s.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 10 Lite",
+      "title": "Xiaomi Redmi Note 10 Lite Android smartphone. Announced Oct 2021. Features 6.67″  display, Snapdragon 720G chipset, 5020 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-10-lite.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Civi",
+      "title": "Xiaomi Civi Android smartphone. Announced Sep 2021. Features 6.55″  display, Snapdragon 778G 5G chipset, 4500 mAh battery, 256 GB storage, 12 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-civi.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Watch Color 2",
+      "title": "Xiaomi Watch Color 2 watch. Announced Sep 2021. Features 1.43″  display, 470 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-watch-color2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi 9i Sport",
+      "title": "Xiaomi Redmi 9i Sport Android smartphone. Announced Sep 2021. Features 6.53″  display, MT6762G Helio G25 chipset, 5000 mAh battery, 128 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-9i-sport.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi 9A Sport",
+      "title": "Xiaomi Redmi 9A Sport Android smartphone. Announced Sep 2021. Features 6.53″  display, MT6762G Helio G25 chipset, 5000 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-9a-sport.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Poco C31",
+      "title": "Xiaomi Poco C31 Android smartphone. Announced Sep 2021. Features 6.53″  display, MT6765G Helio G35 chipset, 5000 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-c31.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi 9 Activ",
+      "title": "Xiaomi Redmi 9 Activ Android smartphone. Announced Sep 2021. Features 6.53″  display, MT6765G Helio G35 chipset, 5000 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-9-activ.jpg",
+      "specs": ""
+    },
+    {
+      "name": "11T Pro",
+      "title": "Xiaomi 11T Pro Android smartphone. Announced Sep 2021. Features 6.67″  display, Snapdragon 888 5G chipset, 5000 mAh battery, 256 GB storage, 12 GB RAM, Corning Gorilla Glass Victus.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-11t-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi A3",
+      "title": "Xiaomi Redmi A3 Android smartphone. Announced Feb 2024. Features 6.71″  display, Helio G36 chipset, 5000 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-a3.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 13 Pro 4G",
+      "title": "Xiaomi Redmi Note 13 Pro 4G Android smartphone. Announced Jan 2024. Features 6.67″  display, Helio G99 Ultra chipset, 5000 mAh battery, 512 GB storage, 12 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-13-pro-4g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 13 4G",
+      "title": "Xiaomi Redmi Note 13 4G Android smartphone. Announced Jan 2024. Features 6.67″  display, Snapdragon 685 chipset, 5000 mAh battery, 512 GB storage, 8 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-13-4g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 13 Pro+",
+      "title": "Xiaomi Redmi Note 13 Pro+ Android smartphone. Announced Sep 2023. Features 6.67″  display, Dimensity 7200 Ultra chipset, 5000 mAh battery, 512 GB storage, 16 GB RAM, Corning Gorilla Glass Victus.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-13-pro-plus-int.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 13 Pro",
+      "title": "Xiaomi Redmi Note 13 Pro Android smartphone. Announced Sep 2023. Features 6.67″  display, Snapdragon 7s Gen 2 chipset, 5100 mAh battery, 512 GB storage, 16 GB RAM, Corning Gorilla Glass Victus.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-13-pro-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 13",
+      "title": "Xiaomi Redmi Note 13 Android smartphone. Announced Jan 2024. Features 6.67″  display, Dimensity 6080 chipset, 5000 mAh battery, 512 GB storage, 12 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-13-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Poco X6 Pro",
+      "title": "Xiaomi Poco X6 Pro Android smartphone. Announced Jan 2024. Features 6.67″  display, Dimensity 8300 Ultra chipset, 5000 mAh battery, 512 GB storage, 12 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-x6-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Poco X6",
+      "title": "Xiaomi Poco X6 Android smartphone. Announced Jan 2024. Features 6.67″  display, Snapdragon 7s Gen 2 chipset, 5100 mAh battery, 512 GB storage, 12 GB RAM, Corning Gorilla Glass Victus.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-x6.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Poco M6 Pro 4G",
+      "title": "Xiaomi Poco M6 Pro 4G Android smartphone. Announced Jan 2024. Features 6.67″  display, Helio G99 Ultra chipset, 5000 mAh battery, 512 GB storage, 12 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-m6-pro-4g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Poco M6",
+      "title": "Xiaomi Poco M6 Android smartphone. Announced Dec 2023. Features 6.74″  display, Dimensity 6100+ chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-m6-5g-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi 13R",
+      "title": "Xiaomi Redmi 13R Android smartphone. Announced Dec 2023. Features 6.74″  display, Dimensity 6100+ chipset, 5000 mAh battery, 128 GB storage, 4 GB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-13r-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi 13C 5G",
+      "title": "Xiaomi Redmi 13C 5G Android smartphone. Announced Dec 2023. Features 6.74″  display, Dimensity 6100+ chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-13c-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi K70 Pro",
+      "title": "Xiaomi Redmi K70 Pro Android smartphone. Announced Nov 2023. Features 6.67″  display, Snapdragon 8 Gen 3 chipset, 5000 mAh battery, 1024 GB storage, 24 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k70-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi K70",
+      "title": "Xiaomi Redmi K70 Android smartphone. Announced Nov 2023. Features 6.67″  display, Snapdragon 8 Gen 2 chipset, 5000 mAh battery, 1024 GB storage, 16 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k70.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi K70E",
+      "title": "Xiaomi Redmi K70E Android smartphone. Announced Nov 2023. Features 6.67″  display, Dimensity 8300 Ultra chipset, 5500 mAh battery, 1024 GB storage, 16 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k70e.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Watch 4",
+      "title": "Xiaomi Redmi Watch 4 watch. Announced Nov 2023. Features 1.97″  display, 470 mAh battery, 16 GB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-watch4.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 13R Pro",
+      "title": "Xiaomi Redmi Note 13R Pro Android smartphone. Announced Nov 2023. Features 6.67″  display, Dimensity 6080 chipset, 5000 mAh battery, 256 GB storage, 12 GB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-13r-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi 13C",
+      "title": "Xiaomi Redmi 13C Android smartphone. Announced Nov 2023. Features 6.74″  display, MT6769Z Helio G85 chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-13c.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Poco C65",
+      "title": "Xiaomi Poco C65 Android smartphone. Announced Nov 2023. Features 6.74″  display, MT6769Z Helio G85 chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-c65.jpg",
+      "specs": ""
+    },
+    {
+      "name": "14 Pro",
+      "title": "Xiaomi 14 Pro Android smartphone. Announced Oct 2023. Features 6.73″  display, Snapdragon 8 Gen 3 chipset, 4880 mAh battery, 1024 GB storage, 16 GB RAM, Shatterproof glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-14-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "13T Pro",
+      "title": "Xiaomi 13T Pro Android smartphone. Announced Sep 2023. Features 6.67″  display, Dimensity 9200+ chipset, 5000 mAh battery, 1024 GB storage, 16 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-13t-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "13T",
+      "title": "Xiaomi 13T Android smartphone. Announced Sep 2023. Features 6.67″  display, Dimensity 8200 Ultra chipset, 5000 mAh battery, 256 GB storage, 12 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-13t.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Watch 2 Pro",
+      "title": "Xiaomi Watch 2 Pro Android watch. Announced Sep 2023. Features 1.43″  display, Snapdragon W5+ Gen 1 chipset, 495 mAh battery, 32 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-watch-2-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 13 (China)",
+      "title": "Xiaomi Redmi Note 13 (China) Android smartphone. Announced Sep 2023. Features 6.67″  display, Dimensity 6080 chipset, 5000 mAh battery, 256 GB storage, 12 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-13.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Pad SE",
+      "title": "Xiaomi Redmi Pad SE Android tablet. Announced Aug 2023. Features 11.0″  display, Snapdragon 680 4G chipset, 8000 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-pad-se.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi K60 Ultra",
+      "title": "Xiaomi Redmi K60 Ultra Android smartphone. Announced Aug 2023. Features 6.67″  display, Dimensity 9200+ chipset, 5000 mAh battery, 1024 GB storage, 24 GB RAM, Unspecified.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k60-ultra.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mix Fold 3",
+      "title": "Xiaomi Mix Fold 3 Android smartphone. Announced Aug 2023. Features 8.03″  display, Snapdragon 8 Gen 2 chipset, 4800 mAh battery, 1024 GB storage, 16 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mix-fold3-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pad 6 Max 14",
+      "title": "Xiaomi Pad 6 Max 14 Android tablet. Announced Aug 2023. Features 14.0″  display, Snapdragon 8+ Gen 1 chipset, 10000 mAh battery, 1024 GB storage, 16 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-pad-6-max-14.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Poco M6 Pro",
+      "title": "Xiaomi Poco M6 Pro Android smartphone. Announced Aug 2023. Features 6.79″  display, Snapdragon 4 Gen 2 chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-m6-pro-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Watch 3 Active",
+      "title": "Xiaomi Redmi Watch 3 Active watch. Announced Aug 2023. Features 1.83″  display, 289 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-watch-3-active.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi 12 5G",
+      "title": "Xiaomi Redmi 12 5G Android smartphone. Announced Aug 2023. Features 6.79″  display, Snapdragon 4 Gen 2 chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-12-5g-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 12R",
+      "title": "Xiaomi Redmi Note 12R Android smartphone. Announced Jun 2023. Features 6.79″  display, Snapdragon 4 Gen 2 chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-12r.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 12R Pro",
+      "title": "Xiaomi Redmi Note 12R Pro Android smartphone. Announced Jun 2023. Features 6.67″  display, Snapdragon 4 Gen 1 chipset, 5000 mAh battery, 256 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-12r-pro-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi 12",
+      "title": "Xiaomi Redmi 12 Android smartphone. Announced Jun 2023. Features 6.79″  display, MT6769H Helio G88 chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-12-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 12T Pro",
+      "title": "Xiaomi Redmi Note 12T Pro Android smartphone. Announced May 2023. Features 6.6″  display, Dimensity 8200 Ultra chipset, 5080 mAh battery, 512 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-12t-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Civi 3",
+      "title": "Xiaomi Civi 3 Android smartphone. Announced May 2023. Features 6.55″  display, Dimensity 8200 Ultra chipset, 4500 mAh battery, 1024 GB storage, 16 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-civi-3.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Poco F5 Pro",
+      "title": "Xiaomi Poco F5 Pro Android smartphone. Announced May 2023. Features 6.67″  display, Snapdragon 8+ Gen 1 chipset, 5160 mAh battery, 512 GB storage, 12 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-f5-pro-2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Poco F5",
+      "title": "Xiaomi Poco F5 Android smartphone. Announced May 2023. Features 6.67″  display, Snapdragon 7+ Gen 2 chipset, 5000 mAh battery, 256 GB storage, 12 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-f5-2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "13 Ultra",
+      "title": "Xiaomi 13 Ultra Android smartphone. Announced Apr 2023. Features 6.73″  display, Snapdragon 8 Gen 2 chipset, 5000 mAh battery, 1024 GB storage, 16 GB RAM, Corning Gorilla Glass Victus.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-13-ultra.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pad 6 Pro",
+      "title": "Xiaomi Pad 6 Pro Android tablet. Announced Apr 2023. Features 11.0″  display, Snapdragon 8+ Gen 1 chipset, 8600 mAh battery, 512 GB storage, 12 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-pad6-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pad 6",
+      "title": "Xiaomi Pad 6 Android tablet. Announced Apr 2023. Features 11.0″  display, Snapdragon 870 5G chipset, 8840 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-pad6.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Poco C51",
+      "title": "Xiaomi Poco C51 Android smartphone. Announced Apr 2023. Features 6.52″  display, Helio G36 chipset, 5000 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-c51.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 12S",
+      "title": "Xiaomi Redmi Note 12S Android smartphone. Announced Mar 2023. Features 6.43″  display, MT6781 Helio G96 chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-12s.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 12 Pro 4G",
+      "title": "Xiaomi Redmi Note 12 Pro 4G Android smartphone. Announced Mar 2023. Features 6.67″  display, Snapdragon 732G chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-12-pro-4g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 12 Turbo",
+      "title": "Xiaomi Redmi Note 12 Turbo Android smartphone. Announced Mar 2023. Features 6.67″  display, Snapdragon 7+ Gen 2 chipset, 5000 mAh battery, 1024 GB storage, 16 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-12-turbo.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi A2+",
+      "title": "Xiaomi Redmi A2+ Android smartphone. Announced Mar 2023. Features 6.52″  display, Helio G36 chipset, 5000 mAh battery, 128 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-a2-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi A2",
+      "title": "Xiaomi Redmi A2 Android smartphone. Announced Mar 2023. Features 6.52″  display, Helio G36 chipset, 5000 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-a2-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 12 4G",
+      "title": "Xiaomi Redmi Note 12 4G Android smartphone. Announced Mar 2023. Features 6.67″  display, Snapdragon 685 chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/redmi-note-12-4g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "13 Pro",
+      "title": "Xiaomi 13 Pro Android smartphone. Announced Dec 2022. Features 6.73″  display, Snapdragon 8 Gen 2 chipset, 4820 mAh battery, 512 GB storage, 12 GB RAM, Corning Gorilla Glass Victus.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-13-pro-black.jpg",
+      "specs": ""
+    },
+    {
+      "name": "13",
+      "title": "Xiaomi 13 Android smartphone. Announced Dec 2022. Features 6.36″  display, Snapdragon 8 Gen 2 chipset, 4500 mAh battery, 512 GB storage, 12 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-13-red.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi 4 LTE",
+      "title": "Xiaomi Mi 4 LTE Android smartphone. Announced Dec 2014. Features 5.0″  display, Snapdragon 801 chipset, 13 MP primary camera, 8 MP front camera, 3080 mAh battery, 16 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-4-lte.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 4G",
+      "title": "Xiaomi Redmi Note 4G Android smartphone. Announced Aug 2014. Features 5.5″  display, Snapdragon 400 chipset, 13 MP primary camera, 5 MP front camera, 3100 mAh battery, 8 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-4g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi 4",
+      "title": "Xiaomi Mi 4 Android smartphone. Announced Jul 2014. Features 5.0″  display, Snapdragon 801 chipset, 13 MP primary camera, 8 MP front camera, 3080 mAh battery, 64 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-4.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi Pad 7.9",
+      "title": "Xiaomi Mi Pad 7.9 Android tablet. Announced Mar 2014. Features 7.9″  display, Nvidia Tegra K1 chipset, 8 MP primary camera, 5 MP front camera, 6700 mAh battery, 64 GB storage, 2 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-pad-79.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note",
+      "title": "Xiaomi Redmi Note Android smartphone. Announced Mar 2014. Features 5.5″  display, MT6592 chipset, 13 MP primary camera, 5 MP front camera, 3200 mAh battery, 8 GB storage, 2 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi 3",
+      "title": "Xiaomi Mi 3 Android smartphone. Announced Sep 2013. Features 5.0″  display, Snapdragon 800 chipset, 13 MP primary camera, 2 MP front camera, 3050 mAh battery, 64 GB storage, 2 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi3.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi 1S",
+      "title": "Xiaomi Redmi 1S Android smartphone. Announced May 2014. Features 4.7″  display, Snapdragon 400 chipset, 8 MP primary camera, 1.6 MP front camera, 2000 mAh battery, 8 GB storage, 1000 MB RAM, Asahi Dragontrail Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/Xiaomi-Hongmi-Redmi-1s.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi",
+      "title": "Xiaomi Redmi Android smartphone. Announced Jul 2013. Features 4.7″  display, MT6589T chipset, 8 MP primary camera, 1.3 MP front camera, 2000 mAh battery, 4 GB storage, 1000 MB RAM, Corning Gorilla Glass 2.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-hongmi.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi 2A",
+      "title": "Xiaomi Mi 2A Android smartphone. Announced  2013. Features 4.5″  display, Snapdragon S4 Pro chipset, 8 MP primary camera, 2 MP front camera, 2030 mAh battery, 16 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi2a.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi 2S",
+      "title": "Xiaomi Mi 2S Android smartphone. Announced Apr 2013. Features 4.3″  display, Snapdragon S4 Pro chipset, 8 MP, f/2.2 (16 GB version) or 13 MP primary camera, 2 MP front camera, 2000 mAh battery, 32 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi2s.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi 2",
+      "title": "Xiaomi Mi 2 Android smartphone. Announced Aug 2012. Features 4.3″  display, Snapdragon S4 Pro chipset, 8 MP primary camera, 2 MP front camera, 2000 mAh battery, 32 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi 1S",
+      "title": "Xiaomi Mi 1S Android smartphone. Announced Aug 2012. Features 4.0″  display, Snapdragon S3 chipset, 8 MP primary camera, 2 MP front camera, 1930 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "12 Lite NE",
+      "title": "Xiaomi 12 Lite NE Android smartphone. Not announced yet. Features 6.55″  display, Snapdragon 7 Gen 1 chipset, 4500 mAh battery, 256 GB storage, 12 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-civi2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi 11",
+      "title": "Xiaomi Redmi 11 Android smartphone. Not announced yet. Features 6.58″  display, Dimensity 700 chipset, 5000 mAh battery, 128 GB storage, 6 GB RAM, Unspecified.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-11e.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi 10 Prime+ 5G",
+      "title": "Xiaomi Redmi 10 Prime+ 5G Android smartphone. Not announced yet. Features 6.58″  display, Dimensity 700 chipset, 5000 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/smartphone.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Poco X4 NFC",
+      "title": "Xiaomi Poco X4 NFC Android smartphone. Not announced yet. Features 6.67″  display, Dimensity 920 chipset, 5160 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/smartphone.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Poco M3 Pro",
+      "title": "Xiaomi Poco M3 Pro Android smartphone. Announced May 2021. Features 6.5″  display, Dimensity 700 chipset, 5000 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-m3-pro-4g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi 20X",
+      "title": "Xiaomi Redmi 20X Android smartphone. Not announced yet. Features 6.5″  display, Dimensity 700 chipset, 5000 mAh battery, 128 GB storage, 6 GB RAM, Unspecified.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/smartphone.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi 11A",
+      "title": "Xiaomi Redmi 11A Android smartphone. Not announced yet. Features 6.7″  display, 5000 mAh battery, 256 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-11a-r.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi 10 Lite Zoom",
+      "title": "Xiaomi Mi 10 Lite Zoom Android smartphone. Not announced yet. Features 6.57″  display, Snapdragon 765G 5G chipset, 4160 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/smartphone.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi 9X",
+      "title": "Xiaomi Mi 9X Android smartphone. Not announced yet. Features 6.39″  display, Snapdragon 675 chipset, 3300 mAh battery, 64 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/smartphone.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi Max 4 Pro",
+      "title": "Xiaomi Mi Max 4 Pro Android smartphone. Not announced yet. Features 7.2″  display, Snapdragon 675 chipset, 5800 mAh battery, 128 GB storage, 8 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/smartphone.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi Max 4",
+      "title": "Xiaomi Mi Max 4 Android smartphone. Not announced yet. Features 7.2″  display, Snapdragon 660 chipset, 5800 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/smartphone.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi 6c",
+      "title": "Xiaomi Mi 6c Android smartphone. Not announced yet. Features 5.15″  display, Xiaomi Surge S2 chipset, Dual: 12 MP (1/2.9″, 1.25µm, PDAF, OIS) + 5 MP primary camera, 8 MP front camera, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/smartphone.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Pro 2",
+      "title": "Xiaomi Redmi Pro 2 Android smartphone. Not announced yet. Features 6.39″  display, Snapdragon 855 chipset, Dual: 12 MP (1/2.55″, 1.4µm, PDAF) + 5 MP primary camera, 16 MP front camera, 3600 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/smartphone.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi Note Plus",
+      "title": "Xiaomi Mi Note Plus Android smartphone. Not announced yet. Features 5.7″  display, Snapdragon 810 chipset, 13 MP primary camera, 4 MP front camera, 64 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/smartphone.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi Mix 2S",
+      "title": "Xiaomi Mi Mix 2S Android smartphone. Announced Mar 2018. Features 5.99″  display, Snapdragon 845 chipset, Dual: 12 MP (f/1.8, 1/2.55″, 1.4µm, 4-axis OIS, dual pixel PDAF) + 12 MP primary camera, 5 MP front camera, 3400 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 4.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-mix-2s.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 5 AI Dual Camera",
+      "title": "Xiaomi Redmi Note 5 AI Dual Camera Android smartphone. Announced Mar 2018. Features 5.99″  display, Snapdragon 636 chipset, Dual: 12 MP (f/1.9, 1.4µm, dual pixel PDAF) + 5 MP primary camera, 13 MP front camera, 4000 mAh battery, 64 GB storage, 6 GB RAM, Corning Gorilla Glass (unspecified version).",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-5-ai-dual-camera.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 5 Pro",
+      "title": "Xiaomi Redmi Note 5 Pro Android smartphone. Announced Feb 2018. Features 5.99″  display, Snapdragon 636 chipset, Dual: 12 MP (f/2.2, 1.25µm, PDAF) + 5 MP primary camera, 20 MP front camera, 4000 mAh battery, 64 GB storage, 6 GB RAM, Corning Gorilla Glass (unspecified version).",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-5-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Black Shark",
+      "title": "Xiaomi Black Shark Android smartphone. Announced Apr 2018. Features 5.99″  display, Snapdragon 845 chipset, Dual: 12 MP (f/1.8, 1.25µm) + 20 MP primary camera, 20 MP front camera, 4000 mAh battery, 128 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-black-shark.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi 5 Plus (Redmi Note 5)",
+      "title": "Xiaomi Redmi 5 Plus (Redmi Note 5) Android smartphone. Announced Feb 2018. Features 5.99″  display, Snapdragon 625 chipset, 12 MP primary camera, 5 MP front camera, 4000 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-5-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi 5",
+      "title": "Xiaomi Redmi 5 Android smartphone. Announced Dec 2017. Features 5.7″  display, Snapdragon 450 chipset, 12 MP primary camera, 5 MP front camera, 3300 mAh battery, 64 GB storage, 4 GB RAM, Corning Gorilla Glass (unspecified version).",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-5.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi 5A",
+      "title": "Xiaomi Redmi 5A Android smartphone. Announced Nov 2017. Features 5.0″  display, Snapdragon 425 chipset, 13 MP primary camera, 5 MP front camera, 3000 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-5a.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Y1 (Note 5A)",
+      "title": "Xiaomi Redmi Y1 (Note 5A) Android smartphone. Announced Nov 2017. Features 5.5″  display, Snapdragon 435 chipset, 13 MP primary camera, 16 MP front camera, 3080 mAh battery, 64 GB storage, 4 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-5a.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Y1 Lite",
+      "title": "Xiaomi Redmi Y1 Lite Android smartphone. Announced Nov 2017. Features 5.5″  display, Snapdragon 425 chipset, 13 MP primary camera, 5 MP front camera, 3080 mAh battery, 16 GB storage, 2 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-5as.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi Note 3",
+      "title": "Xiaomi Mi Note 3 Android smartphone. Announced Sep 2017. Features 5.5″  display, Snapdragon 660 chipset, Dual: 12 MP (f/1.8, 27mm, 4-axis OIS) + 12 MP primary camera, 16 MP front camera, 3500 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass 4.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-note3-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi Mix 2",
+      "title": "Xiaomi Mi Mix 2 Android smartphone. Announced Sep 2017. Features 5.99″  display, Snapdragon 835 chipset, 12 MP primary camera, 5 MP front camera, 3400 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 4.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-mix2-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi A1 (Mi 5X)",
+      "title": "Xiaomi Mi A1 (Mi 5X) Android smartphone. Announced Sep 2017. Features 5.5″  display, Snapdragon 625 chipset, Dual: 12 MP (f/2.2, 26mm, 1.25µm) + 12 MP primary camera, 5 MP front camera, 3080 mAh battery, 64 GB storage, 4 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-a1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi Max 2",
+      "title": "Xiaomi Mi Max 2 Android smartphone. Announced May 2017. Features 6.44″  display, Snapdragon 625 chipset, 12 MP primary camera, 5 MP front camera, 5300 mAh battery, 128 GB storage, 4 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-max2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi 4 (4X)",
+      "title": "Xiaomi Redmi 4 (4X) Android smartphone. Announced May 2017. Features 5.0″  display, Snapdragon 435 chipset, 13 MP primary camera, 5 MP front camera, 4100 mAh battery, 64 GB storage, 4 GB RAM, Corning Gorilla Glass (unspecified version).",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-4x.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi 6",
+      "title": "Xiaomi Mi 6 Android smartphone. Announced Apr 2017. Features 5.15″  display, Snapdragon 835 chipset, Dual: 12 MP (f/1.8, 27mm, 1/2.9″, 1.25µm, 4-axis OIS) + 12 MP primary camera, 8 MP front camera, 3350 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass 4.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-6.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi Pad 3",
+      "title": "Xiaomi Mi Pad 3 Android tablet. Announced Apr 2017. Features 7.9″  display, MT8176 chipset, 13 MP primary camera, 5 MP front camera, 6600 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-pad-3-1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi 5c",
+      "title": "Xiaomi Mi 5c Android smartphone. Announced Feb 2017. Features 5.15″  display, Xiaomi Surge S1 chipset, 12 MP primary camera, 8 MP front camera, 2860 mAh battery, 64 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-5c.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 4X",
+      "title": "Xiaomi Redmi Note 4X Android smartphone. Announced Feb 2017. Features 5.5″  display, Snapdragon 625 chipset, 13 MP primary camera, 5 MP front camera, 4100 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-4x.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 4",
+      "title": "Xiaomi Redmi Note 4 Android smartphone. Announced Jan 2017. Features 5.5″  display, Snapdragon 625 chipset, 13 MP primary camera, 5 MP front camera, 4100 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-4-sn.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi 4A",
+      "title": "Xiaomi Redmi 4A Android smartphone. Announced Nov 2016. Features 5.0″  display, Snapdragon 425 chipset, 13 MP primary camera, 5 MP front camera, 3120 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-4a-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi 4 (China)",
+      "title": "Xiaomi Redmi 4 (China) Android smartphone. Announced Nov 2016. Features 5.0″  display, Snapdragon 430 chipset, 13 MP primary camera, 5 MP front camera, 4100 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-4-prime-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi 6 Plus",
+      "title": "Xiaomi Mi 6 Plus Android smartphone. Not announced yet. Features 5.7″  display, Snapdragon 835 chipset, Dual: 12 MP (f/1.8, 27mm, 1/2.9″, 1.25µm, 4-axis OIS) + 12 MP primary camera, 8 MP front camera, 4500 mAh battery, 128 GB storage, 6 GB RAM, To be confirmed.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-6-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi 4 Prime",
+      "title": "Xiaomi Redmi 4 Prime Android smartphone. Announced Nov 2016. Features 5.0″  display, Snapdragon 625 chipset, 13 MP primary camera, 5 MP front camera, 4100 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-4-prime-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi Mix",
+      "title": "Xiaomi Mi Mix Android smartphone. Announced Oct 2016. Features 6.4″  display, Snapdragon 821 chipset, 16 MP primary camera, 5 MP front camera, 4400 mAh battery, 256 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mix-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi Note 2",
+      "title": "Xiaomi Mi Note 2 Android smartphone. Announced Oct 2016. Features 5.7″  display, Snapdragon 821 chipset, 22.5 MP primary camera, 8 MP front camera, 4070 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-note2-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi 5s Plus",
+      "title": "Xiaomi Mi 5s Plus Android smartphone. Announced Sep 2016. Features 5.7″  display, Snapdragon 821 chipset, Dual: 13 MP (f/2.0, 1/3″, 1.12µm) + 13 MP primary camera, 4 MP front camera, 3800 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-5s-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi 5s",
+      "title": "Xiaomi Mi 5s Android smartphone. Announced Sep 2016. Features 5.15″  display, Snapdragon 821 chipset, 12 MP primary camera, 4 MP front camera, 3200 mAh battery, 128 GB storage, 4 GB RAM, To be confirmed.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-5s1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 4 (MediaTek)",
+      "title": "Xiaomi Redmi Note 4 (MediaTek) Android smartphone. Announced Aug 2016. Features 5.5″  display, MT6797 Helio X20 chipset, 13 MP primary camera, 5 MP front camera, 4100 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-4.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Pro",
+      "title": "Xiaomi Redmi Pro Android smartphone. Announced Jul 2016. Features 5.5″  display, MT6797T Helio X25 chipset, Dual: 13 MP (f/2.0, PDAF) + 5 MP primary camera, 5 MP front camera, 4050 mAh battery, 128 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi 3x",
+      "title": "Xiaomi Redmi 3x Android smartphone. Announced Jun 2016. Features 5.0″  display, Snapdragon 430 chipset, 13 MP primary camera, 5 MP front camera, 4100 mAh battery, 32 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-3x.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi 3s Prime",
+      "title": "Xiaomi Redmi 3s Prime Android smartphone. Announced Aug 2016. Features 5.0″  display, Snapdragon 430 chipset, 13 MP primary camera, 5 MP front camera, 4100 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-3-pro-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi 3s",
+      "title": "Xiaomi Redmi 3s Android smartphone. Announced Jun 2016. Features 5.0″  display, Snapdragon 430 chipset, 13 MP primary camera, 5 MP front camera, 4100 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-3s.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi 3 Pro",
+      "title": "Xiaomi Redmi 3 Pro Android smartphone. Announced Mar 2016. Features 5.0″  display, Snapdragon 616 chipset, 13 MP primary camera, 5 MP front camera, 4100 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-3-pro-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi Max",
+      "title": "Xiaomi Mi Max Android smartphone. Announced May 2016. Features 6.44″  display, Snapdragon 650 chipset, 16 MP primary camera, 5 MP front camera, 4850 mAh battery, 128 GB storage, 4 GB RAM, Corning Gorilla Glass 4.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-max-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi 5",
+      "title": "Xiaomi Mi 5 Android smartphone. Announced Feb 2016. Features 5.15″  display, Snapdragon 820 chipset, 16 MP primary camera, 4 MP front camera, 3000 mAh battery, 128 GB storage, 4 GB RAM, Corning Gorilla Glass 4.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-5.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi 4s",
+      "title": "Xiaomi Mi 4s Android smartphone. Announced Feb 2016. Features 5.0″  display, Snapdragon 808 chipset, 13 MP primary camera, 5 MP front camera, 3260 mAh battery, 64 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-4s.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 3",
+      "title": "Xiaomi Redmi Note 3 Android smartphone. Announced Jan 2016. Features 5.5″  display, Snapdragon 650 chipset, 16 MP primary camera, 5 MP front camera, 4050 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-3.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi 3",
+      "title": "Xiaomi Redmi 3 Android smartphone. Announced Jan 2016. Features 5.0″  display, Snapdragon 616 chipset, 13 MP primary camera, 5 MP front camera, 4100 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-3-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note Prime",
+      "title": "Xiaomi Redmi Note Prime Android smartphone. Announced Dec 2015. Features 5.5″  display, Snapdragon 410 chipset, 13 MP primary camera, 5 MP front camera, 3100 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-prime-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi Pad 2",
+      "title": "Xiaomi Mi Pad 2 Android tablet. Announced Nov 2015. Features 7.9″  display, Intel Atom X5-Z8500 chipset, 8 MP primary camera, 5 MP front camera, 6190 mAh battery, 64 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-pad-2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 3 (MediaTek)",
+      "title": "Xiaomi Redmi Note 3 (MediaTek) Android smartphone. Announced Nov 2015. Features 5.5″  display, MT6795 Helio X10 chipset, 13 MP primary camera, 5 MP front camera, 4000 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-3.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi 4c",
+      "title": "Xiaomi Mi 4c Android smartphone. Announced Sep 2015. Features 5.0″  display, Snapdragon 808 chipset, 13 MP primary camera, 5 MP front camera, 3080 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-4c.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 2",
+      "title": "Xiaomi Redmi Note 2 Android smartphone. Announced Aug 2015. Features 5.5″  display, MT6795 Helio X10 chipset, 13 MP primary camera, 5 MP front camera, 3060 mAh battery, 32 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-2--.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi 2 Pro",
+      "title": "Xiaomi Redmi 2 Pro Android smartphone. Announced Oct 2015. Features 4.7″  display, Snapdragon 410 chipset, 8 MP primary camera, 2 MP front camera, 2200 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-2-prime-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi 2 Prime",
+      "title": "Xiaomi Redmi 2 Prime Android smartphone. Announced Aug 2015. Features 4.7″  display, Snapdragon 410 chipset, 8 MP primary camera, 2 MP front camera, 2200 mAh battery, 16 GB storage, 2 GB RAM, To be confirmed.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-2-prime-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi 4i",
+      "title": "Xiaomi Mi 4i Android smartphone. Announced Apr 2015. Features 5.0″  display, Snapdragon 615 chipset, 13 MP primary camera, 5 MP front camera, 3120 mAh battery, 32 GB storage, 2 GB RAM, Corning scratch-resistant glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi4i.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi Note Pro",
+      "title": "Xiaomi Mi Note Pro Android smartphone. Announced Jan 2015. Features 5.7″  display, Snapdragon 810 chipset, 13 MP primary camera, 4 MP front camera, 3090 mAh battery, 64 GB storage, 4 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-note-pro2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mi Note",
+      "title": "Xiaomi Mi Note Android smartphone. Announced Jan 2015. Features 5.7″  display, Snapdragon 801 chipset, 13 MP primary camera, 4 MP front camera, 3000 mAh battery, 64 GB storage, 3 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-note-2015.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi 2A",
+      "title": "Xiaomi Redmi 2A Android smartphone. Announced Mar 2015. Features 4.7″  display, Leadcore L1860C chipset, 8 MP primary camera, 2 MP front camera, 2200 mAh battery, 8 GB storage, 1000 MB RAM, To be confirmed.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi 2",
+      "title": "Xiaomi Redmi 2 Android smartphone. Announced Jan 2015. Features 4.7″  display, Snapdragon 410 chipset, 8 MP primary camera, 2 MP front camera, 2200 mAh battery, 16 GB storage, 2 GB RAM, Corning Gorilla Glass 2.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "13 Lite",
+      "title": "Xiaomi 13 Lite Android smartphone. Announced Feb 2023. Features 6.55″  display, Snapdragon 7 Gen 1 chipset, 4500 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-13-lite.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Poco C55",
+      "title": "Xiaomi Poco C55 Android smartphone. Announced Feb 2023. Features 6.71″  display, MT6769Z Helio G85 chipset, 5000 mAh battery, 128 GB storage, 6 GB RAM, Panda Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-c55.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Poco X5 Pro",
+      "title": "Xiaomi Poco X5 Pro Android smartphone. Announced Feb 2023. Features 6.67″  display, Snapdragon 778G 5G chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-x5-pro-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Poco X5",
+      "title": "Xiaomi Poco X5 Android smartphone. Announced Feb 2023. Features 6.67″  display, Snapdragon 695 5G chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-x5-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 12",
+      "title": "Xiaomi Redmi Note 12 Android smartphone. Announced Oct 2022. Features 6.67″  display, Snapdragon 4 Gen 1 chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/redmi-note-12-5g-international.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Poco C50",
+      "title": "Xiaomi Poco C50 Android smartphone. Announced Jan 2023. Features 6.52″  display, MT6761 Helio A22 chipset, 5000 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-c50.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 12 Pro Speed",
+      "title": "Xiaomi Redmi Note 12 Pro Speed Android smartphone. Announced Dec 2022. Features 6.67″  display, Snapdragon 778G 5G chipset, 5000 mAh battery, 256 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-12-pro-speed.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi K60 Pro",
+      "title": "Xiaomi Redmi K60 Pro Android smartphone. Announced Dec 2022. Features 6.67″  display, Snapdragon 8 Gen 2 chipset, 5000 mAh battery, 512 GB storage, 16 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k60-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi K60E",
+      "title": "Xiaomi Redmi K60E Android smartphone. Announced Dec 2022. Features 6.67″  display, Dimensity 8200 chipset, 5500 mAh battery, 512 GB storage, 12 GB RAM, Corning Gorilla Glass Victus.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k60e.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi K60",
+      "title": "Xiaomi Redmi K60 Android smartphone. Announced Dec 2022. Features 6.67″  display, Snapdragon 8+ Gen 1 chipset, 5500 mAh battery, 1024 GB storage, 16 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k60.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Watch 3",
+      "title": "Xiaomi Redmi Watch 3 watch. Announced Dec 2022. Features 1.75″  display, 289 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-watch3.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Watch S2",
+      "title": "Xiaomi Watch S2 watch. Announced Dec 2022. Features 1.43″  display, 500 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-watch-s2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi 12C",
+      "title": "Xiaomi Redmi 12C Android smartphone. Announced Dec 2022. Features 6.71″  display, MT6769Z Helio G85 chipset, 5000 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-12c.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 12 Discovery",
+      "title": "Xiaomi Redmi Note 12 Discovery Android smartphone. Announced Oct 2022. Features 6.67″  display, Dimensity 1080 chipset, 4300 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-12-pro-discovery-explorer.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 12 Pro+",
+      "title": "Xiaomi Redmi Note 12 Pro+ Android smartphone. Announced Oct 2022. Features 6.67″  display, Dimensity 1080 chipset, 5000 mAh battery, 256 GB storage, 12 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-12-pro-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 12 Pro",
+      "title": "Xiaomi Redmi Note 12 Pro Android smartphone. Announced Oct 2022. Features 6.67″  display, Dimensity 1080 chipset, 5000 mAh battery, 256 GB storage, 12 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-12-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 12 (China)",
+      "title": "Xiaomi Redmi Note 12 (China) Android smartphone. Announced Oct 2022. Features 6.67″  display, Snapdragon 4 Gen 1 chipset, 5000 mAh battery, 256 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-12-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "12T Pro",
+      "title": "Xiaomi 12T Pro Android smartphone. Announced Oct 2022. Features 6.67″  display, Snapdragon 8+ Gen 1 chipset, 5000 mAh battery, 256 GB storage, 12 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-12t-pro-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "12T",
+      "title": "Xiaomi 12T Android smartphone. Announced Oct 2022. Features 6.67″  display, Dimensity 8100 Ultra chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-12t-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Pad",
+      "title": "Xiaomi Redmi Pad Android tablet. Announced Oct 2022. Features 10.61″  display, Helio G99 chipset, 8000 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-pad.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 11R",
+      "title": "Xiaomi Redmi Note 11R Android smartphone. Announced Sep 2022. Features 6.58″  display, Dimensity 700 chipset, 5000 mAh battery, 128 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-11r.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi A1+",
+      "title": "Xiaomi Redmi A1+ Android smartphone. Announced Sep 2022. Features 6.52″  display, MT6761 Helio A22 chipset, 5000 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-a1-plus-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Civi 2",
+      "title": "Xiaomi Civi 2 Android smartphone. Announced Sep 2022. Features 6.55″  display, Snapdragon 7 Gen 1 chipset, 4500 mAh battery, 256 GB storage, 12 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-civi2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi 11 Prime",
+      "title": "Xiaomi Redmi 11 Prime Android smartphone. Announced Sep 2022. Features 6.58″  display, Helio G99 chipset, 5000 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-11-prime-4g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi 11 Prime 5G",
+      "title": "Xiaomi Redmi 11 Prime 5G Android smartphone. Announced Sep 2022. Features 6.58″  display, Dimensity 700 chipset, 5000 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-10-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi A1",
+      "title": "Xiaomi Redmi A1 Android smartphone. Announced Sep 2022. Features 6.52″  display, MT6761 Helio A22 chipset, 5000 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-a1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Poco M5s",
+      "title": "Xiaomi Poco M5s Android smartphone. Announced Sep 2022. Features 6.43″  display, MT6785V chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-m5s.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Poco M5",
+      "title": "Xiaomi Poco M5 Android smartphone. Announced Sep 2022. Features 6.58″  display, Helio G99 chipset, 5000 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-m5.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Poco M5 (India)",
+      "title": "Xiaomi Poco M5 (India) Android smartphone. Announced Sep 2022. Features 6.58″  display, Helio G99 chipset, 5000 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-m5.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 11 SE (India)",
+      "title": "Xiaomi Redmi Note 11 SE (India) Android smartphone. Announced Aug 2022. Features 6.43″  display, MT6785V chipset, 5000 mAh battery, 128 GB storage, 8 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note10s.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Poco M4 5G",
+      "title": "Xiaomi Poco M4 5G Android smartphone. Announced Aug 2022. Features 6.58″  display, Dimensity 700 chipset, 5000 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass (unspecified version).",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-m4-5g-global.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Watch S1 Pro",
+      "title": "Xiaomi Watch S1 Pro watch. Announced Aug 2022. Features 1.47″  display, 500 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-watch-s1-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi K50 Ultra",
+      "title": "Xiaomi Redmi K50 Ultra Android smartphone. Announced Aug 2022. Features 6.67″  display, Snapdragon 8+ Gen 1 chipset, 5000 mAh battery, 512 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k50-ultra.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mix Fold 2",
+      "title": "Xiaomi Mix Fold 2 Android smartphone. Announced Aug 2022. Features 8.02″  display, Snapdragon 8+ Gen 1 chipset, 4500 mAh battery, 1024 GB storage, 12 GB RAM, Schott UTG glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mix-fold-2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pad 5 Pro 12.4",
+      "title": "Xiaomi Pad 5 Pro 12.4 Android tablet. Announced Aug 2022. Features 12.4″  display, Snapdragon 870 5G chipset, 10000 mAh battery, 512 GB storage, 12 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-pad-5-pro-124.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi K50i",
+      "title": "Xiaomi Redmi K50i Android smartphone. Announced Jul 2022. Features 6.6″  display, Dimensity 8100 chipset, 5080 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k50i-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "12 Lite",
+      "title": "Xiaomi 12 Lite Android smartphone. Announced Jul 2022. Features 6.55″  display, Snapdragon 778G 5G chipset, 4300 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-12-lite-5g-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "12S Ultra",
+      "title": "Xiaomi 12S Ultra Android smartphone. Announced Jul 2022. Features 6.73″  display, Snapdragon 8+ Gen 1 chipset, 4860 mAh battery, 512 GB storage, 12 GB RAM, Corning Gorilla Glass Victus.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-12s-ultra.jpg",
+      "specs": ""
+    },
+    {
+      "name": "12S Pro",
+      "title": "Xiaomi 12S Pro Android smartphone. Announced Jul 2022. Features 6.73″  display, Snapdragon 8+ Gen 1 chipset, 4600 mAh battery, 512 GB storage, 12 GB RAM, Corning Gorilla Glass Victus.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-12s-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "12S",
+      "title": "Xiaomi 12S Android smartphone. Announced Jul 2022. Features 6.28″  display, Snapdragon 8+ Gen 1 chipset, 4500 mAh battery, 512 GB storage, 12 GB RAM, Corning Gorilla Glass Victus.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-12s.jpg",
+      "specs": ""
+    },
+    {
+      "name": "12 Pro (Dimensity)",
+      "title": "Xiaomi 12 Pro (Dimensity) Android smartphone. Announced Jul 2022. Features 6.73″  display, Dimensity 9000+ chipset, 5160 mAh battery, 256 GB storage, 12 GB RAM, Corning Gorilla Glass Victus.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-12-pro-dimensity.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Poco F4",
+      "title": "Xiaomi Poco F4 Android smartphone. Announced Jun 2022. Features 6.67″  display, Snapdragon 870 5G chipset, 4500 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-f4-5g-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Poco X4 GT",
+      "title": "Xiaomi Poco X4 GT Android smartphone. Announced Jun 2022. Features 6.6″  display, Dimensity 8100 chipset, 5080 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-x4-gt.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Poco C40",
+      "title": "Xiaomi Poco C40 Android smartphone. Announced Jun 2022. Features 6.71″  display, JLQ JR510 chipset, 6000 mAh battery, 64 GB storage, 4 GB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-c40.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 11T Pro+",
+      "title": "Xiaomi Redmi Note 11T Pro+ Android smartphone. Announced May 2022. Features 6.6″  display, Dimensity 8100 chipset, 4400 mAh battery, 512 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-11t-pro-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 11T Pro",
+      "title": "Xiaomi Redmi Note 11T Pro Android smartphone. Announced May 2022. Features 6.6″  display, Dimensity 8100 chipset, 5080 mAh battery, 512 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-11t-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi Note 11SE",
+      "title": "Xiaomi Redmi Note 11SE Android smartphone. Announced May 2022. Features 6.5″  display, Dimensity 700 chipset, 5000 mAh battery, 128 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-11se.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Redmi 10 Prime 2022",
+      "title": "Xiaomi Redmi 10 Prime 2022 Android smartphone. Announced May 2022. Features 6.5″  display, MT6769H Helio G88 chipset, 6000 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-10-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Poco M4 5G (India)",
+      "title": "Xiaomi Poco M4 5G (India) Android smartphone. Announced Apr 2022. Features 6.58″  display, Dimensity 700 chipset, 5000 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-m4-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Poco F4 GT",
+      "title": "Xiaomi Poco F4 GT Android smartphone. Announced Apr 2022. Features 6.67″  display, Snapdragon 8 Gen 1 chipset, 4700 mAh battery, 256 GB storage, 12 GB RAM, Corning Gorilla Glass Victus.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-f4-gt.jpg",
+      "specs": ""
+    }
+  ]
+}

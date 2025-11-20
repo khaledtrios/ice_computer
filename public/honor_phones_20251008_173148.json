@@ -1,0 +1,1681 @@
+{
+  "scrape_date": "2025-10-08T17:32:07.026136",
+  "total_phones": 279,
+  "source": "https://www.gsmarena.com/honor-phones-121.php",
+  "phones": [
+    {
+      "name": "X5c Plus",
+      "title": "Honor X5c Plus Android smartphone. Announced Sep 2025. Features 6.74″  display, Helio G81 chipset, 5260 mAh battery, 128 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-x5c-plus-r.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X6b",
+      "title": "Honor X6b 5G Android smartphone. Announced Jun 2025. Features 6.77″  display, Snapdragon 4 Gen 2 chipset, 5200 mAh battery, 256 GB storage, 4 GB RAM, Aluminosilicate glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-x6b-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X9d",
+      "title": "Honor X9d 5G Android smartphone. Announced Sep 2025. Features 6.79″  display, Snapdragon 6 Gen 4 chipset, 8300 mAh battery, 512 GB storage, 12 GB RAM, Aluminosilicate glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-x70.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X7d",
+      "title": "Honor X7d 5G Android smartphone. Announced Sep 2025. Features 6.77″  display, Snapdragon 6s Gen 3 chipset, 6500 mAh battery, 128 GB storage, 6 GB RAM, Scratch-resistant glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-400-smart-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "400 Smart 4G",
+      "title": "Honor 400 Smart Android smartphone. Announced Sep 2025. Features 6.77″  display, Snapdragon 685 chipset, 6500 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-400-smart.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Play10",
+      "title": "Honor Play10 Android smartphone. Announced Sep 2025. Features 6.74″  display, Helio G81 chipset, 5000 mAh battery, 128 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-play10.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X7d 4G",
+      "title": "Honor X7d Android smartphone. Announced Aug 2025. Features 6.77″  display, Snapdragon 685 chipset, 6500 mAh battery, 256 GB storage, 8 GB RAM, Tempered glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-x7d-4g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Magic V Flip 2",
+      "title": "Honor Magic V Flip 2 5G Android smartphone. Announced Aug 2025. Features 6.82″  display, Snapdragon 8 Gen 3 chipset, 5500 mAh battery, 1024 GB storage, 16 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-magic-v-flip-2-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X7c",
+      "title": "Honor X7c 5G Android smartphone. Announced Aug 2025. Features 6.8″  display, Snapdragon 4 Gen 2 chipset, 5200 mAh battery, 256 GB storage, 8 GB RAM, Aluminosilicate glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-x7c-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Play10C",
+      "title": "Honor Play10C 5G Android smartphone. Announced Aug 2025. Features 6.61″  display, Dimensity 6300 chipset, 6000 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-play-10c.jpg",
+      "specs": ""
+    },
+    {
+      "name": "400 Smart",
+      "title": "Honor 400 Smart 5G Android smartphone. Announced Aug 2025. Features 6.77″  display, Snapdragon 6s Gen 3 chipset, 6500 mAh battery, 256 GB storage, 4 GB RAM, Scratch-resistant glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-400-smart-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pad X7",
+      "title": "Honor Pad X7 Android tablet. Announced Jul 2025. Features 8.7″  display, Snapdragon 680 chipset, 7020 mAh battery, 128 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-pad-x7.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X70",
+      "title": "Honor X70 5G Android smartphone. Announced Jul 2025. Features 6.79″  display, Snapdragon 6 Gen 4 chipset, 8300 mAh battery, 512 GB storage, 12 GB RAM, Aluminosilicate glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-x70.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pad GT2 Pro",
+      "title": "Honor Pad GT2 Pro Android tablet. Announced Jul 2025. Features 12.5″  display, Snapdragon 8 Gen 3 chipset, 10100 mAh battery, 512 GB storage, 16 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-pad-gt2-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "MagicPad 3",
+      "title": "Honor MagicPad 3 Android tablet. Announced Jul 2025. Features 13.3″  display, Snapdragon 8 Gen 3 chipset, 12450 mAh battery, 1024 GB storage, 16 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-magicpad3.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Magic V5",
+      "title": "Honor Magic V5 Android smartphone. Announced Jul 2025. Features 7.95″  display, Snapdragon 8 Elite chipset, 5820 mAh battery, 1024 GB storage, 16 GB RAM, Honor Super Armored Inner Screen.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-magic-v5.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X6c",
+      "title": "Honor X6c Android smartphone. Announced Jun 2025. Features 6.61″  display, Helio G81 Ultra chipset, 5300 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-x6c.jpg",
+      "specs": ""
+    },
+    {
+      "name": "400 Pro (China)",
+      "title": "Honor 400 Pro 5G (China) Android smartphone. Announced Jun 2025. Features 6.55″  display, Snapdragon 8 Gen 3 chipset, 7200 mAh battery, 1024 GB storage, 16 GB RAM, Aluminosilicate glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-400-pro-cn.jpg",
+      "specs": ""
+    },
+    {
+      "name": "400 (China)",
+      "title": "Honor 400 5G (China) Android smartphone. Announced Jun 2025. Features 6.55″  display, Snapdragon 7 Gen 4 chipset, 7200 mAh battery, 512 GB storage, 16 GB RAM, Aluminosilicate glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-400-cn.jpg",
+      "specs": ""
+    },
+    {
+      "name": "400 Pro",
+      "title": "Honor 400 Pro 5G Android smartphone. Announced May 2025. Features 6.7″  display, Snapdragon 8 Gen 3 chipset, 5300 mAh battery, 512 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-400-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "400",
+      "title": "Honor 400 5G Android smartphone. Announced May 2025. Features 6.55″  display, Snapdragon 7 Gen 3 chipset, 5300 mAh battery, 512 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-400.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pad 10",
+      "title": "Honor Pad 10 Android tablet. Announced May 2025. Features 12.1″  display, Snapdragon 7 Gen 3 chipset, 10100 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-pad10.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X70i",
+      "title": "Honor X70i 5G Android smartphone. Announced Apr 2025. Features 6.7″  display, Dimensity 7025 Ultra chipset, 6000 mAh battery, 512 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-x70i.jpg",
+      "specs": ""
+    },
+    {
+      "name": "GT Pro",
+      "title": "Honor GT Pro 5G Android smartphone. Announced Apr 2025. Features 6.78″  display, Snapdragon 8 Elite chipset, 7200 mAh battery, 1024 GB storage, 16 GB RAM, Giant rhino glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-gt-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pad GT",
+      "title": "Honor Tablet GT Android tablet. Announced Apr 2025. Features 11.5″  display, Dimensity 8350 chipset, 10100 mAh battery, 512 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-tablet-gt-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X60 GT",
+      "title": "Honor X60 GT 5G Android smartphone. Announced Apr 2025. Features 6.7″  display, Snapdragon 8+ Gen 1 chipset, 6300 mAh battery, 512 GB storage, 16 GB RAM, Aluminosilicate glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-x60-gt.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Power",
+      "title": "Honor Power 5G Android smartphone. Announced Apr 2025. Features 6.78″  display, Snapdragon 7 Gen 3 chipset, 8000 mAh battery, 512 GB storage, 12 GB RAM, Scratch/drop-resistant glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-power.jpg",
+      "specs": ""
+    },
+    {
+      "name": "400 Lite",
+      "title": "Honor 400 Lite Android smartphone. Announced Apr 2025. Features 6.7″  display, Dimensity 7025 Ultra chipset, 5230 mAh battery, 256 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-400-lite-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Play 60",
+      "title": "Honor Play 60 5G Android smartphone. Announced Apr 2025. Features 6.61″  display, Dimensity 6300 chipset, 6000 mAh battery, 256 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-play-60.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pad X9a",
+      "title": "Honor Pad X9a Android tablet. Announced Mar 2025. Features 11.5″  display, Snapdragon 685 chipset, 8300 mAh battery, 128 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-pad-x9a.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Play9A",
+      "title": "Honor Play9A Android smartphone. Announced Nov 2024. Features 6.56″  display, Helio G36 chipset, 5200 mAh battery, 256 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-play9a.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Watch 5 Ultra",
+      "title": "Honor Watch 5 Ultra watch. Announced Mar 2025. Features 1.5″  display, 480 mAh battery, 8 GB storage, Sapphire Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-watch-5-ultra.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X8c",
+      "title": "Honor X8c Android smartphone. Announced Jan 2025. Features 6.7″  display, Snapdragon 685 chipset, 5000 mAh battery, 512 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-x8c.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Magic7 Lite",
+      "title": "Honor Magic7 Lite Android smartphone. Announced Jan 2025. Features 6.78″  display, Snapdragon 6 Gen 1 chipset, 6600 mAh battery, 512 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-x9c.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Magic7 RSR Porsche Design",
+      "title": "Honor Magic7 RSR Porsche Design Android smartphone. Announced Dec 2024. Features 6.8″  display, Snapdragon 8 Elite chipset, 5850 mAh battery, 1024 GB storage, 24 GB RAM, NanoCrystal Shield.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-magic7-rsr-porsche-design-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "GT",
+      "title": "Honor GT Android smartphone. Announced Dec 2024. Features 6.7″  display, Snapdragon 8 Gen 3 chipset, 5300 mAh battery, 1024 GB storage, 16 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-gt-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pad V9",
+      "title": "Honor Pad V9 Android tablet. Announced Dec 2024. Features 11.5″  display, Dimensity 8350 chipset, 10100 mAh battery, 512 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-pad-v9.jpg",
+      "specs": ""
+    },
+    {
+      "name": "300 Ultra",
+      "title": "Honor 300 Ultra Android smartphone. Announced Dec 2024. Features 6.78″  display, Snapdragon 8 Gen 3 chipset, 5300 mAh battery, 1024 GB storage, 16 GB RAM, Giant rhino glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-300-ultra.jpg",
+      "specs": ""
+    },
+    {
+      "name": "300 Pro",
+      "title": "Honor 300 Pro Android smartphone. Announced Dec 2024. Features 6.78″  display, Snapdragon 8 Gen 3 chipset, 5300 mAh battery, 512 GB storage, 16 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-300-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "300",
+      "title": "Honor 300 Android smartphone. Announced Dec 2024. Features 6.7″  display, Snapdragon 7 Gen 3 chipset, 5300 mAh battery, 512 GB storage, 16 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-300.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X9c Smart",
+      "title": "Honor X9c Smart Android smartphone. Announced Dec 2024. Features 6.8″  display, Dimensity 7025 Ultra chipset, 5800 mAh battery, 256 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-x9c-smart.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Play9C (China)",
+      "title": "Honor Play9C Android smartphone. Announced Sep 2024. Features 6.56″  display, Dimensity 6100+ chipset, 5200 mAh battery, 256 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-play9c.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Play9T",
+      "title": "Honor Play9T Android smartphone. Announced Sep 2024. Features 6.77″  display, Snapdragon 4 Gen 2 chipset, 6000 mAh battery, 256 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-play9t.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X9c",
+      "title": "Honor X9c Android smartphone. Announced Nov 2024. Features 6.78″  display, Snapdragon 6 Gen 1 chipset, 6600 mAh battery, 512 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-x9c.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Magic7 Pro",
+      "title": "Honor Magic7 Pro Android smartphone. Announced Oct 2024. Features 6.8″  display, Snapdragon 8 Elite chipset, 5850 mAh battery, 1024 GB storage, 16 GB RAM, NanoCrystal Shield.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-magic7-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Magic7",
+      "title": "Honor Magic7 Android smartphone. Announced Oct 2024. Features 6.78″  display, Snapdragon 8 Elite chipset, 5650 mAh battery, 1024 GB storage, 16 GB RAM, Giant rhino glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-magic7.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X5b Plus",
+      "title": "Honor X5b Plus Android smartphone. Announced Oct 2024. Features 6.56″  display, Helio G36 chipset, 5200 mAh battery, 256 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-x5b-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X5b",
+      "title": "Honor X5b Android smartphone. Announced Oct 2024. Features 6.56″  display, Helio G36 chipset, 5200 mAh battery, 128 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-x5b.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X7c 4G",
+      "title": "Honor X7c Android smartphone. Announced Oct 2024. Features 6.77″  display, Snapdragon 685 chipset, 6000 mAh battery, 512 GB storage, 8 GB RAM, Tempered glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-play-60-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X60 Pro",
+      "title": "Honor X60 Pro Android smartphone. Announced Oct 2024. Features 6.78″  display, Snapdragon 6 Gen 1 chipset, 6600 mAh battery, 512 GB storage, 12 GB RAM, Tempered glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-x60-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Magic",
+      "title": "Honor Magic Android smartphone. Announced Dec 2016. Features 5.09″  display, Kirin 950 chipset, Dual: 12 MP primary camera, 8 MP front camera, 2900 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-honor-magic.jpg",
+      "specs": ""
+    },
+    {
+      "name": "V8",
+      "title": "Honor V8 Android smartphone. Announced May 2016. Features 5.7″  display, Kirin 950 chipset, Dual: 12 MP primary camera, 8 MP front camera, 3500 mAh battery, 64 GB storage, 4 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-honor-v8.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pad 2",
+      "title": "Honor Pad 2 Android tablet. Announced Oct 2016. Features 8.0″  display, Snapdragon 615 chipset, 8 MP primary camera, 2 MP front camera, 4800 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-honor-pad-2-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "6X",
+      "title": "Honor 6X Android smartphone. Announced Oct 2016. Features 5.5″  display, Kirin 655 chipset, Dual: 12 MP (1/2.9″, 1.25µm, PDAF) + 2 MP primary camera, 8 MP front camera, 3340 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-honor-6x-2016.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Holly 3",
+      "title": "Honor Holly 3 Android smartphone. Announced Oct 2016. Features 5.5″  display, Kirin 620 chipset, 13 MP primary camera, 8 MP front camera, 3100 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-honor-5a.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Note 8",
+      "title": "Honor Note 8 Android smartphone. Announced Aug 2016. Features 6.6″  display, Kirin 955 chipset, 13 MP primary camera, 5 MP front camera, 4500 mAh battery, 128 GB storage, 4 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-honor-note8.jpg",
+      "specs": ""
+    },
+    {
+      "name": "8",
+      "title": "Honor 8 Android smartphone. Announced Jul 2016. Features 5.2″  display, Kirin 950 chipset, Dual: 12 MP primary camera, 8 MP front camera, 3000 mAh battery, 64 GB storage, 4 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-honor-8r1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "5A",
+      "title": "Honor 5A Android smartphone. Announced Jun 2016. Features 5.0″  display, MT6735P chipset, 13 MP primary camera, 5 MP front camera, 2200 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-honor-5a-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "5c",
+      "title": "Honor 5c Android smartphone. Announced Apr 2016. Features 5.2″  display, Kirin 650 chipset, 13 MP primary camera, 8 MP front camera, 3000 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-honor-5c-1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Holly 2 Plus",
+      "title": "Honor Holly 2 Plus Android smartphone. Announced Jan 2016. Features 5.0″  display, MT6735P chipset, 13 MP primary camera, 5 MP front camera, 4000 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-honor-holly2-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "5X",
+      "title": "Honor 5X Android smartphone. Announced Oct 2015. Features 5.5″  display, Snapdragon 616 chipset, 13 MP primary camera, 5 MP front camera, 3000 mAh battery, 16 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-honor-5x.jpg",
+      "specs": ""
+    },
+    {
+      "name": "7i",
+      "title": "Honor 7i Android smartphone. Announced Aug 2015. Features 5.2″  display, Snapdragon 616 chipset, 13 MP primary camera, 13 MP front camera, 3100 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-honor-7i.jpg",
+      "specs": ""
+    },
+    {
+      "name": "7",
+      "title": "Honor 7 Android smartphone. Announced Jun 2015. Features 5.2″  display, Kirin 935 chipset, 20 MP primary camera, 8 MP front camera, 3100 mAh battery, 64 GB storage, 3 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-honor-7r.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Bee",
+      "title": "Honor Bee Android smartphone. Announced May 2015. Features 4.5″  display, Spreadtrum SC7731 chipset, 8 MP primary camera, 2 MP front camera, 1730 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-honor-bee.jpg",
+      "specs": ""
+    },
+    {
+      "name": "4C",
+      "title": "Honor 4C Android smartphone. Announced Apr 2015. Features 5.0″  display, Kirin 620 chipset, 13 MP primary camera, 5 MP front camera, 2550 mAh battery, 8 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-honor-4c.jpg",
+      "specs": ""
+    },
+    {
+      "name": "6 Plus",
+      "title": "Honor 6 Plus Android smartphone. Announced Dec 2014. Features 5.5″  display, Kirin 925 chipset, Dual: 8 MP primary camera, 8 MP front camera, 3600 mAh battery, 32 GB storage, 3 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-honor-6-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "4X",
+      "title": "Honor 4X Android smartphone. Announced Oct 2014. Features 5.5″  display, Kirin 620 chipset, 13 MP primary camera, 5 MP front camera, 3000 mAh battery, 8 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-honor-4x.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Holly",
+      "title": "Honor Holly Android smartphone. Announced Oct 2014. Features 5.0″  display, MT6582 chipset, 8 MP primary camera, 2 MP front camera, 2000 mAh battery, 16 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-honor-holly.jpg",
+      "specs": ""
+    },
+    {
+      "name": "4 Play",
+      "title": "Honor 4 Play Android smartphone. Announced Sep 2014. Features 5.0″  display, Snapdragon 410 chipset, 8 MP primary camera, 2 MP front camera, 2000 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-honor-4-play.jpg",
+      "specs": ""
+    },
+    {
+      "name": "3C Play",
+      "title": "Honor 3C Play Android smartphone. Announced Aug 2014. Features 5.0″  display, MT6582 chipset, 8 MP primary camera, 2 MP front camera, 2000 mAh battery, 16 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-honor-3c-play.jpg",
+      "specs": ""
+    },
+    {
+      "name": "6",
+      "title": "Honor 6 Android smartphone. Announced Jun 2014. Features 5.0″  display, Kirin 920 chipset, 13 MP primary camera, 5 MP front camera, 3100 mAh battery, 32 GB storage, 3 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-honor-6.jpg",
+      "specs": ""
+    },
+    {
+      "name": "3X Pro",
+      "title": "Honor 3X Pro Android smartphone. Announced May 2014. Features 5.5″  display, MT6592 chipset, 13 MP primary camera, 5 MP front camera, 3000 mAh battery, 32 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-honor-3x-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "3C 4G",
+      "title": "Honor 3C 4G Android smartphone. Announced May 2014. Features 5.0″  display, Kirin 910 chipset, 8 MP primary camera, 5 MP front camera, 2300 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-honor-3c-4g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "3X G750",
+      "title": "Honor 3X G750 Android smartphone. Announced Dec 2013. Features 5.5″  display, MT6592 chipset, 13 MP primary camera, 5 MP front camera, 3000 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-honor-3x.jpg",
+      "specs": ""
+    },
+    {
+      "name": "3C",
+      "title": "Honor 3C Android smartphone. Announced Dec 2013. Features 5.0″  display, MT6582 chipset, 8 MP primary camera, 5 MP front camera, 2300 mAh battery, 8 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/Huawei-Honor-3C.jpg",
+      "specs": ""
+    },
+    {
+      "name": "3",
+      "title": "Honor 3 Android smartphone. Announced Aug 2013. Features 4.7″  display, Huawei K3V2E chipset, 13 MP primary camera, 1.3 MP front camera, 2150 mAh battery, 8 GB storage, 2 GB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-honor-3.jpg",
+      "specs": ""
+    },
+    {
+      "name": "2",
+      "title": "Honor 2 Android smartphone. Announced Oct 2012. Features 4.5″  display, Huawei K3V2 chipset, 8 MP primary camera, 1.3 MP front camera, 2230 mAh battery, 8 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-honor-2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "U8860",
+      "title": "Honor U8860 Android smartphone. Announced Sep 2011. Features 4.0″  display, Snapdragon S2 chipset, 8 MP primary camera, 1930 mAh battery, 1000 MB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-honor.jpg",
+      "specs": ""
+    },
+    {
+      "name": "View",
+      "title": "Honor View Android smartphone. Not announced yet. Features 6.4″  display, Kirin 990 5G chipset, 4000 mAh battery, 256 GB storage, 8 GB RAM, Yes.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-v30-pro-r.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X50",
+      "title": "Honor X50 Android smartphone. Announced Jul 2023. Features 6.78″  display, Snapdragon 6 Gen 1 chipset, 5800 mAh battery, 512 GB storage, 16 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-x50-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Play 40",
+      "title": "Honor Play 40 Android smartphone. Announced Jul 2023. Features 6.56″  display, Snapdragon 480+ 5G chipset, 5200 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-play40-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X50i",
+      "title": "Honor X50i Android smartphone. Announced Jul 2023. Features 6.7″  display, Dimensity 6020 chipset, 4500 mAh battery, 256 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-x50i.jpg",
+      "specs": ""
+    },
+    {
+      "name": "90 Lite",
+      "title": "Honor 90 Lite Android smartphone. Announced Jun 2023. Features 6.7″  display, Dimensity 6020 chipset, 4500 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-90-lite.jpg",
+      "specs": ""
+    },
+    {
+      "name": "90 Pro",
+      "title": "Honor 90 Pro Android smartphone. Announced May 2023. Features 6.78″  display, Snapdragon 8+ Gen 1 chipset, 5000 mAh battery, 512 GB storage, 16 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-90-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "90",
+      "title": "Honor 90 Android smartphone. Announced May 2023. Features 6.7″  display, Snapdragon 7 Gen 1 Accelerated Edition chipset, 5000 mAh battery, 512 GB storage, 16 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-90.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pad V8",
+      "title": "Honor Pad V8 Android tablet. Announced Apr 2023. Features 11.0″  display, Dimensity 8020 chipset, 7250 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-pad-v8.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Play7T Pro",
+      "title": "Honor Play7T Pro Android smartphone. Announced Mar 2023. Features 6.7″  display, Dimensity 6020 chipset, 4000 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-play7t-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Play7T",
+      "title": "Honor Play7T Android smartphone. Announced Mar 2023. Features 6.74″  display, Dimensity 6020 chipset, 6000 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-play7t.jpg",
+      "specs": ""
+    },
+    {
+      "name": "70 Lite",
+      "title": "Honor 70 Lite Android smartphone. Announced Mar 2023. Features 6.5″  display, Snapdragon 480+ 5G chipset, 5000 mAh battery, 128 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-70-lite.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Magic5 Ultimate",
+      "title": "Honor Magic5 Ultimate Android smartphone. Announced Mar 2023. Features 6.81″  display, Snapdragon 8 Gen 2 chipset, 5450 mAh battery, 512 GB storage, 16 GB RAM, Glass/ceramic coating.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-magic5-ultimate.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Magic5 Pro",
+      "title": "Honor Magic5 Pro Android smartphone. Announced Feb 2023. Features 6.81″  display, Snapdragon 8 Gen 2 chipset, 5100 mAh battery, 512 GB storage, 16 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-magic5-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Magic5",
+      "title": "Honor Magic5 Android smartphone. Announced Feb 2023. Features 6.73″  display, Snapdragon 8 Gen 2 chipset, 5100 mAh battery, 256 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-magic5-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Magic5 Lite",
+      "title": "Honor Magic5 Lite Android smartphone. Announced Feb 2023. Features 6.67″  display, Snapdragon 695 5G chipset, 5100 mAh battery, 256 GB storage, 8 GB RAM, Scratch/drop-resistant glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-magic5-lite.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X8a",
+      "title": "Honor X8a Android smartphone. Announced Feb 2023. Features 6.7″  display, MT6769H Helio G88 chipset, 4500 mAh battery, 256 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-x8a.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X5",
+      "title": "Honor X5 Android smartphone. Announced Jan 2023. Features 6.5″  display, MT6762 Helio G25 chipset, 5000 mAh battery, 32 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-x5.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X9a",
+      "title": "Honor X9a Android smartphone. Announced Jan 2023. Features 6.67″  display, Snapdragon 695 5G chipset, 5100 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-x9a.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X7a",
+      "title": "Honor X7a Android smartphone. Announced Jan 2023. Features 6.75″  display, MT6765H Helio G37 chipset, 6000 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-x7a.jpg",
+      "specs": ""
+    },
+    {
+      "name": "80 Pro Flat",
+      "title": "Honor 80 Pro Flat Android smartphone. Announced Jan 2023. Features 6.67″  display, Snapdragon 8+ Gen 1 chipset, 4800 mAh battery, 256 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-80-pro-flat.jpg",
+      "specs": ""
+    },
+    {
+      "name": "80 GT",
+      "title": "Honor 80 GT Android smartphone. Announced Dec 2022. Features 6.67″  display, Snapdragon 8+ Gen 1 chipset, 4800 mAh battery, 512 GB storage, 16 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-80-gt.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pad V8 Pro",
+      "title": "Honor Pad V8 Pro Android tablet. Announced Dec 2022. Features 12.1″  display, Dimensity 8100 chipset, 10050 mAh battery, 256 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-pad-v8-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "80 Pro",
+      "title": "Honor 80 Pro Android smartphone. Announced Nov 2022. Features 6.78″  display, Snapdragon 8+ Gen 1 chipset, 4800 mAh battery, 512 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-80-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "80",
+      "title": "Honor 80 Android smartphone. Announced Nov 2022. Features 6.67″  display, Snapdragon 782G chipset, 4800 mAh battery, 512 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-80.jpg",
+      "specs": ""
+    },
+    {
+      "name": "80 SE",
+      "title": "Honor 80 SE Android smartphone. Announced Nov 2022. Features 6.67″  display, Dimensity 900 chipset, 4600 mAh battery, 256 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-80-se.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Magic Vs Ultimate",
+      "title": "Honor Magic Vs Ultimate Android smartphone. Announced Nov 2022. Features 7.9″  display, Snapdragon 8+ Gen 1 chipset, 5000 mAh battery, 512 GB storage, 16 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-magic-vs-ultimate.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Magic Vs",
+      "title": "Honor Magic Vs Android smartphone. Announced Nov 2022. Features 7.9″  display, Snapdragon 8+ Gen 1 chipset, 5000 mAh battery, 512 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-magic-vs-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Play 40 Plus",
+      "title": "Honor Play 40 Plus Android smartphone. Announced Oct 2022. Features 6.74″  display, Dimensity 700 chipset, 6000 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/Honor-play-40-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X40 GT",
+      "title": "Honor X40 GT Android smartphone. Announced Oct 2022. Features 6.81″  display, Snapdragon 888 5G chipset, 4800 mAh battery, 256 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-x40-gt.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Play6C",
+      "title": "Honor Play6C Android smartphone. Announced Oct 2022. Features 6.5″  display, Snapdragon 480+ 5G chipset, 5000 mAh battery, 128 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-play-6c.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X6",
+      "title": "Honor X6 Android smartphone. Announced Sep 2022. Features 6.5″  display, MT6762G Helio G25 chipset, 5000 mAh battery, 128 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-x6.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pad X8",
+      "title": "Honor Pad X8 Android tablet. Announced Sep 2022. Features 10.1″  display, MediaTek MT8786 chipset, 5100 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-pad-x8.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pad X8 Lite",
+      "title": "Honor Pad X8 Lite Android tablet. Announced Sep 2022. Features 9.7″  display, MT8786 chipset, 5100 mAh battery, 32 GB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-tab7.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X40",
+      "title": "Honor X40 Android smartphone. Announced Sep 2022. Features 6.67″  display, Snapdragon 695 5G chipset, 5100 mAh battery, 256 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-x40.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X8 5G",
+      "title": "Honor X8 5G Android smartphone. Announced Jul 2022. Features 6.5″  display, Snapdragon 480+ 5G chipset, 5000 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-x8-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pad 8",
+      "title": "Honor Pad 8 Android tablet. Announced Jul 2022. Features 12.0″  display, Snapdragon 680 4G chipset, 7250 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-tab8.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X40i",
+      "title": "Honor X40i Android smartphone. Announced Jul 2022. Features 6.7″  display, Dimensity 700 chipset, 4000 mAh battery, 256 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-40i.jpg",
+      "specs": ""
+    },
+    {
+      "name": "70 Pro+",
+      "title": "Honor 70 Pro+ Android smartphone. Announced May 2022. Features 6.78″  display, Dimensity 9000 chipset, 4500 mAh battery, 256 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-70-pro-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "70 Pro",
+      "title": "Honor 70 Pro Android smartphone. Announced May 2022. Features 6.78″  display, Dimensity 8000 chipset, 4500 mAh battery, 512 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-70-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "70",
+      "title": "Honor 70 Android smartphone. Announced May 2022. Features 6.67″  display, Snapdragon 778G+ 5G chipset, 4800 mAh battery, 512 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-70.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Play 30",
+      "title": "Honor Play 30 Android smartphone. Announced May 2022. Features 6.5″  display, Snapdragon 480+ 5G chipset, 5000 mAh battery, 128 GB storage, 8 GB RAM, Aluminosilicate glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-play-30.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Play6T Pro",
+      "title": "Honor Play6T Pro Android smartphone. Announced Apr 2022. Features 6.7″  display, Dimensity 810 chipset, 4000 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-play-6t-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Play6T",
+      "title": "Honor Play6T Android smartphone. Announced Apr 2022. Features 6.74″  display, Dimensity 700 chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-play-6t-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Magic4 Lite",
+      "title": "Honor Magic4 Lite Android smartphone. Announced Mar 2022. Features 6.81″  display, Snapdragon 695 5G chipset, 4800 mAh battery, 128 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-magic4-lite.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X7",
+      "title": "Honor X7 Android smartphone. Announced Mar 2022. Features 6.74″  display, Snapdragon 680 4G chipset, 5000 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-x7.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X9",
+      "title": "Honor X9 Android smartphone. Announced Mar 2022. Features 6.81″  display, Snapdragon 680 4G chipset, 4800 mAh battery, 128 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-x9-4g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X9 5G",
+      "title": "Honor X9 5G Android smartphone. Announced Mar 2022. Features 6.81″  display, Snapdragon 695 5G chipset, 4800 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-x9.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Magic4 Ultimate",
+      "title": "Honor Magic4 Ultimate Android smartphone. Announced Mar 2022. Features 6.81″  display, Snapdragon 8 Gen 1 chipset, 4600 mAh battery, 512 GB storage, 12 GB RAM, Scratch-resistant glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-magic4-ultimate.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X8",
+      "title": "Honor X8 Android smartphone. Announced Mar 2022. Features 6.7″  display, Snapdragon 680 4G chipset, 4000 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-x8.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Magic4 Pro",
+      "title": "Honor Magic4 Pro Android smartphone. Announced Feb 2022. Features 6.81″  display, Snapdragon 8 Gen 1 chipset, 4600 mAh battery, 512 GB storage, 12 GB RAM, Aluminosilicate glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-magic4-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Magic4",
+      "title": "Honor Magic4 Android smartphone. Announced Feb 2022. Features 6.81″  display, Snapdragon 8 Gen 1 chipset, 4800 mAh battery, 512 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-magic4.jpg",
+      "specs": ""
+    },
+    {
+      "name": "60 SE",
+      "title": "Honor 60 SE Android smartphone. Announced Feb 2022. Features 6.67″  display, Dimensity 900 chipset, 4300 mAh battery, 256 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-60-se.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Watch GS 3",
+      "title": "Honor Watch GS 3 watch. Announced Jan 2022. Features 1.43″  display, 451 mAh battery, 4 GB storage, 32 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-watch-gs3.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Magic V",
+      "title": "Honor Magic V Android smartphone. Announced Jan 2022. Features 7.9″  display, Snapdragon 8 Gen 1 chipset, 4750 mAh battery, 512 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-magic-v.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X30",
+      "title": "Honor X30 Android smartphone. Announced Dec 2021. Features 6.81″  display, Snapdragon 695 5G chipset, 4800 mAh battery, 256 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-x30.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Play 30 Plus",
+      "title": "Honor Play 30 Plus Android smartphone. Announced Dec 2021. Features 6.74″  display, Dimensity 700 chipset, 5000 mAh battery, 128 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-play30-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "60 Pro",
+      "title": "Honor 60 Pro Android smartphone. Announced Dec 2021. Features 6.78″  display, Snapdragon 778G+ 5G chipset, 4800 mAh battery, 256 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-60-pro-r.jpg",
+      "specs": ""
+    },
+    {
+      "name": "60",
+      "title": "Honor 60 Android smartphone. Announced Dec 2021. Features 6.67″  display, Snapdragon 778G 5G chipset, 4800 mAh battery, 256 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-60-r.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X30 Max",
+      "title": "Honor X30 Max Android smartphone. Announced Oct 2021. Features 7.09″  display, Dimensity 900 chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-x30-max.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X30i",
+      "title": "Honor X30i Android smartphone. Announced Oct 2021. Features 6.7″  display, Dimensity 810 chipset, 4000 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-x30i.jpg",
+      "specs": ""
+    },
+    {
+      "name": "50 Lite",
+      "title": "Honor 50 Lite Android smartphone. Announced Oct 2021. Features 6.67″  display, 4300 mAh battery, 128 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-50-lite.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Play5 Youth",
+      "title": "Honor Play5 Youth Android smartphone. Announced Oct 2021. Features 6.67″  display, Dimensity 900 chipset, 4300 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-play5-youth.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Tablet V7",
+      "title": "Honor Tablet V7 Android tablet. Announced Sep 2021. Features 10.4″  display, MT8791 Kompanio 900T 5G chipset, 7250 mAh battery, 128 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-tablet-v7.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Tablet V7 Pro",
+      "title": "Honor Tablet V7 Pro Android tablet. Announced Aug 2021. Features 11.0″  display, MT8797 Kompanio 1300T chipset, 7250 mAh battery, 256 GB storage, 8 GB RAM, Aluminosilicate glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-tablet-v7-pro-1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X20",
+      "title": "Honor X20 Android smartphone. Announced Aug 2021. Features 6.67″  display, Dimensity 900 chipset, 4300 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-x20.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Magic3 Pro+",
+      "title": "Honor Magic3 Pro+ Android smartphone. Announced Aug 2021. Features 6.76″  display, Snapdragon 888+ 5G chipset, 4600 mAh battery, 512 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-magic3-pro-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Magic3 Pro",
+      "title": "Honor Magic3 Pro Android smartphone. Announced Aug 2021. Features 6.76″  display, Snapdragon 888+ 5G chipset, 4600 mAh battery, 512 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-magic3-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Magic3",
+      "title": "Honor Magic3 Android smartphone. Announced Aug 2021. Features 6.76″  display, Snapdragon 888 5G chipset, 4600 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-magic3.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Play 5T Pro",
+      "title": "Honor Play 5T Pro Android smartphone. Announced Aug 2021. Features 6.6″  display, MT6769V chipset, 4000 mAh battery, 128 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-play-5t-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X20 SE",
+      "title": "Honor X20 SE Android smartphone. Announced Jun 2021. Features 6.6″  display, Dimensity 700 chipset, 4000 mAh battery, 128 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-x20-se.jpg",
+      "specs": ""
+    },
+    {
+      "name": "50 Pro",
+      "title": "Honor 50 Pro Android smartphone. Announced Jun 2021. Features 6.72″  display, Snapdragon 778G 5G chipset, 4000 mAh battery, 256 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-50-pro-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "50",
+      "title": "Honor 50 Android smartphone. Announced Jun 2021. Features 6.57″  display, Snapdragon 778G 5G chipset, 4300 mAh battery, 256 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-50-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "50 SE",
+      "title": "Honor 50 SE Android smartphone. Announced Jun 2021. Features 6.78″  display, Dimensity 900 chipset, 4000 mAh battery, 256 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-50-se.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Play5 5G",
+      "title": "Honor Play5 5G Android smartphone. Announced May 2021. Features 6.53″  display, Dimensity 800U chipset, 3800 mAh battery, 256 GB storage, 8 GB RAM, Schott Xensation Up.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-play-5.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Tablet X7",
+      "title": "Honor Tablet X7 Android tablet. Announced May 2021. Features 8.0″  display, MT8768T Helio P22T chipset, 5100 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-honor-x7.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Play 20",
+      "title": "Honor Play 20 Android smartphone. Announced Apr 2021. Features 6.52″  display, Unisoc T610 chipset, 5000 mAh battery, 128 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-play-20.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Play 5T Youth",
+      "title": "Honor Play 5T Youth Android smartphone. Announced Apr 2021. Features 6.6″  display, MT6765 Helio P35 chipset, 5000 mAh battery, 128 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-play-5t-lite.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Tab 7",
+      "title": "Honor Tab 7 Android tablet. Announced Mar 2021. Features 10.1″  display, MT8786 chipset, 5100 mAh battery, 128 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-tab7.jpg",
+      "specs": ""
+    },
+    {
+      "name": "V40 Lite",
+      "title": "Honor V40 Lite Android smartphone. Announced Mar 2021. Features 6.57″  display, Dimensity 800U chipset, 3800 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-v40-lite.jpg",
+      "specs": ""
+    },
+    {
+      "name": "View40",
+      "title": "Honor View40 Android smartphone. Announced Jan 2021. Features 6.72″  display, Dimensity 1000+ chipset, 4000 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-v40-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "V40 5G",
+      "title": "Honor V40 5G Android smartphone. Announced Jan 2021. Features 6.72″  display, Dimensity 1000+ chipset, 4000 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-v40-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "10X Lite",
+      "title": "Honor 10X Lite Android smartphone. Announced Oct 2020. Features 6.67″  display, Kirin 710A chipset, 5000 mAh battery, 128 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-10x-lite.jpg",
+      "specs": ""
+    },
+    {
+      "name": "30i",
+      "title": "Honor 30i Android smartphone. Announced Sep 2020. Features 6.3″  display, Kirin 710F chipset, 4000 mAh battery, 128 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-30i.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Watch GS Pro",
+      "title": "Honor Watch GS Pro watch. Announced Sep 2020. Features 1.39″  display, 790 mAh battery, 4 GB storage, MIL-STD-810G compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-watch-gs-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Watch ES",
+      "title": "Honor Watch ES watch. Announced Sep 2020. Features 1.64″  display, 180 mAh battery, 4 GB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-watch-es.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pad 6",
+      "title": "Honor Pad 6 Android tablet. Announced Jul 2020. Features 10.1″  display, Kirin 710A chipset, 5100 mAh battery, 128 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-pad-6.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pad X6",
+      "title": "Honor Pad X6 Android tablet. Announced Jul 2020. Features 9.7″  display, Kirin 710A chipset, 5100 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-pad-x6.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X10 Max 5G",
+      "title": "Honor X10 Max 5G Android smartphone. Announced Jul 2020. Features 7.09″  display, Dimensity 800 chipset, 5000 mAh battery, 128 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-x10-max.jpg",
+      "specs": ""
+    },
+    {
+      "name": "30 Youth",
+      "title": "Honor 30 Youth Android smartphone. Announced Jul 2020. Features 6.5″  display, Dimensity 800 chipset, 4000 mAh battery, 128 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-30-lite.jpg",
+      "specs": ""
+    },
+    {
+      "name": "8S 2020",
+      "title": "Honor 8S 2020 Android smartphone. Announced May 2020. Features 5.71″  display, MT6761 Helio A22 chipset, 3020 mAh battery, 64 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-8s-2020.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Play4",
+      "title": "Honor Play4 Android smartphone. Announced Jun 2020. Features 6.81″  display, Dimensity 800 chipset, 4300 mAh battery, 128 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-play4.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Play4 Pro",
+      "title": "Honor Play4 Pro Android smartphone. Announced Jun 2020. Features 6.57″  display, Kirin 990 chipset, 4200 mAh battery, 128 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-play-4-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X10 5G",
+      "title": "Honor X10 5G Android smartphone. Announced May 2020. Features 6.63″  display, Kirin 820 5G chipset, 4300 mAh battery, 128 GB storage, 8 GB RAM, Aluminosilicate glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-x10-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "V6",
+      "title": "Honor V6 Android tablet. Announced May 2020. Features 10.4″  display, Kirin 985 5G chipset, 7250 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-v6.jpg",
+      "specs": ""
+    },
+    {
+      "name": "9A",
+      "title": "Honor 9A Android smartphone. Announced Apr 2020. Features 6.3″  display, MT6762R Helio P22 chipset, 5000 mAh battery, 64 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-9a.jpg",
+      "specs": ""
+    },
+    {
+      "name": "9C",
+      "title": "Honor 9C Android smartphone. Announced Apr 2020. Features 6.39″  display, Kirin 710A chipset, 4000 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-9c.jpg",
+      "specs": ""
+    },
+    {
+      "name": "9S",
+      "title": "Honor 9S Android smartphone. Announced Apr 2020. Features 5.45″  display, MT6762R Helio P22 chipset, 3020 mAh battery, 32 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-9s.jpg",
+      "specs": ""
+    },
+    {
+      "name": "9X Lite",
+      "title": "Honor 9X Lite Android smartphone. Announced Apr 2020. Features 6.5″  display, Kirin 710F chipset, 3750 mAh battery, 128 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-honor-9x-lite.jpg",
+      "specs": ""
+    },
+    {
+      "name": "30 Pro+",
+      "title": "Honor 30 Pro+ Android smartphone. Announced Apr 2020. Features 6.57″  display, Kirin 990 5G chipset, 4000 mAh battery, 256 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-30-pro-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "30 Pro",
+      "title": "Honor 30 Pro Android smartphone. Announced Apr 2020. Features 6.57″  display, Kirin 990 5G chipset, 4000 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-30-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "30",
+      "title": "Honor 30 Android smartphone. Announced Apr 2020. Features 6.53″  display, Kirin 985 5G chipset, 4000 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-30.jpg",
+      "specs": ""
+    },
+    {
+      "name": "20e",
+      "title": "Honor 20e Android smartphone. Announced Apr 2020. Features 6.21″  display, Kirin 710F chipset, 3400 mAh battery, 64 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-20e.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Play 4T Pro",
+      "title": "Honor Play 4T Pro Android smartphone. Announced Apr 2020. Features 6.3″  display, Kirin 810 chipset, 4000 mAh battery, 128 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-play-4t-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Play 4T",
+      "title": "Honor Play 4T Android smartphone. Announced Apr 2020. Features 6.39″  display, Kirin 710A chipset, 4000 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-play-4t.jpg",
+      "specs": ""
+    },
+    {
+      "name": "8A 2020",
+      "title": "Honor 8A 2020 Android smartphone. Announced Apr 2020. Features 6.09″  display, MT6765 Helio P35 chipset, 3020 mAh battery, 64 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-8a-2020-uk.jpg",
+      "specs": ""
+    },
+    {
+      "name": "8A Prime",
+      "title": "Honor 8A Prime Android smartphone. Announced Mar 2020. Features 6.09″  display, MT6765 Helio P35 chipset, 3020 mAh battery, 64 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-8a-prime.jpg",
+      "specs": ""
+    },
+    {
+      "name": "30S",
+      "title": "Honor 30S Android smartphone. Announced Mar 2020. Features 6.5″  display, Kirin 820 5G chipset, 4000 mAh battery, 256 GB storage, 8 GB RAM, Aluminosilicate glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-30s.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Play 9A",
+      "title": "Honor Play 9A Android smartphone. Announced Mar 2020. Features 6.3″  display, MT6765 Helio P35 chipset, 5000 mAh battery, 128 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-play-9a-r.jpg",
+      "specs": ""
+    },
+    {
+      "name": "View30 Pro",
+      "title": "Honor View30 Pro Android smartphone. Announced Feb 2020. Features 6.57″  display, Kirin 990 5G chipset, 4100 mAh battery, 256 GB storage, 8 GB RAM, Yes.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-view30-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "View30",
+      "title": "Honor View30 Android smartphone. Announced Feb 2020. Features 6.57″  display, Kirin 990 chipset, 4200 mAh battery, 128 GB storage, 8 GB RAM, Yes.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-view30.jpg",
+      "specs": ""
+    },
+    {
+      "name": "V30 Pro",
+      "title": "Honor V30 Pro Android smartphone. Announced Nov 2019. Features 6.57″  display, Kirin 990 5G chipset, 4100 mAh battery, 256 GB storage, 8 GB RAM, Yes.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-v30-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "V30",
+      "title": "Honor V30 Android smartphone. Announced Nov 2019. Features 6.57″  display, Kirin 990 chipset, 4200 mAh battery, 128 GB storage, 8 GB RAM, Yes.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-v30.jpg",
+      "specs": ""
+    },
+    {
+      "name": "MagicWatch 2",
+      "title": "Honor MagicWatch 2 watch. Announced Nov 2019. Features 1.39″  display, 455 mAh battery, 4 GB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-magic-watch2-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "9X",
+      "title": "Honor 9X Android smartphone. Announced Oct 2019. Features 6.59″  display, Kirin 710F chipset, 4000 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-9x-global-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "20 lite (China)",
+      "title": "Honor 20 lite (China) Android smartphone. Announced Oct 2019. Features 6.3″  display, Kirin 710F chipset, 4000 mAh battery, 128 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-20-lite-youth.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Play 3e",
+      "title": "Honor Play 3e Android smartphone. Announced Sep 2019. Features 5.71″  display, MT6762R Helio P22 chipset, 3020 mAh battery, 64 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-play-3e.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Play 3",
+      "title": "Honor Play 3 Android smartphone. Announced Sep 2019. Features 6.39″  display, Kirin 710F chipset, 4000 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-play-3.jpg",
+      "specs": ""
+    },
+    {
+      "name": "20S",
+      "title": "Honor 20S Android smartphone. Announced Sep 2019. Features 6.26″  display, Kirin 810 chipset, 3750 mAh battery, 128 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-20s.jpg",
+      "specs": ""
+    },
+    {
+      "name": "9X Pro",
+      "title": "Honor 9X Pro Android smartphone. Announced Jul 2019. Features 6.59″  display, Kirin 810 chipset, 4000 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-9x-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "9X (China)",
+      "title": "Honor 9X (China) Android smartphone. Announced Jul 2019. Features 6.59″  display, Kirin 810 chipset, 4000 mAh battery, 128 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-9x-global.jpg",
+      "specs": ""
+    },
+    {
+      "name": "8S",
+      "title": "Honor 8S Android smartphone. Announced Apr 2019. Features 5.71″  display, MT6761 Helio A22 chipset, 3020 mAh battery, 64 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-8s-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pad 5 10.1",
+      "title": "Honor Pad 5 10.1 Android tablet. Announced Jun 2019. Features 10.1″  display, Kirin 659 chipset, 5100 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor5-10-ags2-al00hn.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pad 5 8",
+      "title": "Honor Pad 5 8 Android tablet. Announced Jun 2019. Features 8.0″  display, Kirin 710 chipset, 5100 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor5-8-jdn2-al00hn.jpg",
+      "specs": ""
+    },
+    {
+      "name": "20 Pro",
+      "title": "Honor 20 Pro Android smartphone. Announced May 2019. Features 6.26″  display, Kirin 980 chipset, 4000 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-honor-20-pro-r.jpg",
+      "specs": ""
+    },
+    {
+      "name": "20",
+      "title": "Honor 20 Android smartphone. Announced May 2019. Features 6.26″  display, Kirin 980 chipset, 3750 mAh battery, 128 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-honor-20.jpg",
+      "specs": ""
+    },
+    {
+      "name": "20 lite",
+      "title": "Honor 20 lite Android smartphone. Announced Apr 2019. Features 6.21″  display, Kirin 710 chipset, 3400 mAh battery, 128 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-20-lite.jpg",
+      "specs": ""
+    },
+    {
+      "name": "20i",
+      "title": "Honor 20i Android smartphone. Announced Apr 2019. Features 6.21″  display, Kirin 710 chipset, 3400 mAh battery, 256 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-20i.jpg",
+      "specs": ""
+    },
+    {
+      "name": "8A Pro",
+      "title": "Honor 8A Pro Android smartphone. Announced Apr 2019. Features 6.09″  display, MT6765 Helio P35 chipset, 3020 mAh battery, 64 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-8a-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Tab 5",
+      "title": "Honor Tab 5 Android tablet. Announced Mar 2019. Features 8.0″  display, Kirin 710 chipset, 5100 mAh battery, 128 GB storage, 4 GB RAM, Scratch-resistant glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-tab-5.jpg",
+      "specs": ""
+    },
+    {
+      "name": "View 20",
+      "title": "Honor View 20 Android smartphone. Announced Dec 2018. Features 6.4″  display, Kirin 980 chipset, 4000 mAh battery, 256 GB storage, 8 GB RAM, Yes.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-honor-view-20-ofic.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Magic 2 3D",
+      "title": "Honor Magic 2 3D Android smartphone. Announced Mar 2019. Features 6.39″  display, Kirin 980 chipset, 3500 mAh battery, 512 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-magic-2-3d.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Magic 2",
+      "title": "Honor Magic 2 Android smartphone. Announced Oct 2018. Features 6.39″  display, Kirin 980 chipset, 3500 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-magic-2-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Play 8A",
+      "title": "Honor Play 8A Android smartphone. Announced Jan 2019. Features 6.09″  display, MT6765 Helio P35 chipset, 3020 mAh battery, 64 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-honor-play-8a.jpg",
+      "specs": ""
+    },
+    {
+      "name": "10 Lite",
+      "title": "Honor 10 Lite Android smartphone. Announced Nov 2018. Features 6.21″  display, Kirin 710 chipset, 3400 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-honor-10-lite.jpg",
+      "specs": ""
+    },
+    {
+      "name": "8C",
+      "title": "Honor 8C Android smartphone. Announced Oct 2018. Features 6.26″  display, Snapdragon 632 chipset, 4000 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-honor-8c.jpg",
+      "specs": ""
+    },
+    {
+      "name": "8X",
+      "title": "Honor 8X Android smartphone. Announced Sep 2018. Features 6.5″  display, Kirin 710 chipset, 3750 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-honor-8x.jpg",
+      "specs": ""
+    },
+    {
+      "name": "8X Max",
+      "title": "Honor 8X Max Android smartphone. Announced Sep 2018. Features 7.12″  display, Snapdragon 660 chipset, 5000 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-honor-8x-max.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Note 10",
+      "title": "Honor Note 10 Android smartphone. Announced Jul 2018. Features 6.95″  display, Kirin 970 chipset, Dual: 16 MP (f/1.8) + 24 MP primary camera, 13 MP front camera, 5000 mAh battery, 128 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-honor-note10-cn.jpg",
+      "specs": ""
+    },
+    {
+      "name": "9N (9i)",
+      "title": "Honor 9N (9i) Android smartphone. Announced Jul 2018. Features 5.84″  display, Kirin 659 chipset, Dual: 13 MP (PDAF) + 2 MP primary camera, 16 MP front camera, 3000 mAh battery, 128 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-honor-9n.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Play",
+      "title": "Honor Play Android smartphone. Announced Jul 2018. Features 6.3″  display, Kirin 970 chipset, 3750 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-honor-play-ofic.jpg",
+      "specs": ""
+    },
+    {
+      "name": "7S",
+      "title": "Honor 7S Android smartphone. Announced May 2018. Features 5.45″  display, MT6739 chipset, 13 MP primary camera, 5 MP front camera, 3020 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-honor-play-7.jpg",
+      "specs": ""
+    },
+    {
+      "name": "10",
+      "title": "Honor 10 Android smartphone. Announced May 2018. Features 5.84″  display, Kirin 970 chipset, Dual: 16 MP (f/1.8) + 24 MP primary camera, 24 MP front camera, 3400 mAh battery, 128 GB storage, 8 GB RAM, Corning Gorilla Glass (unspecified version).",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-honor-10-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "7A",
+      "title": "Honor 7A Android smartphone. Announced Apr 2018. Features 5.7″  display, Snapdragon 430 chipset, Dual: 13 MP (f/2.2, PDAF) + 2 MP primary camera, 8 MP front camera, 3000 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-honor-7a-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "7C",
+      "title": "Honor 7C Android smartphone. Announced May 2018. Features 5.99″  display, Snapdragon 450 chipset, Dual: 13 MP (f/2.2, PDAF) + 2 MP primary camera, 8 MP front camera, 3000 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-honor-7c.jpg",
+      "specs": ""
+    },
+    {
+      "name": "9 Lite",
+      "title": "Honor 9 Lite Android smartphone. Announced Dec 2017. Features 5.65″  display, Kirin 659 chipset, Dual: 13 MP (PDAF) + 2 MP primary camera, Dual: 13 MP + 2 MP front camera, 3000 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-honor-9-lite.jpg",
+      "specs": ""
+    },
+    {
+      "name": "View 10",
+      "title": "Honor View 10 Android smartphone. Announced Dec 2017. Features 5.99″  display, Kirin 970 chipset, Dual: 16 MP (f/1.8) + 20 MP primary camera, 13 MP front camera, 3750 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-honor-view-10.jpg",
+      "specs": ""
+    },
+    {
+      "name": "7X",
+      "title": "Honor 7X Android smartphone. Announced Dec 2017. Features 5.93″  display, Kirin 659 chipset, Dual: 16 MP (f/2.2, 26mm, 1/2.9″, 1.25µm, PDAF) + 2 MP primary camera, 8 MP front camera, 3340 mAh battery, 128 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-honor-7x.jpg",
+      "specs": ""
+    },
+    {
+      "name": "6C Pro",
+      "title": "Honor 6C Pro Android smartphone. Announced Oct 2017. Features 5.2″  display, MT6750 chipset, 13 MP primary camera, 8 MP front camera, 3000 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-honor-v9-play.jpg",
+      "specs": ""
+    },
+    {
+      "name": "9",
+      "title": "Honor 9 Android smartphone. Announced Jun 2017. Features 5.15″  display, Kirin 960 chipset, Dual: 12 MP (f/2.2, 27mm) + 20 MP primary camera, 8 MP front camera, 3200 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-honor-9-1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "6A (Pro)",
+      "title": "Honor 6A (Pro) Android smartphone. Announced May 2017. Features 5.0″  display, Snapdragon 430 chipset, 13 MP primary camera, 5 MP front camera, 3020 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-nonor-6a.jpg",
+      "specs": ""
+    },
+    {
+      "name": "8 Pro",
+      "title": "Honor 8 Pro Android smartphone. Announced Apr 2017. Features 5.7″  display, Kirin 960 chipset, Dual: 12 MP primary camera, 8 MP front camera, 4000 mAh battery, 64 GB storage, 6 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-honor-8-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X60",
+      "title": "Honor X60 Android smartphone. Announced Oct 2024. Features 6.8″  display, Dimensity 7025 Ultra chipset, 5800 mAh battery, 512 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-x60.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pad GT Pro",
+      "title": "Honor Pad GT Pro Android tablet. Announced Oct 2024. Features 12.3″  display, Snapdragon 8s Gen 3 chipset, 10050 mAh battery, 512 GB storage, 16 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-pad-gt-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "200 Smart",
+      "title": "Honor 200 Smart Android smartphone. Announced Sep 2024. Features 6.8″  display, Snapdragon 4 Gen 2 chipset, 5200 mAh battery, 256 GB storage, 8 GB RAM, Aluminosilicate glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-play-60-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Watch 5",
+      "title": "Honor Watch 5 watch. Announced Sep 2024. Features 1.85″  display, 480 mAh battery, 4 GB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-watch-5.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pad X8a",
+      "title": "Honor Pad X8a Android tablet. Announced Aug 2024. Features 11.0″  display, Snapdragon 680 4G chipset, 8300 mAh battery, 128 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-pad-x8a.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X60i",
+      "title": "Honor X60i Android smartphone. Announced Jul 2024. Features 6.7″  display, Dimensity 6080 chipset, 5000 mAh battery, 512 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-x60i.jpg",
+      "specs": ""
+    },
+    {
+      "name": "MagicPad 2 12.3",
+      "title": "Honor MagicPad 2 12.3 Android tablet. Announced Jul 2024. Features 12.3″  display, Snapdragon 8s Gen 3 chipset, 10050 mAh battery, 1024 GB storage, 16 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-magicpad-2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pad 9 Pro",
+      "title": "Honor Pad 9 Pro Android tablet. Announced Jul 2024. Features 12.1″  display, Dimensity 8100 chipset, 10050 mAh battery, 256 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-pad9-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Magic Vs3",
+      "title": "Honor Magic Vs3 Android smartphone. Announced Jul 2024. Features 7.92″  display, Snapdragon 8 Gen 2 chipset, 5000 mAh battery, 1024 GB storage, 16 GB RAM, King Kong Rhinoceros.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-magic-vs3.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Magic V3",
+      "title": "Honor Magic V3 Android smartphone. Announced Jul 2024. Features 7.92″  display, Snapdragon 8 Gen 3 chipset, 5150 mAh battery, 1024 GB storage, 16 GB RAM, King Kong Rhinoceros.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-magic-v3.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Play 60 Plus",
+      "title": "Honor Play 60 Plus Android smartphone. Announced Jun 2024. Features 6.77″  display, Snapdragon 4 Gen 2 chipset, 6000 mAh battery, 512 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-play-60-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X7b 5G (50 MP)",
+      "title": "Honor X7b 5G (50 MP) Android smartphone. Announced Jun 2024. Features 6.8″  display, Dimensity 6020 chipset, 6000 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-x7b-5g-50mp.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Magic V Flip",
+      "title": "Honor Magic V Flip Android smartphone. Announced Jun 2024. Features 6.8″  display, Snapdragon 8+ Gen 1 chipset, 4800 mAh battery, 1024 GB storage, 16 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-magic-v-flip.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X6b 4G",
+      "title": "Honor X6b Android smartphone. Announced Jun 2024. Features 6.56″  display, Helio G85 chipset, 5200 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-x6b.jpg",
+      "specs": ""
+    },
+    {
+      "name": "200 Pro",
+      "title": "Honor 200 Pro Android smartphone. Announced May 2024. Features 6.78″  display, Snapdragon 8s Gen 3 chipset, 5200 mAh battery, 1024 GB storage, 16 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-200-pro-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "200",
+      "title": "Honor 200 Android smartphone. Announced May 2024. Features 6.7″  display, Snapdragon 7 Gen 3 chipset, 5200 mAh battery, 512 GB storage, 16 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-200-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "200 Lite",
+      "title": "Honor 200 Lite Android smartphone. Announced Apr 2024. Features 6.7″  display, Dimensity 6080 chipset, 4500 mAh battery, 256 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-200-lite.jpg",
+      "specs": ""
+    },
+    {
+      "name": "90 Smart",
+      "title": "Honor 90 Smart Android smartphone. Announced Apr 2024. Features 6.8″  display, Dimensity 6020 chipset, 5330 mAh battery, 256 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-90-smart.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X7b 5G",
+      "title": "Honor X7b 5G Android smartphone. Announced Apr 2024. Features 6.8″  display, Dimensity 6020 chipset, 6000 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-x7b-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Magic6 RSR Porsche Design",
+      "title": "Honor Magic6 RSR Porsche Design Android smartphone. Announced Mar 2024. Features 6.8″  display, Snapdragon 8 Gen 3 chipset, 5600 mAh battery, 1024 GB storage, 24 GB RAM, NanoCrystal Shield.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-magic6-rsr-porsche-design.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Magic6 Ultimate",
+      "title": "Honor Magic6 Ultimate Android smartphone. Announced Mar 2024. Features 6.8″  display, Snapdragon 8 Gen 3 chipset, 5600 mAh battery, 1024 GB storage, 16 GB RAM, King Kong Rhinoceros.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-magic6-ultimate.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Watch GS 4",
+      "title": "Honor Watch GS 4 watch. Announced Mar 2024. Features 1.43″  display, 451 mAh battery, 4 GB storage, 32 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-watch-gs4.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Choice Watch",
+      "title": "Honor Choice Watch watch. Announced Feb 2024. Features 1.95″  display, 300 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-choice-haylou-watch.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Magic V2 RSR Porsche Design",
+      "title": "Honor Magic V2 RSR Porsche Design Android smartphone. Announced Jan 2024. Features 7.92″  display, Snapdragon 8 Gen 2 chipset, 5000 mAh battery, 1024 GB storage, 16 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-magic-v2-rsr-porsche-design.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Magic6 Pro",
+      "title": "Honor Magic6 Pro Android smartphone. Announced Jan 2024. Features 6.8″  display, Snapdragon 8 Gen 3 chipset, 5600 mAh battery, 1024 GB storage, 16 GB RAM, NanoCrystal Shield.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-magic6-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Magic6",
+      "title": "Honor Magic6 Android smartphone. Announced Jan 2024. Features 6.78″  display, Snapdragon 8 Gen 3 chipset, 5450 mAh battery, 512 GB storage, 16 GB RAM, Jurhino glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-magic6.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X50 GT",
+      "title": "Honor X50 GT Android smartphone. Announced Jan 2024. Features 6.78″  display, Snapdragon 8+ Gen 1 chipset, 5800 mAh battery, 1024 GB storage, 16 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-x50-gt.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X50 Pro",
+      "title": "Honor X50 Pro Android smartphone. Announced Dec 2023. Features 6.78″  display, Snapdragon 8+ Gen 1 chipset, 5800 mAh battery, 256 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-x50-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "90 GT",
+      "title": "Honor 90 GT Android smartphone. Announced Dec 2023. Features 6.7″  display, Snapdragon 8 Gen 2 chipset, 5000 mAh battery, 1024 GB storage, 24 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-90-gt.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pad 9",
+      "title": "Honor Pad 9 Android tablet. Announced Dec 2023. Features 12.1″  display, Snapdragon 6 Gen 1 chipset, 8300 mAh battery, 512 GB storage, 12 GB RAM, Anti-glare glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-pad9.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X8b",
+      "title": "Honor X8b Android smartphone. Announced Dec 2023. Features 6.7″  display, Snapdragon 680 4G chipset, 4500 mAh battery, 512 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-x8b.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Magic6 Lite",
+      "title": "Honor Magic6 Lite Android smartphone. Announced Dec 2023. Features 6.78″  display, Snapdragon 6 Gen 1 chipset, 5800 mAh battery, 512 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-magic6-lite.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X7b",
+      "title": "Honor X7b Android smartphone. Announced Dec 2023. Features 6.8″  display, Snapdragon 680 4G chipset, 6000 mAh battery, 256 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-x7b-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "100 Pro",
+      "title": "Honor 100 Pro Android smartphone. Announced Nov 2023. Features 6.78″  display, Snapdragon 8 Gen 2 chipset, 5000 mAh battery, 1024 GB storage, 16 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-x100-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "100",
+      "title": "Honor 100 Android smartphone. Announced Nov 2023. Features 6.7″  display, Snapdragon 7 Gen 3 chipset, 5000 mAh battery, 512 GB storage, 16 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-x100.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X50i+",
+      "title": "Honor X50i+ Android smartphone. Announced Nov 2023. Features 6.7″  display, Dimensity 6080 chipset, 4500 mAh battery, 512 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-x50i-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X5 Plus",
+      "title": "Honor X5 Plus Android smartphone. Announced Aug 2023. Features 6.56″  display, Helio G36 chipset, 5200 mAh battery, 128 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-x5-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X9b",
+      "title": "Honor X9b Android smartphone. Announced Oct 2023. Features 6.78″  display, Snapdragon 6 Gen 1 chipset, 5800 mAh battery, 512 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-x9b.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Play 8T",
+      "title": "Honor Play 8T Android smartphone. Announced Oct 2023. Features 6.8″  display, Dimensity 6080 chipset, 6000 mAh battery, 256 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-play-8t.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Magic Vs2",
+      "title": "Honor Magic Vs2 Android smartphone. Announced Oct 2023. Features 7.92″  display, Snapdragon 8+ Gen 1 chipset, 5000 mAh battery, 512 GB storage, 16 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-magic-vs2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Watch 4 Pro",
+      "title": "Honor Watch 4 Pro watch. Announced Oct 2023. Features 1.5″  display, 480 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-watch-4-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Play 50 Plus",
+      "title": "Honor Play 50 Plus Android smartphone. Announced Oct 2023. Features 6.8″  display, Dimensity 6020 chipset, 6000 mAh battery, 256 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-play-50-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "V Purse",
+      "title": "Honor V Purse Android smartphone. Announced Sep 2023. Features 7.71″  display, Snapdragon 778G 5G chipset, 4500 mAh battery, 512 GB storage, 16 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-v-purse-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X40 GT Racing",
+      "title": "Honor X40 GT Racing Android smartphone. Announced Sep 2023. Features 6.81″  display, 4800 mAh battery, 256 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-x40-gt-racing.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X6a",
+      "title": "Honor X6a Android smartphone. Announced Jul 2023. Features 6.56″  display, Helio G36 chipset, 5200 mAh battery, 256 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-x6a.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Magic V2",
+      "title": "Honor Magic V2 Android smartphone. Announced Jul 2023. Features 7.92″  display, Snapdragon 8 Gen 2 chipset, 5000 mAh battery, 1024 GB storage, 16 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-magic-2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Watch 4",
+      "title": "Honor Watch 4 watch. Announced Jul 2023. Features 1.75″  display, 451 mAh battery, 4 GB storage, 32 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-watch4.jpg",
+      "specs": ""
+    },
+    {
+      "name": "MagicPad 13",
+      "title": "Honor MagicPad 13 Android tablet. Announced Jul 2023. Features 13.0″  display, Snapdragon 888 5G chipset, 10050 mAh battery, 512 GB storage, 16 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-magicpad13.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pad X9",
+      "title": "Honor Pad X9 Android tablet. Announced Jul 2023. Features 11.5″  display, Snapdragon 685 chipset, 7250 mAh battery, 128 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-pad-x9.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pad X8 Pro",
+      "title": "Honor Pad X8 Pro Android tablet. Announced Jul 2023. Features 11.5″  display, Snapdragon 685 chipset, 7250 mAh battery, 128 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-pad-x8-pro.jpg",
+      "specs": ""
+    }
+  ]
+}

@@ -1,0 +1,2485 @@
+{
+  "scrape_date": "2025-10-08T15:52:59.426516",
+  "total_phones": 413,
+  "source": "https://www.gsmarena.com/alcatel-phones-f-5-0-p3.php",
+  "phones": [
+    {
+      "name": "Pixi 3 (5.5)",
+      "title": "alcatel Pixi 3 (5.5) Android smartphone. Announced Mar 2015. Features 5.5″  display, MT6580 chipset, 8 MP primary camera, 2 MP front camera, 2910 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-pixi3-55.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pixi 3 (8) 3G",
+      "title": "alcatel Pixi 3 (8) 3G Android tablet. Announced Mar 2015. Features 8.0″  display, MT8312 chipset, 2 MP primary camera, 3240 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-pixi-3-8-3g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pixi 3 (7) LTE",
+      "title": "alcatel Pixi 3 (7) LTE Android tablet. Announced Mar 2015. Features 7.0″  display, Snapdragon 210 chipset, 2 MP primary camera, 2820 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-pixi3-70.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pixi 3 (7) 3G",
+      "title": "alcatel Pixi 3 (7) 3G Android tablet. Announced Mar 2015. Features 7.0″  display, MT8312 chipset, 2 MP primary camera, 2820 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-pixi3-70.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pixi 3 (7)",
+      "title": "alcatel Pixi 3 (7) Android tablet. Announced Mar 2015. Features 7.0″  display, MT8127 chipset, 2 MP primary camera, 2820 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-pixi3-70.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pop 10",
+      "title": "alcatel Pop 10 Android tablet. Announced Jan 2015. Features 9.6″  display, Snapdragon 410 chipset, 5 MP primary camera, 2 MP front camera, 4600 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-pop-10.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pixi 3 (5)",
+      "title": "alcatel Pixi 3 (5) Android smartphone. Announced Jan 2015. Features 5.0″  display, MT6570 chipset, 5 MP or 8 MP primary camera, 2 MP front camera, 2000 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-pixi-3-5.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pixi 3 (4.5)",
+      "title": "alcatel Pixi 3 (4.5) Android smartphone. Announced Jan 2015. Features 4.5″  display, MT6572M chipset, 5 MP or 8 MP primary camera, 1780 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-pixi-3-4.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pixi 3 (4)",
+      "title": "alcatel Pixi 3 (4) Android smartphone. Announced Jan 2015. Features 4.0″  display, MT6572M chipset, 2 MP or 5 MP primary camera, 1650 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-pixi-3-4.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pixi 3 (3.5) Firefox",
+      "title": "alcatel Pixi 3 (3.5) Firefox smartphone. Announced Jan 2015. Features 3.5″  display, MT6572M chipset, 2 MP primary camera, 1300 mAh battery, 512 MB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-p335-ff.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pixi 3 (3.5)",
+      "title": "alcatel Pixi 3 (3.5) Android smartphone. Announced Jan 2015. Features 3.5″  display, MT6572M chipset, 2 MP primary camera, 1300 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-pixi-3-3.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pop D3",
+      "title": "alcatel Pop D3 Android smartphone. Announced Aug 2014. Features 4.0″  display, 5 MP primary camera, 1400 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-pop-d3.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pop D1",
+      "title": "alcatel Pop D1 Android smartphone. Announced Aug 2014. Features 3.5″  display, 2 MP primary camera, 1300 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-pop-d1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pop Icon",
+      "title": "alcatel Pop Icon Android smartphone. Announced Sep 2014. Features 5.0″  display, 5 MP primary camera, 2000 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-pop-icon.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Fire C 2G",
+      "title": "alcatel Fire C 2G smartphone. Announced Oct 2014. Features 3.5″  display, Spreadtrum 6821 chipset, 1.3 MP primary camera, 1000 mAh battery, 256 MB storage, 128 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-fire-c-4020d.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pop 2 (5) Premium",
+      "title": "alcatel Pop 2 (5) Premium Android smartphone. Announced Sep 2014. Features 5.0″  display, 8 MP primary camera, 2 MP front camera, 2500 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-pop-2-5-prem.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pop 2 (5)",
+      "title": "alcatel Pop 2 (5) Android smartphone. Announced Sep 2014. Features 5.0″  display, 5 MP primary camera, 2500 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-pop-2-5.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pop 2 (4)",
+      "title": "alcatel Pop 2 (4) Android smartphone. Announced Sep 2014. Features 4.0″  display, 3.15 MP primary camera, 2000 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-pop-2-4.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pop 2 (4.5) Dual SIM",
+      "title": "alcatel Pop 2 (4.5) Dual SIM Android smartphone. Announced Sep 2014. Features 4.5″  display, Snapdragon 410 chipset, 5 MP primary camera, 2000 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-pop-2-45.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pop 2 (4.5)",
+      "title": "alcatel Pop 2 (4.5) Android smartphone. Announced Sep 2014. Features 4.5″  display, Snapdragon 410 chipset, 5 MP primary camera, 2000 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-pop-2-45.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Fierce 2",
+      "title": "alcatel Fierce 2 Android smartphone. Announced Aug 2014. Features 5.0″  display, 5 MP primary camera, 2000 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-fierce2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Evolve 2",
+      "title": "alcatel Evolve 2 Android smartphone. Announced Oct 2014. Features 4.0″  display, 5 MP primary camera, 1400 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-evolve2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pop 8S",
+      "title": "alcatel Pop 8S Android tablet. Announced Sep 2014. Features 8.0″  display, Snapdragon 410 chipset, 5 MP primary camera, 3 MP front camera, 4100 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-pop-8s-1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Hero 8",
+      "title": "alcatel Hero 8 Android tablet. Announced Sep 2014. Features 8.0″  display, MT8392 chipset, 5 MP primary camera, 2 MP front camera, 4060 mAh battery, 32 GB storage, 2 GB RAM, Asahi Dragontrail Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-hero-8.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Hero 2",
+      "title": "alcatel Hero 2 Android smartphone. Announced Sep 2014. Features 6.0″  display, MT8392 chipset, 13.1 MP primary camera, 5 MP front camera, 3100 mAh battery, 16 GB storage, 2 GB RAM, Asahi Dragontrail Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-hero-2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pixi 2",
+      "title": "alcatel Pixi 2 Android smartphone. Announced May 2014. Features 3.5″  display, 2 MP primary camera, 1300 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/Alcatel-One-Touch-Pixi-2-1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pop D5",
+      "title": "alcatel Pop D5 Android smartphone. Announced Aug 2014. Features 4.5″  display, 5 MP primary camera, 1800 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-pop-d5.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pop C2",
+      "title": "alcatel Pop C2 Android smartphone. Announced Jul 2014. Features 4.0″  display, 3.15 MP primary camera, 1300 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-pop-c2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pixi 8",
+      "title": "alcatel Pixi 8 Android tablet. Announced Jun 2014. Features 8.0″  display, 3240 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-pixi-8.jpg",
+      "specs": ""
+    },
+    {
+      "name": "2012",
+      "title": "alcatel 2012 phone. Announced  2014. Features 2.8″  display, 3.15 MP primary camera, 750 mAh battery, 16 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-2012.jpg",
+      "specs": ""
+    },
+    {
+      "name": "2010",
+      "title": "alcatel 2010 phone. Announced  2014. Features 2.4″  display, 2 MP primary camera, 750 mAh battery, 128 MB storage, 64 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-2010.jpg",
+      "specs": ""
+    },
+    {
+      "name": "2052",
+      "title": "alcatel 2052 phone. Announced  2014. Features 1.8″  display, 750 mAh battery, 128 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-2052.jpg",
+      "specs": ""
+    },
+    {
+      "name": "2040",
+      "title": "alcatel 2040 phone. Announced  2014. Features 2.4″  display, 850 mAh battery, 4 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-2040.jpg",
+      "specs": ""
+    },
+    {
+      "name": "2005",
+      "title": "alcatel 2005 phone. Announced  2014. Features 2.4″  display, 2 MP primary camera, 850 mAh battery, 128 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-2005.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pop 7S",
+      "title": "alcatel Pop 7S Android tablet. Announced Jan 2014. Features 7.0″  display, Snapdragon 400 chipset, 3 MP primary camera, 3240 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-pop-7s.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pixi 7",
+      "title": "alcatel Pixi 7 Android tablet. Announced Feb 2014. Features 7.0″  display, MT8117 chipset, 2840 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-pixi-7.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pop S9",
+      "title": "alcatel Pop S9 Android smartphone. Announced Feb 2014. Features 5.9″  display, 8 MP primary camera, 2 MP front camera, 3400 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-pop-s9-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pop S7",
+      "title": "alcatel Pop S7 Android smartphone. Announced Feb 2014. Features 5.0″  display, 5 MP primary camera, 3000 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-pop-s7-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pop S3",
+      "title": "alcatel Pop S3 Android smartphone. Announced Feb 2014. Features 4.0″  display, 5 MP primary camera, 2000 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-pop-s3-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Fire 7",
+      "title": "alcatel Fire 7 tablet. Announced Feb 2014. Features 7.0″  display.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-fire-7-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Fire S",
+      "title": "alcatel Fire S smartphone. Announced Feb 2014. Features 4.5″  display, 5 MP primary camera, 2 MP front camera, 4 GB storage, 1000 MB RAM, Oleophobic coating.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-fire-s.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Fire E",
+      "title": "alcatel Fire E smartphone. Announced Feb 2014. Features 4.5″  display, 5 MP primary camera, 1700 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-fire-e.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Fire C",
+      "title": "alcatel Fire C smartphone. Announced Feb 2014. Features 3.5″  display, 1300 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-fire-c.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Idol 2 S",
+      "title": "alcatel Idol 2 S Android smartphone. Announced Feb 2014. Features 5.0″  display, 8 MP primary camera, 1.3 MP front camera, 2150 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-2s-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Idol 2",
+      "title": "alcatel Idol 2 Android smartphone. Announced Feb 2014. Features 5.0″  display, 8 MP primary camera, 2 MP front camera, 2000 mAh battery, 16 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-idol2-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Idol 2 Mini S",
+      "title": "alcatel Idol 2 Mini S Android smartphone. Announced Feb 2014. Features 4.5″  display, 8 MP primary camera, 2 MP front camera, 2000 mAh battery, 8 GB storage, 1000 MB RAM, Oleophobic coating.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-idol2-mini-s-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Idol 2 Mini",
+      "title": "alcatel Idol 2 Mini Android smartphone. Announced Feb 2014. Features 4.5″  display, 8 MP primary camera, 1700 mAh battery, 8 GB storage, 1000 MB RAM, Asahi Dragontrail Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-idol2-mini-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pop Fit",
+      "title": "alcatel Pop Fit Android smartphone. Announced Feb 2014. Features 2.8″  display, 2 MP primary camera, 1000 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-pop-fit-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "2001",
+      "title": "alcatel 2001 phone. Announced Nov 2013. Features 2.4″  display, 2 MP primary camera, 1000 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-2001-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "2000",
+      "title": "alcatel 2000 phone. Announced Nov 2013. Features 2.4″  display, 1000 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-2000.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-217",
+      "title": "alcatel OT-217 phone. Announced Aug 2011. Features 1.45″  display, 500 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-onetouch217.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-213",
+      "title": "alcatel OT-213 phone. Announced Feb 2011. Features 1.45″  display, 500 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-onetouch213-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-209",
+      "title": "alcatel OT-209 phone. Announced Feb 2011. Features 1.45″  display, 500 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-onetouch209-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-117",
+      "title": "alcatel OT-117 phone. Announced Aug 2011. Features 1.32″  display, 500 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-onetouch117.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-113",
+      "title": "alcatel OT-113 phone. Announced Feb 2011. Features 1.32″  display, 500 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-onetouch113.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-112",
+      "title": "alcatel OT-112 phone. Announced Feb 2011. Features 1.32″  display, 500 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-onetouch112.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-109",
+      "title": "alcatel OT-109 phone. Announced Feb 2011. Features 1.32″  display, 500 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-onetouch109.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-105",
+      "title": "alcatel OT-105 phone. Announced  2010. Features 1.32″  display, 500 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-onetouch105-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-706",
+      "title": "alcatel OT-706 phone. Announced  2010. Features 2.4″  display, 1.3 MP primary camera, 650 mAh battery, 1 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-onetouch706.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Net",
+      "title": "alcatel Net phone. Announced Jun 2010. Features 2.4″  display, 2 MP primary camera, 850 mAh battery, 80 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/Alcatel-One-Touch-Net.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-808",
+      "title": "alcatel OT-808 phone. Announced Feb 2010. Features 2.4″  display, 2 MP primary camera, 850 mAh battery, 80 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-ot-808.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-606 One Touch CHAT",
+      "title": "alcatel OT-606 One Touch CHAT phone. Announced Feb 2010. Features 2.2″  display, 670 mAh battery, 4 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-ot-606.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-255",
+      "title": "alcatel OT-255 phone. Announced Feb 2010. Features 1.8″  display, 650 mAh battery, 8 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-ot-255.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-252",
+      "title": "alcatel OT-252 phone. Announced Feb 2010. Features 1.8″  display, 500 mAh battery, 1 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-ot-252.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-710",
+      "title": "alcatel OT-710 phone. Announced Feb 2010. Features 2.83″  display, 2 MP primary camera, 850 mAh battery, 4 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-ot-710.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-108",
+      "title": "alcatel OT-108 phone. Announced Feb 2010. Features 1.32″  display, 500 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-108.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-216",
+      "title": "alcatel OT-216 phone. Announced Feb 2010. Features 1.5″  display, 650 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-216.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-206",
+      "title": "alcatel OT-206 phone. Announced  2009. Features 1.5″  display, 650 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-206.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-909 One Touch MAX",
+      "title": "alcatel OT-909 One Touch MAX phone. Announced Feb 2010. Features 2.8″  display, 2 MP primary camera, 1000 mAh battery, 88 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-ot-909.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Miss Sixty",
+      "title": "alcatel Miss Sixty phone. Announced Feb 2010. Features 2.4″  display, 2 MP primary camera, 850 mAh battery, 60 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-miss-sixty2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-880 One Touch XTRA",
+      "title": "alcatel OT-880 One Touch XTRA phone. Announced Feb 2010. Features 2.4″  display, 2 MP primary camera, 850 mAh battery, 60 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-880.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-208",
+      "title": "alcatel OT-208 phone. Announced Feb 2010. Features 1.45″  display, 500 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-208.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-301",
+      "title": "alcatel OT-301 phone. Announced Feb 2010. Features 1.5″  display, 500 mAh battery, 2 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-300.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-300",
+      "title": "alcatel OT-300 phone. Announced Feb 2010. Features 1.45″  display, 500 mAh battery, 2 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-300.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-980",
+      "title": "alcatel OT-980 Android smartphone. Announced Feb 2010. Features 2.8″  display, 2 MP primary camera, 1150 mAh battery, 194 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-980.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-806",
+      "title": "alcatel OT-806 phone. Announced Feb 2010. Features 2.8″  display, 2 MP primary camera, 850 mAh battery, 70 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-806.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-802 Wave",
+      "title": "alcatel OT-802 Wave phone. Announced  2009. Features 2.4″  display, 2 MP primary camera, 850 mAh battery, 60 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-one-touch-wave.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-305",
+      "title": "alcatel OT-305 phone. Announced Feb 2010. Features 1.45″  display, 500 mAh battery, 2 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-305.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-380",
+      "title": "alcatel OT-380 phone. Announced Feb 2010. Features 1.8″  display, 650 mAh battery, 2 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-380.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-505",
+      "title": "alcatel OT-505 phone. Announced Feb 2010. Features 1.77″  display, 650 mAh battery, 2 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-505.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-508A",
+      "title": "alcatel OT-508A phone. Announced Feb 2010. Features 1.8″  display, 750 mAh battery, 2 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-508a.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-565",
+      "title": "alcatel OT-565 phone. Announced Feb 2010. Features 1.77″  display, 650 mAh battery, 2 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-onetouch565.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-106",
+      "title": "alcatel OT-106 phone. Announced  2009. Features 1.32″  display, 650 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-ot-106.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-800 One Touch CHROME",
+      "title": "alcatel OT-800 One Touch CHROME phone. Announced Aug 2009. Features 2.2″  display, 2 MP primary camera, 850 mAh battery, 20 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-one-touch-chrome.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-800 One Touch Tribe",
+      "title": "alcatel OT-800 One Touch Tribe phone. Announced Jun 2009. Features 2.2″  display, 2 MP primary camera, 850 mAh battery, 20 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-800.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-708 One Touch MINI",
+      "title": "alcatel OT-708 One Touch MINI phone. Announced Jun 2009. Features 2.4″  display, 1.3 MP primary camera, 750 mAh battery, 5 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-708.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-660",
+      "title": "alcatel OT-660 phone. Announced Jun 2009. Features 1.8″  display, 1.3 MP primary camera, 750 mAh battery, 10 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-660.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-383",
+      "title": "alcatel OT-383 phone. Announced Jun 2009. Features 1.8″  display, 650 mAh battery, 2 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-383.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-203",
+      "title": "alcatel OT-203 phone. Announced Jun 2009. Features 1.5″  display, 650 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-203.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-103",
+      "title": "alcatel OT-103 phone. Announced Jun 2009. Features 1.3″  display, 650 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-103.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-600",
+      "title": "alcatel OT-600 phone. Announced Mar 2009. Features 1.8″  display, 1.3 MP primary camera, 750 mAh battery, 2 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-600.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Crystal",
+      "title": "alcatel Crystal phone. Announced Oct 2009. Features 1.8″  display, 1.3 MP primary camera, 720 mAh battery, 10 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-crystal.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Miss Sixty 2009",
+      "title": "alcatel Miss Sixty 2009 phone. Announced Jul 2009. Features 1.8″  display, 1.3 MP primary camera, 750 mAh battery, 10 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-miss-sixty.jpg",
+      "specs": ""
+    },
+    {
+      "name": "ELLE GlamPhone",
+      "title": "alcatel ELLE GlamPhone phone. Announced Jul 2009. Features 1.8″  display, 1.3 MP primary camera, 720 mAh battery, 10 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-elle-glamphone.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-363",
+      "title": "alcatel OT-363 phone. Announced Mar 2009. Features 1.8″  display, 650 mAh battery, 2 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-363.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Roadsign",
+      "title": "alcatel Roadsign phone. Announced Aug 2009. Features 1.8″  display, 750 mAh battery, 10 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-rodesign.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-303",
+      "title": "alcatel OT-303 phone. Announced Mar 2009. Features 1.8″  display, 650 mAh battery, 2 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-303.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-222",
+      "title": "alcatel OT-222 phone. Announced  2009. Features 1.45″  display, 650 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-ot-222.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-280",
+      "title": "alcatel OT-280 phone. Announced Mar 2009. Features 1.8″  display, 650 mAh battery, 1 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-280.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-202",
+      "title": "alcatel OT-202 phone. Announced Feb 2009. Features 1.3″  display, 720 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-202.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-991",
+      "title": "alcatel OT-991 Android smartphone. Announced Feb 2012. Features 4.0″  display, MT6573 chipset, 3.15 MP primary camera, 1500 mAh battery, 150 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-ot991.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-916",
+      "title": "alcatel OT-916 Android smartphone. Announced Apr 2012. Features 2.6″  display, MT6573 chipset, 3.15 MP primary camera, 1500 mAh battery, 150 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-ot916.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-720",
+      "title": "alcatel OT-720 phone. Announced Apr 2012. Features 2.8″  display, 2 MP primary camera, 1000 mAh battery, 2 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-ot720.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-902",
+      "title": "alcatel OT-902 phone. Announced Jun 2012. Features 2.4″  display, 3.15 MP primary camera, 1000 mAh battery, 50 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-ot902.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-819 Soul",
+      "title": "alcatel OT-819 Soul phone. Announced  2012. Features 2.4″  display, 2 MP primary camera.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-ot-819-soul.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-870",
+      "title": "alcatel OT-870 phone. Announced Mar 2012. Features 2.0″  display, 2 MP primary camera, 850 mAh battery, 50 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-ot870.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-595",
+      "title": "alcatel OT-595 phone. Announced Apr 2012. Features 2.0″  display, 2 MP primary camera, 850 mAh battery, 2 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-ot595.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-358",
+      "title": "alcatel OT-358 phone. Announced Apr 2012. Features 2.0″  display, 650 mAh battery, 1 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-ot358.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-310",
+      "title": "alcatel OT-310 phone. Announced Feb 2012. Features 1.8″  display, 500 mAh battery, 1 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-ot310.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-318D",
+      "title": "alcatel OT-318D phone. Announced Jan 2012. Features 1.8″  display, 650 mAh battery, 1 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-ot318d.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-317D",
+      "title": "alcatel OT-317D phone. Announced Mar 2012. Features 1.8″  display, 650 mAh battery, 1 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-ot317d.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-308",
+      "title": "alcatel OT-308 phone. Announced Feb 2012. Features 1.5″  display, 500 mAh battery, 1 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-ot308.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-282",
+      "title": "alcatel OT-282 phone. Announced Dec 2011. Features 1.8″  display, 1000 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-ot282.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-292",
+      "title": "alcatel OT-292 phone. Announced Feb 2012. Features 1.8″  display, 500 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-ot292.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-228",
+      "title": "alcatel OT-228 phone. Announced Jan 2012. Features 1.45″  display, 500 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-ot228.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-985",
+      "title": "alcatel OT-985 Android smartphone. Announced Mar 2012. Features 3.5″  display, MT6573 chipset, 3.15 MP primary camera, 1300 mAh battery, 150 MB storage, 256 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-onetouch985.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-915",
+      "title": "alcatel OT-915 Android smartphone. Announced Feb 2012. Features 2.8″  display, 5 MP primary camera.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-915.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-810D",
+      "title": "alcatel OT-810D phone. Announced  2011. Features 2.4″  display, 2 MP primary camera, 850 mAh battery, 70 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-ot-810d.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-906",
+      "title": "alcatel OT-906 Android smartphone. Announced Jul 2011. Features 2.8″  display, 2 MP primary camera, 1150 mAh battery, 200 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-ot-906.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-810",
+      "title": "alcatel OT-810 phone. Announced Oct 2011. Features 2.4″  display, 2 MP primary camera, 850 mAh battery, 50 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-ot-810.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-995",
+      "title": "alcatel OT-995 Android smartphone. Announced Feb 2012. Features 4.3″  display, Snapdragon S2 chipset, 5 MP primary camera, 1500 mAh battery, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-onetouch995.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-990",
+      "title": "alcatel OT-990 Android smartphone. Announced Feb 2011. Features 3.5″  display, 5 MP primary camera, 1300 mAh battery, 150 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-onetouch990.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-910",
+      "title": "alcatel OT-910 Android smartphone. Announced  2011. Features 2.8″  display, 5 MP primary camera, 1300 mAh battery, 150 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-onetouch910.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-908F",
+      "title": "alcatel OT-908F Android smartphone. Announced  2011. Features 2.8″  display, 2 MP primary camera.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-onetouch908f.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-908",
+      "title": "alcatel OT-908 Android smartphone. Announced Feb 2011. Features 2.8″  display, 2 MP primary camera, 1300 mAh battery, 150 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-onetouch908.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-905",
+      "title": "alcatel OT-905 phone. Announced Feb 2011. Features 2.8″  display, 2 MP primary camera, 850 mAh battery, 50 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-onetouch905.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-900",
+      "title": "alcatel OT-900 phone. Announced Feb 2011. Features 2.4″  display, 2 MP primary camera, 1000 mAh battery, 50 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-onetouch900.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-891 Soul",
+      "title": "alcatel OT-891 Soul Android smartphone. Announced Feb 2011. Features 2.8″  display, MT6516 chipset, 2 MP primary camera, 1000 mAh battery, 150 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-onetouch891.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-918",
+      "title": "alcatel OT-918 Android smartphone. Announced Nov 2011. Features 3.2″  display, MT6573 chipset, 3.15 MP primary camera, 1300 mAh battery, 150 MB storage, 256 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-one-touch-d918.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-918D",
+      "title": "alcatel OT-918D Android smartphone. Announced Q3 2011. Features 3.2″  display, MT6573 chipset, 3.15 MP primary camera, 1300 mAh battery, 150 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-one-touch-d918d.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-890D",
+      "title": "alcatel OT-890D Android smartphone. Announced May 2011. Features 2.8″  display, 2 MP primary camera, 1000 mAh battery, 150 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-onetouch890.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-890",
+      "title": "alcatel OT-890 Android smartphone. Announced Feb 2011. Features 2.8″  display, MT6516 chipset, 2 MP primary camera, 1000 mAh battery, 150 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-onetouch890.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-888",
+      "title": "alcatel OT-888 phone. Announced Q2 2011. Features 3.2″  display, 2 MP primary camera, 850 mAh battery, 50 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-onetouch888.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-818",
+      "title": "alcatel OT-818 phone. Announced Q1 2011. Features 3.2″  display, 2 MP primary camera, 1000 mAh battery, 50 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-onetouch818.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-813F",
+      "title": "alcatel OT-813F phone. Announced  2011. Features 2.4″  display, 2 MP primary camera, 50 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-ot-813f.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-813D",
+      "title": "alcatel OT-813D phone. Announced May 2011. Features 2.4″  display, 2 MP primary camera, 1000 mAh battery, 50 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-ot-813d.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-807",
+      "title": "alcatel OT-807 phone. Announced Feb 2011. Features 2.8″  display, 2 MP primary camera, 850 mAh battery, 60 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-onetouch807.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-803",
+      "title": "alcatel OT-803 phone. Announced Feb 2011. Features 2.4″  display, 2 MP primary camera, 1000 mAh battery, 50 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-onetouch803.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-799 Play",
+      "title": "alcatel OT-799 Play phone. Announced Feb 2011. Features 2.4″  display, 2 MP primary camera, 850 mAh battery, 70 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-onetouch799.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-690",
+      "title": "alcatel OT-690 phone. Announced  2011. Features 2.0″  display, 2 MP primary camera, 850 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-onetouch690.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-665",
+      "title": "alcatel OT-665 phone. Announced Feb 2011. Features 1.77″  display, 2 MP primary camera, 650 mAh battery, 2 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-onetouch665.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-602",
+      "title": "alcatel OT-602 phone. Announced Jul 2011. Features 2.4″  display, 2 MP primary camera, 850 mAh battery, 3 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-onetouch602.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-585",
+      "title": "alcatel OT-585 phone. Announced Jul 2011. Features 2.0″  display, 2 MP primary camera, 850 mAh battery, 2 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/acatel-onetouch585.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-506",
+      "title": "alcatel OT-506 phone. Announced Feb 2011. Features 1.77″  display, 2 MP primary camera, 650 mAh battery, 2 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-onetouch506.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-385",
+      "title": "alcatel OT-385 phone. Announced Aug 2011. Features 2.0″  display, 850 mAh battery, 1 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-onetouch385.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-361",
+      "title": "alcatel OT-361 phone. Announced Feb 2011. Features 1.77″  display, 650 mAh battery, 2 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-onetouch361.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-355",
+      "title": "alcatel OT-355 phone. Announced Feb 2011. Features 1.8″  display, 650 mAh battery, 1 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-onetouch355.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-330",
+      "title": "alcatel OT-330 phone. Announced  2011. Features 1.8″  display, 850 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-onetouch330.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-306",
+      "title": "alcatel OT-306 phone. Announced Feb 2011. Features 1.45″  display, 500 mAh battery, 2 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-onetouch306.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-223",
+      "title": "alcatel OT-223 phone. Announced  2010. Features 1.45″  display, 500 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-onetouch223.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-E105",
+      "title": "alcatel OT-E105 phone. Announced Feb 2006. Features Monochrome graphics display, 650 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-e105.gif",
+      "specs": ""
+    },
+    {
+      "name": "OT-E260",
+      "title": "alcatel OT-E260 phone. Announced Q1 2006. Features 1.5″  display, 650 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-e260.gif",
+      "specs": ""
+    },
+    {
+      "name": "OT-C750",
+      "title": "alcatel OT-C750 phone. Announced Q3 2005. Features CSTN, 65K colors display, 650 mAh battery, 3 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-c750.gif",
+      "specs": ""
+    },
+    {
+      "name": "OT-S853",
+      "title": "alcatel OT-S853 phone. Announced Q1 2005. Features 2.0″  display, 1.3 MP primary camera, 800 mAh battery, 10 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-s853.gif",
+      "specs": ""
+    },
+    {
+      "name": "OT-S850",
+      "title": "alcatel OT-S850 phone. Announced Q2 2005. Features TFT, 256K colors display, 1.3 MP primary camera, 500 mAh battery, 3 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-s850.gif",
+      "specs": ""
+    },
+    {
+      "name": "OT-C560",
+      "title": "alcatel OT-C560 phone. Announced Feb 2006. Features 1.8″  display, 650 mAh battery, 4 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-ot-c560.gif",
+      "specs": ""
+    },
+    {
+      "name": "OT-C555",
+      "title": "alcatel OT-C555 phone. Announced Q1 2005. Features CSTN, 65K colors display, 650 mAh battery, 10 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alotc555.gif",
+      "specs": ""
+    },
+    {
+      "name": "OT-C552",
+      "title": "alcatel OT-C552 phone. Announced Q3 2005. Features CSTN, 65K colors display, 650 mAh battery, 3 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-c552.gif",
+      "specs": ""
+    },
+    {
+      "name": "OT-C551",
+      "title": "alcatel OT-C551 phone. Announced Q1 2005. Features CSTN, 65K colors display, 650 mAh battery, 3 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alotc551.gif",
+      "specs": ""
+    },
+    {
+      "name": "OT-C656",
+      "title": "alcatel OT-C656 phone. Announced Q1 2005. Features CSTN, 65K colors display, 650 mAh battery, 10 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alotc656.gif",
+      "specs": ""
+    },
+    {
+      "name": "OT-C652",
+      "title": "alcatel OT-C652 phone. Announced Q1 2005. Features CSTN, 65K colors display, 650 mAh battery, 3 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alotc652.gif",
+      "specs": ""
+    },
+    {
+      "name": "OT-C651",
+      "title": "alcatel OT-C651 phone. Announced Q1 2005. Features CSTN, 65K colors display, 650 mAh battery, 5 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alotc651.gif",
+      "specs": ""
+    },
+    {
+      "name": "OT-E259",
+      "title": "alcatel OT-E259 phone. Announced Q1 2005. Features CSTN, 4096 colors display, 650 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-e259.gif",
+      "specs": ""
+    },
+    {
+      "name": "OT-E256",
+      "title": "alcatel OT-E256 phone. Announced Q1 2005. Features CSTN, 4096 colors display, 650 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alote256.gif",
+      "specs": ""
+    },
+    {
+      "name": "OT-E257",
+      "title": "alcatel OT-E257 phone. Announced Q3 2005. Features CSTN, 4096 colors display, 650 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-e257.gif",
+      "specs": ""
+    },
+    {
+      "name": "OT-E160",
+      "title": "alcatel OT-E160 phone. Announced Q3 2005. Features STN, monochrome graphics display, 650 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-e160.gif",
+      "specs": ""
+    },
+    {
+      "name": "OT-E252",
+      "title": "alcatel OT-E252 phone. Announced Q1 2005. Features CSTN, 4096 colors display, 650 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-e252.gif",
+      "specs": ""
+    },
+    {
+      "name": "OT-E159",
+      "title": "alcatel OT-E159 phone. Announced Q1 2005. Features STN, monochrome graphics display, 650 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ale159.gif",
+      "specs": ""
+    },
+    {
+      "name": "OT-E158",
+      "title": "alcatel OT-E158 phone. Announced Q1 2005. Features Grayscale graphic, STN display, 650 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ale158.gif",
+      "specs": ""
+    },
+    {
+      "name": "OT-E157",
+      "title": "alcatel OT-E157 phone. Announced Q1 2005. Features Grayscale graphic display, 650 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ale157.gif",
+      "specs": ""
+    },
+    {
+      "name": "OT 757",
+      "title": "alcatel OT 757 phone. Announced Q4 2004. Features TFT, 256K colors display, 950 mAh battery, 4 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alot757.gif",
+      "specs": ""
+    },
+    {
+      "name": "OT 355",
+      "title": "alcatel OT 355 phone. Announced Q1 2004. Features CSTN, 64K colors display, 720 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alot355.gif",
+      "specs": ""
+    },
+    {
+      "name": "OT 156",
+      "title": "alcatel OT 156 phone. Announced Q1 2004. Features LCD, 4096 colors display, 720 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alot156.gif",
+      "specs": ""
+    },
+    {
+      "name": "OT 155",
+      "title": "alcatel OT 155 phone. Announced Q1 2004. Features Grayscale graphic display.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alot155.gif",
+      "specs": ""
+    },
+    {
+      "name": "OT 153",
+      "title": "alcatel OT 153 phone. Announced Q3 2004. Features Grayscale graphic display, 700 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alot153.gif",
+      "specs": ""
+    },
+    {
+      "name": "OT 756",
+      "title": "alcatel OT 756 phone. Announced Q1 2004. Features TFT, 256K colors display, 950 mAh battery, 4 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alot756.gif",
+      "specs": ""
+    },
+    {
+      "name": "OT 557",
+      "title": "alcatel OT 557 phone. Announced Q3 2004. Features CSTN, 65K colors display, 800 mAh battery, 2 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alot557.gif",
+      "specs": ""
+    },
+    {
+      "name": "OT 565",
+      "title": "alcatel OT 565 phone. Announced Q4 2004. Features CSTN, 65K colors display, 800 mAh battery, 3 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alot565.gif",
+      "specs": ""
+    },
+    {
+      "name": "OT 556",
+      "title": "alcatel OT 556 phone. Announced Q1 2004. Features CSTN, 65K colors display, 800 mAh battery, 2 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alot556.gif",
+      "specs": ""
+    },
+    {
+      "name": "OT 835",
+      "title": "alcatel OT 835 phone. Announced Q1 2004. Features TFT, 256K colors display, 785 mAh battery, 3 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alot835.gif",
+      "specs": ""
+    },
+    {
+      "name": "OT 735i",
+      "title": "alcatel OT 735i phone. Announced Q1 2004. Features CSTN, 4096 colors display.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alot735.gif",
+      "specs": ""
+    },
+    {
+      "name": "OT 735",
+      "title": "alcatel OT 735 phone. Announced Sep 2003. Features CSTN, 4096 colors display.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alot735.gif",
+      "specs": ""
+    },
+    {
+      "name": "OT 535",
+      "title": "alcatel OT 535 phone. Announced Jul 2003. Features CSTN, 4096 colors display, 1 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alot535.gif",
+      "specs": ""
+    },
+    {
+      "name": "OT 531",
+      "title": "alcatel OT 531 phone. Announced Mar 2003. Features CSTN, 4096 colors display, 900 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alot531.gif",
+      "specs": ""
+    },
+    {
+      "name": "OT 332",
+      "title": "alcatel OT 332 phone. Announced  2003. Features CSTN, 4096 colors display.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alot332.gif",
+      "specs": ""
+    },
+    {
+      "name": "OT 331",
+      "title": "alcatel OT 331 phone. Announced Q2 2003. Features Monochrome graphic display, 600 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alot331.gif",
+      "specs": ""
+    },
+    {
+      "name": "OT 526",
+      "title": "alcatel OT 526 phone. Announced Q1 2003. Features Monochrome graphic display, 600 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alot526.gif",
+      "specs": ""
+    },
+    {
+      "name": "OT 320",
+      "title": "alcatel OT 320 phone. Announced Q1 2003. Features Monochrome graphic display, 700 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alot320.gif",
+      "specs": ""
+    },
+    {
+      "name": "OT 525",
+      "title": "alcatel OT 525 phone. Announced Q4 2002. Features Monochrome graphic display, 600 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alot525.gif",
+      "specs": ""
+    },
+    {
+      "name": "OT 715",
+      "title": "alcatel OT 715 phone. Announced  2002. Features Grayscale graphic, 4 shades display.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alot715.gif",
+      "specs": ""
+    },
+    {
+      "name": "OT 512",
+      "title": "alcatel OT 512 phone. Announced  2002. Features Monochrome graphic display, 600 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alot512.gif",
+      "specs": ""
+    },
+    {
+      "name": "OT 311",
+      "title": "alcatel OT 311 phone. Announced  2001. Features Monochrome graphic display, 700 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alot311.gif",
+      "specs": ""
+    },
+    {
+      "name": "OT 511",
+      "title": "alcatel OT 511 phone. Announced  2001. Features Monochrome graphic display, 600 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alot511.gif",
+      "specs": ""
+    },
+    {
+      "name": "OT 700",
+      "title": "alcatel OT 700 phone. Announced  2000. Features Monochrome graphic display, 780 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alot700b.gif",
+      "specs": ""
+    },
+    {
+      "name": "OT 500",
+      "title": "alcatel OT 500 phone. Announced  2000. Features Monochrome graphic display.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alot500b.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT 300",
+      "title": "alcatel OT 300 phone. Announced  2000. Features Monochrome graphic display.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alot300b.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT View db @",
+      "title": "alcatel OT View db @ phone. Announced  2000. Features Monochrome graphic display, 650 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alview3b.gif",
+      "specs": ""
+    },
+    {
+      "name": "OT Pocket",
+      "title": "alcatel OT Pocket phone. Announced  1999. Features Monochrome graphic display, 600 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alpockb.gif",
+      "specs": ""
+    },
+    {
+      "name": "OT View db",
+      "title": "alcatel OT View db phone. Announced  2000. Features Monochrome graphic display, 650 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alview2b.gif",
+      "specs": ""
+    },
+    {
+      "name": "OT Max db",
+      "title": "alcatel OT Max db phone. Announced  2000. Features Alphanumeric display, 650 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/almax2b.gif",
+      "specs": ""
+    },
+    {
+      "name": "OT-S121",
+      "title": "alcatel OT-S121 phone. Announced Jun 2009. Features 1.3″  display, 670 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-ot-121.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-111",
+      "title": "alcatel OT-111 phone. Announced Feb 2009. Features 1.3″  display, 670 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-111.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-102",
+      "title": "alcatel OT-102 phone. Announced Feb 2009. Features 1.3″  display, 720 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-102.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mandarina Duck Moon",
+      "title": "alcatel Mandarina Duck Moon phone. Announced Nov 2008. Features TFT, 65K colors display, 750 mAh battery, 10 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-mandarina-duck-moon.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mandarina Duck",
+      "title": "alcatel Mandarina Duck phone. Announced Oct 2007. Features TFT, 65K colors display, 750 mAh battery, 10 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-mandarina-duck.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-I650 SPORT",
+      "title": "alcatel OT-I650 SPORT phone. Announced Feb 2008. Features 1.8″  display, 1.3 MP primary camera, 1000 mAh battery, 2 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-sport.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-I650 PRO",
+      "title": "alcatel OT-I650 PRO phone. Announced Feb 2008. Features 1.8″  display, 1.3 MP primary camera, 1000 mAh battery, 2 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-V770",
+      "title": "alcatel OT-V770 phone. Announced Jan 2008. Features 1.9″  display, 1.3 MP primary camera, 750 mAh battery, 10 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-v770.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-V670",
+      "title": "alcatel OT-V670 phone. Announced Feb 2008. Features 1.8″  display, 750 mAh battery, 10 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-v670.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-V607A",
+      "title": "alcatel OT-V607A phone. Announced Feb 2008. Features 1.8″  display, 750 mAh battery, 2 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-v607a.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-V570",
+      "title": "alcatel OT-V570 phone. Announced  2008. Features 1.8″  display, 750 mAh battery, 2 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-v570.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-V270",
+      "title": "alcatel OT-V270 phone. Announced Jan 2008. Features 1.5″  display, 750 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-v270.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-V212",
+      "title": "alcatel OT-V212 phone. Announced Feb 2008. Features 1.5″  display, 670 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-v212.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-S626A",
+      "title": "alcatel OT-S626A phone. Announced  2008. Features 1.8″  display, 1.3 MP primary camera, 750 mAh battery, 10 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-s626a.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-S521A",
+      "title": "alcatel OT-S521A phone. Announced  2008. Features 1.8″  display, 750 mAh battery, 2 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-s521a.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-S920",
+      "title": "alcatel OT-S920 phone. Announced Feb 2008. Features 1.9″  display, 1.3 MP primary camera, 800 mAh battery, 40 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-s920.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-S621",
+      "title": "alcatel OT-S621 phone. Announced Feb 2008. Features 1.8″  display, 1.3 MP primary camera, 750 mAh battery, 10 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-s621.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-S520",
+      "title": "alcatel OT-S520 phone. Announced Feb 2008. Features 1.8″  display, 750 mAh battery, 2 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-s520.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-S320",
+      "title": "alcatel OT-S320 phone. Announced  2008. Features 1.8″  display, 750 mAh battery, 2 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-s320.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-S319",
+      "title": "alcatel OT-S319 phone. Announced Feb 2008. Features 1.8″  display, 750 mAh battery, 2 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-s319.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-S218",
+      "title": "alcatel OT-S218 phone. Announced Feb 2008. Features 1.8″  display, 670 mAh battery, 2 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-s218.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-S215A",
+      "title": "alcatel OT-S215A phone. Announced  2008. Features 1.8″  display, 670 mAh battery, 2 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-s215a.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-S211",
+      "title": "alcatel OT-S211 phone. Announced  2008. Features 1.5″  display, 670 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-s211.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-S210",
+      "title": "alcatel OT-S210 phone. Announced Feb 2008. Features 1.5″  display, 670 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-s210.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-S120",
+      "title": "alcatel OT-S120 phone. Announced Feb 2008. Features 1.3″  display, 670 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-s120.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-S107",
+      "title": "alcatel OT-S107 phone. Announced Feb 2008. Features 1.3″  display, 720 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-s107.jpg",
+      "specs": ""
+    },
+    {
+      "name": "ELLE No 3",
+      "title": "alcatel ELLE No 3 phone. Announced Feb 2007. Features 1.9″  display, 1.3 MP primary camera, 700 mAh battery, 12 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-elle3.gif",
+      "specs": ""
+    },
+    {
+      "name": "OT-C825",
+      "title": "alcatel OT-C825 phone. Announced Feb 2007. Features TFT, 256K colors display, 1.3 MP primary camera, 700 mAh battery, 10 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-c825.gif",
+      "specs": ""
+    },
+    {
+      "name": "OT-C717",
+      "title": "alcatel OT-C717 phone. Announced Feb 2007. Features 1.8″  display, 1.3 MP primary camera, 720 mAh battery, 10 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-c717.gif",
+      "specs": ""
+    },
+    {
+      "name": "OT-C707",
+      "title": "alcatel OT-C707 phone. Announced Feb 2007. Features 1.8″  display, 750 mAh battery, 10 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-c707.gif",
+      "specs": ""
+    },
+    {
+      "name": "OT-C701",
+      "title": "alcatel OT-C701 phone. Announced Feb 2007. Features 1.8″  display, 750 mAh battery, 10 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-c701.gif",
+      "specs": ""
+    },
+    {
+      "name": "OT-C700A",
+      "title": "alcatel OT-C700A phone. Announced  2007. Features 1.8″  display, 750 mAh battery, 2 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-c700a.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-C507",
+      "title": "alcatel OT-C507 phone. Announced Feb 2007. Features 1.5″  display, 750 mAh battery, 1 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-c507.gif",
+      "specs": ""
+    },
+    {
+      "name": "OT-E227",
+      "title": "alcatel OT-E227 phone. Announced Feb 2007. Features 1.5″  display, 750 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-e-227.gif",
+      "specs": ""
+    },
+    {
+      "name": "OT-E225",
+      "title": "alcatel OT-E225 phone. Announced Feb 2007. Features Monochrome graphic display, 650 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-e-225.gif",
+      "specs": ""
+    },
+    {
+      "name": "OT-E221",
+      "title": "alcatel OT-E221 phone. Announced Feb 2007. Features 1.5″  display, 750 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-e-211.gif",
+      "specs": ""
+    },
+    {
+      "name": "OT-E207",
+      "title": "alcatel OT-E207 phone. Announced  2007. Features CSTN, 65K colors display, 720 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-e-207.gif",
+      "specs": ""
+    },
+    {
+      "name": "OT-E205",
+      "title": "alcatel OT-E205 phone. Announced Oct 2006. Features 4K colors display, 650 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-ot-e205.gif",
+      "specs": ""
+    },
+    {
+      "name": "OT-E201",
+      "title": "alcatel OT-E201 phone. Announced Feb 2007. Features CSTN, 65K colors display, 720 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-e-201.gif",
+      "specs": ""
+    },
+    {
+      "name": "OT-E101",
+      "title": "alcatel OT-E101 phone. Announced Feb 2007. Features 1.3″  display, 720 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-e-101.gif",
+      "specs": ""
+    },
+    {
+      "name": "Lollipops",
+      "title": "alcatel Lollipops phone. Announced Feb 2007. Features 1.8″  display, 650 mAh battery, 4 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-lollipops.gif",
+      "specs": ""
+    },
+    {
+      "name": "OT-E220",
+      "title": "alcatel OT-E220 phone. Announced Feb 2007. Features 4K colors display, 650 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-ot-e220.gif",
+      "specs": ""
+    },
+    {
+      "name": "OT-E805",
+      "title": "alcatel OT-E805 phone. Announced Feb 2007. Features CSTN, 65K colors display, 650 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-e805.gif",
+      "specs": ""
+    },
+    {
+      "name": "OT-E230",
+      "title": "alcatel OT-E230 phone. Announced Feb 2007. Features 1.3″  display, 650 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-e230.gif",
+      "specs": ""
+    },
+    {
+      "name": "OT-C635",
+      "title": "alcatel OT-C635 phone. Announced  2006. Features 1.8″  display, 650 mAh battery, 4 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-c635.gif",
+      "specs": ""
+    },
+    {
+      "name": "OT-C630",
+      "title": "alcatel OT-C630 phone. Announced Feb 2006. Features 1.8″  display, 650 mAh battery, 4 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-c630.gif",
+      "specs": ""
+    },
+    {
+      "name": "OT-E801",
+      "title": "alcatel OT-E801 phone. Announced Feb 2006. Features CSTN, 65K colors display.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-e801.gif",
+      "specs": ""
+    },
+    {
+      "name": "OT-E100",
+      "title": "alcatel OT-E100 phone. Announced Feb 2006. Features Color graphic display, 650 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-e100.gif",
+      "specs": ""
+    },
+    {
+      "name": "OT-C550",
+      "title": "alcatel OT-C550 phone. Announced Feb 2006. Features 1.8″  display, 650 mAh battery, 4 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-c550.gif",
+      "specs": ""
+    },
+    {
+      "name": "OT-E265",
+      "title": "alcatel OT-E265 phone. Announced Feb 2006. Features CSTN, 4096 colors display, 650 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-e265.gif",
+      "specs": ""
+    },
+    {
+      "name": "OT Gum db",
+      "title": "alcatel OT Gum db phone. Announced  2000. Features Alphanumeric display, 650 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/algum2b.gif",
+      "specs": ""
+    },
+    {
+      "name": "OT Easy db",
+      "title": "alcatel OT Easy db phone. Announced  2000. Features Alphanumeric display, 650 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/aleasy2b.gif",
+      "specs": ""
+    },
+    {
+      "name": "OT Club db",
+      "title": "alcatel OT Club db phone. Announced  2000. Features Alphanumeric display, 650 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alclub2b.gif",
+      "specs": ""
+    },
+    {
+      "name": "OT COM",
+      "title": "alcatel OT COM phone. Announced  1998. Features Monochrome resistive touchscreen display, 880 mAh battery, 1 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcomb.gif",
+      "specs": ""
+    },
+    {
+      "name": "OT Pro",
+      "title": "alcatel OT Pro phone. Announced  1998. Features Monochrome graphic display, 600 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alprob.gif",
+      "specs": ""
+    },
+    {
+      "name": "OT Easy HF",
+      "title": "alcatel OT Easy HF phone. Announced  1998. Features Alphanumeric display, 580 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/aleasyb.gif",
+      "specs": ""
+    },
+    {
+      "name": "OT Easy",
+      "title": "alcatel OT Easy phone. Announced  1998. Features Alphanumeric display, 580 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/aleasy1b.gif",
+      "specs": ""
+    },
+    {
+      "name": "OT Club",
+      "title": "alcatel OT Club phone. Announced  1998. Features Alphanumeric display, 580 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alclubb.gif",
+      "specs": ""
+    },
+    {
+      "name": "OT Club +",
+      "title": "alcatel OT Club + phone. Announced  1998. Features Alphanumeric display, 580 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alclubpb.gif",
+      "specs": ""
+    },
+    {
+      "name": "OT Max",
+      "title": "alcatel OT Max phone. Announced  1998. Features Alphanumeric display, 580 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/almaxb.gif",
+      "specs": ""
+    },
+    {
+      "name": "OT View",
+      "title": "alcatel OT View phone. Announced  1998. Features Monochrome graphic display, 580 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alviewb.gif",
+      "specs": ""
+    },
+    {
+      "name": "HC 1000",
+      "title": "alcatel HC 1000 phone. Announced  1997. Features Alphanumeric display, 600 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alh1000b.gif",
+      "specs": ""
+    },
+    {
+      "name": "HC 800",
+      "title": "alcatel HC 800 phone. Announced  1997. Features Alphanumeric display.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alh800b.gif",
+      "specs": ""
+    },
+    {
+      "name": "Pulsemix",
+      "title": "alcatel Pulsemix Android smartphone. Announced Aug 2017. Features 5.2″  display, MT6738 chipset, 8 MP primary camera, 2 MP front camera, 2800 mAh battery, 16 GB storage, 2 GB RAM, Asahi Dragontrail Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-pulsemix.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Idol 5s (USA)",
+      "title": "alcatel Idol 5s (USA) Android smartphone. Announced Jun 2017. Features 5.2″  display, Snapdragon 625 chipset, 12 MP primary camera, 8 MP front camera, 2620 mAh battery, 32 GB storage, 3 GB RAM, Asahi Dragontrail Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-idol-5s-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Flash (2017)",
+      "title": "alcatel Flash (2017) Android smartphone. Announced Apr 2017. Features 5.5″  display, MT6797 Helio X20 chipset, Dual: 13 MP (f/2.0, 1/3″, 1.12µm) + 13 MP primary camera, Dual: 8 MP (f/2.0, AF) + 5 MP front camera, 3100 mAh battery, 32 GB storage, 3 GB RAM, Asahi Dragontrail Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-flash-1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "U5",
+      "title": "alcatel U5 Android smartphone. Announced Feb 2017. Features 5.0″  display, MT6737M chipset, 5 MP primary camera, 2 MP front camera, 2050 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-u5.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A5 LED",
+      "title": "alcatel A5 LED Android smartphone. Announced Feb 2017. Features 5.2″  display, MT6753 chipset, 8 MP primary camera, 5 MP front camera, 2800 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-a5-led.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A3",
+      "title": "alcatel A3 Android smartphone. Announced Feb 2017. Features 5.0″  display, MT6737 chipset, 13 MP primary camera, 5 MP front camera, 2460 mAh battery, 16 GB storage, 1.5 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-a3.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A3 XL",
+      "title": "alcatel A3 XL Android smartphone. Announced Jan 2017. Features 6.0″  display, MT8735B chipset, 8 MP or 13 MP primary camera, 5 MP or 8 MP front camera, 3000 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-a3-xl-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Shine Lite",
+      "title": "alcatel Shine Lite Android smartphone. Announced Sep 2016. Features 5.0″  display, MT6737 chipset, 13 MP primary camera, 5 MP front camera, 2460 mAh battery, 16 GB storage, 2 GB RAM, Asahi Dragontrail Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-shine-lite.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pixi 4 Plus Power",
+      "title": "alcatel Pixi 4 Plus Power Android smartphone. Announced Sep 2016. Features 5.5″  display, MT6580 chipset, 8 MP primary camera, 5 MP front camera, 5000 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-pixi-4-plus-power.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Fierce 4",
+      "title": "alcatel Fierce 4 Android smartphone. Announced Aug 2016. Features 5.5″  display, Snapdragon 210 chipset, 8 MP primary camera, 5 MP front camera, 2500 mAh battery, 16 GB storage, 2 GB RAM, Asahi Dragontrail Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-fierce-4.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X1",
+      "title": "alcatel X1 Android smartphone. Announced Dec 2015. Features 5.0″  display, Snapdragon 415 chipset, 13 MP primary camera, 5 MP front camera, 2150 mAh battery, 16 GB storage, 2 GB RAM, Asahi Dragontrail Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-x1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pixi 4 (5)",
+      "title": "alcatel Pixi 4 (5) Android smartphone. Announced Jun 2016. Features 5.0″  display, 8 MP primary camera, 5 MP front camera, 2000 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-pixi-4-5.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Flash Plus 2",
+      "title": "alcatel Flash Plus 2 Android smartphone. Announced May 2016. Features 5.5″  display, MT6755 Helio P10 chipset, 13 MP primary camera, 5 MP front camera, 3000 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-flash-plus-2-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pop 7 LTE",
+      "title": "alcatel Pop 7 LTE Android tablet. Announced Apr 2016. Features 7.0″  display, 5 MP primary camera, 2 MP front camera, 3240 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-onetouch-pop-7-lte.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pop 4S",
+      "title": "alcatel Pop 4S Android smartphone. Announced Feb 2016. Features 5.5″  display, MT6755M chipset, 13 MP primary camera, 5 MP front camera, 2960 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-pop-4s.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pop 4+",
+      "title": "alcatel Pop 4+ Android smartphone. Announced Feb 2016. Features 5.5″  display, Snapdragon 210 chipset, 8 MP primary camera, 5 MP front camera, 2500 mAh battery, 16 GB storage, 1.5 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-pop-4-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pop 4",
+      "title": "alcatel Pop 4 Android smartphone. Announced Feb 2016. Features 5.0″  display, Snapdragon 210 chipset, 8 MP primary camera, 5 MP front camera, 2500 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-pop-4-2016.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Idol 4s Windows",
+      "title": "alcatel Idol 4s Windows Windows Mobile smartphone. Announced Q3 2016. Features 5.5″  display, Snapdragon 820 chipset, 21 MP primary camera, 8 MP front camera, 3000 mAh battery, 64 GB storage, 4 GB RAM, Asahi Dragontrail Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-idol-4s-windows.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Idol 4s",
+      "title": "alcatel Idol 4s Android smartphone. Announced Feb 2016. Features 5.5″  display, Snapdragon 652 chipset, 16 MP primary camera, 8 MP front camera, 3000 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-idol-4s-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Idol 4",
+      "title": "alcatel Idol 4 Android smartphone. Announced Feb 2016. Features 5.2″  display, Snapdragon 617 chipset, 13 MP primary camera, 8 MP front camera, 2610 mAh battery, 16 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-idol-4--.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Fierce XL (Windows)",
+      "title": "alcatel Fierce XL (Windows) Windows Mobile smartphone. Announced Jan 2016. Features 5.5″  display, Snapdragon 210 chipset, 8 MP primary camera, 2 MP front camera, 2500 mAh battery, 16 GB storage, 2 GB RAM, Asahi Dragontrail Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-fierce-xl-w.jpg",
+      "specs": ""
+    },
+    {
+      "name": "CareTime",
+      "title": "alcatel CareTime watch. Announced Jan 2016. Features 0.95″  display, MT7198D chipset, 380 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-caretime.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pixi 4 (7)",
+      "title": "alcatel Pixi 4 (7) Android tablet. Announced Jan 2016. Features 7.0″  display, MT8321 chipset, 2 MP primary camera, 2580 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-pixi4-70.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pixi 4 (6) 3G",
+      "title": "alcatel Pixi 4 (6) 3G Android smartphone. Announced Jun 2016. Features 6.0″  display, 13 MP primary camera, 8 MP front camera, 2580 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-pixi-4-6-8050e.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pixi 4 (6)",
+      "title": "alcatel Pixi 4 (6) Android smartphone. Announced Jan 2016. Features 6.0″  display, Snapdragon 210 chipset, 8 MP primary camera, 5 MP front camera, 2580 mAh battery, 16 GB storage, 1.5 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-pixi4-60.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pixi 4 (4)",
+      "title": "alcatel Pixi 4 (4) Android smartphone. Announced Jan 2016. Features 4.0″  display, MT6580M chipset, 2 MP or 5 MP primary camera, VGA or 2 MP front camera, 1500 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-pixi4-40.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pixi 4 (3.5)",
+      "title": "alcatel Pixi 4 (3.5) Android smartphone. Announced Jan 2016. Features 3.5″  display, MT6572M chipset, 2 MP primary camera, 1300 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-pixi4-35.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pixi 3 (8) LTE",
+      "title": "alcatel Pixi 3 (8) LTE Windows Mobile smartphone. Announced Feb 2016. Features 8.0″  display, Snapdragon 210 chipset, 5 MP primary camera, 2 MP front camera, 4060 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-pixi3-8-lte.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pop 3 (5.5)",
+      "title": "alcatel Pop 3 (5.5) Android smartphone. Announced Feb 2016. Features 5.5″  display, 5 MP or 8 MP or 13 MP primary camera, 2 MP or 5 MP or 8 MP front camera, 2910 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-pop3-55.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pop 3 (5)",
+      "title": "alcatel Pop 3 (5) Android smartphone. Announced Q4 2015. Features 5.0″  display, 5 MP or 8 MP primary camera, 5 MP/ 2 MP front camera, 2000 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-pop-3-5.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Fierce XL",
+      "title": "alcatel Fierce XL Android smartphone. Announced Oct 2015. Features 5.5″  display, Snapdragon 210 chipset, 8 MP primary camera, 2 MP front camera, 2500 mAh battery, 16 GB storage, 2 GB RAM, Asahi Dragontrail Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-fierce-xl.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Watch",
+      "title": "alcatel Watch watch. Announced Sep 2015. Features 1.22″  display, STM 429 chipset, 210 mAh battery, 8 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-watch.jpg",
+      "specs": ""
+    },
+    {
+      "name": "GO Watch",
+      "title": "alcatel GO Watch watch. Announced Sep 2015. Features 1.22″  display, STM 429 chipset, 225 mAh battery, 8 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-go-watch.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Flash 2",
+      "title": "alcatel Flash 2 Android smartphone. Announced Sep 2015. Features 5.0″  display, MT6753 chipset, 13 MP primary camera, 5 MP front camera, 3000 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-flash2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "10.16G",
+      "title": "alcatel 10.16G phone. Announced  2015. Features 1.8″  display, 400 mAh battery, 4 MB storage, 4 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-10-16g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "2007",
+      "title": "alcatel 2007 phone. Announced  2015. Features 2.4″  display, 3.15 MP primary camera, 750 mAh battery, 16 MB storage, 16 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-2007.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Idol 3C",
+      "title": "alcatel Idol 3C Android smartphone. Announced Sep 2015. Features 5.5″  display, Snapdragon 615 chipset, 13 MP primary camera, 8 MP front camera, 2910 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-idol-3c-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pixi 3 (10)",
+      "title": "alcatel Pixi 3 (10) Android tablet. Announced Sep 2015. Features 10.1″  display, MT8127 chipset, 5 MP primary camera, 2 MP front camera, 4060 mAh battery, 16 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-pixi-3-10.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pixi First",
+      "title": "alcatel Pixi First Android smartphone. Announced Sep 2015. Features 4.0″  display, Spreadtrum 7731 chipset, 5 MP primary camera, 2 MP front camera, 1450 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-pixi-first.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pop Up",
+      "title": "alcatel Pop Up Android smartphone. Announced Sep 2015. Features 5.0″  display, Snapdragon 610 chipset, 13 MP primary camera, 5 MP front camera, 2000 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-pop-up.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pop Star LTE",
+      "title": "alcatel Pop Star LTE Android smartphone. Announced Sep 2015. Features 5.0″  display, MT6735P chipset, 8 MP primary camera, 5 MP front camera, 2000 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-pop-star.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pop Star",
+      "title": "alcatel Pop Star Android smartphone. Announced Sep 2015. Features 5.0″  display, MT6580 chipset, 8 MP primary camera, 5 MP front camera, 2000 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-pop-star.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Go Play",
+      "title": "alcatel Go Play Android smartphone. Announced Sep 2015. Features 5.0″  display, Snapdragon 410 chipset, 8 MP primary camera, 5 MP front camera, 2500 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-go-play.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Flash Plus",
+      "title": "alcatel Flash Plus Android smartphone. Announced May 2015. Features 5.5″  display, MT6752M chipset, 13 MP primary camera, 8 MP front camera, 3500 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-flash-plus1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pop Astro",
+      "title": "alcatel Pop Astro Android smartphone. Announced Apr 2015. Features 4.5″  display, MT6732 chipset, 5 MP primary camera, 2000 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-onetouch-pop-astro1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Flash",
+      "title": "alcatel Flash Android smartphone. Announced Sep 2014. Features 5.5″  display, MT6592M chipset, 13 MP primary camera, 5 MP front camera, 3200 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-flash-2014.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Idol 3 (5.5)",
+      "title": "alcatel Idol 3 (5.5) Android smartphone. Announced Mar 2015. Features 5.5″  display, Snapdragon 615 chipset, 13 MP primary camera, 8 MP front camera, 2910 mAh battery, 32 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-idol-3-55-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Idol 3 (4.7)",
+      "title": "alcatel Idol 3 (4.7) Android smartphone. Announced Mar 2015. Features 4.7″  display, Snapdragon 410 chipset, 13 MP primary camera, 5 MP front camera, 2000 mAh battery, 16 GB storage, 1.5 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-idol-3-47-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Orange Klif",
+      "title": "alcatel Orange Klif smartphone. Announced Mar 2015. Features 3.5″  display, 2 MP primary camera, 1300 mAh battery, 512 MB storage, 256 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-klif.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pixi 3 (5.5) LTE",
+      "title": "alcatel Pixi 3 (5.5) LTE Android smartphone. Announced Mar 2015. Features 5.5″  display, 5 MP or 8 MP primary camera, 2 MP / 5 MP front camera, 2800 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-pixi3-55.jpg",
+      "specs": ""
+    },
+    {
+      "name": "V3 Ultra",
+      "title": "alcatel V3 Ultra 5G Android smartphone. Announced May 2025. Features 6.8″  display, Dimensity 6300 chipset, 5010 mAh battery, 128 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-v3-ultra.jpg",
+      "specs": ""
+    },
+    {
+      "name": "V3 Pro",
+      "title": "alcatel V3 Pro 5G Android smartphone. Announced May 2025. Features 6.67″  display, Dimensity 6300 chipset, 5200 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-v3-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "V3 Classic",
+      "title": "alcatel V3 Classic 5G Android smartphone. Announced May 2025. Features 6.67″  display, Dimensity 6300 chipset, 5200 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-v3-classic.jpg",
+      "specs": ""
+    },
+    {
+      "name": "3 (2025)",
+      "title": "alcatel 3 (2025) Android smartphone. Announced May 2025. Features 6.52″  display, Unisoc SC9863A1 chipset, 5010 mAh battery, 64 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-3-2025.jpg",
+      "specs": ""
+    },
+    {
+      "name": "1B (2022)",
+      "title": "alcatel 1B (2022) Android smartphone. Announced May 2022. Features 5.5″  display, MT6761 Helio A22 chipset, 3000 mAh battery, 32 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-1b-2022.jpg",
+      "specs": ""
+    },
+    {
+      "name": "1L Pro (2021)",
+      "title": "alcatel 1L Pro (2021) Android smartphone. Announced Jun 2021. Features 6.1″  display, Unisoc SC9863A chipset, 3000 mAh battery, 32 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-1l-pro-2021.jpg",
+      "specs": ""
+    },
+    {
+      "name": "1 (2021)",
+      "title": "alcatel 1 (2021) Android smartphone. Announced Jun 2021. Features 5.0″  display, MT6739 chipset, 2000 mAh battery, 16 GB storage, 1000 MB RAM, Asahi Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-1-2021.jpg",
+      "specs": ""
+    },
+    {
+      "name": "3L (2021)",
+      "title": "alcatel 3L (2021) Android smartphone. Announced Jan 2021. Features 6.52″  display, MT6762D Helio P22 chipset, 4000 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-a3l-2021.jpg",
+      "specs": ""
+    },
+    {
+      "name": "1S (2021)",
+      "title": "alcatel 1S (2021) Android smartphone. Announced Jan 2021. Features 6.52″  display, MT6762D Helio P22 chipset, 4000 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-1s-2021.jpg",
+      "specs": ""
+    },
+    {
+      "name": "1L (2021)",
+      "title": "alcatel 1L (2021) Android smartphone. Announced Jan 2021. Features 6.1″  display, MT6761D Helio A20 chipset, 3000 mAh battery, 32 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-1l-2021.jpg",
+      "specs": ""
+    },
+    {
+      "name": "1V (2021)",
+      "title": "alcatel 1V (2021) Android smartphone. Announced Feb 2021. Features 6.52″  display, MT6761 Helio A22 chipset, 5000 mAh battery, 64 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-1v-2021.jpg",
+      "specs": ""
+    },
+    {
+      "name": "1SE (2020)",
+      "title": "alcatel 1SE (2020) Android smartphone. Announced Oct 2020. Features 6.22″  display, Unisoc SC9863A chipset, 4000 mAh battery, 128 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-1-se-2020.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Go Flip 4",
+      "title": "alcatel Go Flip 4 smartphone. Announced Sep 2021. Features 2.8″  display, Snapdragon 215 chipset, 1850 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-go-flip-4.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Go Flip 3",
+      "title": "alcatel Go Flip 3 smartphone. Announced Sep 2019. Features 2.8″  display, Snapdragon 210 chipset, 1350 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-go-flip3.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Go Flip V",
+      "title": "alcatel Go Flip V smartphone. Announced Jul 2019. Features 2.8″  display, Snapdragon 210 chipset, 1350 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-go-flipv.jpg",
+      "specs": ""
+    },
+    {
+      "name": "3T10 2020",
+      "title": "alcatel 3T10 2020 Android tablet. Announced Q4 2020. Features 10.1″  display, MediaTek MT8766B chipset, 5500 mAh battery, 32 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-3t10-2020.jpg",
+      "specs": ""
+    },
+    {
+      "name": "3X (2020)",
+      "title": "alcatel 3X (2020) Android smartphone. Announced Jun 2020. Features 6.52″  display, MT6762 Helio P22 chipset, 5000 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-3x-2020.jpg",
+      "specs": ""
+    },
+    {
+      "name": "3L (2020)",
+      "title": "alcatel 3L (2020) Android smartphone. Announced Jan 2020. Features 6.22″  display, MT6762 Helio P22 chipset, 4000 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-a3l-2020-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "1S (2020)",
+      "title": "alcatel 1S (2020) Android smartphone. Announced Jan 2020. Features 6.22″  display, MT6762D Helio P22 chipset, 4000 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-a3l-2020-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "1V (2020)",
+      "title": "alcatel 1V (2020) Android smartphone. Announced Jan 2020. Features 6.22″  display, MT6762D Helio P22 chipset, 4000 mAh battery, 32 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-a3l-2020-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "1B (2020)",
+      "title": "alcatel 1B (2020) Android smartphone. Announced Jan 2020. Features 5.5″  display, Snapdragon 215 chipset, 3000 mAh battery, 32 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-1b-2020.jpg",
+      "specs": ""
+    },
+    {
+      "name": "3v (2019)",
+      "title": "alcatel 3v (2019) Android smartphone. Announced Q2 2019. Features 6.7″  display, MT6762 Helio P22 chipset, 4000 mAh battery, 32 GB storage, 3 GB RAM, DragonTrail Pro.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-3v-2019.jpg",
+      "specs": ""
+    },
+    {
+      "name": "3x (2019)",
+      "title": "alcatel 3x (2019) Android smartphone. Announced Sep 2019. Features 6.52″  display, MT6763V Helio P23 chipset, 4000 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-3x-2019.jpg",
+      "specs": ""
+    },
+    {
+      "name": "1v (2019)",
+      "title": "alcatel 1v (2019) Android smartphone. Announced Sep 2019. Features 5.5″  display, Unisoc SC9863A chipset, 2460 mAh battery, 16 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-1v-2019.jpg",
+      "specs": ""
+    },
+    {
+      "name": "3T 8",
+      "title": "alcatel 3T 8 Android tablet. Announced Oct 2018. Features 8.0″  display, MT8765 chipset, 4080 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-3t-8.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Smart Tab 7",
+      "title": "alcatel Smart Tab 7 Android tablet. Announced Sep 2019. Features 7.0″  display, MT8167D chipset, 2580 mAh battery, 16 GB storage, 1.5 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-smart-tab-7-2019.jpg",
+      "specs": ""
+    },
+    {
+      "name": "3T 10",
+      "title": "alcatel 3T 10 Android tablet. Announced Feb 2019. Features 10.0″  display, MT8765WB chipset, 4080 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-3t-10-2019.jpg",
+      "specs": ""
+    },
+    {
+      "name": "3L",
+      "title": "alcatel 3L Android smartphone. Announced Feb 2019. Features 5.94″  display, MT6739 chipset, 3500 mAh battery, 16 GB storage, 2 GB RAM, Asahi Dragontrail Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-3l.jpg",
+      "specs": ""
+    },
+    {
+      "name": "3 (2019)",
+      "title": "alcatel 3 (2019) Android smartphone. Announced Feb 2019. Features 5.94″  display, Snapdragon 439 chipset, 3500 mAh battery, 64 GB storage, 4 GB RAM, Asahi Dragontrail Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-3-2019.jpg",
+      "specs": ""
+    },
+    {
+      "name": "1s",
+      "title": "alcatel 1s Android smartphone. Announced Feb 2019. Features 5.5″  display, Unisoc SC9863 chipset, 3060 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-1s.jpg",
+      "specs": ""
+    },
+    {
+      "name": "1x (2019)",
+      "title": "alcatel 1x (2019) Android smartphone. Announced Jan 2019. Features 5.5″  display, MT6739 chipset, 13 MP (5059D only) or 8 MP primary camera, 5 MP front camera, 3000 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-1x-2019.jpg",
+      "specs": ""
+    },
+    {
+      "name": "1c (2019)",
+      "title": "alcatel 1c (2019) smartphone. Announced Jan 2019. Features 5.0″  display, Spreadtrum SC7731E chipset, 13 MP (5059D only) or 8 MP primary camera, 5 MP front camera, 2000 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-1c-2019.jpg",
+      "specs": ""
+    },
+    {
+      "name": "1",
+      "title": "alcatel 1 smartphone. Announced Jul 2018. Features 5.0″  display, MT6739 chipset, 2000 mAh battery, 16 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-1-2018.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Tetra",
+      "title": "alcatel Tetra Android smartphone. Announced Sep 2018. Features 5.0″  display, MT6739WM chipset, 2050 mAh battery, 16 GB storage, 2 GB RAM, Asahi Dragontrail Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-tetra.jpg",
+      "specs": ""
+    },
+    {
+      "name": "7",
+      "title": "alcatel 7 Android smartphone. Announced Aug 2018. Features 6.0″  display, MT6763T Helio P23 chipset, 4000 mAh battery, 32 GB storage, 2 GB RAM, Asahi Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-7-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "5v",
+      "title": "alcatel 5v Android smartphone. Announced Jul 2018. Features 6.2″  display, MT6762 Helio P22 chipset, Dual: 12 MP (f/2.2, 1/2.8″, 1.25 μm, PDAF) + 2 MP primary camera, 8 MP front camera, 4000 mAh battery, 32 GB storage, 3 GB RAM, Asahi Dragontrail Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-5v.jpg",
+      "specs": ""
+    },
+    {
+      "name": "5",
+      "title": "alcatel 5 Android smartphone. Announced Feb 2018. Features 5.7″  display, MT6750 chipset, 12 MP primary camera, Dual: 13 MP (f/2.0, 1.4 μm) + 5 MP front camera, 3000 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-5-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "3v",
+      "title": "alcatel 3v Android smartphone. Announced Feb 2018. Features 6.0″  display, MT8735A chipset, Dual: 12 MP (f/2.2, 1/2.8″, 1.25 μm, PDAF) + 2 MP primary camera, 5 MP front camera, 3000 mAh battery, 32 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-3v.jpg",
+      "specs": ""
+    },
+    {
+      "name": "3x (2018)",
+      "title": "alcatel 3x (2018) Android smartphone. Announced Feb 2018. Features 5.7″  display, MT6739 chipset, Dual: 13 MP (f/2.0, 1/3″, 1.12µm, AF) + 5 MP primary camera, 5 MP front camera, 3000 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-3x-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "3",
+      "title": "alcatel 3 Android smartphone. Announced Feb 2018. Features 5.5″  display, MT6739 chipset, 13 MP primary camera, 5 MP front camera, 3000 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-3-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "1x",
+      "title": "alcatel 1x Android smartphone. Announced Feb 2018. Features 5.3″  display, MT6739 chipset, 13 MP (5059D only) or 8 MP primary camera, 5 MP front camera, 2460 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-1x-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "3c",
+      "title": "alcatel 3c Android smartphone. Announced Jan 2018. Features 6.0″  display, MT8321 chipset, 8 MP primary camera, 5 MP front camera, 3000 mAh battery, 16 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-3c-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "3088",
+      "title": "alcatel 3088 smartphone. Announced  2019. Features 2.4″  display, Spreadtrum SC9820E chipset, 1530 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-3088.jpg",
+      "specs": ""
+    },
+    {
+      "name": "1T 10",
+      "title": "alcatel 1T 10 Android tablet. Announced Feb 2018. Features 10.1″  display, MT8321 chipset, 2 MP primary camera, 2 MP front camera, 4000 mAh battery, 16 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-1t-10.jpg",
+      "specs": ""
+    },
+    {
+      "name": "1T 7",
+      "title": "alcatel 1T 7 Android tablet. Announced Feb 2018. Features 7.0″  display, MT8321A chipset, 2 MP primary camera, 2580 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-1t-7.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Idol 5s",
+      "title": "alcatel Idol 5s Android smartphone. Announced Sep 2017. Features 5.2″  display, MT6757 Helio P20 chipset, 12 MP primary camera, 8 MP front camera, 2850 mAh battery, 32 GB storage, 3 GB RAM, Oleophobic coating.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-idol-5s.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Idol 5",
+      "title": "alcatel Idol 5 Android smartphone. Announced Sep 2017. Features 5.2″  display, MT6753 chipset, 13 MP primary camera, 5 MP front camera, 2800 mAh battery, 16 GB storage, 3 GB RAM, Asahi Dragontrail Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-idol-5.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A7 XL",
+      "title": "alcatel A7 XL Android smartphone. Announced Sep 2017. Features 6.0″  display, MT6750S chipset, Dual: 12 MP (PDAF) + 2 MP primary camera, 5 MP front camera, 4000 mAh battery, 32 GB storage, 3 GB RAM, Asahi Dragontrail Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-a7-xl.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A7",
+      "title": "alcatel A7 Android smartphone. Announced Sep 2017. Features 5.5″  display, MT6750T chipset, 16 MP primary camera, 8 MP front camera, 4000 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-a7.jpg",
+      "specs": ""
+    },
+    {
+      "name": "U5 HD",
+      "title": "alcatel U5 HD Android smartphone. Announced Aug 2017. Features 5.0″  display, MT6737 chipset, 13 MP primary camera, 8 MP front camera, 2050 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-u5-hd.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Idol X+",
+      "title": "alcatel Idol X+ Android smartphone. Announced Jan 2014. Features 5.0″  display, MT6592 chipset, 13.1 MP primary camera, 2 MP front camera, 2500 mAh battery, 32 GB storage, 2 GB RAM, Corning Gorilla Glass 2.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-idol-x-plus-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pop C9",
+      "title": "alcatel Pop C9 Android smartphone. Announced Jan 2014. Features 5.5″  display, 8 MP primary camera, 2 MP front camera, 2500 mAh battery, 4 GB storage, 1000 MB RAM, Oleophobic coating.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-c9-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pop 8",
+      "title": "alcatel Pop 8 Android tablet. Announced Jan 2014. Features 8.0″  display, MT8382 chipset, 2 MP primary camera, 4100 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-pop8.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pop 7",
+      "title": "alcatel Pop 7 Android tablet. Announced Jan 2014. Features 7.0″  display, MT8312 chipset, 2 MP primary camera, 3240 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-pop7.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Fierce",
+      "title": "alcatel Fierce Android smartphone. Announced Sep 2013. Features 4.5″  display, MT6589 chipset, 5 MP primary camera, 1800 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-one-touch-fierce.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Evolve",
+      "title": "alcatel Evolve Android smartphone. Announced Sep 2013. Features 4.0″  display, MT6575 chipset, 5 MP primary camera, 1400 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-one-touch-evolve.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pop C7",
+      "title": "alcatel Pop C7 Android smartphone. Announced Sep 2013. Features 5.0″  display, 5 MP (7040D); 5 MP primary camera, 2000 mAh battery, 4 GB storage, 1000 MB RAM, Oleophobic coating.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-pop-c7.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pop C5",
+      "title": "alcatel Pop C5 Android smartphone. Announced Sep 2013. Features 4.5″  display, 5 MP primary camera, 1800 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-pop-c5.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pop C3",
+      "title": "alcatel Pop C3 Android smartphone. Announced Sep 2013. Features 4.0″  display, MT6572 chipset, 5 MP (4033A, 4033E) or 3.15 MP primary camera, 1300 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-pop-c3-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pop C1",
+      "title": "alcatel Pop C1 Android smartphone. Announced Sep 2013. Features 3.5″  display, 2 MP primary camera, 1300 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-pop-c1-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "One Touch Evo 8HD",
+      "title": "alcatel One Touch Evo 8HD Android tablet. Announced Sep 2013. Features 8.0″  display, Rockchip RK3066 chipset, 3.15 MP primary camera, 2 MP front camera, 4160 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-evo-8hd.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Idol Alpha",
+      "title": "alcatel Idol Alpha Android smartphone. Announced Sep 2013. Features 4.7″  display, MT6589 chipset, 13 MP primary camera, 1.3 MP front camera, 2000 mAh battery, 16 GB storage, 1000 MB RAM, Asahi Dragontrail Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-alpha-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Hero",
+      "title": "alcatel Hero Android smartphone. Announced Sep 2013. Features 6.0″  display, MT6589 chipset, 13 MP primary camera, 2 MP front camera, 3400 mAh battery, 16 GB storage, 2 GB RAM, Oleophobic coating.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-hero-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Idol S",
+      "title": "alcatel Idol S Android smartphone. Announced Aug 2013. Features 4.7″  display, MT6577 chipset, 8 MP primary camera, 1.3 MP front camera, 2000 mAh battery, 4 GB storage, 1000 MB RAM, Asahi Dragontrail Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-idol-s-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Idol Mini",
+      "title": "alcatel Idol Mini Android smartphone. Announced Aug 2013. Features 4.3″  display, MT6572 chipset, 5 MP primary camera, 1700 mAh battery, 8 GB storage, 512 MB RAM, Oleophobic coating.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-mini-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "One Touch T10",
+      "title": "alcatel One Touch T10 Android tablet. Announced Q2 2013. Features 7.0″  display, Rochip RK2918 chipset, 3000 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-ot-t10.jpg",
+      "specs": ""
+    },
+    {
+      "name": "One Touch Snap LTE",
+      "title": "alcatel One Touch Snap LTE Android smartphone. Announced Feb 2013. Features 4.65″  display, 8 MP primary camera, 2 MP front camera, 2200 mAh battery, 4 GB storage, 1000 MB RAM, Scratch-resistant glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-ot-snap-lte.jpg",
+      "specs": ""
+    },
+    {
+      "name": "One Touch Pixi",
+      "title": "alcatel One Touch Pixi Android smartphone. Announced Aug 2013. Features 3.5″  display, 2 MP primary camera, 1300 mAh battery, 256 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-pixi-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "One Touch Snap",
+      "title": "alcatel One Touch Snap Android smartphone. Announced Feb 2013. Features 4.5″  display, MT6589 chipset, 8 MP primary camera, 1.3 MP front camera, 1800 mAh battery, 4 GB storage, 1000 MB RAM, Scratch-resistant glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-ot-snap.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Idol X",
+      "title": "alcatel Idol X Android smartphone. Announced Feb 2013. Features 5.0″  display, MT6589 chipset, 13.1 MP primary camera, 2.1 MP front camera, 2000 mAh battery, 16 GB storage, 2 GB RAM, Scratch-resistant glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-idol-x-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "One Touch Fire",
+      "title": "alcatel One Touch Fire smartphone. Announced Feb 2013. Features 3.5″  display, Snapdragon S1 chipset, 3.15 MP primary camera, 1400 mAh battery, 160 MB storage, 256 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-one-touch-fire1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "One Touch Star",
+      "title": "alcatel One Touch Star Android smartphone. Announced Feb 2013. Features 4.0″  display, MT6577 chipset, 5 MP primary camera, 1500 mAh battery, 4 GB storage, 512 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-ot-star-6010-silver.jpg",
+      "specs": ""
+    },
+    {
+      "name": "One Touch Scribe Easy",
+      "title": "alcatel One Touch Scribe Easy Android smartphone. Announced Feb 2013. Features 5.0″  display, Snapdragon S4 Play chipset, 5 MP primary camera, 2500 mAh battery, 4 GB storage, 512 MB RAM, Scratch-resistant glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-ot-scribe-easy1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "One Touch Evo 7",
+      "title": "alcatel One Touch Evo 7 Android tablet. Announced Jan 2013. Features 7.0″  display, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-ot-evo-7.jpg",
+      "specs": ""
+    },
+    {
+      "name": "One Touch Evo 7 HD",
+      "title": "alcatel One Touch Evo 7 HD Android tablet. Announced Jan 2013. Features 7.0″  display, 3 MP primary camera, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-ot-evo-7-hd-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "One Touch Tab 8 HD",
+      "title": "alcatel One Touch Tab 8 HD Android tablet. Announced Jan 2013. Features 8.0″  display, 2 MP primary camera, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-ot-tab-8-hd-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "One Touch Tab 7",
+      "title": "alcatel One Touch Tab 7 Android tablet. Announced Jan 2013. Features 7.0″  display, Rockchip RK2928 chipset, 3240 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-ot-tab-7.jpg",
+      "specs": ""
+    },
+    {
+      "name": "One Touch Tab 7 HD",
+      "title": "alcatel One Touch Tab 7 HD Android tablet. Announced Jan 2013. Features 7.0″  display, Rockchip 3066 chipset, 2 MP primary camera, 3300 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-ot-tab-7-hd-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "One Touch Idol Ultra",
+      "title": "alcatel One Touch Idol Ultra Android smartphone. Announced Jan 2013. Features 4.65″  display, MT6577 chipset, 8 MP primary camera, 1.3 MP front camera, 1800 mAh battery, 16 GB storage, 1000 MB RAM, Asahi Dragontrail Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-ot-idol-ultra.jpg",
+      "specs": ""
+    },
+    {
+      "name": "One Touch Idol",
+      "title": "alcatel One Touch Idol Android smartphone. Announced Jan 2013. Features 4.66″  display, MT6577 chipset, 8 MP primary camera, 2 MP front camera, 1800 mAh battery, 13.3 GB storage, 1000 MB RAM, Asahi Dragontrail Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-ot-idol.jpg",
+      "specs": ""
+    },
+    {
+      "name": "One Touch T'Pop",
+      "title": "alcatel One Touch T'Pop Android smartphone. Announced Jan 2013. Features 3.5″  display, MT6575 chipset, 2 MP (EU) or 3.2 MP primary camera, 1400 mAh battery, 256 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-ot-tpop.jpg",
+      "specs": ""
+    },
+    {
+      "name": "One Touch S'Pop",
+      "title": "alcatel One Touch S'Pop Android smartphone. Announced Jan 2013. Features 3.5″  display, MT6575 chipset, 3.15 MP primary camera, 1400 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-ot-spop.jpg",
+      "specs": ""
+    },
+    {
+      "name": "One Touch M'Pop",
+      "title": "alcatel One Touch M'Pop Android smartphone. Announced Jan 2013. Features 4.0″  display, MT6575 chipset, 5 MP primary camera, 1400 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-ot-mpop.jpg",
+      "specs": ""
+    },
+    {
+      "name": "One Touch X'Pop",
+      "title": "alcatel One Touch X'Pop Android smartphone. Announced Jan 2013. Features 4.5″  display, MT6577 chipset, 5 MP primary camera, 1800 mAh battery, 4 GB storage, 512 MB RAM, Asahi Dragontrail Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-ot-xpop.jpg",
+      "specs": ""
+    },
+    {
+      "name": "One Touch Scribe HD-LTE",
+      "title": "alcatel One Touch Scribe HD-LTE Android smartphone. Announced Jan 2013. Features 5.0″  display, MT6589 chipset, 8 MP primary camera, 1.3 MP front camera, 2500 mAh battery, 4 GB storage, 1000 MB RAM, Scratch-resistant glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-ot-scribe-lte.jpg",
+      "specs": ""
+    },
+    {
+      "name": "One Touch Scribe X",
+      "title": "alcatel One Touch Scribe X Android smartphone. Announced Jan 2013. Features 5.0″  display, MT6589 chipset, 12 MP primary camera, 1 MP front camera, 2500 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-ot-scribe-x.jpg",
+      "specs": ""
+    },
+    {
+      "name": "One Touch Scribe HD",
+      "title": "alcatel One Touch Scribe HD Android smartphone. Announced Jan 2013. Features 5.0″  display, MT6589 chipset, 8 MP primary camera, 2500 mAh battery, 4 GB storage, 1000 MB RAM, Asahi Dragontrail Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-ot-scribe-hd.jpg",
+      "specs": ""
+    },
+    {
+      "name": "View",
+      "title": "alcatel View Windows Mobile smartphone. Features 4.0″  display, 5 MP primary camera, 1500 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-ot-view.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-983",
+      "title": "alcatel OT-983 Android smartphone. Announced Nov 2012. Features 3.5″  display, BCM 21552G chipset, 3.15 MP primary camera, 1300 mAh battery, 150 MB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-ot-983.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-997D",
+      "title": "alcatel OT-997D Android smartphone. Announced Jul 2012. Features 4.3″  display, MT6577 chipset, 8 MP primary camera, 1800 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-ot-997d.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-997",
+      "title": "alcatel OT-997 Android smartphone. Announced Aug 2012. Features 4.3″  display, MT6577 chipset, 8 MP primary camera, 1800 mAh battery, 4 GB storage, 1000 MB RAM, Oleophobic coating.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-ot-997.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-992D",
+      "title": "alcatel OT-992D Android smartphone. Announced  2012. Features 4.0″  display, MT6577 chipset, 5 MP primary camera, 1500 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-992d.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-978",
+      "title": "alcatel OT-978 Android smartphone. Announced  2012. Features 4.0″  display, 3.15 MP primary camera, 512 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-one-touch-978.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-988 Shockwave",
+      "title": "alcatel OT-988 Shockwave Android smartphone. Announced Oct 2012. Features 3.5″  display, 3.15 MP primary camera, 1400 mAh battery, 1000 MB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-one-touch-shockwave.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-993",
+      "title": "alcatel OT-993 Android smartphone. Announced Aug 2012. Features 4.0″  display, MT6575 chipset, 5 MP primary camera, 1500 mAh battery, 3 GB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-ot993.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-903",
+      "title": "alcatel OT-903 Android smartphone. Announced Aug 2012. Features 2.8″  display, MT6573 chipset, 2 MP primary camera, 1300 mAh battery, 150 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-ot903.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-838",
+      "title": "alcatel OT-838 phone. Announced Apr 2012. Features 2.4″  display, 2 MP primary camera, 1000 mAh battery, 2 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-ot838.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-668",
+      "title": "alcatel OT-668 phone. Announced Aug 2012. Features 1.77″  display, 2 MP primary camera, 650 mAh battery, 2 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-ot668.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-605",
+      "title": "alcatel OT-605 phone. Announced Aug 2012. Features 2.4″  display, 850 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-ot605.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT-986",
+      "title": "alcatel OT-986 Android smartphone. Announced May 2012. Features 4.5″  display, TI OMAP 4460 chipset, 5 MP primary camera, 2 MP front camera, 1800 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-ot986.jpg",
+      "specs": ""
+    }
+  ]
+}

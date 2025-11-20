@@ -1,0 +1,61 @@
+{
+  "scrape_date": "2025-10-08T17:59:06.572016",
+  "total_phones": 9,
+  "source": "https://www.gsmarena.com/nothing-phones-128.php",
+  "phones": [
+    {
+      "name": "Phone (3)",
+      "title": "Nothing Phone (3) 5G Android smartphone. Announced Jul 2025. Features 6.67″  display, Snapdragon 8s Gen 4 chipset, 5150 mAh battery, 512 GB storage, 16 GB RAM, Corning Gorilla Glass 7i.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nothing-phone3.jpg",
+      "specs": ""
+    },
+    {
+      "name": "CMF Phone 2 Pro",
+      "title": "Nothing CMF Phone 2 Pro 5G Android smartphone. Announced Apr 2025. Features 6.77″  display, Dimensity 7300 Pro chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM, Panda Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nothing-cmf-phone-2-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Phone (3a) Pro",
+      "title": "Nothing Phone (3a) Pro Android smartphone. Announced Mar 2025. Features 6.77″  display, Snapdragon 7s Gen 3 chipset, 5000 mAh battery, 256 GB storage, 12 GB RAM, Panda Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nothing-phone-3a-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Phone (3a)",
+      "title": "Nothing Phone (3a) Android smartphone. Announced Mar 2025. Features 6.77″  display, Snapdragon 7s Gen 3 chipset, 5000 mAh battery, 256 GB storage, 12 GB RAM, Panda Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nothing-phone-3a.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Phone (2a) Plus",
+      "title": "Nothing Phone (2a) Plus Android smartphone. Announced Jul 2024. Features 6.7″  display, Dimensity 7350 Pro chipset, 5000 mAh battery, 256 GB storage, 12 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nothing-phone-2a-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "CMF Phone 1",
+      "title": "Nothing CMF Phone 1 Android smartphone. Announced Jul 2024. Features 6.67″  display, Dimensity 7300 chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nothing-cmf-phone-1-ofic.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Phone (2a)",
+      "title": "Nothing Phone (2a) Android smartphone. Announced Mar 2024. Features 6.7″  display, Dimensity 7200 Pro chipset, 5000 mAh battery, 256 GB storage, 12 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nothing-phone-2a.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Phone (2)",
+      "title": "Nothing Phone (2) Android smartphone. Announced Jul 2023. Features 6.7″  display, Snapdragon 8+ Gen 1 chipset, 4700 mAh battery, 512 GB storage, 12 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nothing-phone2_.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Phone (1)",
+      "title": "Nothing Phone (1) Android smartphone. Announced Jul 2022. Features 6.55″  display, Snapdragon 778G+ 5G chipset, 4500 mAh battery, 256 GB storage, 12 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nothing-phone-1.jpg",
+      "specs": ""
+    }
+  ]
+}

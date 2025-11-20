@@ -1,0 +1,187 @@
+{
+  "scrape_date": "2025-10-08T16:40:37.352810",
+  "total_phones": 30,
+  "source": "https://www.gsmarena.com/oscal-phones-134.php",
+  "phones": [
+    {
+      "name": "Tiger 8",
+      "title": "Oscal Tiger 8 5G Android smartphone. Announced Sep 2025. Features 6.88″  display, Unisoc T8100 chipset, 5000 mAh battery, 128 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oscal-tiger8.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pilot 3",
+      "title": "Oscal Pilot 3 Android smartphone. Announced Jun 2025. Features 6.78″  display, Dimensity 6300 chipset, 7500 mAh battery, 256 GB storage, 12 GB RAM, MIL-STD-810H compliant, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oscal-pilot3.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pad 100",
+      "title": "Oscal Pad 100 Android tablet. Announced Feb 2025. Features 12.0″  display, Unisoc T615 chipset, 9000 mAh battery, 256 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oscal-pad-100.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Marine 2",
+      "title": "Oscal Marine 2 Android smartphone. Announced May 2025. Features 6.56″  display, Unisoc T615 chipset, 11000 mAh battery, 256 GB storage, 8 GB RAM, MIL-STD-810H compliant, Panda Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oscal-marine2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Marine 1",
+      "title": "Oscal Marine 1 Android smartphone. Announced May 2025. Features 6.56″  display, Unisoc T615 chipset, 5100 mAh battery, 128 GB storage, 4 GB RAM, MIL-STD-810H compliant, Panda Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oscal-marine1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pad 90",
+      "title": "Oscal Pad 90 Android tablet. Announced Jan 2025. Features 10.92″  display, Unisoc T606 chipset, 7700 mAh battery, 128 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oscal-pad90.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pad 80 WiFi",
+      "title": "Oscal Pad 80 WiFi Android tablet. Announced Jan 2025. Features 10.51″  display, Unisoc T606 chipset, 8200 mAh battery, 256 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oscal-pad80-wifi.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pad 70 WiFi",
+      "title": "Oscal Pad 70 WiFi Android tablet. Announced Jan 2025. Features 10.1″  display, Rockchip RK3562 chipset, 6580 mAh battery, 128 GB storage, 4 GB RAM, Asahi glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oscal-pad70-wifi.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pilot 1",
+      "title": "Oscal Pilot 1 Android smartphone. Announced Jan 2025. Features 6.67″  display, Helio G81 chipset, 15000 mAh battery, 256 GB storage, 6 GB RAM, MIL-STD-810H compliant, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oscal-pilot1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Flat 2C",
+      "title": "Oscal Flat 2C Android smartphone. Announced Jan 2025. Features 6.56″  display, Unisoc T603 chipset, 5000 mAh battery, 64 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oscal-flat2c.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Flat 2",
+      "title": "Oscal Flat 2 Android smartphone. Announced Jan 2025. Features 6.56″  display, Unisoc T606 chipset, 5000 mAh battery, 256 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oscal-flat2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Tiger 13",
+      "title": "Oscal Tiger 13 Android smartphone. Announced Oct 2024. Features 6.67″  display, Unisoc T760 chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oscal-tiger13.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Elite 1",
+      "title": "Oscal Elite 1 Android tablet. Announced May 2024. Features 12.1″  display, Helio G99 chipset, 8800 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oscal-elite.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pilot 2",
+      "title": "Oscal Pilot 2 Android smartphone. Announced May 2024. Features 6.5″  display, Helio G99 chipset, 8800 mAh battery, 256 GB storage, 8 GB RAM, MIL-STD-810H compliant, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oscal-pilot2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Modern 8",
+      "title": "Oscal Modern 8 Android smartphone. Announced May 2024. Features 6.75″  display, Unisoc Tiger T616 chipset, 6000 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oscal-modern-8.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pad 16",
+      "title": "Oscal Pad 16 Android tablet. Announced Jan 2024. Features 10.5″  display, Unisoc T606 chipset, 8200 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/blackview-oscal-pad16.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pad 18",
+      "title": "Oscal Pad 18 Android tablet. Announced Dec 2023. Features 10.95″  display, Unisoc Tiger T616 chipset, 8800 mAh battery, 256 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/blackview-oscal-pad-18.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Tiger 12",
+      "title": "Oscal Tiger 12 Android smartphone. Announced Nov 2023. Features 6.78″  display, Helio G99 chipset, 5000 mAh battery, 256 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/blackview-oscal-tiger12.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Tiger 10",
+      "title": "Oscal Tiger 10 Android smartphone. Announced Nov 2023. Features 6.6″  display, Unisoc T606 chipset, 5180 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/blackview-oscal-tiger10.jpg",
+      "specs": ""
+    },
+    {
+      "name": "S70 Pro",
+      "title": "Oscal S70 Pro Android smartphone. Announced Aug 2023. Features 6.1″  display, MT6765 Helio P35 chipset, 6580 mAh battery, 64 GB storage, 4 GB RAM, MIL-STD-810H compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/blackview-oscal-s70-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Spider 8",
+      "title": "Oscal Spider 8 Android tablet. Announced Aug 2023. Features 10.1″  display, Unisoc Tiger T616 chipset, 13000 mAh battery, 128 GB storage, 8 GB RAM, MIL-STD-810H compliant, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/blackview-oscal-spider8.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pad 15",
+      "title": "Oscal Pad 15 Android tablet. Announced Sep 2023. Features 10.36″  display, Unisoc T606 chipset, 8280 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/blackview-pad-15.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C30 Pro",
+      "title": "Oscal C30 Pro Android smartphone. Announced Jun 2023. Features 6.5″  display, MT6765 Helio G35 chipset, 5080 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/blackview-oscal-c30-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pad 70",
+      "title": "Oscal Pad 70 Android tablet. Announced Jul 2023. Features 10.1″  display, 6580 mAh battery, 128 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/blackview-oscal-70.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pad 60",
+      "title": "Oscal Pad 60 Android tablet. Announced Jul 2023. Features 10.1″  display, 6580 mAh battery, 64 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/blackview-oscal-pad-60.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C70",
+      "title": "Oscal C70 Android smartphone. Announced Apr 2023. Features 6.56″  display, Unisoc T606 chipset, 5180 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/blackview-oscal-c70.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pad 13",
+      "title": "Oscal Pad 13 Android tablet. Announced Apr 2023. Features 10.1″  display, Unisoc T606 chipset, 7680 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/blackview-oscal-pad-13.jpg",
+      "specs": ""
+    },
+    {
+      "name": "S80",
+      "title": "Oscal S80 Android smartphone. Announced Jan 2023. Features 6.58″  display, MT6769 Helio G85 chipset, 13000 mAh battery, 128 GB storage, 6 GB RAM, MIL-STD-810H compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/blackview-oscal-s80.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Pad 10",
+      "title": "Oscal Pad 10 Android tablet. Announced Dec 2022. Features 10.1″  display, Unisoc T606 chipset, 6580 mAh battery, 128 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/blackview-oscal-pad-10.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C80",
+      "title": "Oscal C80 Android smartphone. Announced Sep 2022. Features 6.5″  display, Unisoc T606 chipset, 5180 mAh battery, 128 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/blackview-oscal-c80.jpg",
+      "specs": ""
+    }
+  ]
+}

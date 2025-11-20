@@ -1,0 +1,517 @@
+{
+  "scrape_date": "2025-10-08T14:28:34.328809",
+  "total_phones": 85,
+  "source": "https://www.gsmarena.com/oukitel-phones-f-132-0-p2.php",
+  "phones": [
+    {
+      "name": "WP36",
+      "title": "Oukitel WP36 Android smartphone. Announced Jan 2024. Features 6.52″  display, MT8788 chipset, 10600 mAh battery, 128 GB storage, 8 GB RAM, MIL-STD-810H compliant, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-wp36-1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT6",
+      "title": "Oukitel OT6 Android tablet. Announced Mar 2024. Features 10.1″  display, RK3562 chipset, 8000 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-ot6.jpg",
+      "specs": ""
+    },
+    {
+      "name": "WP33 Pro",
+      "title": "Oukitel WP33 Pro Android smartphone. Announced Jan 2024. Features 6.6″  display, Dimensity 6100+ chipset, 22000 mAh battery, 256 GB storage, 8 GB RAM, MIL-STD-810H compliant, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-wp33pro-1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT8",
+      "title": "Oukitel OT8 Android tablet. Announced Jan 2024. Features 11.0″  display, Unisoc T606 chipset, 8800 mAh battery, 256 GB storage, 6 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-ot8.jpg",
+      "specs": ""
+    },
+    {
+      "name": "WP30 Pro",
+      "title": "Oukitel WP30 Pro Android smartphone. Announced Oct 2023. Features 6.78″  display, Dimensity 8050 chipset, 11000 mAh battery, 512 GB storage, 12 GB RAM, MIL-STD-810H compliant, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-wp30-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT5",
+      "title": "Oukitel OT5 Android tablet. Announced Oct 2023. Features 12.0″  display, Helio G99 chipset, 11000 mAh battery, 256 GB storage, 12 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-ot5-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "RT7 5G",
+      "title": "Oukitel RT7 5G Android tablet. Announced Aug 2023. Features 10.1″  display, Dimensity 720 chipset, 32000 mAh battery, 256 GB storage, 12 GB RAM, MIL-STD-810H compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-rt7-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "WP32",
+      "title": "Oukitel WP32 Android smartphone. Announced Oct 2023. Features 5.93″  display, Unisoc UMS9230 chipset, 6300 mAh battery, 128 GB storage, 4 GB RAM, MIL-STD-810H compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-wp32-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "WP23Pro",
+      "title": "Oukitel WP23Pro Android smartphone. Announced  2023. Features 6.52″  display, Unisoc T606 chipset, 10600 mAh battery, 128 GB storage, 8 GB RAM, MIL-STD-810H compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-wp23pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "WP27",
+      "title": "Oukitel WP27 Android smartphone. Announced Sep 2023. Features 6.8″  display, Helio G99 chipset, 8500 mAh battery, 256 GB storage, 12 GB RAM, MIL-STD-810H compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-wp27.jpg",
+      "specs": ""
+    },
+    {
+      "name": "BT50",
+      "title": "Oukitel BT50 watch. Announced Jan 2024. Features 1.43″  display, 400 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-bt50.jpg",
+      "specs": ""
+    },
+    {
+      "name": "BT10",
+      "title": "Oukitel BT10 watch. Announced Sep 2023. Features 1.43″  display, 410 mAh battery, MIL-STD-810H compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-bt10-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "BT20",
+      "title": "Oukitel BT20 watch. Announced Aug 2023. Features 1.96″  display, 350 mAh battery, MIL-STD-810H compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-bt20-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "WP28",
+      "title": "Oukitel WP28 Android smartphone. Announced Jul 2023. Features 6.52″  display, 10600 mAh battery, 256 GB storage, 8 GB RAM, MIL-STD-810H compliant, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-wp28-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "WP26",
+      "title": "Oukitel WP26 Android smartphone. Announced Jun 2023. Features 6.58″  display, MT6779 Helio P90 chipset, 10000 mAh battery, 256 GB storage, 16 GB RAM, MIL-STD-810H compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-wp26-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "RT6",
+      "title": "Oukitel RT6 Android tablet. Announced Jul 2023. Features 10.1″  display, MT8788 chipset, 20000 mAh battery, 256 GB storage, 8 GB RAM, MIL-STD-810H compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-rt6-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OKT3",
+      "title": "Oukitel OKT3 Android tablet. Announced Jun 2023. Features 10.51″  display, Unisoc Tiger T616 chipset, 8250 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-okt3-1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "RT5",
+      "title": "Oukitel RT5 Android tablet. Announced May 2023. Features 10.1″  display, MT8788 chipset, 10000 mAh battery, 256 GB storage, 14 GB RAM, MIL-STD-810G compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-rt5-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "WP23",
+      "title": "Oukitel WP23 Android smartphone. Announced Apr 2023. Features 6.52″  display, MT6765 Helio P35 chipset, 10600 mAh battery, 64 GB storage, 4 GB RAM, MIL-STD-810H compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-wp23.jpg",
+      "specs": ""
+    },
+    {
+      "name": "WP22",
+      "title": "Oukitel WP22 Android smartphone. Announced Mar 2023. Features 6.58″  display, MT6779 Helio P90 chipset, 10000 mAh battery, 256 GB storage, 8 GB RAM, MIL-STD-810H compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-wp22-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "WP21 Ultra",
+      "title": "Oukitel WP21 Ultra Android smartphone. Announced Mar 2023. Features 6.78″  display, Helio G99 chipset, 9800 mAh battery, 256 GB storage, 12 GB RAM, MIL-STD-810H compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-wp21-ultra-1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C36",
+      "title": "Oukitel C36 Android smartphone. Announced Sep 2023. Features 6.56″  display, Unisoc T606 chipset, 5150 mAh battery, 128 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-c36.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C35",
+      "title": "Oukitel C35 Android smartphone. Announced Aug 2023. Features 6.56″  display, Unisoc Tiger T616 chipset, 5150 mAh battery, 256 GB storage, 12 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-c35-1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "K16",
+      "title": "Oukitel K16 Android smartphone. Announced Mar 2023. Features 3.5″  display, MT8788 chipset, 3050 mAh battery, 128 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-k16.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C33",
+      "title": "Oukitel C33 Android smartphone. Announced May 2023. Features 6.8″  display, Unisoc T606 chipset, 5150 mAh battery, 256 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-c33-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C32",
+      "title": "Oukitel C32 Android smartphone. Announced Jan 2023. Features 6.52″  display, Unisoc T606 chipset, 5150 mAh battery, 128 GB storage, 8 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-c32.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C31 Pro",
+      "title": "Oukitel C31 Pro Android smartphone. Announced Dec 2022. Features 6.52″  display, MT6762 Helio P22 chipset, 5150 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-c31-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C31",
+      "title": "Oukitel C31 Android smartphone. Announced Aug 2022. Features 6.52″  display, MT6761 Helio A22 chipset, 5150 mAh battery, 16 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-c31-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "WP20",
+      "title": "Oukitel WP20 Android smartphone. Announced Jun 2022. Features 5.93″  display, MT6761 Helio A22 chipset, 6300 mAh battery, 32 GB storage, 4 GB RAM, MIL-STD-810H compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-wp20-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "WP19",
+      "title": "Oukitel WP19 Android smartphone. Announced Jun 2022. Features 6.78″  display, MT6785V chipset, 21000 mAh battery, 256 GB storage, 8 GB RAM, MIL-STD-810H compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-wp19-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "WP17",
+      "title": "Oukitel WP17 Android smartphone. Announced Oct 2021. Features 6.78″  display, MT6785V chipset, 8300 mAh battery, 128 GB storage, 8 GB RAM, MIL-STD-810 compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-wp17-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "WP18 Pro",
+      "title": "Oukitel WP18 Pro Android smartphone. Announced Oct 2022. Features 5.93″  display, MT6762 Helio P22 chipset, 12500 mAh battery, 64 GB storage, 4 GB RAM, MIL-STD-810G compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-wp18-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "RT3",
+      "title": "Oukitel RT3 Android tablet. Announced Dec 2022. Features 8.0″  display, MT6762 Helio P22 chipset, 5150 mAh battery, 64 GB storage, 4 GB RAM, MIL-STD-810H compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-rt3.jpg",
+      "specs": ""
+    },
+    {
+      "name": "RT2",
+      "title": "Oukitel RT2 Android tablet. Announced Sep 2022. Features 10.1″  display, MT8788 chipset, 20000 mAh battery, 128 GB storage, 8 GB RAM, MIL-STD-810H compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-rt2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "RT1",
+      "title": "Oukitel RT1 Android tablet. Announced Nov 2021. Features 10.1″  display, MT8768WA Helio P22 chipset, 10000 mAh battery, 64 GB storage, 4 GB RAM, MIL-STD-810G compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-rt1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "WP210",
+      "title": "Oukitel WP210 5G Android smartphone. Announced Jul 2025. Features 6.7″  display, Dimensity 8200 chipset, 8800 mAh battery, 512 GB storage, 12 GB RAM, MIL-STD-810H compliant, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-wp210.jpg",
+      "specs": ""
+    },
+    {
+      "name": "WP200",
+      "title": "Oukitel WP200 5G Android smartphone. Announced Mar 2025. Features 6.7″  display, Dimensity 8200 chipset, 8800 mAh battery, 512 GB storage, 12 GB RAM, MIL-STD-810H compliant, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-wp200.jpg",
+      "specs": ""
+    },
+    {
+      "name": "WP56",
+      "title": "Oukitel WP56 5G Android smartphone. Announced Aug 2025. Features 6.8″  display, Dimensity 7050 chipset, 16000 mAh battery, 512 GB storage, 12 GB RAM, MIL-STD-810H compliant, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-wp56.jpg",
+      "specs": ""
+    },
+    {
+      "name": "WP55 Ultra",
+      "title": "Oukitel WP55 Ultra 5G Android smartphone. Announced May 2025. Features 6.6″  display, Dimensity 7025 chipset, 11000 mAh battery, 512 GB storage, 16 GB RAM, MIL-STD-810H compliant, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-wp55-ultra.jpg",
+      "specs": ""
+    },
+    {
+      "name": "WP53",
+      "title": "Oukitel WP53 Android smartphone. Announced Jun 2025. Features 6.52″  display, Unisoc T615 chipset, 11000 mAh battery, 128 GB storage, 8 GB RAM, MIL-STD-810H compliant, AGC Dragontrail.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-wp53.jpg",
+      "specs": ""
+    },
+    {
+      "name": "G5",
+      "title": "Oukitel G5 Android smartphone. Announced May 2025. Features 6.0″  display, Unisoc T310 chipset, 6300 mAh battery, 64 GB storage, 4 GB RAM, MIL-STD-810H compliant, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-g5.jpg",
+      "specs": ""
+    },
+    {
+      "name": "G3",
+      "title": "Oukitel G3 Android smartphone. Announced May 2025. Features 6.0″  display, Unisoc T310 chipset, 6300 mAh battery, 64 GB storage, 4 GB RAM, MIL-STD-810H compliant, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-g3.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C1 Pro",
+      "title": "Oukitel C1 Pro Android smartphone. Announced Jan 2025. Features 6.52″  display, Unisoc T606 chipset, 5150 mAh battery, 256 GB storage, 4 GB RAM, Panda Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-c1-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C61",
+      "title": "Oukitel C61 Android smartphone. Announced Mar 2025. Features 6.88″  display, Unisoc T615 chipset, 5150 mAh battery, 128 GB storage, 4 GB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-c61.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C60",
+      "title": "Oukitel C60 Android smartphone. Announced Apr 2025. Features 6.88″  display, Unisoc T606 chipset, 10000 mAh battery, 128 GB storage, 4 GB RAM, HKC Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-c60.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C59",
+      "title": "Oukitel C59 Android smartphone. Announced Apr 2025. Features 6.88″  display, Unisoc T606 chipset, 10000 mAh battery, 256 GB storage, 8 GB RAM, HKC Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-c59.jpg",
+      "specs": ""
+    },
+    {
+      "name": "WP300",
+      "title": "Oukitel WP300 Android smartphone. Announced Dec 2024. Features 6.8″  display, Dimensity 7025 chipset, 16000 mAh battery, 512 GB storage, 12 GB RAM, MIL-STD-810H compliant, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-wp300.jpg",
+      "specs": ""
+    },
+    {
+      "name": "WP200 Pro",
+      "title": "Oukitel WP200 Pro Android smartphone. Announced Dec 2024. Features 6.7″  display, Dimensity 8200 chipset, 8800 mAh battery, 1024 GB storage, 24 GB RAM, MIL-STD-810H compliant, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-wp200-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "WP100 Titan",
+      "title": "Oukitel WP100 Titan Android smartphone. Announced Feb 2025. Features 6.8″  display, Dimensity 7300 chipset, 33000 mAh battery, 512 GB storage, 16 GB RAM, MIL-STD-810H compliant, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-wp100-titan.jpg",
+      "specs": ""
+    },
+    {
+      "name": "WP23 Plus",
+      "title": "Oukitel WP23 Plus Android smartphone. Announced Dec 2024. Features 6.6″  display, Unisoc T606 chipset, 10600 mAh battery, 256 GB storage, 8 GB RAM, MIL-STD-810H compliant, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-wp23-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "WP55",
+      "title": "Oukitel WP55 Android smartphone. Announced Dec 2024. Features 6.6″  display, Dimensity 7025 chipset, 11000 mAh battery, 256 GB storage, 12 GB RAM, MIL-STD-810H compliant, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-wp55.jpg",
+      "specs": ""
+    },
+    {
+      "name": "WP55 Pro",
+      "title": "Oukitel WP55 Pro Android smartphone. Announced Dec 2024. Features 6.6″  display, Dimensity 7025 chipset, 11000 mAh battery, 512 GB storage, 16 GB RAM, MIL-STD-810H compliant, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-wp55-pro-0.jpg",
+      "specs": ""
+    },
+    {
+      "name": "WP39 Pro",
+      "title": "Oukitel WP39 Pro Android smartphone. Announced Feb 2025. Features 6.6″  display, Dimensity 6300 chipset, 11000 mAh battery, 512 GB storage, 12 GB RAM, MIL-STD-810H compliant, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-wp39-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "WP35 Pro",
+      "title": "Oukitel WP35 Pro Android smartphone. Announced Feb 2025. Features 6.6″  display, Dimensity 6300 chipset, 11000 mAh battery, 256 GB storage, 6 GB RAM, MIL-STD-810H compliant, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-wp35-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "WP36 Pro",
+      "title": "Oukitel WP36 Pro Android smartphone. Announced Oct 2024. Features 6.52″  display, MT8788 chipset, 10600 mAh battery, 256 GB storage, 6 GB RAM, MIL-STD-810H compliant, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-wp36-1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT9",
+      "title": "Oukitel OT9 Android tablet. Announced Nov 2024. Features 11.0″  display, Unisoc T606 chipset, 8000 mAh battery, 128 GB storage, 4 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-ot9.jpg",
+      "specs": ""
+    },
+    {
+      "name": "BT103",
+      "title": "Oukitel BT103 watch. Announced Jun 2024. Features 1.91″  display, 300 mAh battery, Tempered glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-bt103.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C58 Pro",
+      "title": "Oukitel C58 Pro Android smartphone. Announced Nov 2024. Features 6.7″  display, Unisoc T606 chipset, 5150 mAh battery, 256 GB storage, 6 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-c58-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C58",
+      "title": "Oukitel C58 Android smartphone. Announced Nov 2024. Features 6.7″  display, Unisoc T606 chipset, 5150 mAh battery, 128 GB storage, 4 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-c58.jpg",
+      "specs": ""
+    },
+    {
+      "name": "P1",
+      "title": "Oukitel P1 Android smartphone. Announced Nov 2024. Features 6.7″  display, Helio G99 chipset, 5150 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-p1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "WP35 S",
+      "title": "Oukitel WP35 S Android smartphone. Announced Sep 2024. Features 6.56″  display, Helio G85 chipset, 11000 mAh battery, 256 GB storage, 6 GB RAM, MIL-STD-810H compliant, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-wp35s.jpg",
+      "specs": ""
+    },
+    {
+      "name": "RT3 Pro",
+      "title": "Oukitel RT3 Pro Android tablet. Announced Oct 2024. Features 8.0″  display, Helio G81 chipset, 5150 mAh battery, 128 GB storage, 4 GB RAM, MIL-STD-810H compliant, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-rt3-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "BT101",
+      "title": "Oukitel BT101 watch. Announced Sep 2024. Features 2.02″  display, 410 mAh battery, Tempered glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-bt101.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C57 Pro",
+      "title": "Oukitel C57 Pro Android smartphone. Announced Oct 2024. Features 6.52″  display, Unisoc SC9863A chipset, 4300 mAh battery, 128 GB storage, 4 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-c57-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C57s",
+      "title": "Oukitel C57s Android smartphone. Announced Oct 2024. Features 6.52″  display, Unisoc SC9863A chipset, 4300 mAh battery, 64 GB storage, 2 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-c57s.jpg",
+      "specs": ""
+    },
+    {
+      "name": "RT9",
+      "title": "Oukitel RT9 Android tablet. Announced Sep 2024. Features 10.1″  display, Unisoc T606 chipset, 11000 mAh battery, 256 GB storage, 6 GB RAM, MIL-STD-810H compliant, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-rt9.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT12",
+      "title": "Oukitel OT12 Android tablet. Announced Sep 2024. Features 11.0″  display, Unisoc T606 chipset, 8000 mAh battery, 256 GB storage, 4 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-ot12.jpg",
+      "specs": ""
+    },
+    {
+      "name": "G2",
+      "title": "Oukitel G2 Android smartphone. Announced Sep 2024. Features 6.0″  display, Unisoc T606 chipset, 6300 mAh battery, 64 GB storage, 4 GB RAM, MIL-STD-810H compliant, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-g2-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "G1",
+      "title": "Oukitel G1 Android smartphone. Announced Sep 2024. Features 6.52″  display, Unisoc T606 chipset, 10600 mAh battery, 256 GB storage, 6 GB RAM, MIL-STD-810H compliant, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-g1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "WP28 S",
+      "title": "Oukitel WP28 S Android smartphone. Announced Jul 2024. Features 6.52″  display, Unisoc T606 chipset, 10600 mAh battery, 128 GB storage, 4 GB RAM, MIL-STD-810H compliant, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-wp28s.jpg",
+      "specs": ""
+    },
+    {
+      "name": "WP28 E",
+      "title": "Oukitel WP28 E Android smartphone. Announced Jul 2024. Features 6.52″  display, Unisoc T606 chipset, 10600 mAh battery, 64 GB storage, 4 GB RAM, MIL-STD-810H compliant, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-wp28e.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C53",
+      "title": "Oukitel C53 Android smartphone. Announced Jun 2024. Features 6.6″  display, Unisoc SC9863A chipset, 4000 mAh battery, 64 GB storage, 4 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-c53.jpg",
+      "specs": ""
+    },
+    {
+      "name": "OT11",
+      "title": "Oukitel OT11 Android tablet. Announced May 2024. Features 11.0″  display, Unisoc T606 chipset, 8000 mAh battery, 128 GB storage, 4 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-ot11.jpg",
+      "specs": ""
+    },
+    {
+      "name": "WP32 Pro",
+      "title": "Oukitel WP32 Pro Android smartphone. Announced May 2024. Features 6.0″  display, Unisoc T606 chipset, 6300 mAh battery, 256 GB storage, 6 GB RAM, MIL-STD-810H compliant, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-wp32-pro-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "WP52",
+      "title": "Oukitel WP52 Android smartphone. Announced Jun 2024. Features 6.6″  display, Dimensity 6100+ chipset, 6500 mAh battery, 256 GB storage, 4 GB RAM, MIL-STD-810H compliant, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-wp52.jpg",
+      "specs": ""
+    },
+    {
+      "name": "WP39",
+      "title": "Oukitel WP39 Android smartphone. Announced Jun 2024. Features 6.6″  display, Dimensity 6100+ chipset, 11000 mAh battery, 256 GB storage, 6 GB RAM, MIL-STD-810H compliant, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-wp39.jpg",
+      "specs": ""
+    },
+    {
+      "name": "WP50",
+      "title": "Oukitel WP50 Android smartphone. Announced Jun 2024. Features 6.6″  display, Dimensity 6100+ chipset, 6500 mAh battery, 256 GB storage, 4 GB RAM, MIL-STD-810H compliant, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-wp50.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C50",
+      "title": "Oukitel C50 Android smartphone. Announced Jun 2024. Features 6.8″  display, Dimensity 6100+ chipset, 5150 mAh battery, 128 GB storage, 8 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-c50.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C37",
+      "title": "Oukitel C37 Android smartphone. Announced May 2024. Features 6.6″  display, MT8788 chipset, 5150 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-c37.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C38",
+      "title": "Oukitel C38 Android smartphone. Announced May 2024. Features 6.6″  display, MT8788 chipset, 5150 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-c38.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C51",
+      "title": "Oukitel C51 Android smartphone. Announced May 2024. Features 6.8″  display, Unisoc T606 chipset, 5150 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-c51.jpg",
+      "specs": ""
+    },
+    {
+      "name": "WP38",
+      "title": "Oukitel WP38 Android smartphone. Announced May 2024. Features 6.52″  display, MT8788 chipset, 10600 mAh battery, 256 GB storage, 6 GB RAM, MIL-STD-810H compliant, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-wp38.jpg",
+      "specs": ""
+    },
+    {
+      "name": "WP35",
+      "title": "Oukitel WP35 Android smartphone. Announced May 2024. Features 6.6″  display, Dimensity 6100+ chipset, 11000 mAh battery, 256 GB storage, 8 GB RAM, MIL-STD-810H compliant, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-wp35.jpg",
+      "specs": ""
+    },
+    {
+      "name": "BT80",
+      "title": "Oukitel BT80 watch. Announced Apr 2024. Features 2.13″  display, 1000 mAh battery, Tempered glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-bt80.jpg",
+      "specs": ""
+    },
+    {
+      "name": "RT8",
+      "title": "Oukitel RT8 Android tablet. Announced Mar 2024. Features 11.0″  display, Helio G99 chipset, 20000 mAh battery, 256 GB storage, 6 GB RAM, MIL-STD-810H compliant, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-rt8-.jpg",
+      "specs": ""
+    }
+  ]
+}

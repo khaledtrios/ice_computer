@@ -1,0 +1,4009 @@
+{
+  "scrape_date": "2025-10-09T12:47:19.611877",
+  "total_phones": 667,
+  "source": "https://www.gsmarena.com/lg-phones-20.php",
+  "phones": [
+    {
+      "name": "Ultra Tab",
+      "title": "LG Ultra Tab Android tablet. Announced Aug 2022. Features 10.35″  display, Snapdragon 680 4G chipset, 7040 mAh battery, 64 GB storage, 4 GB RAM, MIL-STD-810G compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg_ultratab.jpg",
+      "specs": ""
+    },
+    {
+      "name": "W41 Pro",
+      "title": "LG W41 Pro Android smartphone. Announced Feb 2021. Features 6.55″  display, MT6765G Helio G35 chipset, 5000 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-w41-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "W41+",
+      "title": "LG W41+ Android smartphone. Announced Feb 2021. Features 6.55″  display, MT6765G Helio G35 chipset, 5000 mAh battery, 128 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-w41-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "W41",
+      "title": "LG W41 Android smartphone. Announced Feb 2021. Features 6.55″  display, MT6765G Helio G35 chipset, 5000 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-w41.jpg",
+      "specs": ""
+    },
+    {
+      "name": "W31+",
+      "title": "LG W31+ Android smartphone. Announced Nov 2020. Features 6.52″  display, MT6762 Helio P22 chipset, 4000 mAh battery, 128 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-w31-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "W31",
+      "title": "LG W31 Android smartphone. Announced Nov 2020. Features 6.52″  display, MT6762 Helio P22 chipset, 4000 mAh battery, 128 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-w31.jpg",
+      "specs": ""
+    },
+    {
+      "name": "W11",
+      "title": "LG W11 Android smartphone. Announced Nov 2020. Features 6.52″  display, MT6762 Helio P22 chipset, 4000 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-w11.jpg",
+      "specs": ""
+    },
+    {
+      "name": "K92 5G",
+      "title": "LG K92 5G Android smartphone. Announced Sep 2020. Features 6.7″  display, Snapdragon 690 5G chipset, 4000 mAh battery, 128 GB storage, 6 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-k92-5g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "K62",
+      "title": "LG K62 Android smartphone. Announced Sep 2020. Features 6.6″  display, MT6765 Helio P35 chipset, 4000 mAh battery, 128 GB storage, 4 GB RAM, MIL-STD-810G compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-k62.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Q52",
+      "title": "LG Q52 Android smartphone. Announced Sep 2020. Features 6.6″  display, MT6765 Helio P35 chipset, 4000 mAh battery, 64 GB storage, 4 GB RAM, MIL-STD-810G compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-q52.jpg",
+      "specs": ""
+    },
+    {
+      "name": "K52",
+      "title": "LG K52 Android smartphone. Announced Sep 2020. Features 6.6″  display, MT6765 Helio P35 chipset, 4000 mAh battery, 64 GB storage, 4 GB RAM, MIL-STD-810G compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-k52.jpg",
+      "specs": ""
+    },
+    {
+      "name": "K42",
+      "title": "LG K42 Android smartphone. Announced Sep 2020. Features 6.6″  display, MT6762 Helio P22 chipset, 4000 mAh battery, 64 GB storage, 3 GB RAM, MIL-STD-810G compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-k42.jpg",
+      "specs": ""
+    },
+    {
+      "name": "K71",
+      "title": "LG K71 Android smartphone. Announced Sep 2020. Features 6.8″  display, MT6765 Helio P35 chipset, 4000 mAh battery, 128 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-stylo6.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Wing 5G",
+      "title": "LG Wing 5G Android smartphone. Announced Sep 2020. Features 6.8″  display, Snapdragon 765G 5G chipset, 4000 mAh battery, 256 GB storage, 8 GB RAM, MIL-STD-810G compliant, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-wing.jpg",
+      "specs": ""
+    },
+    {
+      "name": "K22",
+      "title": "LG K22 Android smartphone. Announced Sep 2020. Features 6.2″  display, Snapdragon 215 chipset, 3000 mAh battery, 64 GB storage, 3 GB RAM, MIL-STD-810G compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-k22.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Q92 5G",
+      "title": "LG Q92 5G Android smartphone. Announced Aug 2020. Features 6.67″  display, Snapdragon 765G 5G chipset, 4000 mAh battery, 128 GB storage, 6 GB RAM, MIL-STD-810G compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-q92.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Q31",
+      "title": "LG Q31 Android smartphone. Announced Sep 2020. Features 5.7″  display, MT6762 Helio P22 chipset, 3000 mAh battery, 32 GB storage, 3 GB RAM, MIL-STD-810G compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-q31.jpg",
+      "specs": ""
+    },
+    {
+      "name": "K31",
+      "title": "LG K31 Android smartphone. Announced Aug 2020. Features 5.7″  display, MT6762 Helio P22 chipset, 3000 mAh battery, 32 GB storage, 2 GB RAM, MIL-STD-810G compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-k31.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Velvet 5G UW",
+      "title": "LG Velvet 5G UW Android smartphone. Announced Aug 2020. Features 6.8″  display, Snapdragon 765G 5G chipset, 4300 mAh battery, 128 GB storage, 6 GB RAM, MIL-STD-810G compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-velvet-5g-uw-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Q61",
+      "title": "LG Q61 Android smartphone. Announced May 2020. Features 6.53″  display, MT6765 Helio P35 chipset, 4000 mAh battery, 64 GB storage, 4 GB RAM, MIL-STD-810G compliant, Scratch-resistant glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-q61.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Stylo 6",
+      "title": "LG Stylo 6 Android smartphone. Announced May 2020. Features 6.8″  display, MT6765 Helio P35 chipset, 4000 mAh battery, 64 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-stylo6.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Velvet",
+      "title": "LG Velvet Android smartphone. Announced Jul 2020. Features 6.8″  display, Snapdragon 845 chipset, 4300 mAh battery, 128 GB storage, 6 GB RAM, MIL-STD-810G compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-velvet-4g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Velvet 5G",
+      "title": "LG Velvet 5G Android smartphone. Announced May 2020. Features 6.8″  display, Snapdragon 765G 5G chipset, 4300 mAh battery, 128 GB storage, 8 GB RAM, MIL-STD-810G compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-velvet-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Folder 2",
+      "title": "LG Folder 2 phone. Announced Apr 2020. Features 2.8″  display, 1470 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-folder2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "V60 ThinQ 5G UW",
+      "title": "LG V60 ThinQ 5G UW Android smartphone. Announced Feb 2020. Features 6.8″  display, Snapdragon 865 5G chipset, 5000 mAh battery, 128 GB storage, 8 GB RAM, MIL-STD-810G compliant, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-v60-thinq-5g-b.jpg",
+      "specs": ""
+    },
+    {
+      "name": "V60 ThinQ 5G",
+      "title": "LG V60 ThinQ 5G Android smartphone. Announced Feb 2020. Features 6.8″  display, Snapdragon 865 5G chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM, MIL-STD-810G compliant, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-v60-thinq-5g-b.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Q51",
+      "title": "LG Q51 Android smartphone. Announced Feb 2020. Features 6.5″  display, MT6762 Helio P22 chipset, 4000 mAh battery, 32 GB storage, 3 GB RAM, MIL-STD-810G compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-q51.jpg",
+      "specs": ""
+    },
+    {
+      "name": "W10 Alpha",
+      "title": "LG W10 Alpha Android smartphone. Announced Feb 2020. Features 5.71″  display, Unisoc SC9863A chipset, 3450 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-w10-alpha-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "K61",
+      "title": "LG K61 Android smartphone. Announced Feb 2020. Features 6.53″  display, MT6765 Helio P35 chipset, 4000 mAh battery, 128 GB storage, 4 GB RAM, MIL-STD-810G compliant, Scratch-resistant glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-k61-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "K51S",
+      "title": "LG K51S Android smartphone. Announced Feb 2020. Features 6.55″  display, MT6765 Helio P35 chipset, 4000 mAh battery, 64 GB storage, 3 GB RAM, MIL-STD-810G compliant, Scratch-resistant glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-k51s.jpg",
+      "specs": ""
+    },
+    {
+      "name": "K41S",
+      "title": "LG K41S Android smartphone. Announced Feb 2020. Features 6.55″  display, MT6762 Helio P22 chipset, 4000 mAh battery, 32 GB storage, 3 GB RAM, MIL-STD-810G compliant, Scratch-resistant glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-k41ss.jpg",
+      "specs": ""
+    },
+    {
+      "name": "G Pad 5 10.1",
+      "title": "LG G Pad 5 10.1 Android tablet. Announced Oct 2019. Features 10.1″  display, Snapdragon 821 chipset, 8200 mAh battery, 32 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-gpad-5-101-lmt600l.jpg",
+      "specs": ""
+    },
+    {
+      "name": "V50S ThinQ 5G",
+      "title": "LG V50S ThinQ 5G Android smartphone. Announced Oct 2019. Features 6.4″  display, Snapdragon 855 chipset, 4000 mAh battery, 256 GB storage, 8 GB RAM, MIL-STD-810G compliant, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-g8x-thinq.jpg",
+      "specs": ""
+    },
+    {
+      "name": "G8X ThinQ",
+      "title": "LG G8X ThinQ Android smartphone. Announced Sep 2019. Features 6.4″  display, Snapdragon 855 chipset, 4000 mAh battery, 128 GB storage, 6 GB RAM, MIL-STD-810G compliant, Corning Gorilla Glass 6.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-g8x-thinq.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Q70",
+      "title": "LG Q70 Android smartphone. Announced Sep 2019. Features 6.4″  display, Snapdragon 675 chipset, 4000 mAh battery, 64 GB storage, 4 GB RAM, MIL-STD-810G compliant, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-q70.jpg",
+      "specs": ""
+    },
+    {
+      "name": "K30 (2019)",
+      "title": "LG K30 (2019) Android smartphone. Announced Aug 2019. Features 5.45″  display, Snapdragon 425 chipset, 3000 mAh battery, 16 GB storage, 2 GB RAM, MIL-STD-810G compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-k30-2019.jpg",
+      "specs": ""
+    },
+    {
+      "name": "K20 (2019)",
+      "title": "LG K20 (2019) Android smartphone. Announced Aug 2019. Features 5.45″  display, MT6739 chipset, 3000 mAh battery, 16 GB storage, 1000 MB RAM, MIL-STD-810G compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-k20-2019.jpg",
+      "specs": ""
+    },
+    {
+      "name": "K40S",
+      "title": "LG K40S Android smartphone. Announced Aug 2019. Features 6.1″  display, MT6762 Helio P22 chipset, 3500 mAh battery, 32 GB storage, 3 GB RAM, MIL-STD-810G compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/kg-k40s-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "K50S",
+      "title": "LG K50S Android smartphone. Announced Aug 2019. Features 6.5″  display, MT6762 Helio P22 chipset, 4000 mAh battery, 32 GB storage, 3 GB RAM, MIL-STD-810G compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-k50s-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "W30 Pro",
+      "title": "LG W30 Pro Android smartphone. Announced Jun 2019. Features 6.22″  display, Snapdragon 632 chipset, 4050 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-w30-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "W30",
+      "title": "LG W30 Android smartphone. Announced Jun 2019. Features 6.26″  display, MT6762 Helio P22 chipset, 4000 mAh battery, 64 GB storage, 4 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-w30-lmx440im.jpg",
+      "specs": ""
+    },
+    {
+      "name": "W10",
+      "title": "LG W10 Android smartphone. Announced Jun 2019. Features 6.19″  display, MT6762 Helio P22 chipset, 4000 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-w10-lmx130im.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Stylo 5",
+      "title": "LG Stylo 5 Android smartphone. Announced Jun 2019. Features 6.2″  display, Snapdragon 450 chipset, 3500 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-stylo-5.jpg",
+      "specs": ""
+    },
+    {
+      "name": "V50 ThinQ 5G",
+      "title": "LG V50 ThinQ 5G Android smartphone. Announced Feb 2019. Features 6.4″  display, Snapdragon 855 chipset, 4000 mAh battery, 128 GB storage, 6 GB RAM, MIL-STD-810G compliant, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-gv50-thinq-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "G8S ThinQ",
+      "title": "LG G8S ThinQ Android smartphone. Announced Feb 2019. Features 6.21″  display, Snapdragon 855 chipset, 3550 mAh battery, 128 GB storage, 6 GB RAM, MIL-STD-810G compliant, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-g8s-thinq.jpg",
+      "specs": ""
+    },
+    {
+      "name": "G8 ThinQ",
+      "title": "LG G8 ThinQ Android smartphone. Announced Feb 2019. Features 6.1″  display, Snapdragon 855 chipset, 3500 mAh battery, 128 GB storage, 6 GB RAM, MIL-STD-810G compliant, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-g8-thinq-r1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Q60",
+      "title": "LG Q60 Android smartphone. Announced Feb 2019. Features 6.26″  display, MT6762 Helio P22 chipset, 3500 mAh battery, 64 GB storage, 3 GB RAM, MIL-STD-810G compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-q60-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "K50",
+      "title": "LG K50 Android smartphone. Announced Feb 2019. Features 6.26″  display, MT6762 Helio P22 chipset, 3500 mAh battery, 32 GB storage, 3 GB RAM, MIL-STD-810G compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-k50-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "K40",
+      "title": "LG K40 Android smartphone. Announced Feb 2019. Features 5.7″  display, MT6762 Helio P22 chipset, 3000 mAh battery, 32 GB storage, 3 GB RAM, MIL-STD-810G compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-k40-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Q9",
+      "title": "LG Q9 Android smartphone. Announced Jan 2019. Features 6.1″  display, Snapdragon 821 chipset, 3000 mAh battery, 64 GB storage, 4 GB RAM, MIL-STD-810G compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-q9-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Optimus LTE2",
+      "title": "LG Optimus LTE2 Android smartphone. Announced May 2012. Features 4.7″  display, Snapdragon S4 Plus chipset, 8 MP primary camera, 1.3 MP front camera, 2150 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-optimus-lte2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Optimus True HD LTE P936",
+      "title": "LG Optimus True HD LTE P936 Android smartphone. Announced Apr 2012. Features 4.5″  display, Snapdragon S3 chipset, 8 MP primary camera, 1.3 MP front camera, 1830 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-optimus-truehd-lte-p936-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Xpression C395",
+      "title": "LG Xpression C395 phone. Announced Apr 2012. Features 3.0″  display, 2 MP primary camera, 1000 mAh battery, 50 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-xpression-c395.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Lucid 4G VS840",
+      "title": "LG Lucid 4G VS840 Android smartphone. Announced Mar 2012. Features 4.0″  display, Snapdragon S3 chipset, 5 MP primary camera, 1700 mAh battery, 8 GB storage, 1000 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-lucid-4g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Optimus M+ MS695",
+      "title": "LG Optimus M+ MS695 Android smartphone. Announced Mar 2012. Features 3.5″  display, Snapdragon S1 chipset, 5 MP primary camera, 1300 mAh battery, 2 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-optimus-m-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Optimus 4X HD P880",
+      "title": "LG Optimus 4X HD P880 Android smartphone. Announced Feb 2012. Features 4.7″  display, Nvidia Tegra 3 chipset, 8 MP primary camera, 1.3 MP front camera, 2150 mAh battery, 16 GB storage, 1000 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-optimus-4g-hd-ofic.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Optimus 3D Max P720",
+      "title": "LG Optimus 3D Max P720 Android smartphone. Announced Feb 2012. Features 4.3″  display, TI OMAP 4430 chipset, Dual: 5 MP primary camera, 1520 mAh battery, 8 GB storage, 1000 MB RAM, Corning Gorilla Glass 2.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-optimus-3d-max.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Optimus 3D Cube SU870",
+      "title": "LG Optimus 3D Cube SU870 Android smartphone. Announced Feb 2012. Features 4.3″  display, Dual: 5 MP primary camera, 1520 mAh battery, 16 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-optimus-3d-2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Optimus L7 P700",
+      "title": "LG Optimus L7 P700 Android smartphone. Announced Feb 2012. Features 4.3″  display, Snapdragon S1 chipset, 5 MP primary camera, 1700 mAh battery, 4 GB storage, 512 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-optimus-l7-p700-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Optimus L5 E610",
+      "title": "LG Optimus L5 E610 Android smartphone. Announced Feb 2012. Features 4.0″  display, Snapdragon S1 chipset, 5 MP primary camera, 1500 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-optimus-l5-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Optimus Vu F100S",
+      "title": "LG Optimus Vu F100S Android smartphone. Announced Feb 2012. Features 5.0″  display, Snapdragon S3 chipset, 8 MP primary camera, 1.3 MP front camera, 2080 mAh battery, 32 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-optimus-vu.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Optimus LTE Tag",
+      "title": "LG Optimus LTE Tag Android smartphone. Announced Feb 2012. Features 4.3″  display, 5 MP primary camera, 1.3 MP front camera, 1700 mAh battery, 16 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-optimus-lte-tag.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Optimus L3 E400",
+      "title": "LG Optimus L3 E400 Android smartphone. Announced Jan 2012. Features 3.2″  display, 3.15 MP primary camera, 1500 mAh battery, 1000 MB storage, 384 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/LG-E400-Optimus-L3.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Optimus Pad LTE",
+      "title": "LG Optimus Pad LTE Android tablet. Announced Jan 2012. Features 8.9″  display, Qualcomm chipset, 8 MP primary camera, 2 MP front camera, 6800 mAh battery, 32 GB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-optimus-pad-lte.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Rumor Reflex  LN272",
+      "title": "LG Rumor Reflex  LN272 phone. Announced Mar 2012. Features 3.0″  display, 2 MP primary camera, 1000 mAh battery, 480 MB storage, 256 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-rumor-reflex.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Connect 4G MS840",
+      "title": "LG Connect 4G MS840 Android smartphone. Announced Jan 2012. Features 4.0″  display, Snapdragon S3 chipset, 5 MP primary camera, 1540 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-connect-4g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Viper 4G LTE LS840",
+      "title": "LG Viper 4G LTE LS840 Android smartphone. Announced Jan 2012. Features 4.0″  display, 5 MP primary camera, 1700 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-viper-4g-lte.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Spectrum VS920",
+      "title": "LG Spectrum VS920 Android smartphone. Announced Jan 2012. Features 4.5″  display, Snapdragon S3 chipset, 8 MP primary camera, 1.3 MP front camera, 1830 mAh battery, 4 GB storage, 1000 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-spectrum-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X350",
+      "title": "LG X350 phone. Announced Q4 2011. Features 2.3″  display, 2 MP primary camera, 1500 mAh battery, 43 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-x350.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Prada 3.0",
+      "title": "LG Prada 3.0 Android smartphone. Announced Dec 2011. Features 4.3″  display, TI OMAP 4430 chipset, 8 MP primary camera, 1.3 MP front camera, 1540 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-prada-3.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Nitro HD",
+      "title": "LG Nitro HD Android smartphone. Announced Nov 2011. Features 4.5″  display, 8 MP primary camera, 1830 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-nitro-hd-ofic.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Optimus 4G LTE P935",
+      "title": "LG Optimus 4G LTE P935 Android smartphone. Announced Nov 2011. Features 4.5″  display, Snapdragon S3 chipset, 8 MP primary camera, 1.3 MP front camera, 1830 mAh battery, 2 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-optimus-4g-lte.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Optimus 2 AS680",
+      "title": "LG Optimus 2 AS680 Android smartphone. Announced Q4 2011. Features 3.2″  display, 3.15 MP primary camera, 1500 mAh battery, 179 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-optimus-2-as680.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Extravert VN271",
+      "title": "LG Extravert VN271 phone. Announced Nov 2011. Features 2.8″  display, 2 MP primary camera, 1000 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-extravert.jpg",
+      "specs": ""
+    },
+    {
+      "name": "DoublePlay",
+      "title": "LG DoublePlay Android smartphone. Announced Oct 2011. Features 3.5″  display, Snapdragon chipset, 5 MP primary camera, 1500 mAh battery, 2 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-doubleplay.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Enlighten VS700",
+      "title": "LG Enlighten VS700 Android smartphone. Announced Sep 2011. Features 3.2″  display, MSM7627T chipset, 3.15 MP primary camera, 1540 mAh battery, 150 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-enlighten.jpg",
+      "specs": ""
+    },
+    {
+      "name": "S367",
+      "title": "LG S367 phone. Announced Oct 2011. Features 2.4″  display, 2 MP primary camera, 900 mAh battery, 15 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-s367.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Jil Sander Mobile",
+      "title": "LG Jil Sander Mobile Windows Mobile smartphone. Announced Oct 2011. Features 3.8″  display, Snapdragon S1 chipset, 5 MP primary camera, 1500 mAh battery, 16 GB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-jil-sander-mobile-lg-e906-16gb.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Optimus Slider",
+      "title": "LG Optimus Slider Android smartphone. Announced Oct 2011. Features 3.2″  display, 3.2 MP primary camera, 1500 mAh battery, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-optimus-slider-ls700.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Optimus LTE SU640",
+      "title": "LG Optimus LTE SU640 Android smartphone. Announced Oct 2011. Features 4.5″  display, Snapdragon S3 chipset, 8 MP primary camera, 1.3 MP front camera, 1830 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-optimus-lte-su640.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Optimus LTE LU6200",
+      "title": "LG Optimus LTE LU6200 Android smartphone. Announced Oct 2011. Features 4.5″  display, Snapdragon S3 chipset, 8 MP primary camera, 1.3 MP front camera, 1830 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-optimus-lte.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Optimus EX SU880",
+      "title": "LG Optimus EX SU880 Android smartphone. Announced Sep 2011. Features 4.0″  display, Nvidia Tegra 2 AP20H chipset, 5 MP primary camera, 1500 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-optimus-ex.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Optimus Q2 LU6500",
+      "title": "LG Optimus Q2 LU6500 Android smartphone. Announced Sep 2011. Features 4.0″  display, Nvidia Tegra 2 AP20H chipset, 5 MP primary camera, 1500 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-optimus-lu2300-q2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Optimus Hub E510",
+      "title": "LG Optimus Hub E510 Android smartphone. Announced Sep 2011. Features 3.5″  display, Snapdragon S1 chipset, 5 MP primary camera, 1500 mAh battery, 150 MB storage, 512 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-optimus-hub.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Optimus Sol E730",
+      "title": "LG Optimus Sol E730 Android smartphone. Announced Aug 2011. Features 3.8″  display, Snapdragon S2 chipset, 5 MP primary camera, 1500 mAh battery, 1000 MB storage, 512 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-optimus-sol.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Optimus Net Dual",
+      "title": "LG Optimus Net Dual Android smartphone. Announced Q3 2011. Features 3.2″  display, Snapdragon S1 chipset, 3.15 MP primary camera, 1500 mAh battery, 150 MB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-optimus-net-dual.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Optimus Net",
+      "title": "LG Optimus Net Android smartphone. Announced Jul 2011. Features 3.2″  display, Snapdragon S1 chipset, 3.15 MP primary camera, 1500 mAh battery, 150 MB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-optimus-net.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Esteem MS910",
+      "title": "LG Esteem MS910 Android smartphone. Announced Sep 2011. Features 4.3″  display, Snapdragon S2 chipset, 5 MP primary camera, 1.3 MP front camera, 1500 mAh battery, 8 GB storage, 512 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/LG-Esteem-MS910.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Marquee LS855",
+      "title": "LG Marquee LS855 Android smartphone. Announced Sep 2011. Features 4.0″  display, 5 MP primary camera, 2 MP front camera, 1500 mAh battery, 4 GB storage, 512 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-larquee-ls855.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Optimus Black (White version)",
+      "title": "LG Optimus Black (White version) Android smartphone. Announced Jul 2011. Features 4.0″  display, TI OMAP 3630 chipset, 5 MP primary camera, 2 MP front camera, 1500 mAh battery, 2 GB storage, 512 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-optimus-white.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Optimus Pro C660",
+      "title": "LG Optimus Pro C660 Android smartphone. Announced Jul 2011. Features 2.8″  display, Snapdragon S1 chipset, 3.15 MP primary camera, 1500 mAh battery, 150 MB storage, 256 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-optimus-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "S365",
+      "title": "LG S365 phone. Announced Aug 2011. Features 2.4″  display, 2 MP primary camera, 900 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-s365.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A350",
+      "title": "LG A350 phone. Announced Jul 2011. Features 2.2″  display, 1.3 MP primary camera, 950 mAh battery, 59 MB storage, 128 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-a350.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A258",
+      "title": "LG A258 phone. Announced  2011. Features 2.2″  display, 2 MP primary camera, 900 mAh battery, 10 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-a258.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A250",
+      "title": "LG A250 phone. Announced Jul 2011. Features 2.2″  display, 1.3 MP primary camera, 900 mAh battery, 10 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-a250.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A270",
+      "title": "LG A270 phone. Announced  2011. Features 1.45″  display, 950 mAh battery, 4 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-a270.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A290",
+      "title": "LG A290 phone. Announced Feb 2012. Features 2.2″  display, 1.3 MP primary camera, 1500 mAh battery, 19 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-a290-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A230",
+      "title": "LG A230 phone. Announced Jul 2011. Features 1.77″  display, 1.3 MP primary camera, 950 mAh battery, 25 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-a230.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A190",
+      "title": "LG A190 phone. Announced Aug 2011. Features 1.52″  display, 950 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-a190.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A200",
+      "title": "LG A200 phone. Announced Apr 2011. Features 2.2″  display, 2 MP primary camera, 900 mAh battery, 25 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-a200.jpg",
+      "specs": ""
+    },
+    {
+      "name": "V40 ThinQ",
+      "title": "LG V40 ThinQ Android smartphone. Announced Oct 2018. Features 6.4″  display, Snapdragon 845 chipset, 3300 mAh battery, 128 GB storage, 6 GB RAM, MIL-STD-810G compliant, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-v40-carmine-red.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Watch W7",
+      "title": "LG Watch W7 Android watch. Announced Oct 2018. Features 1.2″  display, Snapdragon Wear 2100 chipset, 240 mAh battery, 4 GB storage, 768 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-watch-w7-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Tribute Empire",
+      "title": "LG Tribute Empire Android smartphone. Announced Jan 2019. Features 5.0″  display, MT6750 chipset, 2500 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-tribute-empire.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Candy",
+      "title": "LG Candy Android smartphone. Announced Aug 2018. Features 5.0″  display, 8 MP primary camera, 5 MP front camera, 2500 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-zone4.jpg",
+      "specs": ""
+    },
+    {
+      "name": "G7 Fit",
+      "title": "LG G7 Fit Android smartphone. Announced Aug 2018. Features 6.1″  display, Snapdragon 821 chipset, 3000 mAh battery, 64 GB storage, 4 GB RAM, MIL-STD-810G compliant, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-g7-fit.jpg",
+      "specs": ""
+    },
+    {
+      "name": "G7 One",
+      "title": "LG G7 One Android smartphone. Announced Aug 2018. Features 6.1″  display, Snapdragon 835 chipset, 16 MP primary camera, 8 MP front camera, 3000 mAh battery, 64 GB storage, 4 GB RAM, MIL-STD-810G compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-g7-one.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Q8 (2018)",
+      "title": "LG Q8 (2018) Android smartphone. Announced Aug 2018. Features 6.2″  display, Snapdragon 450 chipset, Dual: 16 MP primary camera, 5 MP front camera, 3300 mAh battery, 64 GB storage, 4 GB RAM, MIL-STD-810G compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-q8-2018-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "K11 Plus",
+      "title": "LG K11 Plus Android smartphone. Announced Jul 2018. Features 5.3″  display, MT6750 chipset, 13 MP primary camera, 5 MP front camera, 3000 mAh battery, 32 GB storage, 3 GB RAM, MIL-STD-810G compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-k11-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Q Stylo 4",
+      "title": "LG Q Stylo 4 Android smartphone. Announced Jun 2018. Features 6.2″  display, Snapdragon 450 chipset, 13 MP primary camera, 5 MP front camera, 3300 mAh battery, 32 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-stylo-4-q710ms.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Q Stylus",
+      "title": "LG Q Stylus Android smartphone. Announced Jun 2018. Features 6.2″  display, MT6750 chipset, 13 MP, PDAF (Q Stylus α) or 16 MP primary camera, 8 MP or 5 MP front camera, 3300 mAh battery, 64 GB storage, 4 GB RAM, MIL-STD-810G compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-q-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "V35 ThinQ",
+      "title": "LG V35 ThinQ Android smartphone. Announced May 2018. Features 6.0″  display, Snapdragon 845 chipset, Dual: 16 MP (f/1.6, 1/3.1″, 1.0µm, OIS) + 16 MP primary camera, 3300 mAh battery, 128 GB storage, 6 GB RAM, MIL-STD-810G compliant, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-v35-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Q7",
+      "title": "LG Q7 Android smartphone. Announced May 2018. Features 5.5″  display, MT6750S chipset, 13 MP primary camera, 5 MP front camera, 3000 mAh battery, 64 GB storage, 4 GB RAM, MIL-STD-810G compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-q7-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "G7 ThinQ",
+      "title": "LG G7 ThinQ Android smartphone. Announced May 2018. Features 6.1″  display, Snapdragon 845 chipset, Dual: 16 MP (f/1.6, 1/3.1″, 1.0µm, OIS) + 16 MP primary camera, 8 MP front camera, 3000 mAh battery, 128 GB storage, 6 GB RAM, MIL-STD-810G compliant, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-g7-thinq-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "V30S ThinQ",
+      "title": "LG V30S ThinQ Android smartphone. Announced Feb 2018. Features 6.0″  display, Snapdragon 835 chipset, Dual: 16 MP (f/1.6, 1µm, 3-axis OIS, PDAF & laser AF) + 13 MP primary camera, 5 MP front camera, 3300 mAh battery, 256 GB storage, 6 GB RAM, MIL-STD-810G compliant, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-v30s-thinq.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Zone 4",
+      "title": "LG Zone 4 Android smartphone. Announced Mar 2018. Features 5.0″  display, Snapdragon 425 chipset, 8 MP primary camera, 5 MP front camera, 2500 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-zone4.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X power 3",
+      "title": "LG X power 3 Android smartphone. Announced Jul 2018. Features 5.5″  display, Snapdragon 425 chipset, 4500 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-x-power3.jpg",
+      "specs": ""
+    },
+    {
+      "name": "K30",
+      "title": "LG K30 Android smartphone. Announced May 2018. Features 5.3″  display, Snapdragon 425 chipset, 13 MP primary camera, 5 MP front camera, 2880 mAh battery, 32 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-k30-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "K10 (2018)",
+      "title": "LG K10 (2018) Android smartphone. Announced Feb 2018. Features 5.3″  display, MT6750 chipset, 13 MP or 8 MP primary camera, 8 MP or 5 MP front camera, 3000 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-k10-2018-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "K8 (2018)",
+      "title": "LG K8 (2018) Android smartphone. Announced Feb 2018. Features 5.0″  display, Snapdragon 210 chipset, 8 MP primary camera, 5 MP front camera, 2500 mAh battery, 32 GB storage, 2 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-k8-2018-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Aristo 2",
+      "title": "LG Aristo 2 Android smartphone. Announced Jan 2018. Features 5.0″  display, Snapdragon 425 chipset, 13 MP primary camera, 5 MP front camera, 2410 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-aristo2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X4+",
+      "title": "LG X4+ Android smartphone. Announced Jan 2018. Features 5.3″  display, Snapdragon 425 chipset, 13 MP primary camera, 5 MP front camera, 3000 mAh battery, 32 GB storage, 2 GB RAM, MIL-STD-810G compliant.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-k10-2017.jpg",
+      "specs": ""
+    },
+    {
+      "name": "V30",
+      "title": "LG V30 Android smartphone. Announced Aug 2017. Features 6.0″  display, Snapdragon 835 chipset, Dual: 16 MP (f/1.6, 1µm, 3-axis OIS, PDAF & laser AF) + 13 MP primary camera, 5 MP front camera, 3300 mAh battery, 128 GB storage, 4 GB RAM, MIL-STD-810G compliant, Corning Gorilla Glass 5.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-v30-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Q8 (2017)",
+      "title": "LG Q8 (2017) Android smartphone. Announced Jul 2017. Features 5.2″  display, Snapdragon 820 chipset, Dual: 16 MP (f/1.8, 28mm, 1/2.6″, laser AF, 3-axis OIS) + 8 MP primary camera, 5 MP front camera, 3000 mAh battery, 32 GB storage, 4 GB RAM, Corning Gorilla Glass 4.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-q8-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Q6",
+      "title": "LG Q6 Android smartphone. Announced Jul 2017. Features 5.5″  display, Snapdragon 435 chipset, 13 MP primary camera, 5 MP front camera, 3000 mAh battery, 64 GB storage, 4 GB RAM, MIL-STD-810G compliant, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-q6.jpg",
+      "specs": ""
+    },
+    {
+      "name": "G Pad IV 8.0 FHD",
+      "title": "LG G Pad IV 8.0 FHD Android tablet. Announced Jul 2017. Features 8.0″  display, Snapdragon 435 chipset, 5 MP primary camera, 5 MP front camera, 3000 mAh battery, 32 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-g-pad-iv-8.0-fhd.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X venture",
+      "title": "LG X venture Android smartphone. Announced May 2017. Features 5.2″  display, Snapdragon 435 chipset, 16 MP primary camera, 5 MP front camera, 4100 mAh battery, 32 GB storage, 2 GB RAM, MIL-STD-810G compliant, Corning Gorilla Glass 4.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-x-venture-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "G6",
+      "title": "LG G6 Android smartphone. Announced Feb 2017. Features 5.7″  display, Snapdragon 821 chipset, Dual: 13 MP (f/1.8, 30mm, 1/3″, 1.12µm, 3-axis OIS, PDAF) + 13 MP primary camera, 5 MP front camera, 3300 mAh battery, 128 GB storage, 4 GB RAM, MIL-STD-810G compliant, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-g6-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X power2",
+      "title": "LG X power2 Android smartphone. Announced Feb 2017. Features 5.5″  display, MT6750 chipset, 13 MP primary camera, 5 MP front camera, 4500 mAh battery, 32 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-x-power2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Watch Sport",
+      "title": "LG Watch Sport Android watch. Announced Feb 2017. Features 1.38″  display, Snapdragon Wear 2100 chipset, 430 mAh battery, 4 GB storage, 768 MB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-watch-sport-r1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Watch Style",
+      "title": "LG Watch Style Android watch. Announced Feb 2017. Features 1.2″  display, Snapdragon Wear 2100 chipset, 240 mAh battery, 4 GB storage, 512 MB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-watch-style.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Stylo 3 Plus",
+      "title": "LG Stylo 3 Plus Android smartphone. Announced May 2017. Features 5.7″  display, Snapdragon 435 chipset, 13 MP primary camera, 5 MP front camera, 3080 mAh battery, 32 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-stylo-3-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Stylus 3",
+      "title": "LG Stylus 3 Android smartphone. Announced Dec 2016. Features 5.7″  display, MT6750 chipset, 13 MP primary camera, 5 MP (Stylus 3) / 8 MP front camera, 3200 mAh battery, 32 GB storage, 3 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-stylus-3-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Harmony",
+      "title": "LG Harmony Android smartphone. Announced Apr 2017. Features 5.3″  display, Snapdragon 425 chipset, 8 MP primary camera, 5 MP front camera, 2800 mAh battery, 16 GB storage, 1.5 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-harmony.jpg",
+      "specs": ""
+    },
+    {
+      "name": "K20 plus",
+      "title": "LG K20 plus Android smartphone. Announced Dec 2016. Features 5.3″  display, Snapdragon 425 chipset, 13 MP primary camera, 5 MP front camera, 2700 mAh battery, 32 GB storage, 2 GB RAM, Corning Gorilla Glass 3 (T-Mobile).",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-k20-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "K10 (2017)",
+      "title": "LG K10 (2017) Android smartphone. Announced Dec 2016. Features 5.3″  display, MT6750 chipset, 13 MP primary camera, 5 MP front camera, 2800 mAh battery, 32 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-k10-2017.jpg",
+      "specs": ""
+    },
+    {
+      "name": "K8 (2017)",
+      "title": "LG K8 (2017) Android smartphone. Announced Dec 2016. Features 5.0″  display, Snapdragon 425 chipset, 13 MP primary camera, 5 MP front camera, 2500 mAh battery, 16 GB storage, 1.5 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-k8-2017.jpg",
+      "specs": ""
+    },
+    {
+      "name": "K7 (2017)",
+      "title": "LG K7 (2017) Android smartphone. Announced Apr 2017. Features 5.0″  display, MT6737M chipset, 8 MP primary camera, 5 MP front camera, 2500 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-k7-2017.jpg",
+      "specs": ""
+    },
+    {
+      "name": "K4 (2017)",
+      "title": "LG K4 (2017) Android smartphone. Announced Dec 2016. Features 5.0″  display, Snapdragon 210 chipset, 5 MP primary camera, 5 MP front camera, 2500 mAh battery, 16 GB storage, 1000 MB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-k4-2017.jpg",
+      "specs": ""
+    },
+    {
+      "name": "K3 (2017)",
+      "title": "LG K3 (2017) Android smartphone. Announced Dec 2016. Features 4.5″  display, Snapdragon 210 chipset, 5 MP primary camera, 2 MP front camera, 2100 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-k3-2017.jpg",
+      "specs": ""
+    },
+    {
+      "name": "G Pad III 10.1 FHD",
+      "title": "LG G Pad III 10.1 FHD Android tablet. Announced Dec 2016. Features 10.1″  display, Snapdragon 617 chipset, 5 MP primary camera, 5 MP front camera, 6000 mAh battery, 32 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-g-pad-iii-8.0-fhd.jpg",
+      "specs": ""
+    },
+    {
+      "name": "U",
+      "title": "LG U Android smartphone. Announced Oct 2016. Features 5.2″  display, 13 MP primary camera, 8 MP front camera, 3000 mAh battery, 32 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-u.jpg",
+      "specs": ""
+    },
+    {
+      "name": "V20",
+      "title": "LG V20 Android smartphone. Announced Sep 2016. Features 5.7″  display, Snapdragon 820 chipset, Dual: 16 MP (f/1.8, 29mm, 1/2.6″, laser AF, 3-axis OIS) + 8 MP primary camera, 5 MP front camera, 3200 mAh battery, 64 GB storage, 4 GB RAM, MIL-STD-810G compliant, Corning Gorilla Glass 4.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-v20-ofic1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X Skin",
+      "title": "LG X Skin Android smartphone. Announced Jul 2016. Features 5.0″  display, 8 MP primary camera, 5 MP front camera, 2100 mAh battery, 16 GB storage, 1.5 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-x-skin.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X5",
+      "title": "LG X5 Android smartphone. Announced Jul 2016. Features 5.5″  display, 13 MP primary camera, 5 MP front camera, 2800 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-x5.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X max",
+      "title": "LG X max Android smartphone. Announced Jun 2016. Features 5.5″  display, MT6735 chipset, 13 MP primary camera, 5 MP front camera, 2800 mAh battery, 16 GB storage, 1.5 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-x-max.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X mach",
+      "title": "LG X mach Android smartphone. Announced Jun 2016. Features 5.5″  display, Snapdragon 808 chipset, 12.3 MP primary camera, 8 MP front camera, 3000 mAh battery, 32 GB storage, 3 GB RAM, Corning Gorilla Glass (unspecified version).",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-x-mach.jpg",
+      "specs": ""
+    },
+    {
+      "name": "G Pad III 8.0 FHD",
+      "title": "LG G Pad III 8.0 FHD Android tablet. Announced May 2016. Features 8.0″  display, Snapdragon 617 chipset, 5 MP primary camera, 5 MP front camera, 4800 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-g-pad-iii-8.0-fhd.jpg",
+      "specs": ""
+    },
+    {
+      "name": "G Pad X 8.0",
+      "title": "LG G Pad X 8.0 Android tablet. Announced Jun 2016. Features 8.0″  display, Snapdragon 615 chipset, 5 MP primary camera, 5 MP front camera, 4800 mAh battery, 32 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-g-pad-x-80.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X power",
+      "title": "LG X power Android smartphone. Announced May 2016. Features 5.3″  display, MT6735 chipset, 13 MP primary camera, 5 MP front camera, 4100 mAh battery, 16 GB storage, 2 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-x-power.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X style",
+      "title": "LG X style Android smartphone. Announced May 2016. Features 5.0″  display, Snapdragon 210 chipset, 8 MP primary camera, 5 MP front camera, 2100 mAh battery, 16 GB storage, 1.5 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-x-style.jpg",
+      "specs": ""
+    },
+    {
+      "name": "W7020",
+      "title": "LG W7020 phone. Announced Q4 2002. Features STN, 65K colors display, 820 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lgw7020.gif",
+      "specs": ""
+    },
+    {
+      "name": "G7000",
+      "title": "LG G7000 phone. Announced Q4 2002. Features STN, 65K colors display, 820 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lgg7000.gif",
+      "specs": ""
+    },
+    {
+      "name": "W7000",
+      "title": "LG W7000 phone. Announced Q4 2002. Features STN, 256 colors display, 820 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lgw7000.gif",
+      "specs": ""
+    },
+    {
+      "name": "G5200",
+      "title": "LG G5200 phone. Announced Q3 2002. Features Grayscale graphic, 4 shades display, 780 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lgg5200.gif",
+      "specs": ""
+    },
+    {
+      "name": "W5200",
+      "title": "LG W5200 phone. Announced Q3 2002. Features Grayscale graphic, 4 shades display, 780 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lgw5200.gif",
+      "specs": ""
+    },
+    {
+      "name": "G3000",
+      "title": "LG G3000 phone. Announced Q1 2003. Features Grayscale graphic, 4 shades display, 850 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lgg3000.gif",
+      "specs": ""
+    },
+    {
+      "name": "W3000",
+      "title": "LG W3000 phone. Announced Q3 2002. Features Grayscale graphic, 4 shades display, 850 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lgw3000.gif",
+      "specs": ""
+    },
+    {
+      "name": "B1200",
+      "title": "LG B1200 phone. Announced Jun 2002. Features Monochrome graphic display, 650 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lgb1200.gif",
+      "specs": ""
+    },
+    {
+      "name": "LG 510w",
+      "title": "LG LG 510w phone. Announced  2002. Features Monochrome graphic display, 630 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lgw510.gif",
+      "specs": ""
+    },
+    {
+      "name": "LG-600",
+      "title": "LG LG-600 phone. Announced  2002. Features Monochrome graphic display, 600 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg600.gif",
+      "specs": ""
+    },
+    {
+      "name": "LG-500",
+      "title": "LG LG-500 phone. Announced  2002. Features Monochrome graphic display, 600 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg500.gif",
+      "specs": ""
+    },
+    {
+      "name": "LG-200",
+      "title": "LG LG-200 phone. Features Monochrome graphic display, 600 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg200.gif",
+      "specs": ""
+    },
+    {
+      "name": "G4 Pro",
+      "title": "LG G4 Pro Android smartphone. Not announced yet. Features 5.8″  display, Snapdragon 820 chipset, 27 MP primary camera, 8 MP front camera, 3600 mAh battery, 64 GB storage, 4 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/smartphone.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Optimus LTE",
+      "title": "LG Optimus LTE Android smartphone. Not officially announced yet. Features 4.5″  display, 8 MP primary camera, 1.3 MP front camera, 1700 mAh battery, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/LG-Optimus-LTE-P936.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X3",
+      "title": "LG X3 Android smartphone. Not officially announced yet. Features 4.7″  display, 8 MP primary camera, 1.3 MP front camera, 2000 mAh battery, 16 GB storage, 1000 MB RAM, Yes.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-x3-rum.jpg",
+      "specs": ""
+    },
+    {
+      "name": "E2",
+      "title": "LG E2 Android smartphone. Not officially announced yet. Features TFT, 256K colors display, 3.15 MP primary camera, 1500 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-e2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Fantasy E740",
+      "title": "LG Fantasy E740 Windows Mobile smartphone. Not officially announced yet. Features 4.0″  display, 1540 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-fantasy.jpg",
+      "specs": ""
+    },
+    {
+      "name": "KG800",
+      "title": "LG KG800 phone. Announced Mar 2006. Features 2.0″  display, 1.3 MP primary camera, 800 mAh battery, 128 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-kg800.gif",
+      "specs": ""
+    },
+    {
+      "name": "KG810",
+      "title": "LG KG810 phone. Announced May 2006. Features 2.0″  display, 1.3 MP primary camera, 700 mAh battery, 128 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-kg810.gif",
+      "specs": ""
+    },
+    {
+      "name": "KE600",
+      "title": "LG KE600 phone. Announced Mar 2006. Features 2.0″  display, 2 MP primary camera, 1000 mAh battery, 70 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-ke600.gif",
+      "specs": ""
+    },
+    {
+      "name": "KG330",
+      "title": "LG KG330 phone. Announced Oct 2006. Features 2.0″  display, 1.3 MP primary camera, 1000 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-kg330.gif",
+      "specs": ""
+    },
+    {
+      "name": "KG320",
+      "title": "LG KG320 phone. Announced Mar 2006. Features 1.8″  display, 1.3 MP primary camera, 1000 mAh battery, 128 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-kg320.gif",
+      "specs": ""
+    },
+    {
+      "name": "CG180",
+      "title": "LG CG180 phone. Announced Oct 2007. Features 1.5″  display, 750 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-cg180.jpg",
+      "specs": ""
+    },
+    {
+      "name": "KG300",
+      "title": "LG KG300 phone. Announced Nov 2006. Features 2.0″  display, 2 MP primary camera, 800 mAh battery, 60 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-kg300.gif",
+      "specs": ""
+    },
+    {
+      "name": "KG270",
+      "title": "LG KG270 phone. Announced Jun 2007. Features TFT, 65K colors display, 750 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-kg270.gif",
+      "specs": ""
+    },
+    {
+      "name": "KG200",
+      "title": "LG KG200 phone. Announced Nov 2006. Features 1.8″  display, 1.3 MP primary camera, 800 mAh battery, 60 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-kg200.gif",
+      "specs": ""
+    },
+    {
+      "name": "KG195",
+      "title": "LG KG195 phone. Announced Q3 2007. Features 1.8″  display, 830 mAh battery, 64 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-kg195.gif",
+      "specs": ""
+    },
+    {
+      "name": "KG920",
+      "title": "LG KG920 phone. Announced Feb 2006. Features 2.0″  display, 5 MP primary camera, 820 mAh battery, 8 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-kg920.gif",
+      "specs": ""
+    },
+    {
+      "name": "KU730",
+      "title": "LG KU730 phone. Announced Feb 2006. Features 2.0″  display, 1.3 MP primary camera, 1050 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-ku730.gif",
+      "specs": ""
+    },
+    {
+      "name": "U900",
+      "title": "LG U900 phone. Announced Apr 2006. Features 2.2″  display, 1.3 MP primary camera, 950 mAh battery, 58 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-u900.gif",
+      "specs": ""
+    },
+    {
+      "name": "V9000",
+      "title": "LG V9000 phone. Announced Feb 2006. Features 2.2″  display, 1.3 MP primary camera, 1400 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-v9000.gif",
+      "specs": ""
+    },
+    {
+      "name": "KG245",
+      "title": "LG KG245 phone. Announced Apr 2006. Features TFT, 256K colors display, 830 mAh battery, 8 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-kg245.gif",
+      "specs": ""
+    },
+    {
+      "name": "KG240",
+      "title": "LG KG240 phone. Announced Jun 2006. Features TFT, 256K colors display, 830 mAh battery, 4 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-kg240.gif",
+      "specs": ""
+    },
+    {
+      "name": "KG225",
+      "title": "LG KG225 phone. Announced Apr 2006. Features CSTN, 65K colors display, 1100 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-kg225.gif",
+      "specs": ""
+    },
+    {
+      "name": "KG220",
+      "title": "LG KG220 phone. Announced Apr 2006. Features CSTN, 65K colors display, 830 mAh battery, 2 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-kg220.gif",
+      "specs": ""
+    },
+    {
+      "name": "KG210",
+      "title": "LG KG210 phone. Announced Apr 2006. Features CSTN, 65K colors display, 830 mAh battery, 2 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-kg210.gif",
+      "specs": ""
+    },
+    {
+      "name": "KG190",
+      "title": "LG KG190 phone. Announced May 2006. Features 1.3″  display, 720 mAh battery, 128 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-kg190.gif",
+      "specs": ""
+    },
+    {
+      "name": "KG130",
+      "title": "LG KG130 phone. Announced Apr 2007. Features 1.5″  display, 800 mAh battery, 2 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-kg130.gif",
+      "specs": ""
+    },
+    {
+      "name": "KG120",
+      "title": "LG KG120 phone. Announced Oct 2006. Features CSTN, 65K colors display, 830 mAh battery, 1 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-kg120.gif",
+      "specs": ""
+    },
+    {
+      "name": "KG110",
+      "title": "LG KG110 phone. Announced Sep 2006. Features 1.5″  display, 800 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-kg110.gif",
+      "specs": ""
+    },
+    {
+      "name": "C2600",
+      "title": "LG C2600 phone. Announced Dec 2006. Features 1.6″  display, 800 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-c2600.gif",
+      "specs": ""
+    },
+    {
+      "name": "U890",
+      "title": "LG U890 phone. Announced Feb 2006. Features 2.2″  display, 1.3 MP primary camera, 1440 mAh battery, 68 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-u890.gif",
+      "specs": ""
+    },
+    {
+      "name": "U8550",
+      "title": "LG U8550 phone. Announced Feb 2006. Features 2.2″  display, 1.3 MP primary camera, 1440 mAh battery, 20 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-u8550.gif",
+      "specs": ""
+    },
+    {
+      "name": "M6100",
+      "title": "LG M6100 phone. Announced Jan 2006. Features 1.3″  display, 1.3 MP primary camera, 800 mAh battery, 128 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-m6100.gif",
+      "specs": ""
+    },
+    {
+      "name": "C2500",
+      "title": "LG C2500 phone. Announced Dec 2005. Features 1.5″  display, 720 mAh battery, 60 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-c2500.gif",
+      "specs": ""
+    },
+    {
+      "name": "C1150",
+      "title": "LG C1150 phone. Announced Nov 2005. Features CSTN, 65K colors display, 720 mAh battery, 1 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-c1150.gif",
+      "specs": ""
+    },
+    {
+      "name": "S5300",
+      "title": "LG S5300 phone. Announced Feb 2006. Features 1.8″  display, 1.3 MP primary camera, 1440 mAh battery, 64 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-s5300.gif",
+      "specs": ""
+    },
+    {
+      "name": "S5200",
+      "title": "LG S5200 phone. Announced Oct 2005. Features 1.8″  display, 1.3 MP primary camera, 800 mAh battery, 64 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-s5200.gif",
+      "specs": ""
+    },
+    {
+      "name": "S5100",
+      "title": "LG S5100 phone. Announced Oct 2005. Features TFT, 256K colors display, 1.3 MP primary camera, 1000 mAh battery, 64 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-s5100.gif",
+      "specs": ""
+    },
+    {
+      "name": "S5000",
+      "title": "LG S5000 phone. Announced Oct 2005. Features OLED, 256K colors display, 1.3 MP primary camera, 930 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-s5000.gif",
+      "specs": ""
+    },
+    {
+      "name": "U880",
+      "title": "LG U880 phone. Announced Oct 2005. Features 2.0″  display, 1.3 MP primary camera, 1050 mAh battery, 75 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-u880.gif",
+      "specs": ""
+    },
+    {
+      "name": "P7200",
+      "title": "LG P7200 phone. Announced Aug 2005. Features TFT, 256K colors display, 2 MP primary camera, 800 mAh battery, 64 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-p7200.gif",
+      "specs": ""
+    },
+    {
+      "name": "B2250",
+      "title": "LG B2250 phone. Announced Q3 2005. Features 1.8″  display, 780 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-b2250.gif",
+      "specs": ""
+    },
+    {
+      "name": "B2070",
+      "title": "LG B2070 phone. Announced Q3 2005. Features 1.6″  display, 930 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-b2070.gif",
+      "specs": ""
+    },
+    {
+      "name": "B2050",
+      "title": "LG B2050 phone. Announced Q3 2005. Features 1.5″  display, 780 mAh battery, 1 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-b2050.gif",
+      "specs": ""
+    },
+    {
+      "name": "M4410",
+      "title": "LG M4410 phone. Announced Q1 2005. Features TFT, 256K colors display, 1.3 MP primary camera, 1000 mAh battery, 8 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-m4410.gif",
+      "specs": ""
+    },
+    {
+      "name": "M4330",
+      "title": "LG M4330 phone. Announced Q2 2005. Features TFT, 256K colors display, 700 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-m4330.gif",
+      "specs": ""
+    },
+    {
+      "name": "M4300",
+      "title": "LG M4300 phone. Announced Q1 2005. Features TFT, 256K colors display, 1300 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-m4300.gif",
+      "specs": ""
+    },
+    {
+      "name": "F3000",
+      "title": "LG F3000 phone. Announced Q3 2005. Features TFT, 65K colors display, 1.3 MP primary camera, 1000 mAh battery, 31 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-f3000.gif",
+      "specs": ""
+    },
+    {
+      "name": "F2410",
+      "title": "LG F2410 phone. Announced Q2 2005. Features TFT, 65K colors display, 1000 mAh battery, 5 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-f2410.gif",
+      "specs": ""
+    },
+    {
+      "name": "F2250",
+      "title": "LG F2250 phone. Announced Q3 2005. Features CSTN, 65K colors display, 1050 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-f2250.gif",
+      "specs": ""
+    },
+    {
+      "name": "L342i",
+      "title": "LG L342i phone. Announced Q2 2005. Features STN, 65K colors display, 1000 mAh battery, 4 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-l342i.gif",
+      "specs": ""
+    },
+    {
+      "name": "L341i",
+      "title": "LG L341i phone. Announced Q2 2005. Features TFT, 65K colors display, 950 mAh battery, 6 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-l341i.gif",
+      "specs": ""
+    },
+    {
+      "name": "C3400",
+      "title": "LG C3400 phone. Announced Q1 2005. Features CSTN, 65K colors display, 1000 mAh battery, 16 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-c3400.gif",
+      "specs": ""
+    },
+    {
+      "name": "C3380",
+      "title": "LG C3380 phone. Announced Q1 2005. Features CSTN, 65K colors display, 930 mAh battery, 16 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-c3380.gif",
+      "specs": ""
+    },
+    {
+      "name": "C3320",
+      "title": "LG C3320 phone. Announced Q1 2005. Features STN, 65K colors display, 780 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-c3320.gif",
+      "specs": ""
+    },
+    {
+      "name": "C3310",
+      "title": "LG C3310 phone. Announced Q1 2005. Features STN, 65K colors display, 1000 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-c3310.gif",
+      "specs": ""
+    },
+    {
+      "name": "L60 Dual",
+      "title": "LG L60 Dual Android smartphone. Announced Aug 2014. Features 4.3″  display, 5 MP primary camera, 1700 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-l60-dual.jpg",
+      "specs": ""
+    },
+    {
+      "name": "G3 Stylus",
+      "title": "LG G3 Stylus Android smartphone. Announced Aug 2014. Features 5.5″  display, MT6582 chipset, 13 MP primary camera, 1.3 MP front camera, 3000 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-g3-stylus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "L Bello",
+      "title": "LG L Bello Android smartphone. Announced Aug 2014. Features 5.0″  display, MT6582 chipset, 8 MP primary camera, 1 MP front camera, 2540 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-l-bello.jpg",
+      "specs": ""
+    },
+    {
+      "name": "L Fino",
+      "title": "LG L Fino Android smartphone. Announced Aug 2014. Features 4.5″  display, Snapdragon 200 chipset, 8 MP primary camera, 1900 mAh battery, 4 GB storage, 1000 MB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-l-fino.jpg",
+      "specs": ""
+    },
+    {
+      "name": "G Pad 8.0 LTE",
+      "title": "LG G Pad 8.0 LTE Android tablet. Announced Aug 2014. Features 8.0″  display, Snapdragon 400 chipset, 5 MP primary camera, 1.3 MP front camera, 4200 mAh battery, 32 GB storage, 1000 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-g-pad-80-2014.jpg",
+      "specs": ""
+    },
+    {
+      "name": "G Vista",
+      "title": "LG G Vista Android smartphone. Announced Aug 2014. Features 5.7″  display, Snapdragon 400 chipset, 8 MP primary camera, 1.3 MP front camera, 3200 mAh battery, 8 GB storage, 1.5 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-g-vista-att.jpg",
+      "specs": ""
+    },
+    {
+      "name": "G3 A",
+      "title": "LG G3 A Android smartphone. Announced Aug 2014. Features 5.2″  display, Snapdragon 800 chipset, 13 MP primary camera, 2.1 MP front camera, 2610 mAh battery, 32 GB storage, 2 GB RAM, To be confirmed.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-g3-1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "G Pad 7.0 LTE",
+      "title": "LG G Pad 7.0 LTE Android tablet. Announced Aug 2014. Features 7.0″  display, Snapdragon 400 chipset, 5 MP primary camera, 4000 mAh battery, 16 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-gpad-7-lte.jpg",
+      "specs": ""
+    },
+    {
+      "name": "L50",
+      "title": "LG L50 Android smartphone. Announced Jul 2014. Features 4.0″  display, MT6572 chipset, 3.15 MP primary camera, 1900 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-l50.jpg",
+      "specs": ""
+    },
+    {
+      "name": "L30",
+      "title": "LG L30 Android smartphone. Announced Jun 2014. Features 3.2″  display, MT6572M chipset, 2 MP primary camera, 1540 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-l30.jpg",
+      "specs": ""
+    },
+    {
+      "name": "L20",
+      "title": "LG L20 Android smartphone. Announced Jul 2014. Features 3.0″  display, MT6572M chipset, 2 MP primary camera, 1540 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-l20.jpg",
+      "specs": ""
+    },
+    {
+      "name": "G Vista (CDMA)",
+      "title": "LG G Vista (CDMA) Android smartphone. Announced Aug 2014. Features 5.7″  display, 8 MP primary camera, 1.3 MP front camera, 3200 mAh battery, 8 GB storage, 1.5 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-g-vista-cdma.jpg",
+      "specs": ""
+    },
+    {
+      "name": "G3 LTE-A",
+      "title": "LG G3 LTE-A Android smartphone. Announced Jan 2014. Features 5.5″  display, Snapdragon 805 chipset, 13 MP primary camera, 2.1 MP front camera, 3000 mAh battery, 32 GB storage, 3 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-g3-1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "G3 S Dual",
+      "title": "LG G3 S Dual Android smartphone. Announced Jul 2014. Features 5.0″  display, Snapdragon 400 chipset, 8 MP primary camera, 1.3 MP front camera, 2540 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-g3-s.jpg",
+      "specs": ""
+    },
+    {
+      "name": "G3 S",
+      "title": "LG G3 S Android smartphone. Announced Jul 2014. Features 5.0″  display, Snapdragon 400 chipset, 8 MP primary camera, 1.3 MP front camera, 2540 mAh battery, 8 GB storage, 1000 MB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-g3-beat.jpg",
+      "specs": ""
+    },
+    {
+      "name": "L65 D280",
+      "title": "LG L65 D280 Android smartphone. Announced Jun 2014. Features 4.3″  display, Snapdragon 200 chipset, 5 MP primary camera, 2100 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-l65.jpg",
+      "specs": ""
+    },
+    {
+      "name": "G3 (CDMA)",
+      "title": "LG G3 (CDMA) Android smartphone. Announced Jul 2014. Features 5.5″  display, Snapdragon 801 chipset, 13 MP primary camera, 2.1 MP front camera, 3000 mAh battery, 32 GB storage, 3 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-g3-cdma.jpg",
+      "specs": ""
+    },
+    {
+      "name": "G3",
+      "title": "LG G3 Android smartphone. Announced May 2014. Features 5.5″  display, Snapdragon 801 chipset, 13 MP primary camera, 2.1 MP front camera, 3000 mAh battery, 32 GB storage, 3 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-g3-1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "450",
+      "title": "LG 450 phone. Announced Q4 2014. Features 2.2″  display, 1.3 MP primary camera, 950 mAh battery, 256 MB storage, 128 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-450.jpg",
+      "specs": ""
+    },
+    {
+      "name": "L35",
+      "title": "LG L35 Android smartphone. Announced May 2014. Features 3.2″  display, Snapdragon 200 chipset, 3.15 MP primary camera, 1540 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-l35.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Volt",
+      "title": "LG Volt Android smartphone. Announced May 2014. Features 4.7″  display, Snapdragon 400 chipset, 8 MP primary camera, 1.3 MP front camera, 3000 mAh battery, 8 GB storage, 1000 MB RAM, Corning Gorilla Glass 2.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-volt-ls740.jpg",
+      "specs": ""
+    },
+    {
+      "name": "G Pad 10.1 LTE",
+      "title": "LG G Pad 10.1 LTE Android tablet. Announced Jul 2014. Features 10.1″  display, 5 MP primary camera, 1.3 MP front camera, 8000 mAh battery, 16 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-g-pad-101-2014.jpg",
+      "specs": ""
+    },
+    {
+      "name": "G Pad 10.1",
+      "title": "LG G Pad 10.1 Android tablet. Announced May 2014. Features 10.1″  display, Snapdragon 400 chipset, 5 MP primary camera, 1.3 MP front camera, 8000 mAh battery, 16 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-g-pad-101-2014.jpg",
+      "specs": ""
+    },
+    {
+      "name": "G Pad 8.0",
+      "title": "LG G Pad 8.0 Android tablet. Announced May 2014. Features 8.0″  display, Snapdragon 400 chipset, 5 MP primary camera, 1.3 MP front camera, 4200 mAh battery, 16 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-g-pad-80-2014.jpg",
+      "specs": ""
+    },
+    {
+      "name": "G Pad 7.0",
+      "title": "LG G Pad 7.0 Android tablet. Announced May 2014. Features 7.0″  display, Snapdragon 400 chipset, 3.15 MP primary camera, 1.3 MP front camera, 4000 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-g-pad-70-2014.jpg",
+      "specs": ""
+    },
+    {
+      "name": "L80",
+      "title": "LG L80 Android smartphone. Announced Q2 2014. Features 5.0″  display, 8 MP primary camera, 1.3 MP front camera, 2540 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-l80.jpg",
+      "specs": ""
+    },
+    {
+      "name": "L80 Dual",
+      "title": "LG L80 Dual Android smartphone. Announced Apr 2014. Features 5.0″  display, Snapdragon 200 chipset, 5 MP primary camera, 2540 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-l80-dual.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Lucid 3 VS876",
+      "title": "LG Lucid 3 VS876 Android smartphone. Announced Apr 2014. Features 4.7″  display, 5 MP primary camera, 2440 mAh battery, 8 GB storage, 1000 MB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-lucid-3.jpg",
+      "specs": ""
+    },
+    {
+      "name": "L65 Dual D285",
+      "title": "LG L65 Dual D285 Android smartphone. Announced Apr 2014. Features 4.3″  display, Snapdragon 200 chipset, 5 MP primary camera, 2100 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-l65-d285-1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "G Pad 8.3 LTE",
+      "title": "LG G Pad 8.3 LTE Android tablet. Announced Mar 2014. Features 8.3″  display, Snapdragon 600 chipset, 5 MP primary camera, 1.3 MP front camera, 4600 mAh battery, 16 GB storage, 2 GB RAM, Corning Gorilla Glass 2.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-g-pad-83-lte-v.jpg",
+      "specs": ""
+    },
+    {
+      "name": "F70 D315",
+      "title": "LG F70 D315 Android smartphone. Announced Feb 2014. Features 4.5″  display, Snapdragon 400 chipset, 5 MP primary camera, 2440 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-f70.jpg",
+      "specs": ""
+    },
+    {
+      "name": "G2 mini LTE (Tegra)",
+      "title": "LG G2 mini LTE (Tegra) Android smartphone. Announced Feb 2014. Features 4.7″  display, Nvidia Tegra 4i chipset, 13 MP primary camera, 1.3 MP front camera, 2440 mAh battery, 8 GB storage, 1000 MB RAM, Corning Gorilla Glass 2.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-g2-mini-ofic1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "G2 mini LTE",
+      "title": "LG G2 mini LTE Android smartphone. Announced Feb 2014. Features 4.7″  display, Snapdragon 400 chipset, 8 MP primary camera, 1.3 MP front camera, 2440 mAh battery, 8 GB storage, 1000 MB RAM, Corning Gorilla Glass 2.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-g2-mini-ofic1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "G2 mini",
+      "title": "LG G2 mini Android smartphone. Announced Feb 2014. Features 4.7″  display, Snapdragon 400 chipset, 8 MP primary camera, 1.3 MP front camera, 2440 mAh battery, 8 GB storage, 1000 MB RAM, Corning Gorilla Glass 2.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-g2-mini-ofic1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "L90 Dual D410",
+      "title": "LG L90 Dual D410 Android smartphone. Announced Feb 2014. Features 4.7″  display, Snapdragon 400 chipset, 5 MP or 8 MP primary camera, 2540 mAh battery, 8 GB storage, 1000 MB RAM, Corning Gorilla Glass 2.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-l90-dual.jpg",
+      "specs": ""
+    },
+    {
+      "name": "L90 D405",
+      "title": "LG L90 D405 Android smartphone. Announced Feb 2014. Features 4.7″  display, Snapdragon 400 chipset, 5 MP or 8 MP primary camera, 1.3 MP front camera, 2540 mAh battery, 8 GB storage, 1000 MB RAM, Corning Gorilla Glass 2.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-l90.jpg",
+      "specs": ""
+    },
+    {
+      "name": "L70 D320N",
+      "title": "LG L70 D320N Android smartphone. Announced Feb 2014. Features 4.5″  display, Snapdragon 200 chipset, 5 MP, AF, LED flash or 8 MP primary camera, 2100 mAh battery, 4 GB storage, 1000 MB RAM, Corning Gorilla Glass 2.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-l70-d320n.jpg",
+      "specs": ""
+    },
+    {
+      "name": "L70 Dual D325",
+      "title": "LG L70 Dual D325 Android smartphone. Announced Feb 2014. Features 4.5″  display, Snapdragon 200 chipset, 5 MP primary camera, 2100 mAh battery, 4 GB storage, 1000 MB RAM, Corning Gorilla Glass 2.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-l70-dual.jpg",
+      "specs": ""
+    },
+    {
+      "name": "L45 Dual X132",
+      "title": "LG L45 Dual X132 Android smartphone. Announced  2014. Features 3.5″  display, 5 MP primary camera, 1540 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-l45.jpg",
+      "specs": ""
+    },
+    {
+      "name": "L40 D160",
+      "title": "LG L40 D160 Android smartphone. Announced Feb 2014. Features 3.5″  display, Snapdragon 200 chipset, 3.15 MP primary camera, 1700 mAh battery, 4 GB storage, 512 MB RAM, Corning Gorilla Glass 2.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-l40-d160.jpg",
+      "specs": ""
+    },
+    {
+      "name": "L40 Dual D170",
+      "title": "LG L40 Dual D170 Android smartphone. Announced Feb 2014. Features 3.5″  display, MSM8210 chipset, 3.15 MP primary camera, 1700 mAh battery, 4 GB storage, 512 MB RAM, Corning Gorilla Glass 2.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-l40-dual.jpg",
+      "specs": ""
+    },
+    {
+      "name": "G Pro 2",
+      "title": "LG G Pro 2 Android smartphone. Announced Feb 2014. Features 5.9″  display, Snapdragon 800 chipset, 13 MP primary camera, 2.1 MP front camera, 3200 mAh battery, 32 GB storage, 3 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-g-pro-2-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Optimus L4 II Tri E470",
+      "title": "LG Optimus L4 II Tri E470 Android smartphone. Announced Oct 2013. Features 3.8″  display, MT6575 chipset, 3.15 MP primary camera, 2150 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-optimus-l4-ii-tri-e470.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Optimus L1 II Tri E475",
+      "title": "LG Optimus L1 II Tri E475 Android smartphone. Announced Feb 2014. Features 3.0″  display, Snapdragon S1 chipset, 2 MP primary camera, 1540 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-optimus-e475-tri-l1-ii.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Optimus F3Q",
+      "title": "LG Optimus F3Q Android smartphone. Announced Jan 2014. Features 4.0″  display, Snapdragon 400 chipset, 5 MP primary camera, 2460 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-optimus-f3q-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "GX F310L",
+      "title": "LG GX F310L Android smartphone. Announced Dec 2013. Features 5.5″  display, Snapdragon 600 chipset, 13 MP primary camera, 2.1 MP front camera, 3140 mAh battery, 32 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-gx-f310l.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Nexus 5",
+      "title": "LG Nexus 5 Android smartphone. Announced Oct 2013. Features 4.95″  display, Snapdragon 800 chipset, 8 MP primary camera, 1.3 MP front camera, 2300 mAh battery, 32 GB storage, 2 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-google-nexus-5-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "G Flex",
+      "title": "LG G Flex Android smartphone. Announced Oct 2013. Features 6.0″  display, Snapdragon 800 chipset, 13 MP primary camera, 2.1 MP front camera, 3500 mAh battery, 32 GB storage, 2 GB RAM, Corning Gorilla Glass 2.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-g-flex.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Fireweb",
+      "title": "LG Fireweb smartphone. Announced Oct 2013. Features 4.0″  display, Snapdragon S1 chipset, 5 MP primary camera, 1540 mAh battery, 2 GB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-fireweb.jpg",
+      "specs": ""
+    },
+    {
+      "name": "G Pro Lite",
+      "title": "LG G Pro Lite Android smartphone. Announced Oct 2013. Features 5.5″  display, MT6577 chipset, 8 MP primary camera, 1.3 MP front camera, 3140 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-g-pro-lite-d680.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C3300",
+      "title": "LG C3300 phone. Announced Q1 2005. Features STN, 65K colors display, 1000 mAh battery, 2 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-c3300.gif",
+      "specs": ""
+    },
+    {
+      "name": "U8380",
+      "title": "LG U8380 phone. Announced Jun 2005. Features 2.2″  display, 1.3 MP primary camera, 1050 mAh battery, 23 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-u8380.gif",
+      "specs": ""
+    },
+    {
+      "name": "U8360",
+      "title": "LG U8360 phone. Announced Jun 2005. Features 2.0″  display, 1.3 MP primary camera, 1400 mAh battery, 20 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-u8360.gif",
+      "specs": ""
+    },
+    {
+      "name": "U8330",
+      "title": "LG U8330 phone. Announced Jun 2005. Features TFT, 256K colors display, 1400 mAh battery, 26 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-u8330.gif",
+      "specs": ""
+    },
+    {
+      "name": "U8290",
+      "title": "LG U8290 phone. Announced Q2 2006. Features TFT, 65K colors display, 1.3 MP primary camera, 1400 mAh battery, 20 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-u8290.gif",
+      "specs": ""
+    },
+    {
+      "name": "U8210",
+      "title": "LG U8210 phone. Announced Q1 2005. Features TFT, 256K colors display, 1.3 MP primary camera, 1400 mAh battery, 20 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-u8210.gif",
+      "specs": ""
+    },
+    {
+      "name": "U8200",
+      "title": "LG U8200 phone. Announced Q1 2005. Features TFT, 65K colors display, 1.3 MP primary camera, 1000 mAh battery, 20 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-u8200.gif",
+      "specs": ""
+    },
+    {
+      "name": "U8180",
+      "title": "LG U8180 phone. Announced Q3 2004. Features TFT, 256K colors display, 1000 mAh battery, 32 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-u8180.gif",
+      "specs": ""
+    },
+    {
+      "name": "B2150",
+      "title": "LG B2150 phone. Announced  2005. Features 1.6″  display, 930 mAh battery, 1 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-b2150.gif",
+      "specs": ""
+    },
+    {
+      "name": "B2100",
+      "title": "LG B2100 phone. Announced Q2 2005. Features 1.5″  display, 780 mAh battery, 1 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-b2100.gif",
+      "specs": ""
+    },
+    {
+      "name": "B2000",
+      "title": "LG B2000 phone. Announced Q1 2005. Features 1.5″  display, 780 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-b2000.gif",
+      "specs": ""
+    },
+    {
+      "name": "F2400",
+      "title": "LG F2400 phone. Announced Q2 2005. Features TFT, 65K colors display, 1000 mAh battery, 4 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-f2400.gif",
+      "specs": ""
+    },
+    {
+      "name": "F1200",
+      "title": "LG F1200 phone. Announced Q1 2005. Features TFT, 256K colors display, 1050 mAh battery, 64 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-f1200.gif",
+      "specs": ""
+    },
+    {
+      "name": "F7250",
+      "title": "LG F7250 phone. Announced Q4 2004. Features 1.9″  display, 950 mAh battery, 1 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lgf7250.gif",
+      "specs": ""
+    },
+    {
+      "name": "A7150",
+      "title": "LG A7150 phone. Announced Q4 2004. Features TFT, 65K colors display, 950 mAh battery, 30 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lga7150.gif",
+      "specs": ""
+    },
+    {
+      "name": "L5100",
+      "title": "LG L5100 phone. Announced Q3 2004. Features TFT, 256K colors display, 1.3 MP primary camera, 760 mAh battery, 27 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lgl5100.gif",
+      "specs": ""
+    },
+    {
+      "name": "C2200",
+      "title": "LG C2200 phone. Announced Q3 2004. Features TFT, 65K colors display, 760 mAh battery, 1 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lgc2200.gif",
+      "specs": ""
+    },
+    {
+      "name": "C2100",
+      "title": "LG C2100 phone. Announced Q1 2005. Features CSTN, 65K colors display, 950 mAh battery, 1 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-c2100.gif",
+      "specs": ""
+    },
+    {
+      "name": "G1800",
+      "title": "LG G1800 phone. Announced Q4 2004. Features 1.6″  display, 720 mAh battery, 64 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lgg1800.gif",
+      "specs": ""
+    },
+    {
+      "name": "G1610",
+      "title": "LG G1610 phone. Announced Q1 2005. Features 1.5″  display, 950 mAh battery, 1 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lgg1610.gif",
+      "specs": ""
+    },
+    {
+      "name": "G1700",
+      "title": "LG G1700 phone. Announced Q4 2004. Features 1.6″  display, 700 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lgg1700.gif",
+      "specs": ""
+    },
+    {
+      "name": "F2300",
+      "title": "LG F2300 phone. Announced Q1 2005. Features TFT, 65K colors display, 1000 mAh battery, 4 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lgf2300.gif",
+      "specs": ""
+    },
+    {
+      "name": "F2100",
+      "title": "LG F2100 phone. Announced Q3 2004. Features TFT, 256K colors display, 800 mAh battery, 4 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lgf2100.gif",
+      "specs": ""
+    },
+    {
+      "name": "L3100",
+      "title": "LG L3100 phone. Announced Q2 2004. Features TFT, 65K colors display, 950 mAh battery, 2 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lgl3100.gif",
+      "specs": ""
+    },
+    {
+      "name": "C3100",
+      "title": "LG C3100 phone. Announced Q2 2004. Features STN, 65K colors display, 1200 mAh battery, 1 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lgc3100.gif",
+      "specs": ""
+    },
+    {
+      "name": "G3100",
+      "title": "LG G3100 phone. Announced Q2 2004. Features STN, 4096 colors display, 850 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lgg3100.gif",
+      "specs": ""
+    },
+    {
+      "name": "L1100",
+      "title": "LG L1100 phone. Announced Q2 2004. Features TFT, 65K colors display, 950 mAh battery, 1 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lgl1100.gif",
+      "specs": ""
+    },
+    {
+      "name": "C1400",
+      "title": "LG C1400 phone. Announced Q1 2004. Features UFB, 65K colors display, 760 mAh battery, 1 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lgc1400.gif",
+      "specs": ""
+    },
+    {
+      "name": "C1200",
+      "title": "LG C1200 phone. Announced Q1 2004. Features STN, 65K colors display, 760 mAh battery, 1 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lgc1200.gif",
+      "specs": ""
+    },
+    {
+      "name": "C1100",
+      "title": "LG C1100 phone. Announced Q1 2004. Features STN, 65K colors display, 780 mAh battery, 1 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lgc1100.gif",
+      "specs": ""
+    },
+    {
+      "name": "G1600",
+      "title": "LG G1600 phone. Announced Q2 2004. Features STN, 65K colors display, 950 mAh battery, 1 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lgg1600.gif",
+      "specs": ""
+    },
+    {
+      "name": "T5100",
+      "title": "LG T5100 phone. Announced Q1 2004. Features TFT, 256K colors display, 1.3 MP primary camera, 720 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lgt5100.gif",
+      "specs": ""
+    },
+    {
+      "name": "G7200",
+      "title": "LG G7200 phone. Announced Q1 2004. Features TFT, 256K colors display, 850 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lgg7200.gif",
+      "specs": ""
+    },
+    {
+      "name": "G7120",
+      "title": "LG G7120 phone. Announced Q1 2004. Features UFB, 65K colors display, 780 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lgg7120.gif",
+      "specs": ""
+    },
+    {
+      "name": "U8150",
+      "title": "LG U8150 phone. Announced Q3 2003. Features TFT, 256K colors display, 1200 mAh battery, 64 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lgu8150.gif",
+      "specs": ""
+    },
+    {
+      "name": "U8138",
+      "title": "LG U8138 phone. Announced Q3 2004. Features TFT, 256K colors display, 1000 mAh battery, 32 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-u8138.gif",
+      "specs": ""
+    },
+    {
+      "name": "U8120",
+      "title": "LG U8120 phone. Announced Q2 2004. Features TFT, 64K colors display, 700 mAh battery, 32 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lgu8120c.gif",
+      "specs": ""
+    },
+    {
+      "name": "U8110",
+      "title": "LG U8110 phone. Announced Q2 2004. Features TFT, 64K colors display, 1200 mAh battery, 14 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lgu8110.gif",
+      "specs": ""
+    },
+    {
+      "name": "U8100",
+      "title": "LG U8100 phone. Announced Q3 2003. Features TFD, 64K colors display, 1050 mAh battery, 64 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lgu8100.gif",
+      "specs": ""
+    },
+    {
+      "name": "G7100",
+      "title": "LG G7100 phone. Announced Q2 2003. Features STN, 65K colors display, 780 mAh battery, 1 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lgg7100.gif",
+      "specs": ""
+    },
+    {
+      "name": "G7070",
+      "title": "LG G7070 phone. Announced Q2 2003. Features UFB, 65K colors display, 720 mAh battery, 1 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lgg7070.gif",
+      "specs": ""
+    },
+    {
+      "name": "G7050",
+      "title": "LG G7050 phone. Announced Q4 2003. Features STN, 65K colors display, 760 mAh battery, 1 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lgg7050.gif",
+      "specs": ""
+    },
+    {
+      "name": "G7030",
+      "title": "LG G7030 phone. Announced Q3 2003. Features UFB, 65K colors display, 720 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lgg7030.gif",
+      "specs": ""
+    },
+    {
+      "name": "G1500",
+      "title": "LG G1500 phone. Announced Q1 2004. Features Grayscale graphic display, 850 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lgg1500.gif",
+      "specs": ""
+    },
+    {
+      "name": "G5500",
+      "title": "LG G5500 phone. Announced Q4 2003. Features UFB, 65K colors display, 760 mAh battery, 1 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lgg5500.gif",
+      "specs": ""
+    },
+    {
+      "name": "G5400",
+      "title": "LG G5400 phone. Announced Q2 2003. Features UFB, 65K colors display, 760 mAh battery, 1 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lgg5400.gif",
+      "specs": ""
+    },
+    {
+      "name": "G5310",
+      "title": "LG G5310 phone. Announced Q3 2003. Features UFB, 65K colors display, 760 mAh battery, 1 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lgg5310.gif",
+      "specs": ""
+    },
+    {
+      "name": "G5300",
+      "title": "LG G5300 phone. Announced Q1 2003. Features STN, 65K colors display, 850 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lgg5300.gif",
+      "specs": ""
+    },
+    {
+      "name": "G8000",
+      "title": "LG G8000 phone. Announced Q1 2003. Features TFD, 65K colors display, 810 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lgg8000.gif",
+      "specs": ""
+    },
+    {
+      "name": "G7020",
+      "title": "LG G7020 phone. Announced Q4 2002. Features STN, 65K colors display, 820 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lgg7020.gif",
+      "specs": ""
+    },
+    {
+      "name": "Etna C330",
+      "title": "LG Etna C330 phone. Announced  2010. Features 2.4″  display, 2 MP primary camera, 900 mAh battery, 64 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-etna-c330.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Wink Plus GT350i",
+      "title": "LG Wink Plus GT350i phone. Announced Feb 2010. Features 3.0″  display, 2 MP primary camera, 950 mAh battery, 40 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-gt350i-wink-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Town GT350",
+      "title": "LG Town GT350 phone. Announced Feb 2010. Features 3.0″  display, 2 MP primary camera, 950 mAh battery, 56 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-gt350-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "KU2100",
+      "title": "LG KU2100 Windows Mobile smartphone. Announced Jan 2010. Features 3.0″  display, MSM7201A chipset, 5 MP primary camera, 1500 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-su210-ku2100-lu2100.jpg",
+      "specs": ""
+    },
+    {
+      "name": "GD580 Lollipop",
+      "title": "LG GD580 Lollipop phone. Announced Jan 2010. Features 2.8″  display, 3.15 MP primary camera, 800 mAh battery, 60 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-gd580-lollipop.jpg",
+      "specs": ""
+    },
+    {
+      "name": "GS200",
+      "title": "LG GS200 phone. Announced Dec 2009. Features 2.0″  display, 1.3 MP primary camera, 1100 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-gs200.jpg",
+      "specs": ""
+    },
+    {
+      "name": "GS190",
+      "title": "LG GS190 phone. Announced  2010. Features 2.0″  display, 950 mAh battery, 4 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-gs190.jpg",
+      "specs": ""
+    },
+    {
+      "name": "GW820 eXpo",
+      "title": "LG GW820 eXpo Windows Mobile smartphone. Announced Dec 2009. Features 3.2″  display, Snapdragon S1 chipset, 5 MP primary camera, 1500 mAh battery, 256 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/LG-GW820-eXpo-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "GU230 Dimsun",
+      "title": "LG GU230 Dimsun phone. Announced Oct 2009. Features 2.2″  display, 1.3 MP primary camera, 900 mAh battery, 6 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-gu230.jpg",
+      "specs": ""
+    },
+    {
+      "name": "GD710 Shine II",
+      "title": "LG GD710 Shine II phone. Announced Nov 2009. Features 2.2″  display, 2 MP primary camera, 900 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-shine-ii.jpg",
+      "specs": ""
+    },
+    {
+      "name": "GB160",
+      "title": "LG GB160 phone. Announced Nov 2009. Features 1.5″  display, 950 mAh battery, 2 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-gb160.jpg",
+      "specs": ""
+    },
+    {
+      "name": "GU285",
+      "title": "LG GU285 phone. Announced Oct 2009. Features 2.0″  display, 1.3 MP primary camera, 900 mAh battery, 20 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-gu285-popcorn.jpg",
+      "specs": ""
+    },
+    {
+      "name": "8575 Samba",
+      "title": "LG 8575 Samba phone. Announced  2009. Features 3.0″  display, 3.15 MP primary camera, 1000 mAh battery, 1000 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-8575-samba.jpg",
+      "specs": ""
+    },
+    {
+      "name": "KM555E",
+      "title": "LG KM555E phone. Announced Nov 2009. Features 3.0″  display, 3.15 MP primary camera, 950 mAh battery, 40 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-km555e-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "GD310",
+      "title": "LG GD310  phone. Announced Oct 2009. Features 2.4″  display, 3.15 MP primary camera, 900 mAh battery, 128 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-gd310.jpg",
+      "specs": ""
+    },
+    {
+      "name": "GD510 Pop",
+      "title": "LG GD510 Pop phone. Announced Sep 2009. Features 3.0″  display, 3.15 MP primary camera, 900 mAh battery, 42 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-gd510.jpg",
+      "specs": ""
+    },
+    {
+      "name": "BL20 New Chocolate",
+      "title": "LG BL20 New Chocolate phone. Announced Sep 2009. Features 2.4″  display, 5 MP primary camera, 900 mAh battery, 60 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-bl20.jpg",
+      "specs": ""
+    },
+    {
+      "name": "CF360",
+      "title": "LG CF360 phone. Announced Feb 2009. Features 2.0″  display, 1.3 MP primary camera, 900 mAh battery, 10 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-cf360.jpg",
+      "specs": ""
+    },
+    {
+      "name": "GW620",
+      "title": "LG GW620 Android smartphone. Announced Sep 2009. Features 3.0″  display, 5 MP primary camera, 1500 mAh battery, 150 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-gw620.jpg",
+      "specs": ""
+    },
+    {
+      "name": "GM750",
+      "title": "LG GM750 Windows Mobile smartphone. Announced Sep 2009. Features 3.0″  display, MSM7201A chipset, 5 MP primary camera, 1500 mAh battery, 200 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-gm750.jpg",
+      "specs": ""
+    },
+    {
+      "name": "BL40 New Chocolate",
+      "title": "LG BL40 New Chocolate phone. Announced Aug 2009. Features 4.01″  display, 5 MP primary camera, 1000 mAh battery, 1.1 GB storage, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-bl40.jpg",
+      "specs": ""
+    },
+    {
+      "name": "GW300",
+      "title": "LG GW300 phone. Announced Aug 2009. Features 2.4″  display, 2 MP primary camera, 900 mAh battery, 15 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-gw300.jpg",
+      "specs": ""
+    },
+    {
+      "name": "GB270",
+      "title": "LG GB270 phone. Announced Aug 2009. Features 2.0″  display, 1000 mAh battery, 12 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-gb270.jpg",
+      "specs": ""
+    },
+    {
+      "name": "GB190",
+      "title": "LG GB190 phone. Announced Oct 2009. Features 1.5″  display, 950 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-gb190.jpg",
+      "specs": ""
+    },
+    {
+      "name": "GB109",
+      "title": "LG GB109 phone. Announced Aug 2009. Features 1.5″  display, 950 mAh battery, 1 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-gb109.jpg",
+      "specs": ""
+    },
+    {
+      "name": "GB170",
+      "title": "LG GB170 phone. Announced Aug 2009. Features 1.5″  display, 950 mAh battery, 8 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-gb170.jpg",
+      "specs": ""
+    },
+    {
+      "name": "GW550",
+      "title": "LG GW550 Windows Mobile smartphone. Announced Jun 2009. Features 2.4″  display, 3.15 MP primary camera, 1300 mAh battery, 256 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-gw550-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "KB775 Scarlet",
+      "title": "LG KB775 Scarlet phone. Announced Q1 2009. Features 3.0″  display, 3.15 MP primary camera, 1000 mAh battery, 70 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-kb775.jpg",
+      "specs": ""
+    },
+    {
+      "name": "GT500 Puccini",
+      "title": "LG GT500 Puccini phone. Announced Jul 2009. Features 3.0″  display, 5 MP primary camera.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-gt500.jpg",
+      "specs": ""
+    },
+    {
+      "name": "GT505",
+      "title": "LG GT505 phone. Announced Jun 2009. Features 3.0″  display, 5 MP primary camera, 1000 mAh battery, 60 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-gt505.jpg",
+      "specs": ""
+    },
+    {
+      "name": "GW520",
+      "title": "LG GW520 phone. Announced Jun 2009. Features 2.8″  display, 3.15 MP primary camera, 950 mAh battery, 40 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-gv520.jpg",
+      "specs": ""
+    },
+    {
+      "name": "GD900 Crystal",
+      "title": "LG GD900 Crystal phone. Announced Apr 2009. Features 3.0″  display, 8 MP primary camera, 1000 mAh battery, 1.5 GB storage, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-gd900.jpg",
+      "specs": ""
+    },
+    {
+      "name": "GC900 Viewty Smart",
+      "title": "LG GC900 Viewty Smart phone. Announced Apr 2009. Features 3.0″  display, 8 MP primary camera, 1000 mAh battery, 1.5 GB storage, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-gc900-viewty.jpg",
+      "specs": ""
+    },
+    {
+      "name": "GB230 Julia",
+      "title": "LG GB230 Julia phone. Announced May 2009. Features 2.0″  display, 2 MP primary camera, 800 mAh battery, 6 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-gb230.jpg",
+      "specs": ""
+    },
+    {
+      "name": "GD330",
+      "title": "LG GD330 phone. Announced Apr 2009. Features 2.2″  display, 2 MP primary camera, 800 mAh battery, 20 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-gd330.jpg",
+      "specs": ""
+    },
+    {
+      "name": "KS660",
+      "title": "LG KS660 phone. Announced Feb 2009. Features 3.0″  display, 5 MP primary camera, 950 mAh battery, 85 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-ks660.jpg",
+      "specs": ""
+    },
+    {
+      "name": "GB125",
+      "title": "LG GB125 phone. Announced Mar 2009. Features 1.5″  display, 950 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-gb125.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Xenon GR500",
+      "title": "LG Xenon GR500 phone. Announced Mar 2009. Features 2.8″  display, 2 MP primary camera, 950 mAh battery, 80 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/LG-Xenon-GR500.jpg",
+      "specs": ""
+    },
+    {
+      "name": "GB210",
+      "title": "LG GB210 phone. Announced Mar 2009. Features 1.77″  display, 1.3 MP primary camera, 950 mAh battery, 4 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-gb210.jpg",
+      "specs": ""
+    },
+    {
+      "name": "GM200 Brio",
+      "title": "LG GM200 Brio phone. Announced Mar 2009. Features 2.0″  display, 2 MP primary camera, 1100 mAh battery, 14 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-gm200.jpg",
+      "specs": ""
+    },
+    {
+      "name": "KC560",
+      "title": "LG KC560 phone. Announced Mar 2009. Features 2.4″  display, 3.15 MP primary camera, 900 mAh battery, 30 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-kc560.jpg",
+      "specs": ""
+    },
+    {
+      "name": "KM900 Arena",
+      "title": "LG KM900 Arena phone. Announced Feb 2009. Features 3.0″  display, 5 MP primary camera, 1000 mAh battery, 8 GB storage, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-km900-arena.jpg",
+      "specs": ""
+    },
+    {
+      "name": "GM730 Eigen",
+      "title": "LG GM730 Eigen Windows Mobile smartphone. Announced Feb 2009. Features 3.0″  display, MSM7201A chipset, 5 MP primary camera, 1000 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-gm730.jpg",
+      "specs": ""
+    },
+    {
+      "name": "KC910i Renoir",
+      "title": "LG KC910i Renoir phone. Announced Feb 2009. Features 3.0″  display, 8 MP primary camera, 1000 mAh battery, 2 GB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-kc910i.jpg",
+      "specs": ""
+    },
+    {
+      "name": "GB250",
+      "title": "LG GB250 phone. Announced Feb 2009. Features 2.0″  display, 1.3 MP primary camera, 800 mAh battery, 22 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-gb250.jpg",
+      "specs": ""
+    },
+    {
+      "name": "GB220",
+      "title": "LG GB220 phone. Announced Feb 2009. Features 1.76″  display, 1.3 MP primary camera, 800 mAh battery, 6 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-gb220-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "GB102",
+      "title": "LG GB102 phone. Announced Feb 2009. Features 1.5″  display, 800 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-gb102.jpg",
+      "specs": ""
+    },
+    {
+      "name": "KT770",
+      "title": "LG KT770 Symbian smartphone. Announced Feb 2009. Features 2.8″  display, 5 MP primary camera, 950 mAh battery, 120 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-kt770.jpg",
+      "specs": ""
+    },
+    {
+      "name": "GB130",
+      "title": "LG GB130 phone. Announced Feb 2009. Features 2.0″  display, 950 mAh battery, 64 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-gb130.jpg",
+      "specs": ""
+    },
+    {
+      "name": "GM310",
+      "title": "LG GM310 phone. Announced Feb 2009. Features 2.2″  display, 3.15 MP primary camera, 900 mAh battery, 12 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-gm310.jpg",
+      "specs": ""
+    },
+    {
+      "name": "GM210",
+      "title": "LG GM210 phone. Announced Apr 2009. Features 2.0″  display, 2 MP primary camera, 800 mAh battery, 50 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-gm210.jpg",
+      "specs": ""
+    },
+    {
+      "name": "KM330",
+      "title": "LG KM330 phone. Announced Feb 2009. Features 2.0″  display, 3.15 MP primary camera, 900 mAh battery, 90 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-km330.jpg",
+      "specs": ""
+    },
+    {
+      "name": "GB110",
+      "title": "LG GB110 phone. Announced Jan 2009. Features 1.5″  display, 950 mAh battery, 1 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-gb110.jpg",
+      "specs": ""
+    },
+    {
+      "name": "GB106",
+      "title": "LG GB106 phone. Announced Jan 2009. Features 1.5″  display, 950 mAh battery, 1 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-gb106.jpg",
+      "specs": ""
+    },
+    {
+      "name": "GD910",
+      "title": "LG GD910 watch. Announced Jan 2009. Features 1.43″  display, 2 GB storage, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-gd910.jpg",
+      "specs": ""
+    },
+    {
+      "name": "CT810 Incite",
+      "title": "LG CT810 Incite Windows Mobile smartphone. Announced Nov 2008. Features 3.0″  display, MSM7201A chipset, 3.15 MP primary camera, 1030 mAh battery, 128 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-incite.jpg",
+      "specs": ""
+    },
+    {
+      "name": "KP152",
+      "title": "LG KP152 phone. Announced Sep 2008. Features 1.5″  display, 800 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-kp152.jpg",
+      "specs": ""
+    },
+    {
+      "name": "KS500",
+      "title": "LG KS500 phone. Announced Oct 2008. Features 2.0″  display, 3.15 MP primary camera, 950 mAh battery, 100 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-ks500.jpg",
+      "specs": ""
+    },
+    {
+      "name": "KF900 Prada",
+      "title": "LG KF900 Prada phone. Announced Oct 2008. Features 3.0″  display, 5 MP primary camera, 950 mAh battery, 60 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/prada-ii.jpg",
+      "specs": ""
+    },
+    {
+      "name": "KC780",
+      "title": "LG KC780 phone. Announced Oct 2008. Features 2.4″  display, 8 MP primary camera, 900 mAh battery, 140 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-kc780.jpg",
+      "specs": ""
+    },
+    {
+      "name": "KP500 Cookie",
+      "title": "LG KP500 Cookie phone. Announced Sep 2008. Features 3.0″  display, 3.15 MP primary camera, 900 mAh battery, 48 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-kp500.jpg",
+      "specs": ""
+    },
+    {
+      "name": "KP501 Cookie",
+      "title": "LG KP501 Cookie phone. Announced Jan 2009. Features 3.0″  display, 3.15 MP primary camera, 900 mAh battery, 48 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-kp501.jpg",
+      "specs": ""
+    },
+    {
+      "name": "KP502 Cookie",
+      "title": "LG KP502 Cookie phone. Announced Jun 2009. Features 3.0″  display, 3.15 MP primary camera, 900 mAh battery, 48 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-kp502-cookie.jpg",
+      "specs": ""
+    },
+    {
+      "name": "KB770",
+      "title": "LG KB770 phone. Announced Sep 2008. Features 3.0″  display, 3.15 MP primary camera, 1000 mAh battery, 100 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-kb770.jpg",
+      "specs": ""
+    },
+    {
+      "name": "KC910 Renoir",
+      "title": "LG KC910 Renoir phone. Announced Aug 2008. Features 3.0″  display, 8 MP primary camera, 1000 mAh battery, 100 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-kc910.jpg",
+      "specs": ""
+    },
+    {
+      "name": "KP270",
+      "title": "LG KP270 phone. Announced Dec 2008. Features 2.0″  display, 1.3 MP primary camera, 900 mAh battery, 32 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-kp270.jpg",
+      "specs": ""
+    },
+    {
+      "name": "CB630 Invision",
+      "title": "LG CB630 Invision phone. Announced Aug 2008. Features 2.2″  display, 1.3 MP primary camera, 900 mAh battery, 128 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-cb630-invision.jpg",
+      "specs": ""
+    },
+    {
+      "name": "KF311",
+      "title": "LG KF311 phone. Announced Feb 2009. Features 2.0″  display, 2 MP primary camera, 900 mAh battery, 45 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-kf311.jpg",
+      "specs": ""
+    },
+    {
+      "name": "CP150",
+      "title": "LG CP150 phone. Announced Nov 2008. Features 1.5″  display, 800 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-cp150.jpg",
+      "specs": ""
+    },
+    {
+      "name": "KP265",
+      "title": "LG KP265 phone. Announced Jul 2008. Features 1.77″  display, 1.3 MP primary camera, 900 mAh battery, 5 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-kp265.jpg",
+      "specs": ""
+    },
+    {
+      "name": "KP260",
+      "title": "LG KP260 phone. Announced Sep 2008. Features 1.77″  display, 1.3 MP primary camera, 5 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-kp260.jpg",
+      "specs": ""
+    },
+    {
+      "name": "KP199",
+      "title": "LG KP199 phone. Announced Aug 2008. Features 1.77″  display, 1350 mAh battery, 60 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-kp199-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "KP170",
+      "title": "LG KP170 phone. Announced Dec 2008. Features 1.77″  display, 900 mAh battery, 4 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-kp170.jpg",
+      "specs": ""
+    },
+    {
+      "name": "GT365 Neon",
+      "title": "LG GT365 Neon phone. Announced Mar 2009. Features 2.4″  display, 2 MP primary camera, 800 mAh battery, 15 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-neon.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Univa E510",
+      "title": "LG Univa E510 Android smartphone. Not officially announced yet. Features 3.2″  display, 5 MP primary camera.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-univa.jpg",
+      "specs": ""
+    },
+    {
+      "name": "KS360",
+      "title": "LG KS360 phone. Announced Jul 2008. Features 2.4″  display, 2 MP primary camera, 800 mAh battery, 64 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-ks360.jpg",
+      "specs": ""
+    },
+    {
+      "name": "KF390",
+      "title": "LG KF390 phone. Announced Jul 2008. Features 2.0″  display, 2 MP primary camera, 50 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-kf390.jpg",
+      "specs": ""
+    },
+    {
+      "name": "KF350",
+      "title": "LG KF350 phone. Announced Aug 2008. Features 2.2″  display, 3.15 MP primary camera, 800 mAh battery, 30 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-kf350.jpg",
+      "specs": ""
+    },
+    {
+      "name": "KF245",
+      "title": "LG KF245 phone. Announced  2008. Features 2.0″  display, 2 MP primary camera, 800 mAh battery, 20 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-kf245.jpg",
+      "specs": ""
+    },
+    {
+      "name": "KF240",
+      "title": "LG KF240 phone. Announced May 2008. Features 2.0″  display, 2 MP primary camera, 800 mAh battery, 20 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-kf240.jpg",
+      "specs": ""
+    },
+    {
+      "name": "U370",
+      "title": "LG U370 phone. Announced Mar 2008. Features 2.0″  display, 1.3 MP primary camera, 860 mAh battery, 60 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-u370.jpg",
+      "specs": ""
+    },
+    {
+      "name": "HB620T",
+      "title": "LG HB620T phone. Announced Feb 2008. Features 2.0″  display, 2 MP primary camera, 1000 mAh battery, 100 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-hb620t.jpg",
+      "specs": ""
+    },
+    {
+      "name": "KC550",
+      "title": "LG KC550 phone. Announced May 2008. Features 2.4″  display, 5 MP primary camera, 900 mAh battery, 12 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-kc550.jpg",
+      "specs": ""
+    },
+    {
+      "name": "KF757 Secret",
+      "title": "LG KF757 Secret phone. Announced Apr 2008. Features 2.4″  display, 5 MP primary camera, 800 mAh battery, 100 MB storage, Scratch-resistant glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-kf757.jpg",
+      "specs": ""
+    },
+    {
+      "name": "KF750 Secret",
+      "title": "LG KF750 Secret phone. Announced Apr 2008. Features 2.4″  display, 5 MP primary camera, 800 mAh battery, 100 MB storage, Scratch-resistant glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-kf750.jpg",
+      "specs": ""
+    },
+    {
+      "name": "KF755 Secret",
+      "title": "LG KF755 Secret phone. Announced Apr 2008. Features 2.4″  display, 5 MP primary camera, 800 mAh battery, Scratch-resistant glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-kf755.jpg",
+      "specs": ""
+    },
+    {
+      "name": "CU915 Vu",
+      "title": "LG CU915 Vu phone. Announced Mar 2008. Features 3.0″  display, 2 MP primary camera, 1000 mAh battery, 128 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-cu915-vu.jpg",
+      "specs": ""
+    },
+    {
+      "name": "KF700",
+      "title": "LG KF700 phone. Announced Feb 2008. Features 3.0″  display, 3.15 MP primary camera, 900 mAh battery, 90 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-kf700.jpg",
+      "specs": ""
+    },
+    {
+      "name": "KF600",
+      "title": "LG KF600 phone. Announced Feb 2008. Features 2.0″  display, 3.15 MP primary camera, 800 mAh battery, 25 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-kf600.jpg",
+      "specs": ""
+    },
+    {
+      "name": "KF510",
+      "title": "LG KF510 phone. Announced Feb 2008. Features 2.2″  display, 3.15 MP primary camera, 800 mAh battery, 16 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-kf510.jpg",
+      "specs": ""
+    },
+    {
+      "name": "KP320",
+      "title": "LG KP320 phone. Announced May 2008. Features 2.0″  display, 3.15 MP primary camera, 900 mAh battery, 90 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-kp320.jpg",
+      "specs": ""
+    },
+    {
+      "name": "KT610",
+      "title": "LG KT610 Symbian smartphone. Announced Feb 2008. Features 2.4″  display, 2 MP primary camera, 960 mAh battery, 64 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-kt610.jpg",
+      "specs": ""
+    },
+    {
+      "name": "KT520",
+      "title": "LG KT520 phone. Announced Feb 2008. Features 2.2″  display, 3.15 MP primary camera, 800 mAh battery, 30 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-kt520.jpg",
+      "specs": ""
+    },
+    {
+      "name": "KM710",
+      "title": "LG KM710 phone. Announced Feb 2008. Features 2.0″  display, 3.15 MP primary camera, 800 mAh battery, 15 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-km710.jpg",
+      "specs": ""
+    },
+    {
+      "name": "MG295",
+      "title": "LG MG295 phone. Announced Jan 2008. Features TFT, 256K colors display, 1.3 MP primary camera, 830 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-mg295.jpg",
+      "specs": ""
+    },
+    {
+      "name": "KF310",
+      "title": "LG KF310 phone. Announced Feb 2008. Features 2.0″  display, 2 MP primary camera, 900 mAh battery, 40 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-kf310-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "KF300",
+      "title": "LG KF300 phone. Announced Apr 2008. Features 2.2″  display, 2 MP primary camera, 800 mAh battery, 10 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-kf300.jpg",
+      "specs": ""
+    },
+    {
+      "name": "KM500",
+      "title": "LG KM500 phone. Announced Feb 2008. Features 2.0″  display, 2 MP primary camera, 800 mAh battery, 50 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-km500.jpg",
+      "specs": ""
+    },
+    {
+      "name": "KM386",
+      "title": "LG KM386 phone. Announced May 2008. Features 1.7″  display, 1.3 MP primary camera, 800 mAh battery, 32 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-km386.jpg",
+      "specs": ""
+    },
+    {
+      "name": "KM380",
+      "title": "LG KM380 phone. Announced Jun 2008. Features 2.0″  display, 1.3 MP primary camera, 800 mAh battery, 40 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-km380.jpg",
+      "specs": ""
+    },
+    {
+      "name": "KM338",
+      "title": "LG KM338 phone. Announced Feb 2008. Features 2.0″  display, 1.3 MP primary camera, 800 mAh battery, 40 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-km338.jpg",
+      "specs": ""
+    },
+    {
+      "name": "KG375",
+      "title": "LG KG375 phone. Announced Dec 2007. Features TFT, 65K colors display, 750 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-kg375.jpg",
+      "specs": ""
+    },
+    {
+      "name": "KP235",
+      "title": "LG KP235 phone. Announced Feb 2008. Features 1.7″  display, 830 mAh battery, 5 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-kp235.jpg",
+      "specs": ""
+    },
+    {
+      "name": "KP220",
+      "title": "LG KP220 phone. Announced May 2008. Features 1.7″  display, 1.3 MP primary camera, 750 mAh battery, 60 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-kp220.jpg",
+      "specs": ""
+    },
+    {
+      "name": "KP215",
+      "title": "LG KP215 phone. Announced Apr 2008. Features 1.77″  display, 900 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-kp215.jpg",
+      "specs": ""
+    },
+    {
+      "name": "KP210",
+      "title": "LG KP210 phone. Announced Feb 2008. Features 1.0″  display.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-kp210.jpg",
+      "specs": ""
+    },
+    {
+      "name": "KP130",
+      "title": "LG KP130 phone. Announced Feb 2008. Features 1.5″  display, 900 mAh battery, 1 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-kp130.jpg",
+      "specs": ""
+    },
+    {
+      "name": "KP110",
+      "title": "LG KP110 phone. Announced Apr 2008. Features 1.5″  display, 900 mAh battery, 1 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-kp110.jpg",
+      "specs": ""
+    },
+    {
+      "name": "KP105",
+      "title": "LG KP105 phone. Announced Apr 2008. Features 1.5″  display, 900 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-kp105.jpg",
+      "specs": ""
+    },
+    {
+      "name": "KP100",
+      "title": "LG KP100 phone. Announced Apr 2008. Features 1.5″  display, 900 mAh battery, 1 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-kp100.jpg",
+      "specs": ""
+    },
+    {
+      "name": "KU385",
+      "title": "LG KU385 phone. Announced Oct 2007. Features 1.9″  display, 1.3 MP primary camera, 900 mAh battery, 60 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-ku385.jpg",
+      "specs": ""
+    },
+    {
+      "name": "KU380",
+      "title": "LG KU380 phone. Announced Nov 2007. Features 1.76″  display, 1.3 MP primary camera, 900 mAh battery, 60 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-ku380.jpg",
+      "specs": ""
+    },
+    {
+      "name": "U960",
+      "title": "LG U960 phone. Announced Q3 2007. Features 2.2″  display, 2 MP primary camera, 1000 mAh battery, 45 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-u960.gif",
+      "specs": ""
+    },
+    {
+      "name": "KG290",
+      "title": "LG KG290 phone. Announced Sep 2007. Features 1.77″  display, 1.3 MP primary camera, 820 mAh battery, 5 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-kg290.gif",
+      "specs": ""
+    },
+    {
+      "name": "KG288",
+      "title": "LG KG288 phone. Announced  2007. Features 1.7″  display, 830 mAh battery, 1 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-kg288.jpg",
+      "specs": ""
+    },
+    {
+      "name": "KS20",
+      "title": "LG KS20 Windows Mobile smartphone. Announced Sep 2007. Features 2.8″  display, MSM72000 chipset, 2 MP primary camera, 1050 mAh battery, 128 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-ks20.gif",
+      "specs": ""
+    },
+    {
+      "name": "KU990 Viewty",
+      "title": "LG KU990 Viewty phone. Announced Aug 2007. Features 3.0″  display, 5 MP primary camera, 1000 mAh battery, 100 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-ku990.gif",
+      "specs": ""
+    },
+    {
+      "name": "KE990 Viewty",
+      "title": "LG KE990 Viewty phone. Announced Mar 2008. Features 3.0″  display, 5 MP primary camera, 1000 mAh battery, 100 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-ke990.jpg",
+      "specs": ""
+    },
+    {
+      "name": "KE590",
+      "title": "LG KE590 phone. Announced Oct 2007. Features 2.0″  display, 2 MP primary camera, 800 mAh battery, 56 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-ke590.jpg",
+      "specs": ""
+    },
+    {
+      "name": "KE500",
+      "title": "LG KE500 phone. Announced Jul 2007. Features 2.0″  display, 2 MP primary camera, 800 mAh battery, 60 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-ke500.gif",
+      "specs": ""
+    },
+    {
+      "name": "KG280",
+      "title": "LG KG280 phone. Announced Jun 2007. Features 1.86″  display, 800 mAh battery, 8 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-kg280.gif",
+      "specs": ""
+    },
+    {
+      "name": "KG275",
+      "title": "LG KG275 phone. Announced Jun 2007. Features 1.5″  display, 750 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-kg275.gif",
+      "specs": ""
+    },
+    {
+      "name": "MG160",
+      "title": "LG MG160 phone. Announced Sep 2007. Features 1.5″  display, 1300 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-mg160.jpg",
+      "specs": ""
+    },
+    {
+      "name": "KU580",
+      "title": "LG KU580 phone. Announced Apr 2007. Features 2.0″  display, 2 MP primary camera, 860 mAh battery, 45 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-ku580.gif",
+      "specs": ""
+    },
+    {
+      "name": "KE850 Prada",
+      "title": "LG KE850 Prada phone. Announced Jan 2007. Features 3.0″  display, 2 MP primary camera, 800 mAh battery, 8 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-ke850_prada.gif",
+      "specs": ""
+    },
+    {
+      "name": "KE970 Shine",
+      "title": "LG KE970 Shine phone. Announced Jan 2007. Features 2.2″  display, 2 MP primary camera, 750 mAh battery, 50 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-shine.gif",
+      "specs": ""
+    },
+    {
+      "name": "KU970 Shine",
+      "title": "LG KU970 Shine phone. Announced Feb 2007. Features 2.2″  display, 2 MP primary camera, 800 mAh battery, 512 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-ku970.gif",
+      "specs": ""
+    },
+    {
+      "name": "KE770 Shine",
+      "title": "LG KE770 Shine phone. Announced Feb 2007. Features 1.77″  display, 2 MP primary camera, 800 mAh battery, 70 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-ke770.gif",
+      "specs": ""
+    },
+    {
+      "name": "CU720 Shine",
+      "title": "LG CU720 Shine phone. Announced Oct 2007. Features 2.2″  display, 2 MP primary camera, 900 mAh battery, 50 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-cu720.jpg",
+      "specs": ""
+    },
+    {
+      "name": "KU950",
+      "title": "LG KU950 phone. Announced Feb 2007. Features 2.4″  display, 1.3 MP primary camera, 950 mAh battery, 50 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-ku950.gif",
+      "specs": ""
+    },
+    {
+      "name": "KS10",
+      "title": "LG KS10 Symbian smartphone. Announced Feb 2007. Features 2.4″  display, 2 MP primary camera, 950 mAh battery, 70 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-ks10.gif",
+      "specs": ""
+    },
+    {
+      "name": "KU311",
+      "title": "LG KU311 phone. Announced Feb 2007. Features TFT, 256K colors display, 1.3 MP primary camera, 800 mAh battery, 10 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-ku311.gif",
+      "specs": ""
+    },
+    {
+      "name": "Trax CU575",
+      "title": "LG Trax CU575 phone. Announced Aug 2007. Features 2.0″  display, 1.3 MP primary camera, 980 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-trax.jpg",
+      "specs": ""
+    },
+    {
+      "name": "CU500V",
+      "title": "LG CU500V phone. Announced Jan 2007. Features TFT, 65K colors display, 1.3 MP primary camera, 1110 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-ku500v.jpg",
+      "specs": ""
+    },
+    {
+      "name": "CU515",
+      "title": "LG CU515 phone. Announced Oct 2007. Features 2.0″  display, 1.3 MP primary camera, 1000 mAh battery, 55 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-cu515.jpg",
+      "specs": ""
+    },
+    {
+      "name": "CE110",
+      "title": "LG CE110 phone. Announced Sep 2007. Features 1.56″  display, 900 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-ce110.jpg",
+      "specs": ""
+    },
+    {
+      "name": "KU250",
+      "title": "LG KU250 phone. Announced Feb 2007. Features 1.7″  display, 1.3 MP primary camera, 950 mAh battery, 10 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-ku250.gif",
+      "specs": ""
+    },
+    {
+      "name": "KE260",
+      "title": "LG KE260 phone. Announced Nov 2006. Features 1.8″  display, 1.3 MP primary camera, 1530 mAh battery, 14 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-ke260.gif",
+      "specs": ""
+    },
+    {
+      "name": "KE800",
+      "title": "LG KE800 phone. Announced Oct 2006. Features 2.0″  display, 2 MP primary camera, 800 mAh battery, 60 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-ke800.gif",
+      "specs": ""
+    },
+    {
+      "name": "KE820",
+      "title": "LG KE820 phone. Announced Oct 2006. Features 2.0″  display, 2 MP primary camera, 750 mAh battery, 16 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-ke820.gif",
+      "specs": ""
+    },
+    {
+      "name": "KU800",
+      "title": "LG KU800 phone. Announced Sep 2006. Features 1.5″  display, 2 MP primary camera, 1050 mAh battery, 64 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-ku800.gif",
+      "specs": ""
+    },
+    {
+      "name": "L343i",
+      "title": "LG L343i phone. Announced Aug 2006. Features TFT, 256K colors display, 680 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-l343i.gif",
+      "specs": ""
+    },
+    {
+      "name": "U830",
+      "title": "LG U830 phone. Announced Oct 2006. Features 2.2″  display, 2 MP primary camera, 970 mAh battery, 180 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-u830.gif",
+      "specs": ""
+    },
+    {
+      "name": "KP200",
+      "title": "LG KP200 phone. Announced Jun 2007. Features TFT, 65K colors display, 830 mAh battery, 8 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-kp200.gif",
+      "specs": ""
+    },
+    {
+      "name": "L600v",
+      "title": "LG L600v phone. Announced Oct 2006. Features 2.0″  display, 1.3 MP primary camera, 800 mAh battery, 12 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-l600.gif",
+      "specs": ""
+    },
+    {
+      "name": "KP202",
+      "title": "LG KP202 phone. Announced May 2007. Features 1.8″  display, 830 mAh battery, 4 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-kp202.gif",
+      "specs": ""
+    },
+    {
+      "name": "CU500",
+      "title": "LG CU500 phone. Announced Jul 2006. Features TFT, 65K colors display, 1.3 MP primary camera, 1100 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-cu500.gif",
+      "specs": ""
+    },
+    {
+      "name": "U400",
+      "title": "LG U400 phone. Announced Jul 2006. Features 2.0″  display, 2 MP primary camera, 1530 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-u400.gif",
+      "specs": ""
+    },
+    {
+      "name": "U310",
+      "title": "LG U310 phone. Announced Oct 2006. Features 2.0″  display, 1.3 MP primary camera, 850 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-u310.gif",
+      "specs": ""
+    },
+    {
+      "name": "U300",
+      "title": "LG U300 phone. Announced Jul 2006. Features 2.0″  display, 1.3 MP primary camera, 1530 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-u300.gif",
+      "specs": ""
+    },
+    {
+      "name": "G Pro Lite Dual",
+      "title": "LG G Pro Lite Dual Android smartphone. Announced Oct 2013. Features 5.5″  display, MT6577 chipset, 8 MP primary camera, 1.3 MP front camera, 3140 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/LG-G-Pro-Lite-Dual.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Optimus L2 II E435",
+      "title": "LG Optimus L2 II E435 Android smartphone. Announced Oct 2013. Features 3.2″  display, Snapdragon S1 chipset, 3.15 MP primary camera, 1540 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-optimus-l2ii-dual-sim-e435k.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Vu 3 F300L",
+      "title": "LG Vu 3 F300L Android smartphone. Announced Sep 2013. Features 5.2″  display, Snapdragon 800 chipset, 13 MP primary camera, 2.1 MP front camera, 2610 mAh battery, 16 GB storage, 2 GB RAM, Corning Gorilla Glass 2.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-vu3.jpg",
+      "specs": ""
+    },
+    {
+      "name": "G Pad 8.3",
+      "title": "LG G Pad 8.3 Android tablet. Announced Sep 2013. Features 8.3″  display, Snapdragon 600 chipset, 5 MP primary camera, 1.3 MP front camera, 4600 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-g-pad-83.jpg",
+      "specs": ""
+    },
+    {
+      "name": "G2",
+      "title": "LG G2 Android smartphone. Announced Aug 2013. Features 5.2″  display, Snapdragon 800 chipset, 13 MP primary camera, 2.1 MP front camera, 3000 mAh battery, 32 GB storage, 2 GB RAM, Corning Gorilla Glass 2.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-g2-ofic.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Optimus L9 II",
+      "title": "LG Optimus L9 II Android smartphone. Announced Aug 2013. Features 4.7″  display, Snapdragon 400 chipset, 8 MP primary camera, 1.3 MP front camera, 2150 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-optimus-l9-ii-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Enact VS890",
+      "title": "LG Enact VS890 Android smartphone. Announced Aug 2013. Features 4.0″  display, Snapdragon 400 chipset, 5 MP primary camera, 2460 mAh battery, 8 GB storage, 1000 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-enact-vs890.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Optimus GJ E975W",
+      "title": "LG Optimus GJ E975W Android smartphone. Announced May 2013. Features 4.7″  display, Snapdragon S4 Pro chipset, 13 MP primary camera, 1.3 MP front camera, 2280 mAh battery, 16 GB storage, 2 GB RAM, IPX7 certified.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-optimus-gj.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Optimus L4 II Dual E445",
+      "title": "LG Optimus L4 II Dual E445 Android smartphone. Announced Jun 2013. Features 3.8″  display, MT6575 chipset, 3.15 MP primary camera, 1700 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-optimus-l4-ii-dual-e445.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Optimus L4 II E440",
+      "title": "LG Optimus L4 II E440 Android smartphone. Announced Jun 2013. Features 3.8″  display, MT6575 chipset, 3.15 MP primary camera, 1700 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-optimus-l4-ii-e440.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Optimus Zone VS410",
+      "title": "LG Optimus Zone VS410 Android smartphone. Announced Jun 2013. Features 3.2″  display, 3.15 MP primary camera, 1540 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-optimus-zone-vs410pp.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Optimus F3",
+      "title": "LG Optimus F3 Android smartphone. Announced Jun 2013. Features 4.0″  display, Snapdragon 400 chipset, 5 MP primary camera, 2460 mAh battery, 4 GB storage, 1000 MB RAM, Corning Gorilla Glass 2.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-optimus-f3.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Lucid2 VS870",
+      "title": "LG Lucid2 VS870 Android smartphone. Announced Apr 2013. Features 4.3″  display, Snapdragon S4 Plus chipset, 5 MP primary camera, 1.3 MP front camera, 2150 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-lucid2-vs870.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Optimus F7",
+      "title": "LG Optimus F7 Android smartphone. Announced Feb 2013. Features 4.7″  display, 8 MP primary camera, 1.3 MP front camera, 2540 mAh battery, 8 GB storage, 1000 MB RAM, Corning Gorilla Glass 2.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-f7.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Optimus F6",
+      "title": "LG Optimus F6 Android smartphone. Announced Aug 2013. Features 4.5″  display, Snapdragon 400 chipset, 5 MP primary camera, 1.3 MP front camera, 2460 mAh battery, 8 GB storage, 1000 MB RAM, Corning Gorilla Glass 2.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-optimus-f6-indigo-black.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Optimus F5",
+      "title": "LG Optimus F5 Android smartphone. Announced Feb 2013. Features 4.3″  display, Snapdragon S4 Plus chipset, 5 MP primary camera, 1.3 MP front camera, 2150 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-f5.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Optimus G Pro E985",
+      "title": "LG Optimus G Pro E985 Android smartphone. Announced Feb 2013. Features 5.5″  display, Snapdragon S4 Pro chipset, 13 MP primary camera, 2.1 MP front camera, 3140 mAh battery, 32 GB storage, 2 GB RAM, Corning Gorilla Glass 2.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-optimus-g-pro.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Optimus L7 II Dual P715",
+      "title": "LG Optimus L7 II Dual P715 Android smartphone. Announced Feb 2013. Features 4.3″  display, Snapdragon S4 Play chipset, 8 MP primary camera, 2460 mAh battery, 4 GB storage, 768 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-optimus-l7-ii-dual-p715.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Optimus L7 II P710",
+      "title": "LG Optimus L7 II P710 Android smartphone. Announced Feb 2013. Features 4.3″  display, Snapdragon S4 Play chipset, 8 MP primary camera, 2460 mAh battery, 4 GB storage, 768 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-optimus-l7-ii.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Optimus L5 II Dual E455",
+      "title": "LG Optimus L5 II Dual E455 Android smartphone. Announced Feb 2013. Features 4.0″  display, MT6575 chipset, 5 MP primary camera, 1700 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-optimus-l5-ii-dual2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Optimus L5 II E460",
+      "title": "LG Optimus L5 II E460 Android smartphone. Announced Feb 2013. Features 4.0″  display, MT6575 chipset, 5 MP primary camera, 1700 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-l5-ii-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Optimus L3 II Dual E435",
+      "title": "LG Optimus L3 II Dual E435 Android smartphone. Announced Feb 2013. Features 3.2″  display, Snapdragon S1 chipset, 3.15 MP primary camera, 1540 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-optimus-l3-ii-dual.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Optimus L3 II E430",
+      "title": "LG Optimus L3 II E430 Android smartphone. Announced Feb 2013. Features 3.2″  display, Snapdragon S1 chipset, 3.15 MP primary camera, 1540 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-l3-ii.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Optimus L1 II E410",
+      "title": "LG Optimus L1 II E410 Android smartphone. Announced Feb 2013. Features 3.0″  display, Snapdragon S1 chipset, 2 MP primary camera, 1540 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-optimus-l1-ii.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Nexus 4 E960",
+      "title": "LG Nexus 4 E960 Android smartphone. Announced Oct 2012. Features 4.7″  display, Snapdragon S4 Pro chipset, 8 MP primary camera, 1.3 MP front camera, 2100 mAh battery, 16 GB storage, 2 GB RAM, Corning Gorilla Glass 2.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-nexus-4-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A390",
+      "title": "LG A390 phone. Announced  2013. Features 2.2″  display, MT6255 chipset, 1.3 MP primary camera, 1700 mAh battery, 40 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-a390.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A395",
+      "title": "LG A395 phone. Announced  2013. Features 2.2″  display, MT6253 chipset, 1.3 MP primary camera, 1500 mAh battery, 128 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-a395.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C299",
+      "title": "LG C299 phone. Announced  2013. Features 2.2″  display, 950 mAh battery, 128 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-c299.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Tri Chip C333",
+      "title": "LG Tri Chip C333 phone. Announced Sep 2012. Features 2.3″  display, MT6236 chipset, 3.15 MP primary camera, 1110 mAh battery, 78 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-tri-chip-c333.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Spectrum II 4G VS930",
+      "title": "LG Spectrum II 4G VS930 Android smartphone. Announced Oct 2012. Features 4.7″  display, Snapdragon S4 Plus chipset, 8 MP primary camera, 1.3 MP front camera, 2150 mAh battery, 16 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-spectrum-ii-vs930.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Mach LS860",
+      "title": "LG Mach LS860 Android smartphone. Announced Oct 2012. Features 4.0″  display, Snapdragon S4 Plus chipset, 5 MP primary camera, 1700 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-mach-ls860-cayenne.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Optimus L9 P769",
+      "title": "LG Optimus L9 P769 Android smartphone. Announced Oct 2012. Features 4.5″  display, 5 MP primary camera, 2150 mAh battery, 4 GB storage, 1000 MB RAM, Corning Gorilla Glass 2.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-optimus-l9-p769-t-mobile.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Optimus Vu II",
+      "title": "LG Optimus Vu II Android smartphone. Announced Feb 2013. Features 5.0″  display, Snapdragon S4 Plus chipset, 8 MP primary camera, 1.3 MP front camera, 2150 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-vu-ii-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Optimus Vu II F200",
+      "title": "LG Optimus Vu II F200 Android smartphone. Announced Sep 2012. Features 5.0″  display, Snapdragon S4 Plus chipset, 8 MP primary camera, 1.3 MP front camera, 2150 mAh battery, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-optimus-vu-ii.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Optimus G E970",
+      "title": "LG Optimus G E970 Android smartphone. Announced Sep 2012. Features 4.7″  display, Snapdragon S4 Pro chipset, 8 MP primary camera, 1.3 MP front camera, 2100 mAh battery, 16 GB storage, 2 GB RAM, Corning Gorilla Glass 2.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-optimus-g-e970.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Optimus G LS970",
+      "title": "LG Optimus G LS970 Android smartphone. Announced Oct 2012. Features 4.7″  display, Snapdragon S4 chipset, 13 MP primary camera, 1.3 MP front camera, 2100 mAh battery, 32 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-optimus-g-ls970.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Optimus G E975",
+      "title": "LG Optimus G E975 Android smartphone. Announced Aug 2012. Features 4.7″  display, Snapdragon S4 Pro chipset, 13 MP/8 MP primary camera, 1.3 MP front camera, 2100 mAh battery, 32 GB storage, 2 GB RAM, Corning Gorilla Glass 2.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-optimus-g-e973-black.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Intuition VS950",
+      "title": "LG Intuition VS950 Android smartphone. Announced Sep 2012. Features 5.0″  display, 8 MP primary camera, 1.3 MP front camera, 2080 mAh battery, 32 GB storage, 1000 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-intuition-optimus-vu-verizon-vs950.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Splendor US730",
+      "title": "LG Splendor US730 Android smartphone. Announced Sep 2012. Features 4.3″  display, Snapdragon S2 chipset, 5 MP primary camera, 1700 mAh battery, 4 GB storage, 768 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-splendor-us730.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Escape P870",
+      "title": "LG Escape P870 Android smartphone. Announced Sep 2012. Features 4.3″  display, Snapdragon  S4 Plus chipset, 5 MP primary camera, 1.3 MP front camera, 2150 mAh battery, 4 GB storage, 1000 MB RAM, Scratch-resistant glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-escape-p870.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Optimus L5 Dual E615",
+      "title": "LG Optimus L5 Dual E615 Android smartphone. Announced Aug 2012. Features 4.0″  display, Snapdragon S1 chipset, 5 MP primary camera, 1540 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-optimus-l5-dual-e615.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Optimus L9 P760",
+      "title": "LG Optimus L9 P760 Android smartphone. Announced Aug 2012. Features 4.7″  display, TI OMAP 4430 chipset, 5 MP primary camera, 2150 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-optimus-l9.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Motion 4G MS770",
+      "title": "LG Motion 4G MS770 Android smartphone. Announced Aug 2012. Features 3.5″  display, Snapdragon S4 Plus chipset, 5 MP primary camera, 1700 mAh battery, 8 GB storage, 1000 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-motion-4g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Optimus Vu P895",
+      "title": "LG Optimus Vu P895 Android smartphone. Announced Aug 2012. Features 5.0″  display, Nvidia Tegra 3 chipset, 8 MP primary camera, 1.3 MP front camera, 2100 mAh battery, 32 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-optimus-vu-europe.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Optimus L3 E405",
+      "title": "LG Optimus L3 E405 Android smartphone. Announced Jan 2012. Features 3.2″  display, Snapdragon S1 chipset, 3.15 MP primary camera, 1540 mAh battery, 1000 MB storage, 384 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-optimus-l3-e405-l3-dual-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C199",
+      "title": "LG C199 phone. Announced  2012. Features 2.3″  display, MT6236 chipset, 2 MP primary camera, 1100 mAh battery, 78 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-c199.jpg",
+      "specs": ""
+    },
+    {
+      "name": "T385",
+      "title": "LG T385 phone. Announced Mar 2012. Features 3.2″  display, 2 MP primary camera, 950 mAh battery, 50 MB storage, 64 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-t385.jpg",
+      "specs": ""
+    },
+    {
+      "name": "T375 Cookie Smart",
+      "title": "LG T375 Cookie Smart phone. Announced May 2012. Features 3.2″  display, 2 MP primary camera, 950 mAh battery, 50 MB storage, 64 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-cookie-smart-t375.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Optimus Elite LS696",
+      "title": "LG Optimus Elite LS696 Android smartphone. Announced May 2012. Features 3.5″  display, Snapdragon S2 chipset, 5 MP primary camera, 1520 mAh battery, 1000 MB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-elite-ls696.jpg",
+      "specs": ""
+    },
+    {
+      "name": "T370 Cookie Smart",
+      "title": "LG T370 Cookie Smart phone. Announced May 2012. Features 3.2″  display, 2 MP primary camera, 950 mAh battery, 64 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-cookie-smart-t370.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Optimus M",
+      "title": "LG Optimus M Android smartphone. Announced Nov 2010. Features 3.2″  display, 3.15 MP primary camera, 1500 mAh battery, 150 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-optimus-m.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Octane",
+      "title": "LG Octane phone. Announced Oct 2010. Features 2.6″  display, 3.15 MP primary camera.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-octane.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Optimus S",
+      "title": "LG Optimus S Android smartphone. Announced Oct 2010. Features 3.2″  display, 3.15 MP primary camera, 1500 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-optimus-s.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Optimus T",
+      "title": "LG Optimus T Android smartphone. Announced Oct 2010. Features 3.2″  display, 3.15 MP primary camera, 1500 mAh battery, 170 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-optimus-t.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Optimus One P500",
+      "title": "LG Optimus One P500 Android smartphone. Announced Jul 2010. Features 3.2″  display, Snapdragon S1 chipset, 3.15 MP primary camera, 1500 mAh battery, 170 MB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-p500-optimus-one.jpg",
+      "specs": ""
+    },
+    {
+      "name": "GW910",
+      "title": "LG GW910 Windows Mobile smartphone. Announced Sep 2010. Features 3.5″  display, Snapdragon S1 chipset, 5 MP primary camera, 1500 mAh battery, 8 GB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-e900-optimus-7.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A130",
+      "title": "LG A130 phone. Announced Aug 2010. Features 2.0″  display, 900 mAh battery, 5 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-a130-ofic.jpg",
+      "specs": ""
+    },
+    {
+      "name": "GW370 Rumour Plus",
+      "title": "LG GW370 Rumour Plus phone. Announced Aug 2010. Features 2.4″  display, 2 MP primary camera, 950 mAh battery, 80 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-gw370-rumour-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "GD550 Pure",
+      "title": "LG GD550 Pure phone. Announced Aug 2010. Features 2.4″  display, 5 MP primary camera, 900 mAh battery, 60 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-gd550.jpg",
+      "specs": ""
+    },
+    {
+      "name": "KS365",
+      "title": "LG KS365 phone. Announced Aug 2010. Features 2.4″  display, 2 MP primary camera, 800 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-ks365.jpg",
+      "specs": ""
+    },
+    {
+      "name": "GM650s",
+      "title": "LG GM650s phone. Announced Aug 2010. Features 3.0″  display, 3.15 MP primary camera, 1250 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/LG-GM650s.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Scarlet II TV",
+      "title": "LG Scarlet II TV phone. Announced Apr 2010. Features 3.0″  display, 3.15 MP primary camera, 1100 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-GM600-TV.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Flick T320",
+      "title": "LG Flick T320 phone. Announced Dec 2010. Features 2.8″  display, 2 MP primary camera, 900 mAh battery, 30 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-t320-flick.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Cookie 3G T320",
+      "title": "LG Cookie 3G T320 phone. Announced Aug 2010. Features 2.8″  display, 2 MP primary camera, 900 mAh battery, 30 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-wink-3g-T320.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Wink 3G T320",
+      "title": "LG Wink 3G T320 phone. Announced Aug 2010. Features 2.8″  display, 2 MP primary camera, 900 mAh battery, 30 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-wink-3g-T320.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C710 Aloha",
+      "title": "LG C710 Aloha Android smartphone. Not officially announced yet. Features 3.2″  display, Snapdragon S1 chipset, 5 MP primary camera, 1500 mAh battery, 256 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-c710-rum.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Cookie Style T310",
+      "title": "LG Cookie Style T310 phone. Announced Aug 2010. Features 2.8″  display, 2 MP primary camera, 900 mAh battery, 20 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-wink-style-t310.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Wink Style T310",
+      "title": "LG Wink Style T310 phone. Announced Aug 2010. Features 2.8″  display, 2 MP primary camera, 900 mAh battery, 20 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-wink-style-t310.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Cookie Lite T300",
+      "title": "LG Cookie Lite T300 phone. Announced Aug 2010. Features 2.4″  display, 1.3 MP primary camera, 900 mAh battery, 20 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-wink-t300.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C105",
+      "title": "LG C105 phone. Announced Jul 2010. Features 2.2″  display, 1.3 MP primary camera, 950 mAh battery, 7 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-c105.jpg",
+      "specs": ""
+    },
+    {
+      "name": "GX300",
+      "title": "LG GX300 phone. Announced Jun 2010. Features 2.2″  display, 2 MP primary camera, 1500 mAh battery, 30 MB storage, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-gx300-ofic.jpg",
+      "specs": ""
+    },
+    {
+      "name": "GU292",
+      "title": "LG GU292 phone. Announced May 2010. Features 2.0″  display, 900 mAh battery, 100 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/LG_GU292.jpg",
+      "specs": ""
+    },
+    {
+      "name": "GM360 Viewty Snap",
+      "title": "LG GM360 Viewty Snap phone. Announced Jun 2010. Features 3.0″  display, 5 MP primary camera, 900 mAh battery, 60 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/LG-GM360-Viewty-Snap-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Fathom VS750",
+      "title": "LG Fathom VS750 Windows Mobile smartphone. Announced May 2010. Features 3.2″  display, Snapdragon S1 chipset, 3.15 MP primary camera, 256 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-fathom.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Vu Plus",
+      "title": "LG Vu Plus phone. Announced May 2010. Features 3.0″  display, 3.15 MP primary camera, 950 mAh battery, 50 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-vu-plus.jpg",
+      "specs": ""
+    },
+    {
+      "name": "GT400 Viewty Smile",
+      "title": "LG GT400 Viewty Smile phone. Announced Apr 2010. Features 3.0″  display, 5 MP primary camera, 1000 mAh battery, 160 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-gt400-ofic.jpg",
+      "specs": ""
+    },
+    {
+      "name": "SU420 Cafe",
+      "title": "LG SU420 Cafe phone. Announced Apr 2010. Features 3.0″  display, 3.2 MP primary camera, 1.3 MP front camera, 1250 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/LG-SU420-Cafe.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Optimus Z",
+      "title": "LG Optimus Z Android smartphone. Announced Apr 2010. Features 3.5″  display, Snapdragon S1 chipset, 5 MP primary camera, 1350 mAh battery, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-su950.jpg",
+      "specs": ""
+    },
+    {
+      "name": "SU920",
+      "title": "LG SU920 phone. Announced Apr 2010. Features 3.0″  display, 3.2 MP primary camera, 900 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-su920.jpg",
+      "specs": ""
+    },
+    {
+      "name": "KM570 Cookie Gig",
+      "title": "LG KM570 Cookie Gig phone. Announced Apr 2010. Features 3.0″  display, 5 MP primary camera, 900 mAh battery, 4 GB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-cookie-music-ofic.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Optimus Q LU2300",
+      "title": "LG Optimus Q LU2300 Android smartphone. Announced Apr 2010. Features 3.5″  display, Snapdragon S1 chipset, 5 MP primary camera, 1500 mAh battery, 3 GB storage, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-lu2300-ofic.jpg",
+      "specs": ""
+    },
+    {
+      "name": "GX500",
+      "title": "LG GX500 phone. Announced Apr 2010. Features 3.0″  display, 3.15 MP primary camera, 1500 mAh battery, 40 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-gx500-new1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "KH3900 Joypop",
+      "title": "LG KH3900 Joypop phone. Announced Apr 2010. Features 2.8″  display, 2 MP primary camera, 900 mAh battery, 190 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-joypop.jpg",
+      "specs": ""
+    },
+    {
+      "name": "GT950 Arena",
+      "title": "LG GT950 Arena phone. Announced Feb 2010. Features 3.0″  display, 5 MP primary camera, 1000 mAh battery, 150 MB storage, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-arena-gt950-opera-tv.jpg",
+      "specs": ""
+    },
+    {
+      "name": "GB280",
+      "title": "LG GB280 phone. Announced Apr 2010. Features 2.0″  display, 2 MP primary camera, 800 mAh battery, 6 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-gb280.jpg",
+      "specs": ""
+    },
+    {
+      "name": "GS155",
+      "title": "LG GS155 phone. Announced Mar 2010. Features 1.5″  display, 950 mAh battery, 32 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-gs155.jpg",
+      "specs": ""
+    },
+    {
+      "name": "GS107",
+      "title": "LG GS107 phone. Announced Mar 2010. Features 1.5″  display, 950 mAh battery, 1 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-gs107.jpg",
+      "specs": ""
+    },
+    {
+      "name": "GS106",
+      "title": "LG GS106 phone. Announced Mar 2010. Features 1.5″  display, 950 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-gs106.jpg",
+      "specs": ""
+    },
+    {
+      "name": "KP108",
+      "title": "LG KP108 phone. Announced Mar 2010. Features 1.52″  display, 900 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-kp108.jpg",
+      "specs": ""
+    },
+    {
+      "name": "GD350",
+      "title": "LG GD350 phone. Announced Mar 2010. Features 2.0″  display, 2 MP primary camera, 800 mAh battery, 512 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-gd350.jpg",
+      "specs": ""
+    },
+    {
+      "name": "KH5200 Andro-1",
+      "title": "LG KH5200 Andro-1 Android smartphone. Announced Mar 2010. Features 3.0″  display, 5 MP primary camera, 1500 mAh battery, 170 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/LG-KH5200-Andro-1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "GT540 Optimus",
+      "title": "LG GT540 Optimus Android smartphone. Announced Jan 2010. Features 3.0″  display, 3.15 MP primary camera, 1500 mAh battery, 139 MB storage, 156 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-gt540-optimus-ofic.jpg",
+      "specs": ""
+    },
+    {
+      "name": "GT405",
+      "title": "LG GT405 phone. Announced Apr 2010. Features 3.0″  display, 5 MP primary camera, 60 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/LG-GT405-ofic.jpg",
+      "specs": ""
+    },
+    {
+      "name": "GS290 Cookie Fresh",
+      "title": "LG GS290 Cookie Fresh phone. Announced Mar 2010. Features 3.0″  display, 2 MP primary camera, 900 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-gs290-cookie-fresh.jpg",
+      "specs": ""
+    },
+    {
+      "name": "GW990",
+      "title": "LG GW990 smartphone. Announced Jan 2010. Features 4.8″  display, 5 MP primary camera, 1850 mAh battery, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-gw990.jpg",
+      "specs": ""
+    },
+    {
+      "name": "GS500 Cookie Plus",
+      "title": "LG GS500 Cookie Plus phone. Announced Feb 2010. Features 3.0″  display, 3.15 MP primary camera, 900 mAh battery, 30 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-gs500.jpg",
+      "specs": ""
+    },
+    {
+      "name": "GX200",
+      "title": "LG GX200 phone. Announced Feb 2010. Features 2.0″  display, 1.3 MP primary camera, 1500 mAh battery, 80 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-gx200.jpg",
+      "specs": ""
+    },
+    {
+      "name": "KF305",
+      "title": "LG KF305 phone. Announced Feb 2010. Features 2.2″  display, 2 MP primary camera, 800 mAh battery, 40 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-kf305.jpg",
+      "specs": ""
+    },
+    {
+      "name": "GW880",
+      "title": "LG GW880 Android smartphone. Announced Nov 2009. Features 3.5″  display, 5 MP primary camera, 1500 mAh battery, 256 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-gw880.jpg",
+      "specs": ""
+    },
+    {
+      "name": "GD880 Mini",
+      "title": "LG GD880 Mini phone. Announced Feb 2010. Features 3.2″  display, 5 MP primary camera, 1000 mAh battery, 330 MB storage, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-gd880--.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Stylus 2 Plus",
+      "title": "LG Stylus 2 Plus Android smartphone. Announced May 2016. Features 5.7″  display, Snapdragon 430 chipset, 13 or 16 MP primary camera, 5 or 8 MP front camera, 3000 mAh battery, 32 GB storage, 3 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-stylus-2-plus-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Stylo 2",
+      "title": "LG Stylo 2 Android smartphone. Announced Apr 2016. Features 5.7″  display, Snapdragon 410 chipset, 13 MP primary camera, 5 MP front camera, 3000 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-stylo2-1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "K5",
+      "title": "LG K5 Android smartphone. Announced Mar 2016. Features 5.0″  display, MT6582 chipset, 5 MP primary camera, 2 MP front camera, 1900 mAh battery, 8 GB storage, 1000 MB RAM, Asahi Dragontrail Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-k5-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "K3",
+      "title": "LG K3 Android smartphone. Announced Aug 2016. Features 4.5″  display, MT6737M chipset, 5 MP - K100; 5 MP primary camera, 1940 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-k3.jpg",
+      "specs": ""
+    },
+    {
+      "name": "G5 SE",
+      "title": "LG G5 SE Android smartphone. Announced Apr 2016. Features 5.3″  display, Snapdragon 652 chipset, Dual: 16 MP (f/1.8, 29mm, 1/2.6″, laser AF, 3-axis OIS) + 8 MP primary camera, 8 MP front camera, 2800 mAh battery, 32 GB storage, 3 GB RAM, Corning Gorilla Glass 4.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-g5.jpg",
+      "specs": ""
+    },
+    {
+      "name": "G5",
+      "title": "LG G5 Android smartphone. Announced Feb 2016. Features 5.3″  display, Snapdragon 820 chipset, Dual: 16 MP (f/1.8, 26mm, 1/2.6″, laser AF, 3-axis OIS) + 8 MP primary camera, 8 MP front camera, 2800 mAh battery, 32 GB storage, 4 GB RAM, Corning Gorilla Glass 4.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-g5.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X cam",
+      "title": "LG X cam Android smartphone. Announced Feb 2016. Features 5.2″  display, MT6753 chipset, Dual: 13 MP (f/2.0, AF) + 5 MP primary camera, 8 MP front camera, 2520 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-x-cam-k580.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X screen",
+      "title": "LG X screen Android smartphone. Announced Feb 2016. Features 4.93″  display, Snapdragon 410 chipset, 13 MP primary camera, 8 MP front camera, 2300 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-x-screen-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "K8",
+      "title": "LG K8 Android smartphone. Announced Feb 2016. Features 5.0″  display, MT6735 chipset, 8 MP primary camera, 5 MP front camera, 2125 mAh battery, 16 GB storage, 1.5 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-k8-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Stylus 2",
+      "title": "LG Stylus 2 Android smartphone. Announced Feb 2016. Features 5.7″  display, Snapdragon 410 chipset, 13 MP primary camera, 8 MP front camera, 3000 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-stylus-2-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "K10",
+      "title": "LG K10 Android smartphone. Announced Jan 2016. Features 5.3″  display, Snapdragon 410 chipset, 13 MP primary camera, 5 MP (f/2.4) or 8 MP front camera, 2300 mAh battery, 16 GB storage, 1.5 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-k10.jpg",
+      "specs": ""
+    },
+    {
+      "name": "K7",
+      "title": "LG K7 Android smartphone. Announced Jan 2016. Features 5.0″  display, MT6580M chipset, 5 MP (f/2.6) or 8 MP primary camera, 5 MP front camera, 2125 mAh battery, 16 GB storage, 1.5 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-k7.jpg",
+      "specs": ""
+    },
+    {
+      "name": "K4",
+      "title": "LG K4 Android smartphone. Announced Jan 2016. Features 4.5″  display, MT6735M chipset, 5 MP primary camera, 2 MP front camera, 1940 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-g4.jpg",
+      "specs": ""
+    },
+    {
+      "name": "G Pad II 8.3 LTE",
+      "title": "LG G Pad II 8.3 LTE Android tablet. Announced Dec 2015. Features 8.3″  display, Snapdragon 615 chipset, 8 MP primary camera, 2 MP front camera, 4800 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-g-pad-ii-8.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Ray",
+      "title": "LG Ray Android smartphone. Announced Nov 2015. Features 5.5″  display, MT6592M chipset, 13 MP primary camera, 8 MP front camera, 3000 mAh battery, 16 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-ray-1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "G Vista 2",
+      "title": "LG G Vista 2 Android smartphone. Announced Oct 2015. Features 5.7″  display, Snapdragon 617 chipset, 13 MP primary camera, 5 MP front camera, 3000 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-g-vista-2-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "G Watch R W110",
+      "title": "LG G Watch R W110 Android watch. Announced Oct 2015. Features 1.3″  display, Snapdragon 400 chipset, 410 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-g-watch-r-w110.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Watch Urbane W150",
+      "title": "LG Watch Urbane W150 Android watch. Announced Oct 2015. Features 1.3″  display, Snapdragon 400 chipset, 410 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-watch-urbane-w150.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Watch Urbane 2nd Edition LTE",
+      "title": "LG Watch Urbane 2nd Edition LTE Android watch. Announced Oct 2015. Features 1.38″  display, Snapdragon 400 chipset, 570 mAh battery, 4 GB storage, 768 MB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-watch-urbane-2nd-edition.jpg",
+      "specs": ""
+    },
+    {
+      "name": "V10",
+      "title": "LG V10 Android smartphone. Announced Oct 2015. Features 5.7″  display, Snapdragon 808 chipset, 16 MP primary camera, Dual: 5 MP front camera, 3000 mAh battery, 64 GB storage, 4 GB RAM, MIL-STD-810G compliant, Corning Gorilla Glass 4.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-v10-new1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Nexus 5X",
+      "title": "LG Nexus 5X Android smartphone. Announced Sep 2015. Features 5.2″  display, Snapdragon 808 chipset, 12.3 MP primary camera, 5 MP front camera, 2700 mAh battery, 32 GB storage, 2 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-nexus-5x-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Zero",
+      "title": "LG Zero Android smartphone. Announced Sep 2015. Features 5.0″  display, Snapdragon 410 chipset, 13 MP primary camera, 8 MP front camera, 2050 mAh battery, 16 GB storage, 2 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-class-f620.jpg",
+      "specs": ""
+    },
+    {
+      "name": "G Pad II 10.1",
+      "title": "LG G Pad II 10.1 Android tablet. Announced Aug 2015. Features 10.1″  display, Snapdragon 800 chipset, 5 MP primary camera, 2 MP front camera, 7400 mAh battery, 16 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-g-pad-ii-101-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "G Pad II 8.0 LTE",
+      "title": "LG G Pad II 8.0 LTE Android tablet. Announced Aug 2015. Features 8.0″  display, Snapdragon 400 chipset, 5 MP primary camera, 2 MP front camera, 4200 mAh battery, 32 GB storage, 1.5 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-g-pad-2-80.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Wine Smart",
+      "title": "LG Wine Smart Android smartphone. Announced Aug 2015. Features 3.2″  display, 3.15 MP primary camera, 1700 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-wine.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Tribute 2",
+      "title": "LG Tribute 2 Android smartphone. Announced Jul 2015. Features 4.5″  display, Snapdragon 410 chipset, 5 MP primary camera, 1900 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-tribute-2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Bello II",
+      "title": "LG Bello II Android smartphone. Announced Jul 2015. Features 5.0″  display, 8 MP primary camera, 5 MP front camera, 2540 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-bello-2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "G4 Beat",
+      "title": "LG G4 Beat Android smartphone. Announced Jul 2015. Features 5.2″  display, Snapdragon 615 chipset, 8 MP primary camera, 5 MP front camera, 2300 mAh battery, 8 GB storage, 1.5 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-g4s-beat.jpg",
+      "specs": ""
+    },
+    {
+      "name": "G360",
+      "title": "LG G360 phone. Announced Jun 2015. Features 3.0″  display, 1.3 MP primary camera, 950 mAh battery, 32 MB storage, 8 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-g360.jpg",
+      "specs": ""
+    },
+    {
+      "name": "G350",
+      "title": "LG G350 phone. Announced May 2015. Features 3.0″  display, 1.3 MP primary camera, 950 mAh battery, 32 MB storage, 8 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-g350.jpg",
+      "specs": ""
+    },
+    {
+      "name": "G4c",
+      "title": "LG G4c Android smartphone. Announced May 2015. Features 5.0″  display, Snapdragon 410 chipset, 8 MP primary camera, 5 MP front camera, 2540 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-g4c-1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "G4 Dual",
+      "title": "LG G4 Dual Android smartphone. Announced May 2015. Features 5.5″  display, Snapdragon 808 chipset, 16 MP primary camera, 8 MP front camera, 3000 mAh battery, 32 GB storage, 3 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-g4-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "G4",
+      "title": "LG G4 Android smartphone. Announced Apr 2015. Features 5.5″  display, Snapdragon 808 chipset, 16 MP primary camera, 8 MP front camera, 3000 mAh battery, 32 GB storage, 3 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-g4-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "G Stylo",
+      "title": "LG G Stylo Android smartphone. Announced May 2015. Features 5.7″  display, Snapdragon 410 chipset, 8 MP primary camera, 5 MP front camera, 3000 mAh battery, 16 GB storage, 2 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-g-stylo-cdma.jpg",
+      "specs": ""
+    },
+    {
+      "name": "G4 Stylus",
+      "title": "LG G4 Stylus Android smartphone. Announced Apr 2015. Features 5.7″  display, Snapdragon 410 chipset, 13 MP primary camera, 5 MP front camera, 3000 mAh battery, 16 GB storage, 2 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-g-stylo-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "AKA",
+      "title": "LG AKA Android smartphone. Announced Mar 2015. Features 5.0″  display, Snapdragon 400 chipset, 8 MP primary camera, 2.1 MP front camera, 2610 mAh battery, 16 GB storage, 1.5 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-aka.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Watch Urbane LTE",
+      "title": "LG Watch Urbane LTE watch. Announced Mar 2015. Features 1.3″  display, Snapdragon 400 chipset, 700 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-watch-urbane-lte.jpg",
+      "specs": ""
+    },
+    {
+      "name": "G Watch W100",
+      "title": "LG G Watch W100 Android watch. Announced Jun 2014. Features 1.65″  display, Snapdragon 400 chipset, 400 mAh battery, 4 GB storage, 512 MB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-g-watch.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Magna",
+      "title": "LG Magna Android smartphone. Announced Feb 2015. Features 5.0″  display, MT6582 chipset, 8 MP primary camera, 5 MP front camera, 2540 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-magna-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Spirit",
+      "title": "LG Spirit Android smartphone. Announced Feb 2015. Features 4.7″  display, Snapdragon 410 chipset, 8 MP primary camera, 1 MP front camera, 2100 mAh battery, 8 GB storage, 1000 MB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-spirit1.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Leon",
+      "title": "LG Leon Android smartphone. Announced Feb 2015. Features 4.5″  display, Snapdragon 410 chipset, 5 MP or 8 MP primary camera, 1900 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-leon.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Joy",
+      "title": "LG Joy Android smartphone. Announced Feb 2015. Features 4.0″  display, Snapdragon 200 chipset, 5 MP primary camera, 1900 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-joy-.jpg",
+      "specs": ""
+    },
+    {
+      "name": "G Flex2",
+      "title": "LG G Flex2 Android smartphone. Announced Jan 2015. Features 5.5″  display, Snapdragon 810 chipset, 13 MP primary camera, 2.1 MP front camera, 3000 mAh battery, 32 GB storage, 3 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-g-flex2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Tribute",
+      "title": "LG Tribute Android smartphone. Announced Sep 2014. Features 4.5″  display, Snapdragon 400 chipset, 5 MP primary camera, 2100 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-tribute-ls660.jpg",
+      "specs": ""
+    },
+    {
+      "name": "L Prime",
+      "title": "LG L Prime Android smartphone. Announced Nov 2014. Features 5.0″  display, 8 MP primary camera, 1.3 MP front camera, 2460 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-l-prime-d337.jpg",
+      "specs": ""
+    },
+    {
+      "name": "G2 Lite",
+      "title": "LG G2 Lite Android smartphone. Announced Nov 2014. Features 4.5″  display, 8 MP primary camera, 1820 mAh battery, 4 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-g2-lite-d295.jpg",
+      "specs": ""
+    },
+    {
+      "name": "G3 Dual-LTE",
+      "title": "LG G3 Dual-LTE Android smartphone. Announced Oct 2014. Features 5.5″  display, Snapdragon 801 chipset, 13 MP primary camera, 2.1 MP front camera, 3000 mAh battery, 32 GB storage, 3 GB RAM, Corning Gorilla Glass 3.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-g3-dual-sim.jpg",
+      "specs": ""
+    },
+    {
+      "name": "G3 Screen",
+      "title": "LG G3 Screen Android smartphone. Announced Oct 2014. Features 5.9″  display, LG Nuclun chipset, 13 MP primary camera, 2.1 MP front camera, 3000 mAh battery, 32 GB storage, 2 GB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-g3-screen.jpg",
+      "specs": ""
+    },
+    {
+      "name": "F60",
+      "title": "LG F60 Android smartphone. Announced Sep 2014. Features 4.5″  display, Snapdragon 410 chipset, 5 MP primary camera, 2100 mAh battery, 8 GB storage, 1000 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-l-fino.jpg",
+      "specs": ""
+    },
+    {
+      "name": "L60",
+      "title": "LG L60 Android smartphone. Announced Aug 2014. Features 4.3″  display, 5 MP primary camera, 1540 mAh battery, 4 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-l60.jpg",
+      "specs": ""
+    },
+    {
+      "name": "T515 Cookie Duo",
+      "title": "LG T515 Cookie Duo phone. Announced Aug 2011. Features 2.8″  display, 2 MP primary camera, 1100 mAh battery, 50 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-cookie-duo-t515.jpg",
+      "specs": ""
+    },
+    {
+      "name": "T510",
+      "title": "LG T510 phone. Announced Aug 2011. Features 2.8″  display, 2 MP primary camera, 1100 mAh battery, 50 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-t510-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "T505",
+      "title": "LG T505 phone. Announced  2011. Features 2.8″  display, 2 MP primary camera, 950 mAh battery, 60 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-t505.jpg",
+      "specs": ""
+    },
+    {
+      "name": "EGO T500",
+      "title": "LG EGO T500 phone. Announced Jun 2011. Features 2.8″  display, 2 MP primary camera, 1280 mAh battery, 50 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/LG-EGO-Wi-Fi.jpg",
+      "specs": ""
+    },
+    {
+      "name": "EGO Wi-Fi",
+      "title": "LG EGO Wi-Fi phone. Announced Jun 2011. Features 2.8″  display, 2 MP primary camera, 50 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/LG-EGO-Wi-Fi.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C375 Cookie Tweet",
+      "title": "LG C375 Cookie Tweet phone. Announced Q2 2011. Features 2.3″  display, 2 MP primary camera, 950 mAh battery, 50 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-c375-cookie-tweet.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C365",
+      "title": "LG C365 phone. Announced  2011. Features 2.3″  display, 2 MP primary camera, 950 mAh battery, 78 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-c365.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C360",
+      "title": "LG C360 phone. Announced  2011. Features 2.3″  display, 2 MP primary camera, 950 mAh battery, 50 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-c360.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A100",
+      "title": "LG A100 phone. Announced May 2011. Features 1.5″  display, 950 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-a100-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Optimus Big LU6800",
+      "title": "LG Optimus Big LU6800 Android smartphone. Announced Apr 2011. Features 4.3″  display, TI OMAP 3630 chipset, 5 MP primary camera, 1500 mAh battery, 16 GB storage, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-optimus-big-lu6800-white.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Cosmos 2",
+      "title": "LG Cosmos 2 phone. Announced Jul 2011. Features 2.0″  display, 1.3 MP primary camera, 900 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-cosmos-2.jpg",
+      "specs": ""
+    },
+    {
+      "name": "US760 Genesis",
+      "title": "LG US760 Genesis Android smartphone. Announced May 2011. Features 3.5″  display, Snapdragon S1 chipset, 5 MP primary camera, 1500 mAh battery, 430 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-us760-genesis.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Phoenix P505",
+      "title": "LG Phoenix P505 Android smartphone. Announced Apr 2011. Features 3.2″  display, Snapdragon S1 chipset, 3.15 MP primary camera, 1500 mAh battery, 160 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-phoenix.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Thrive P506",
+      "title": "LG Thrive P506 Android smartphone. Announced Apr 2011. Features 3.2″  display, Snapdragon S1 chipset, 3.15 MP primary camera, 1500 mAh battery, 160 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg_thrive.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Thrill 4G P925",
+      "title": "LG Thrill 4G P925 Android smartphone. Announced Mar 2011. Features 4.3″  display, TI OMAP 4430 chipset, Dual: 5 MP primary camera, 1500 mAh battery, 8 GB storage, 512 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-thrill-4g.jpg",
+      "specs": ""
+    },
+    {
+      "name": "T315",
+      "title": "LG T315 phone. Announced Mar 2011. Features 2.8″  display, 2 MP primary camera, 900 mAh battery, 20 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-t315.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Optimus 3D P920",
+      "title": "LG Optimus 3D P920 Android smartphone. Announced Jan 2011. Features 4.3″  display, TI OMAP 4430 chipset, Dual: 5 MP primary camera, 1500 mAh battery, 8 GB storage, 512 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-optimus-3d-p920.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Optimus Pad V900",
+      "title": "LG Optimus Pad V900 Android tablet. Announced Feb 2011. Features 8.9″  display, Nvidia Tegra 2 T20 chipset, Dual: 5 MP primary camera, 2 MP front camera, 6400 mAh battery, 32 GB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-optimus-pad.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A180",
+      "title": "LG A180 phone. Announced Feb 2011. Features 1.52″  display, 950 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-a180.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A165",
+      "title": "LG A165 phone. Announced  2011. Features 2.0″  display, 950 mAh battery, 4 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-a165.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A160",
+      "title": "LG A160 phone. Announced Jan 2011. Features 2.0″  display, 950 mAh battery, 1 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-a160.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Optimus Chat C550",
+      "title": "LG Optimus Chat C550 Android smartphone. Announced Feb 2011. Features 2.8″  display, 3.15 MP primary camera, 1500 mAh battery, 140 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/LG-Optimus-Chat-C550.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A140",
+      "title": "LG A140 phone. Announced  2011. Features 1.7″  display, 670 mAh battery, 10 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-a140.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Optimus Me P350",
+      "title": "LG Optimus Me P350 Android smartphone. Announced Jan 2011. Features 2.8″  display, Snapdragon S1 chipset, 3.15 MP primary camera, 1280 mAh battery, 140 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-optimus-me-p350.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Optimus Black P970",
+      "title": "LG Optimus Black P970 Android smartphone. Announced Jan 2011. Features 4.0″  display, TI OMAP 3630 chipset, 5 MP primary camera, 2 MP front camera, 1500 mAh battery, 2 GB storage, 512 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-optimus-black.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Optimus 2X SU660",
+      "title": "LG Optimus 2X SU660 Android smartphone. Announced Dec 2010. Features 4.0″  display, Nvidia Tegra 2 AP20H chipset, 8 MP primary camera, 1.3 MP front camera, 1500 mAh battery, 8 GB storage, 512 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-optimus-2x-su660.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Optimus 2X",
+      "title": "LG Optimus 2X Android smartphone. Announced Dec 2010. Features 4.0″  display, Nvidia Tegra 2 AP20H chipset, 8 MP primary camera, 1.3 MP front camera, 1500 mAh battery, 8 GB storage, 512 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/LG-Optimus-2X-new.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Optimus Mach LU3000",
+      "title": "LG Optimus Mach LU3000 Android smartphone. Announced Dec 2010. Features 3.8″  display, TI OMAP 3630 chipset, 5 MP primary camera, 1500 mAh battery, 8 GB storage, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-lu3000.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Revolution",
+      "title": "LG Revolution Android smartphone. Announced Jan 2011. Features 4.3″  display, Snapdragon S2 chipset, 5 MP primary camera, 1.3 MP front camera, 1500 mAh battery, 16 GB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-revolution.jpg",
+      "specs": ""
+    },
+    {
+      "name": "X335",
+      "title": "LG X335 phone. Announced  2011. Features 2.3″  display, 1.3 MP primary camera, 900 mAh battery, 80 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-neosmart-x335.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C310",
+      "title": "LG C310 phone. Announced Dec 2010. Features 2.4″  display, 2 MP primary camera, 1250 mAh battery, 15 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-c310.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Cookie WiFi T310i",
+      "title": "LG Cookie WiFi T310i phone. Announced Dec 2010. Features 2.8″  display, 2 MP primary camera, 900 mAh battery, 20 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-t310i-cookie-wifi.jpg",
+      "specs": ""
+    },
+    {
+      "name": "GU200",
+      "title": "LG GU200 phone. Announced  2010. Features 1.77″  display, 900 mAh battery, 1 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-gu200.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A120",
+      "title": "LG A120 phone. Announced Dec 2010. Features 1.77″  display, 950 mAh battery, 1 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-a120.jpg",
+      "specs": ""
+    },
+    {
+      "name": "A155",
+      "title": "LG A155 phone. Announced Dec 2010. Features 2.0″  display, 900 mAh battery, 1 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-a155.jpg",
+      "specs": ""
+    },
+    {
+      "name": "S310",
+      "title": "LG S310 phone. Announced Nov 2010. Features 2.2″  display, 3.15 MP primary camera, 900 mAh battery, 15 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-s310.jpg",
+      "specs": ""
+    },
+    {
+      "name": "P525",
+      "title": "LG P525 phone. Announced  2011. Features 2.8″  display, 2 MP primary camera, 1500 mAh battery, 15 MB storage, 32 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-p525.jpg",
+      "specs": ""
+    },
+    {
+      "name": "P520",
+      "title": "LG P520 phone. Announced Nov 2010. Features 2.8″  display, 2 MP primary camera, 1500 mAh battery, 15 MB storage, 32 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-p520.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Axis",
+      "title": "LG Axis Android smartphone. Announced Jan 2011. Features 3.2″  display, MSM7627 chipset, 3.15 MP primary camera, 1500 mAh battery, 100 MB storage, 256 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-axis.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Apex",
+      "title": "LG Apex Android smartphone. Announced Nov 2010. Features 3.2″  display, MSM7627 chipset, 3.15 MP primary camera, 1500 mAh battery, 100 MB storage, 256 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-apex.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Cosmos Touch VN270",
+      "title": "LG Cosmos Touch VN270 phone. Announced Nov 2010. Features 2.8″  display, 1.3 MP primary camera, 1000 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-cosmos-touch.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Vortex VS660",
+      "title": "LG Vortex VS660 Android smartphone. Announced Nov 2010. Features 3.2″  display, 3.15 MP primary camera, 1500 mAh battery, 170 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-vortex.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C320 InTouch Lady",
+      "title": "LG C320 InTouch Lady phone. Announced Nov 2010. Features 2.4″  display, 2 MP primary camera, 900 mAh battery, 60 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/LG-C320-InTouch-Lady.jpg",
+      "specs": ""
+    },
+    {
+      "name": "GT550 Encore",
+      "title": "LG GT550 Encore phone. Announced Oct 2010. Features 3.0″  display, 3.15 MP primary camera, 950 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-gt550-encore.jpg",
+      "specs": ""
+    },
+    {
+      "name": "GS390 Prime",
+      "title": "LG GS390 Prime phone. Announced Oct 2010. Features 3.0″  display, 2 MP primary camera, 900 mAh battery.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-gs390-prime.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Quantum",
+      "title": "LG Quantum Windows Mobile smartphone. Announced Oct 2010. Features 3.5″  display, Snapdragon S1 chipset, 5 MP primary camera, 1500 mAh battery, 16 GB storage, 512 MB RAM.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-quantum.jpg",
+      "specs": ""
+    },
+    {
+      "name": "C900 Optimus 7Q",
+      "title": "LG C900 Optimus 7Q  Windows Mobile smartphone. Announced Oct 2010. Features 3.5″  display, Snapdragon S1 chipset, 5 MP primary camera, 1500 mAh battery, 16 GB storage, 512 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-optimus-7q.jpg",
+      "specs": ""
+    },
+    {
+      "name": "E900 Optimus 7",
+      "title": "LG E900 Optimus 7 Windows Mobile smartphone. Announced Oct 2010. Features 3.8″  display, Snapdragon S1 chipset, 5 MP primary camera, 1500 mAh battery, 16 GB storage, 512 MB RAM, Corning Gorilla Glass.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-optimus-7.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Town C300",
+      "title": "LG Town C300 phone. Announced Sep 2010. Features 2.4″  display, 2 MP primary camera, 900 mAh battery, 158 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-town-c300-ofic.jpg",
+      "specs": ""
+    },
+    {
+      "name": "Optimus Chic E720",
+      "title": "LG Optimus Chic E720 Android smartphone. Announced Jul 2010. Features 3.2″  display, 5 MP primary camera, 1250 mAh battery, 150 MB storage.",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-e720-chic-ofic-ofic-new.jpg",
+      "specs": ""
+    }
+  ]
+}
