@@ -143,10 +143,12 @@
                   >
                     <div class="accordion-body p-3">
                       <div class="table-responsive" style="font-size: 0.875rem">
+                          
                         <table class="table table-sm table-bordered">
                           <thead>
                             <tr>
                               <th>Type</th>
+                              <th>Prix achat (€)</th>
                               <th>Prix initial (€)</th>
                               <th>Prix promo (€)</th> 
                             </tr>
@@ -164,6 +166,14 @@
                                 <div v-if="type.is_qualirepar" class="text-danger text-center mt-1" style="font-size:8px;">
                                   QualiRépar - {{ type.montant }} €
                                 </div>
+                              </td>
+                              <td>
+                                <input
+                                  type="number"
+                                  class="form-control form-control-sm"
+                                  v-model="type.prix_achat"
+                                  @input="$emit('update:pannes', [...pannes])"
+                                />
                               </td>
                               <td>
                                 <input

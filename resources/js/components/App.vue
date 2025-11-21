@@ -642,6 +642,7 @@ export default {
             nom: type.nom,
             montant: type.montant,
             is_qualirepar: type.is_qualirepar,
+            prix_achat: Number(type.prix_achat) || 0,
             prix_initial: Number(type.prix_initial) || 0,
             prix_promo: Number(type.prix_promo) || 0,
             //remise: Number(type.remise) || 0,

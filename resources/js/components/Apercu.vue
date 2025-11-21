@@ -1425,13 +1425,13 @@
                                     <label
                                         class="block text-sm sm:text-base font-medium text-gray-700 mb-2"
                                     >
-                                        Email
+                                        Email *
                                     </label>
                                     <input
                                         type="email"
                                         v-model="client.email"
                                         class="w-full border rounded-lg px-4 py-2 text-sm sm:text-base focus:outline-none focus:ring-2 focus:ring-[var(--primary)]"
-                                        placeholder="Votre email"
+                                        placeholder="Votre email" required
                                     />
                                 </div>
                             </div>
@@ -1439,13 +1439,13 @@
                                 <label
                                     class="block text-sm sm:text-base font-medium text-gray-700 mb-2"
                                 >
-                                    Adresse
+                                    Adresse *
                                 </label>
                                 <input
                                     type="text"
                                     v-model="client.adresse"
                                     class="w-full border rounded-lg px-4 py-2 text-sm sm:text-base focus:outline-none focus:ring-2 focus:ring-[var(--primary)]"
-                                    placeholder="Votre adresse"
+                                    placeholder="Votre adresse" required
                                 />
                             </div>
                             <div>
@@ -1978,6 +1978,8 @@ export default {
                     this.client.nom &&
                     this.client.prenom &&
                     this.client.tel &&
+                    this.client.email &&
+                    this.client.adresse &&
                     this.rdvDate &&
                     this.selectedSlot &&
                     this.selectedAddress &&
