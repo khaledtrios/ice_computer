@@ -4,7 +4,7 @@
         <div class="row">
             <div class="col-md-12 footer-copyright text-center">
                 <p class="mb-0">
-                    Copyright <span class="year-update"></span> Model-itech
+                    Copyright <span class="year-update"></span> Ice-Computer
                 </p>
             </div>
         </div>

@@ -553,7 +553,7 @@ class AjaxController extends Controller
                 'priorite' => $modele->priorite ?? 0,
                 'marque' => $modele->marque?->nom_marques ?? 'N/A',
                 'materiel' => $modele->marque?->materiel?->nom_materiel ?? 'N/A',
-                'boutique' => $modele->boutique?->nom_boutique ?? 'Créé par l\'équipe model-itech',
+                'boutique' => $modele->boutique?->nom_boutique ?? 'Créé par l\'équipe ice-computer',
                 'created_at' => $modele->created_at?->format('Y-m-d') ?? 'N/A',
             ])->toArray();
 

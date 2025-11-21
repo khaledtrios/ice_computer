@@ -1,6 +1,6 @@
 @extends('admin.layouts.app')
 
-@section('title', 'Gestion des Tickets | model-itech')
+@section('title', 'Gestion des Tickets | Ice-Computer')
 
 @section('css')
 <style>

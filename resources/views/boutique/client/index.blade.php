@@ -1,6 +1,6 @@
 @extends('boutique.layouts.app')
 
-@section('title', 'Liste des Clients | model-itech')
+@section('title', 'Liste des Clients | Ice-Computer')
 
 @section('css')
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/fontawesome.css') }}">

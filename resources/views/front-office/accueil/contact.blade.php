@@ -3,7 +3,7 @@
     <title>Model‑ITECH – Contact & support pour réparateurs mobiles</title>
     <meta name="description"
         content="Contactez MODEL‑ITECH pour toute question sur votre gestion de devis, rendez‑vous et clients. Téléphone, email ou formulaire : notre équipe est à votre service.">
-    <meta name="keywords" content="Plateforme MODEL-ITECH,devis,RDV,réparation mobiles & info">
+    <meta name="keywords" content="Plateforme Ice-Computer,devis,RDV,réparation mobiles & info">
     <link rel="canonical" href="{{ url()->current() }}">
 @endsection
 @section('main')

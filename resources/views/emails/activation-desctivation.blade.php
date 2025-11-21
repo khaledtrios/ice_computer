@@ -52,12 +52,12 @@
 
       <p style="margin-bottom: 15px;">
         Si vous avez des questions, contactez-nous à 
-        <a href="mailto:support@model-itech.com" style="color: #46D8D5; text-decoration: none;">support@model-itech.com</a>.
+        <a href="mailto:support@Ice-Computer.com" style="color: #46D8D5; text-decoration: none;">support@Ice-Computer.com</a>.
       </p>
     </div>
 
     <div class="email-footer" style="text-align: center; font-size: 0.9em; color: #666; margin-top: 30px; border-top: 1px solid #eee; padding-top: 20px;">
-      <p style="margin: 0 0 10px 0;">Cordialement,<br>L'équipe Model-ITech</p>
+      <p style="margin: 0 0 10px 0;">Cordialement,<br>L'équipe Ice-Computer</p>
       <p style="margin: 0; font-size: 0.8em;">
         <small>Ce message a été envoyé automatiquement. Ne répondez pas à cet email.</small>
       </p>

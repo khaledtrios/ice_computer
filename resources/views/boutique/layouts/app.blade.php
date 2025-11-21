@@ -11,7 +11,7 @@
     <link rel="stylesheet" type="text/css" href="{{asset('assets/css/responsive.css')}}" />
     <link rel="icon" href="{{asset('frontend/assets/media/logo.png')}}" type="image/x-icon" />
     <meta name="csrf-token" content="{{ csrf_token() }}">
-    <title>Model-Itech</title>
+    <title>Ice-Computer</title>
     <link
         href="https://fonts.googleapis.com/css?family=Rubik:400,500,700&family=Roboto:300,400,500,700,900&display=swap"
         rel="stylesheet" />

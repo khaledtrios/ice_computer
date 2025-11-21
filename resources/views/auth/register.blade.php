@@ -3,7 +3,7 @@
     <title>MODEL‑ITECH – Créer un compte réparateur</title>
     <meta name="description"
         content="Inscrivez‑vous gratuitement sur MODEL‑ITECH et accédez à tous les outils pour gérer vos devis, rendez‑vous, clients et planning de réparation mobile/informatique.">
-    <meta name="keywords" content="Plateforme MODEL-ITECH,devis,RDV,Inscrivez‑vous">
+    <meta name="keywords" content="Plateforme Ice-Computer,devis,RDV,Inscrivez‑vous">
     <link rel="canonical" href="{{ url()->current() }}">
 @endsection
 @section('content')
@@ -21,7 +21,7 @@
                         <!-- Logo -->
                         <div class="d-flex justify-content-center align-items-center mb-4">
                             <a href="{{ url('/') }}">
-                                <img src="{{ asset('assets/images/logo-dark.png') }}" alt="MODEL-ITECH" class="auth-logo">
+                                <img src="{{ asset('assets/images/logo-dark.png') }}" alt="Ice-Computer" class="auth-logo">
                             </a>
                         </div>
 

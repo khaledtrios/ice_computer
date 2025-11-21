@@ -21,7 +21,7 @@
                         <!-- Logo -->
                         <div class="d-flex justify-content-center align-items-center mb-4">
                             <a href="{{ url('/') }}">
-                                <img src="{{ asset('assets/images/logo-dark.png') }}" alt="MODEL-ITECH" class="auth-logo">
+                                <img src="{{ asset('assets/images/logo-dark.png') }}" alt="Ice-Computer" class="auth-logo">
                             </a>
                         </div>
 

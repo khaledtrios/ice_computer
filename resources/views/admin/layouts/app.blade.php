@@ -11,7 +11,7 @@
     <link rel="icon" type="image/png" sizes="32x32" href="{{ asset('frontend/assets/media/logo.png') }}">
     <!-- Crée une version 16x16 si besoin -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
-    <title>Model-Itech</title>
+    <title>Ice-Computer</title>
     <link
         href="https://fonts.googleapis.com/css?family=Rubik:400,500,700&family=Roboto:300,400,500,700,900&display=swap"
         rel="stylesheet" />

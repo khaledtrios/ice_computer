@@ -1,7 +1,7 @@
 <?php
 
 return [
-    'votre_forfait' => 'Choisissez votre solution MODEL-ITECH',
+    'votre_forfait' => 'Choisissez votre solution Ice-Computer',
     'votre_forfait_desc' => 'Vous avez le choix parmi c’est trois offre pour mieux vous accompagniez',
     'fonctionalites' => 'FONCTIONNALITÉS',
     'fonction_1' => 'Options de paiement',

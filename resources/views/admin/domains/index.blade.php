@@ -1,5 +1,5 @@
 @extends('admin.layouts.app')
-@section('title', 'Liste des Domaines | model-itech')
+@section('title', 'Liste des Domaines | Ice-Computer')
 @section('css')
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/fontawesome.css') }}">
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/vendors/feather-icon.css') }}">

@@ -18,8 +18,8 @@
     <div class="header-logo-wrapper col-auto p-0">
       <div class="logo-wrapper">
         <a href="index.html">
-          <img class="img-fluid for-light" src="{{asset('assets/images/logo/logo.png')}}" alt="Logo MODEL-ITECH" title="Logo de le platforme MODEL-ITECH" />
-          <img class="img-fluid for-dark" src="{{asset('assets/images/logo-dark.png')}}"  alt="Logo-dark MODEL-ITECH" title="Logo-dark de le platforme MODEL-ITECH" />
+          <img class="img-fluid for-light" src="{{asset('assets/images/logo/logo.png')}}" alt="Logo Ice-Computer" title="Logo de le platforme Ice-Computer" />
+          <img class="img-fluid for-dark" src="{{asset('assets/images/logo-dark.png')}}"  alt="Logo-dark Ice-Computer" title="Logo-dark de le platforme Ice-Computer" />
         </a>
       </div>
       <div class="toggle-sidebar">

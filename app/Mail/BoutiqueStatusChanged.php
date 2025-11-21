@@ -34,7 +34,7 @@ class BoutiqueStatusChanged extends Mailable
     public function envelope(): Envelope
     {
         return new Envelope(
-            subject: 'Changement de statut de votre boutique (Model-Itech)',
+            subject: 'Changement de statut de votre boutique (Ice-Computer)',
         );
     }
 

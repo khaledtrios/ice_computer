@@ -1,9 +1,9 @@
 @extends('layouts.app_front')
 @section('meta')
-    <title>MODEL-ITECH – Tarifs des solutions de gestion pour réparateurs</title>
+    <title>Ice-Computer – Tarifs des solutions de gestion pour réparateurs</title>
     <meta name="description"
-        content="Découvrez les tarifs MODEL-ITECH : Standard, Standard + page web et Marque Blanche. Devis automatisés, planning et clients centralisés pour votre boutique.">
-    <meta name="keywords" content="Plateforme MODEL-ITECH,devis,RDV,réparation mobiles & info">
+        content="Découvrez les tarifs Ice-Computer : Standard, Standard + page web et Marque Blanche. Devis automatisés, planning et clients centralisés pour votre boutique.">
+    <meta name="keywords" content="Plateforme Ice-Computer,devis,RDV,réparation mobiles & info">
     <link rel="canonical" href="{{ url()->current() }}">
 @endsection
 @section('main')

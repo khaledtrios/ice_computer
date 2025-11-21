@@ -1,6 +1,6 @@
 @extends('admin.layouts.app')
 
-@section('title', 'Liste des Modèles | model-itech')
+@section('title', 'Liste des Modèles | Ice-Computer')
 
 @section('css')
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/fontawesome.css') }}">

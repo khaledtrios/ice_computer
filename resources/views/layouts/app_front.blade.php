@@ -21,8 +21,8 @@
         <nav class="lato">
             <div class="logo">
                 <a href="/">
-                    <img src="{{asset('frontend/assets/media/logo.png')}}" alt="Logo MODEL-ITECH"
-                        title="Logo de le platforme MODEL-ITECH">
+                    <img src="{{asset('frontend/assets/media/logo.png')}}" alt="Logo Ice-Computer"
+                        title="Logo de le platforme Ice-Computer">
                 </a>
             </div>
             <div class="leftSide" id="menu">
@@ -83,8 +83,8 @@
                         <div class="footer-logo">
                             <a href="/">
                                 <img src="{{asset('frontend/assets/media/logo-blanc.png')}}"
-                                    alt="Logo MODEL-ITECH en version blanche"
-                                    title="Retour à l'accueil - Application MODEL-ITECH" loading="eager">
+                                    alt="Logo Ice-Computer en version blanche"
+                                    title="Retour à l'accueil - Application Ice-Computer" loading="eager">
                             </a>
                             <p></p>
                             {{-- <p>e Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en
@@ -110,22 +110,22 @@
                             <div class="socials">
                                 <a href="#" class="social">
                                     <img src="{{asset('frontend/assets/media/social/twitter.png')}}"
-                                        alt="Icône Twitter (X) pour suivre MODEL-ITECH" title="Suivez-nous sur Twitter"
+                                        alt="Icône Twitter (X) pour suivre Ice-Computer" title="Suivez-nous sur Twitter"
                                         loading="lazy">
                                 </a>
                                 <a href="#" class="social">
                                     <img src="{{asset('frontend/assets/media/social/Facebook.png')}}"
-                                        alt="Icône Facebook pour suivre MODEL-ITECH" title="Suivez-nous sur Facebook"
+                                        alt="Icône Facebook pour suivre Ice-Computer" title="Suivez-nous sur Facebook"
                                         loading="lazy">
                                 </a>
                                 <a href="#" class="social">
                                     <img src="{{asset('frontend/assets/media/social/Instagram.png')}}"
-                                        alt="Icône Instagram pour suivre MODEL-ITECH" title="Suivez-nous sur Instagram"
+                                        alt="Icône Instagram pour suivre Ice-Computer" title="Suivez-nous sur Instagram"
                                         loading="lazy">
                                 </a>
                                 <a href="#" class="social">
                                     <img src="{{asset('frontend/assets/media/social/Whatsapp.png')}}"
-                                        alt="Icône WhatsApp pour contacter MODEL-ITECH"
+                                        alt="Icône WhatsApp pour contacter Ice-Computer"
                                         title="Contactez-nous via WhatsApp" loading="lazy">
                                 </a>
                             </div>

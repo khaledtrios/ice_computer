@@ -1,17 +1,17 @@
 @extends('layouts.app_front')
 @section('meta')
-<title>Plateforme MODEL-ITECH : devis et RDV pour réparateurs mobiles</title>
+<title>Plateforme Ice-Computer : devis et RDV pour réparateurs mobiles</title>
     <meta name="description"
-        content="Gérez devis et rendez-vous facilement avec MODEL-ITECH. Centralisez clients, tarifs et planning pour votre boutique de réparation mobile et informatique.">
+        content="Gérez devis et rendez-vous facilement avec Ice-Computer. Centralisez clients, tarifs et planning pour votre boutique de réparation mobile et informatique.">
     <meta name="keywords"
-        content="Plateforme MODEL-ITECH,devis,RDV,réparation mobiles & info">
+        content="Plateforme Ice-Computer,devis,RDV,réparation mobiles & info">
     <link rel="canonical" href="{{ url()->current() }}">
 @endsection
 @section('main')
     <div class="container">
         <header>
             <div class="header-text">
-                <h1 style="font-size: 24px;    font-family: math;"><span>MODEL-ITECH</span>
+                <h1 style="font-size: 24px;    font-family: math;"><span>Ice-Computer</span>
                     <br>{{ __('messages.votre_solution') }}
                 </h1>
                 <p style="font-family: math;">{{ __('messages.decouvrir') }} </p>
@@ -24,7 +24,7 @@
                 </div>
 
                 <img src="{{asset('frontend/assets/media/vectors/model-ithec-tab-phone.png')}}"
-                    alt="Tablette affichant l'app MODEL-ITECH" title="Aperçu MODEL-ITECH pour l'interface sur tablette">
+                    alt="Tablette affichant l'app Ice-Computer" title="Aperçu Ice-Computer pour l'interface sur tablette">
             </div>
             <div class="vector" style="--color-bg:#71EDEBCD; --size:54px;--x:80%;--y:0%"></div>
             <div class="vector" style="--color-bg:#71EDEB29; --size:48px;--x:65%;--y:0%"></div>
@@ -53,7 +53,7 @@
             <div class="vector-image">
                 <div class="circle"></div>
                 <div class="image">
-                    <img src="{{asset('frontend/assets/media/content/people.png')}}" alt="Équipe MODEL-TECH Qui Somme Nous"
+                    <img src="{{asset('frontend/assets/media/content/people.png')}}" alt="Équipe ICE-COMPUTER Qui Somme Nous"
                         loading="lazy" title="Qui sommes-nous : Notre équipe dédiée">
                 </div>
             </div>
@@ -123,7 +123,7 @@
             <div class="whyUs-image">
                 <div class="circle"></div>
                 <img src="{{asset('frontend/assets/media/vectors/pourquoi-choisir-notre-application.png')}}"
-                    alt="Pourquoi choisir notre application : Main tenant un smartphone avec interface de recherche MODEL-ITECH"
+                    alt="Pourquoi choisir notre application : Main tenant un smartphone avec interface de recherche Ice-Computer"
                     title="Illustration des avantages : Sélection intuitive de modèles d'appareils" loading="lazy">
             </div>
             <div class="whyUs-content">
@@ -181,43 +181,43 @@
         <div class="brands-section">
             <div class="center-circle"></div>
             <span style="--bg: #ffffff;--x: 10%; --y: 20%; --i: 1;"><img
-                    src="{{asset('frontend/assets/media/brands/apple.png')}}" alt="Logo Apple (compatible avec MODEL-ITECH)"
+                    src="{{asset('frontend/assets/media/brands/apple.png')}}" alt="Logo Apple (compatible avec Ice-Computer)"
                     title="iPhone et iPad compatibles avec l'app" loading="lazy"></span>
             <span style="--bg: #ffffff;--x: 20%; --y: 40%; --i: 2;"><img
-                    src="{{asset('frontend/assets/media/brands/asus.png')}}" alt="Logo Asus (compatible avec MODEL-ITECH)"
+                    src="{{asset('frontend/assets/media/brands/asus.png')}}" alt="Logo Asus (compatible avec Ice-Computer)"
                     title="Smartphones Asus compatibles" loading="lazy"></span>
             <span style="--bg: #ffffff;--x: 40%; --y: 0%; --i: 3;"><img
                     src="{{asset('frontend/assets/media/brands/huawei.png')}}"
-                    alt="Logo Huawei (compatible avec MODEL-ITECH)" title="Appareils Huawei compatibles"
+                    alt="Logo Huawei (compatible avec Ice-Computer)" title="Appareils Huawei compatibles"
                     loading="lazy"></span>
             <span style="--bg: #ffffff;--x: 40%; --y: 80%; --i: 1;"><img
-                    src="{{asset('frontend/assets/media/brands/leEco.png')}}" alt="Logo LeEco (compatible avec MODEL-ITECH)"
+                    src="{{asset('frontend/assets/media/brands/leEco.png')}}" alt="Logo LeEco (compatible avec Ice-Computer)"
                     title="Téléphones LeEco compatibles" loading="lazy"></span>
             <span style="--bg: #ffffff;--x: 50%; --y: 30%; --i: 2;"><img
                     src="{{asset('frontend/assets/media/brands/motorola.png')}}"
-                    alt="Logo Motorola (compatible avec MODEL-ITECH)" title="Modèles Motorola compatibles"
+                    alt="Logo Motorola (compatible avec Ice-Computer)" title="Modèles Motorola compatibles"
                     loading="lazy"></span>
             <span style="--bg: #ffffff;--x: 60%; --y: 70%; --i: 3;"><img
                     src="{{asset('frontend/assets/media/brands/oneplus.png')}}"
-                    alt="Logo OnePlus (compatible avec MODEL-ITECH)" title="Smartphones OnePlus compatibles"
+                    alt="Logo OnePlus (compatible avec Ice-Computer)" title="Smartphones OnePlus compatibles"
                     loading="lazy"></span>
             <span style="--bg: #ffffff;--x: 70%; --y: 10%; --i: 1;"><img
-                    src="{{asset('frontend/assets/media/brands/oppo.png')}}" alt="Logo Oppo (compatible avec MODEL-ITECH)"
+                    src="{{asset('frontend/assets/media/brands/oppo.png')}}" alt="Logo Oppo (compatible avec Ice-Computer)"
                     title="Appareils Oppo compatibles" loading="lazy"></span>
             <span style="--bg: #ffffff;--x: 80%; --y: 50%; --i: 2;"><img
                     src="{{asset('frontend/assets/media/brands/Samsung.png')}}"
-                    alt="Logo Samsung (compatible avec MODEL-ITECH)" title="Galaxy et autres Samsung compatibles"
+                    alt="Logo Samsung (compatible avec Ice-Computer)" title="Galaxy et autres Samsung compatibles"
                     loading="lazy"></span>
             <span style="--bg: #000000;--x: 10%; --y: 70%; --i: 3;"><img
                     src="{{asset('frontend/assets/media/brands/umidigi.png')}}"
-                    alt="Logo Umidigi (compatible avec MODEL-ITECH)" title="Téléphones Umidigi compatibles"
+                    alt="Logo Umidigi (compatible avec Ice-Computer)" title="Téléphones Umidigi compatibles"
                     loading="lazy"></span>
             <span style="--bg: #00B2A9;--x: 40%; --y: 60%; --i: 1;"><img
-                    src="{{asset('frontend/assets/media/brands/wiki.png')}}" alt="Logo Wikio (compatible avec MODEL-ITECH)"
+                    src="{{asset('frontend/assets/media/brands/wiki.png')}}" alt="Logo Wikio (compatible avec Ice-Computer)"
                     title="Appareils Wikio compatibles" loading="lazy"></span>
             <span style="--bg: #FC650A;--x: 80%; --y: 20%; --i: 2;"><img
                     src="{{asset('frontend/assets/media/brands/xiaomi.png')}}"
-                    alt="Logo Xiaomi (compatible avec MODEL-ITECH)" title="Smartphones Xiaomi compatibles"
+                    alt="Logo Xiaomi (compatible avec Ice-Computer)" title="Smartphones Xiaomi compatibles"
                     loading="lazy"></span>
             <div class="vector" style="--color-bg:#71EDEBCD; --size:54px;--x:10%;--y:100%"></div>
             <div class="vector" style="--color-bg:#71edeb88; --size:48px;--x:40%;--y:96%"></div>
