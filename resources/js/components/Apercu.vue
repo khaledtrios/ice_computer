@@ -516,14 +516,7 @@
                                             <!-- Menu déroulant des types -->
                                         </div>
                                         <div class="text-right flex-shrink-0">
-                                            <p
-                                                class="text-[0.65rem] sm:text-xs text-gray-400"
-                                            >
-                                                {{
-                                                    repair.duration ||
-                                                    "Durée non spécifiée"
-                                                }}
-                                            </p>
+                                            
                                             <div
                                                 class="mt-1 px-1 sm:px-2 py-1 text-[0.65rem] sm:text-xs rounded bg-gray-100 border border-gray-300 inline-block"
                                             >
