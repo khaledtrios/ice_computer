@@ -8,6 +8,7 @@ class AccueilController extends Controller
 {
       public function index()
     {
+      return redirect('login');
        return view('front-office.accueil.index', ["index"=>true, "tarif"=>false, "contact"=>false]);
     }
     public function tarif()
