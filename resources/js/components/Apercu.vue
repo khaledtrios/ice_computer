@@ -1740,7 +1740,7 @@
             </div>
         </div>
     </div>
-    <footer v-if="step !== 4 && step !== 5">
+    <!-- <footer v-if="step !== 4 && step !== 5">
         <div class="footer-container">
             <a
                 href="https://ice-computer.modelitech.fr//"
@@ -1764,12 +1764,12 @@
                         <circle cx="11" cy="11" r="8"></circle>
                     </svg>
                 </div>
-                <!-- <span class="footer-text">
+                <span class="footer-text">
                     <span>Réalisé par</span> <strong>Ice-computer/</strong>
-                </span> -->
+                </span>
             </a>
         </div>
-    </footer>
+    </footer> -->
 
     <div>
         <div
