@@ -438,7 +438,7 @@
                             $produit = $panne['name'] ?? 'Produit non spécifié';
                             $quantite = floatval($panne['quantite'] ?? 1);
                             $tauxTVA = 0.2;
-                            if (@$panne['type']['is_qualirepar']) {
+                            if (@$panne['type']['is_qualirepar'] && $demande->is_qualirepar) {
                                 $totalQualirepar = floatVal(@$panne['type']['montant']);
                             }
                             if (floatVal(@$panne['remiseOnline']) > 0) {

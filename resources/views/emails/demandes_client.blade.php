@@ -122,7 +122,7 @@
                                                             rendez-vous en ligne**</span>
                                                     </p>
                                                 @endif
-                                                @if (@$panne['type']['is_qualirepar'])
+                                                @if (@$panne['type']['is_qualirepar'] && $demande->is_qualirepar)
                                                     <p style="margin:0;font-size:14px">
                                                         <span
                                                             style="background-color:#107fda;border-radius:8px;border:1px solid #107fda;display:inline-block">
@@ -148,7 +148,7 @@
                                                     $total -= $remise;
                                                     $totalRemise += $remise;
                                                 }
-                                                if (@$panne['type']['is_qualirepar']) {
+                                                if (@$panne['type']['is_qualirepar'] && $demande->is_qualirepar) {
                                                     $totalQualirepar = floatVal(@$panne['type']['montant']);
                                                 }
                                             @endphp

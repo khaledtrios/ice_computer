@@ -18,6 +18,7 @@ class Demande extends Model
         'is_deleted',
         'global_remise',
         'magazin',
+        'is_qualirepair',
         'repair_options',
         'produit_additionnel',
         'commentaire'

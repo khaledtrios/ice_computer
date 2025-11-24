@@ -419,6 +419,110 @@
                 </div>
             </div>
         </div>
+        <!-- Etape 4 bis selectionner l'adresse -->
+         <div v-if="step === 44">
+            <p
+                class="text-gray-700 text-sm sm:text-lg mb-2 sm:mb-4 font-medium text-center"
+            >
+                Sélectionnez la <strong>Boutique</strong>  
+            </p>
+            <!-- Barre de recherche -->
+            <div class="flex justify-center mb-3 sm:mb-6">
+                <div class="relative w-full max-w-md">
+                    <input
+                        type="text"
+                        v-model="searchQuery"
+                        @input="debouncedSearch"
+                        placeholder="Rechercher un modèle..."
+                        class="w-full pl-8 sm:pl-10 pr-3 sm:pr-4 py-1 sm:py-3 border border-gray-300 rounded-xl shadow-sm focus:outline-none focus:ring-2 focus:ring-[var(--primary)] focus:border-[var(--primary)] text-xs sm:text-base"
+                    />
+                    <svg
+                        v-if="!searchLoading"
+                        class="w-3 h-3 sm:w-5 sm:h-5 text-gray-400 absolute left-2 sm:left-3 top-2 sm:top-3"
+                        fill="none"
+                        stroke="currentColor"
+                        stroke-width="2"
+                        viewBox="0 0 24 24"
+                    >
+                        <path
+                            stroke-linecap="round"
+                            stroke-linejoin="round"
+                            d="M21 21l-4.35-4.35m0 0A7.5 7.5 0 103 10.5a7.5 7.5 0013.15 6.15z"
+                        />
+                    </svg>
+                    <svg
+                        v-if="searchLoading"
+                        class="animate-spin h-3 w-3 sm:h-5 sm:w-5 text-[var(--primary)] absolute left-2 sm:left-3 top-2 sm:top-3"
+                        xmlns="http://www.w3.org/2000/svg"
+                        fill="none"
+                        viewBox="0 0 24 24"
+                    >
+                        <circle
+                            class="opacity-25"
+                            cx="12"
+                            cy="12"
+                            r="10"
+                            stroke="currentColor"
+                            stroke-width="4"
+                        ></circle>
+                        <path
+                            class="opacity-75"
+                            fill="currentColor"
+                            d="M4 12a8 8 0 018-8v8z"
+                        ></path>
+                    </svg>
+                </div>
+            </div>
+             
+            <!-- Liste des adresse boutique avec scroll -->
+            <div
+                        class="bg-white border border-gray-200 rounded-xl p-6 shadow-sm"
+                    >
+                        <h3
+                            class="text-lg sm:text-xl font-semibold text-gray-900 mb-4"
+                        >
+                            Adresses disponibles
+                        </h3>
+                        <div
+                            v-if="shopAddresses.length > 0"
+                            class="space-y-3 adressssssssssssss"
+                        >
+                            <div
+                                v-for="(address, index) in shopAddresses"
+                                :key="index"
+                                class="flex items-start gap-3 p-3 rounded-lg transition-colors hover:bg-gray-50 border border-gray-100"
+                                role="radio"
+                                 
+                                tabindex="0"
+                                @click="selectAddress(address)"
+                                @keydown.enter="selectAddress(address.address)"
+                            >
+                                <input
+                                    type="radio"
+                                    :id="`address-${index}`"
+                                    :value="address.address"
+                                    v-model="selectedAddress"
+                                    class="h-5 w-5 text-[var(--primary)] focus:ring-[var(--primary)] mt-1"
+                                />
+                                <label
+                                    :for="`address-${index}`"
+                                    class="flex-1 cursor-pointer"
+                                >
+                                    <span
+                                        class="text-sm sm:text-base text-gray-700"
+                                        >{{ address.address }}</span
+                                    >
+                                </label>
+                            </div>
+                        </div>
+                        <p
+                            v-else
+                            class="text-sm sm:text-base text-gray-500 text-center py-4"
+                        >
+                            Aucune adresse disponible.
+                        </p>
+                    </div>
+        </div>
         <!-- Étape 4 : Réparations -->
         <div
             v-if="step === 4"
@@ -634,7 +738,7 @@
                                                         }}</span>
                                                         <span
                                                             v-if="
-                                                                type.is_qualirepar
+                                                                type.is_qualirepar && selectedAddress.is_qualirepar
                                                             "
                                                             class="grid text-center text-red-600 text-[9px]"
                                                             >Qualirepar -
@@ -1105,7 +1209,7 @@
                         <div
                             v-if="
                                 subTotal > 0 &&
-                                selectedAppointmentOption.price > 0
+                                selectedAppointmentOption?.price > 0
                             "
                             class="flex justify-between text-gray-600"
                         >
@@ -1169,7 +1273,7 @@
                     class="w-full lg:w-1/2 space-y-6"
                 >
                     <div
-                        class="bg-white border border-gray-200 rounded-xl p-6 shadow-sm"
+                        class="bg-white border border-gray-200 rounded-xl p-6 shadow-sm "
                     >
                         <h3
                             class="text-lg sm:text-xl font-semibold text-gray-900 mb-4"
@@ -1226,7 +1330,7 @@
                     </div>
                     <!-- Adresses disponibles -->
                     <div
-                        class="bg-white border border-gray-200 rounded-xl p-6 shadow-sm"
+                        class="bg-white border border-gray-200 rounded-xl p-6 shadow-sm hidden"
                     >
                         <h3
                             class="text-lg sm:text-xl font-semibold text-gray-900 mb-4"
@@ -1243,7 +1347,7 @@
                                 class="flex items-start gap-3 p-3 rounded-lg transition-colors hover:bg-gray-50 border border-gray-100"
                                 role="radio"
                                 :aria-checked="
-                                    selectedAddress === address.address
+                                    selectedAddress.address === address.address
                                 "
                                 tabindex="0"
                                 @click="selectAddress(address.address)"
@@ -1555,7 +1659,7 @@
                             <strong>Heure :</strong> {{ selectedSlot }}
                         </p>
                         <p v-if="selectedAddress && modeconfig !== 'Devis'">
-                            <strong>Adresse :</strong> {{ selectedAddress }}
+                            <strong>Adresse :</strong> {{ selectedAddress.address }}
                         </p>
                     </div>
                     <div
@@ -2115,7 +2219,7 @@ export default {
                     : [];
 
                 if (this.shopAddresses.length > 0 && !this.selectedAddress) {
-                    this.selectedAddress = this.shopAddresses[0].address;
+                    this.selectedAddress = this.shopAddresses[0];
                 }
                 this.appointmentOptions = [
                     {
@@ -2388,7 +2492,7 @@ export default {
             try {
                 await this.fetchPannes(this.boutiqueId, model.id);
                 this.selectedModel = model;
-                this.step = 4;
+                this.step = 44;
                 this.setStepTitle();
             } catch (error) {
                 console.error("Erreur lors de la sélection du modèle:", error);
@@ -2480,8 +2584,9 @@ export default {
         getImg(image) {
             return `/storage/${image}`;
         },
-        selectAddress(address) {
+        selectAddress(address) { 
             this.selectedAddress = address;
+            this.step = 4;
         },
         selectAppointmentOption(optionId) {
             console.log(optionId);
@@ -2636,8 +2741,7 @@ export default {
         },
         handlePreviousStep() {
             if (this.step > 1) {
-                this.step--;
-                this.setStepTitle();
+                console.log(this.step);
                 if (this.step === 3) {
                     this.searchQuery = "";
                     this.searchLoading = false;
@@ -2648,7 +2752,14 @@ export default {
                 }
                 if (this.step === 4) {
                     this.loadingRepairs = false;
+                    this.step = 44;
+                }else if(this.step === 44){
+                    this.step = 3
+                }else{
+                    this.step--;
                 }
+                
+                this.setStepTitle();
             }
         },
         setStepTitle() {

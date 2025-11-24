@@ -250,7 +250,8 @@ class ApercuController extends Controller
                 'notes' => @$request->client['notes'] ?? null,
                 'total_price' => $request->totalPrice,
                 'repair_options' => @$request->appointment['option'],
-                'magazin' => @$request->appointment['address'],
+                'magazin' => @$request->appointment['address']['address'],
+                'is_qualirepair' => (@$request->appointment['address']['is_qualirepar'])?1:0,
                 'produit_additionnel' => @$request->selectedProduct,
             ];
 
