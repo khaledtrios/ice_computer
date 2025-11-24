@@ -2481,7 +2481,7 @@ export default {
                 this.selectedModel && this.selectedModel.id === model.id;
             if (isSameModel) {
                 this.loadingRepairs = false;
-                this.step = 4;
+                this.step = 44;
                 this.setStepTitle();
                 return;
             }
@@ -2770,6 +2770,7 @@ export default {
                 4: "Sélectionnez les pannes à réparer.",
                 5: "Veuillez saisir vos coordonnées.",
                 6: "Confirmation de votre demande",
+                44: "Quel Boutique souhaitez-vous Choisir",
             };
             this.stepTitle = titles[this.step] || "Étape inconnue";
         },
