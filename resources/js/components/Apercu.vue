@@ -426,53 +426,7 @@
             >
                 Sélectionnez la <strong>Boutique</strong>  
             </p>
-            <!-- Barre de recherche -->
-            <div class="flex justify-center mb-3 sm:mb-6">
-                <div class="relative w-full max-w-md">
-                    <input
-                        type="text"
-                        v-model="searchQuery"
-                        @input="debouncedSearch"
-                        placeholder="Rechercher un modèle..."
-                        class="w-full pl-8 sm:pl-10 pr-3 sm:pr-4 py-1 sm:py-3 border border-gray-300 rounded-xl shadow-sm focus:outline-none focus:ring-2 focus:ring-[var(--primary)] focus:border-[var(--primary)] text-xs sm:text-base"
-                    />
-                    <svg
-                        v-if="!searchLoading"
-                        class="w-3 h-3 sm:w-5 sm:h-5 text-gray-400 absolute left-2 sm:left-3 top-2 sm:top-3"
-                        fill="none"
-                        stroke="currentColor"
-                        stroke-width="2"
-                        viewBox="0 0 24 24"
-                    >
-                        <path
-                            stroke-linecap="round"
-                            stroke-linejoin="round"
-                            d="M21 21l-4.35-4.35m0 0A7.5 7.5 0 103 10.5a7.5 7.5 0013.15 6.15z"
-                        />
-                    </svg>
-                    <svg
-                        v-if="searchLoading"
-                        class="animate-spin h-3 w-3 sm:h-5 sm:w-5 text-[var(--primary)] absolute left-2 sm:left-3 top-2 sm:top-3"
-                        xmlns="http://www.w3.org/2000/svg"
-                        fill="none"
-                        viewBox="0 0 24 24"
-                    >
-                        <circle
-                            class="opacity-25"
-                            cx="12"
-                            cy="12"
-                            r="10"
-                            stroke="currentColor"
-                            stroke-width="4"
-                        ></circle>
-                        <path
-                            class="opacity-75"
-                            fill="currentColor"
-                            d="M4 12a8 8 0 018-8v8z"
-                        ></path>
-                    </svg>
-                </div>
-            </div>
+            
              
             <!-- Liste des adresse boutique avec scroll -->
             <div
@@ -1789,7 +1743,7 @@
     <footer v-if="step !== 4 && step !== 5">
         <div class="footer-container">
             <a
-                href="https://modelitech.fr/"
+                href="https://ice-computer.modelitech.fr//"
                 target="_blank"
                 class="footer-link"
             >
@@ -1810,9 +1764,9 @@
                         <circle cx="11" cy="11" r="8"></circle>
                     </svg>
                 </div>
-                <span class="footer-text">
-                    <span>Réalisé par</span> <strong>Modelitech</strong>
-                </span>
+                <!-- <span class="footer-text">
+                    <span>Réalisé par</span> <strong>Ice-computer/</strong>
+                </span> -->
             </a>
         </div>
     </footer>
@@ -2770,7 +2724,7 @@ export default {
                 4: "Sélectionnez les pannes à réparer.",
                 5: "Veuillez saisir vos coordonnées.",
                 6: "Confirmation de votre demande",
-                44: "Quel Boutique souhaitez-vous Choisir",
+                44: "Quelle Boutique souhaitez-vous Choisir",
             };
             this.stepTitle = titles[this.step] || "Étape inconnue";
         },

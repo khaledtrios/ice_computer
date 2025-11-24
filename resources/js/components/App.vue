@@ -434,7 +434,7 @@ export default {
     confirmMode() {
       if (this.hasExistingConfiguration && this.selectedMode !== this.existingMode) {
         alert(
-          "Vous ne pouvez pas changer de mode, veuillez contacter le support de Modelitech."
+          "Vous ne pouvez pas changer de mode, veuillez contacter le support de Ice computer."
         );
         return;
       }
