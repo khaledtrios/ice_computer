@@ -1866,7 +1866,7 @@
                     <button
                         data-dialog-close="true"
                          @click="open = false; nextStep()"
-                        class="w-1/3 rounded-md   py-2 px-4 border border-transparent text-center text-sm text-white transition-all shadow-md hover:shadow-lg  hover:bg-green-700 active:shadow-none disabled:pointer-events-none disabled:opacity-50 disabled:shadow-none ml-2 btn-primary"
+                        class="w-1/3 rounded-md   py-2 px-4 border border-transparent text-center text-sm text-white transition-all shadow-md hover:shadow-lg   active:shadow-none disabled:pointer-events-none disabled:opacity-50 disabled:shadow-none ml-2 btn-primary"
                         type="button"
                     >
                         Ajouter
