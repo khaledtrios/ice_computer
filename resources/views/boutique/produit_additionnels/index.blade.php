@@ -373,72 +373,7 @@
                 }
             });
 
-            // Delete Ticket
-            $('body').on('click', '.delete-record', function() {
-                var row = $(this).closest('tr');
-                var id = $(this).data('id');
-                Swal.fire({
-                    title: 'Êtes-vous sûr(e) ?',
-                    text: "La suppression est irréversible.",
-                    icon: 'warning',
-                    showCancelButton: true,
-                    confirmButtonText: 'Oui, supprimez-le !',
-                    cancelButtonText: 'Non, annulez !',
-                    customClass: {
-                        confirmButton: 'btn btn-secondary text-white me-3',
-                        cancelButton: 'btn btn-label-secondary'
-                    },
-                    buttonsStyling: false
-                }).then((result) => {
-                    if (result.isConfirmed) {
-                        $.ajax({
-                            url: "{{ route('boutique.produit-additionnels.destroy', ':id') }}"
-                                .replace(':id', id),
-                            type: "DELETE",
-                            dataType: "json",
-                            data: {
-                                "_token": "{{ csrf_token() }}"
-                            },
-                            success: function(data) {
-                                dt_tickets.row(row).remove().draw();
-                                cleanModalBackdrop();
-                                Swal.fire({
-                                    icon: 'success',
-                                    title: 'Supprimé !',
-                                    text: data.message,
-                                    customClass: {
-                                        confirmButton: 'btn btn-success'
-                                    }
-                                });
-                            },
-                            error: function(xhr) {
-                                console.error(xhr.responseText);
-                                cleanModalBackdrop();
-                                Swal.fire({
-                                    icon: 'error',
-                                    title: 'Erreur',
-                                    text: xhr.responseJSON?.message ||
-                                        'Une erreur s\'est produite.',
-                                    customClass: {
-                                        confirmButton: 'btn btn-danger'
-                                    }
-                                });
-                            }
-                        });
-                    } else {
-                        cleanModalBackdrop();
-                        Swal.fire({
-                            icon: 'info',
-                            title: 'Annulé',
-                            text: 'Le produit n\'a pas été supprimé.',
-                            customClass: {
-                                confirmButton: 'btn btn-success'
-                            }
-                        });
-                    }
-                });
-            });
-
+             
             // edit Produit
             $('body').on('click', '.edit-product', function() {
                 var id = $(this).data('id');

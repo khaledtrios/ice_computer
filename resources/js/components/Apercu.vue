@@ -2336,7 +2336,10 @@ export default {
                 const groupedRepairs = {};
 
                 // === MISE À JOUR DES DONNÉES ===
-                this.repairs = pannesData;
+                this.repairs = pannesData.map((obj) => ({
+                    ...obj, // copies the existing properties
+                    types: obj.types.sort((a, b) => parseFloat(a.prix_initial) - parseFloat(b.prix_initial)),
+                }));
                 console.log(this.repairs);
                 // --- RACHAT ---
                 this.prixRachat = response.data.prixRachat || {
