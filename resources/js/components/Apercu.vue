@@ -1284,53 +1284,34 @@
                     </div>
                     <!-- Adresses disponibles -->
                     <div
-                        class="bg-white border border-gray-200 rounded-xl p-6 shadow-sm hidden"
+                        class="bg-white border border-gray-200 rounded-xl p-6 shadow-sm "
                     >
                         <h3
                             class="text-lg sm:text-xl font-semibold text-gray-900 mb-4"
                         >
-                            Adresses disponibles
+                            Boutique Adresse
                         </h3>
                         <div
-                            v-if="shopAddresses.length > 0"
+                            
                             class="space-y-3 adressssssssssssss"
                         >
                             <div
-                                v-for="(address, index) in shopAddresses"
-                                :key="index"
+                                
                                 class="flex items-start gap-3 p-3 rounded-lg transition-colors hover:bg-gray-50 border border-gray-100"
                                 role="radio"
-                                :aria-checked="
-                                    selectedAddress.address === address.address
-                                "
+                                 
                                 tabindex="0"
-                                @click="selectAddress(address.address)"
-                                @keydown.enter="selectAddress(address.address)"
-                            >
-                                <input
-                                    type="radio"
-                                    :id="`address-${index}`"
-                                    :value="address.address"
-                                    v-model="selectedAddress"
-                                    class="h-5 w-5 text-[var(--primary)] focus:ring-[var(--primary)] mt-1"
-                                />
-                                <label
-                                    :for="`address-${index}`"
-                                    class="flex-1 cursor-pointer"
-                                >
+                                
+                            > 
+                                <label  class="flex-1 cursor-pointer" >
                                     <span
                                         class="text-sm sm:text-base text-gray-700"
-                                        >{{ address.address }}</span
+                                        >{{ selectedAddress.address }}</span
                                     >
                                 </label>
                             </div>
                         </div>
-                        <p
-                            v-else
-                            class="text-sm sm:text-base text-gray-500 text-center py-4"
-                        >
-                            Aucune adresse disponible.
-                        </p>
+                        
                     </div>
                     <!-- Disponibilité -->
                     <div
