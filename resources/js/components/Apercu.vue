@@ -1289,7 +1289,7 @@
                         <h3
                             class="text-lg sm:text-xl font-semibold text-gray-900 mb-4"
                         >
-                            Boutique Adresse
+                            Adresse de la boutique choisie
                         </h3>
                         <div
                             
